@@ -60,10 +60,12 @@ def verbcaselookup(posstr):
 
 def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:ཏེ|སྟེ)་?//?)([^\s]+)', r'\1\2cv.sem', posstr)
+    posstr = re.sub(r'(^|\s)((?:ནས)་?//?)(n\.count)', r'\1\2case.ela', posstr)
     posstr = re.sub(r'(^|\s)((?:[0-9༠-༳]+)་?//?)([^\s]+)', r'\1\2numeral', posstr)
     posstr = re.sub(r'(^|\s)((?:ཏུ|དུ)་?//?)([^\s]+)', r'\1\2cv.term', posstr)
     posstr = re.sub(r'(^|\s)((?:ནོ|རོ|ཏོ|འོ|དོ)་?//?)([^\s]+)', r'\1\2cv.fin', posstr)
     posstr = re.sub(r'(^|\s)((?:ལོ|ངོ|གོ|སོ|མོ)་?//?)([^\s]+)\s།', r'\1\2cv.fin །', posstr)
+    posstr = re.sub(r'(^|\s)((?:ལོ|ངོ|གོ|སོ|མོ)་?//?)([^\s]+)\s༎', r'\1\2cv.fin ༎', posstr)
     posstr = re.sub(r'(^|\s)((?:《|》|༈|༼|༽|༏|༑|༐|༒)//?)([^\s]+)', r'\1\2punc', posstr)
     posstr = re.sub(r'(^|\s)((?:p[0-9]+)//?)([^\s]+)', r'\1\2page.num', posstr)
     return posstr
