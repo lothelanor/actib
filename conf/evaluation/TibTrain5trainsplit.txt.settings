@@ -1,0 +1,8 @@
+e <utt>
+l TibTrain5trainsplit.txt.lex.ambi.08
+k TibTrain5trainsplit.txt.known.dwdwfWaw
+u TibTrain5trainsplit.txt.unknown.psssdwdwdwFawaw
+p dwdwfWaw
+P psssdwdwdwFawaw
+O +vS -FColumns -G K: -a0 -k1 U: -a0 -mM -k17 -dIL
+L TibTrain5trainsplit.txt.top1100
