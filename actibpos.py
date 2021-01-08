@@ -25,7 +25,7 @@ def ensureverbs():
         line = source_file.readline()
     source_file.close()
 
-VERBPAT = re.compile("([^/ ]+)/+[^ v]*v\.[^ ]+ ")
+VERBPAT = re.compile("([^/ ]+)/+[^ cv]*v\.[^ ]+ ")
 VERBCASEPAT = re.compile(r"/(?P<firsttag>[^\s]+\.)(?P<second>[^ \.]+\s+[^/ ]+/+)(?P<caseorcv>case|cv)\.")
 
 def verbrepl(matchobj, verbs):
