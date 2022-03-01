@@ -8,3 +8,20 @@ Please cite the accompanying papers, which can be found here:
 Meelen & Roux 2020, 'Meta-dating the PArsed Corpus of Tibetan (PACTib)' *Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories*, pp. 31–42, DOI: https://www.aclweb.org/anthology/2020.tlt-1.3/
 
 Meelen, Roux & Hill 2021, 'Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods' *ACM Transactions on Asian and Low-Resource Language Information Processing* Volume 20:1, pp 1–11, DOI: https://dl.acm.org/doi/10.1145/3409488
+
+## Tools & Dependencies
+
+This repo currently presents tools to segment and POS tag Classical Tibetan specifically, focused on subsequent linguistic tasks (but useful for any downstream NLP tasks). It combines Esukhia's BOTOK tokeniser with a syllable-based classifier for optimal Classical Tibetan segmentation and uses the Memory-Based Tagger for POS tagging:
+
+- [Botok tokeniser](https://github.com/Esukhia/botok)
+- [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/)
+
+## Segmentation & POS tagging
+
+To segment and POS texts run:
+
+`python pos-directory.py <my folder>`
+
+## Available Corpora
+
+The current version of the Annotated Corpus of Classical Tibetan (ACTIB) can be found on [Zenodo](https://zenodo.org/record/3951503#.Yh5VWsanxqs).
