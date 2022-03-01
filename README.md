@@ -25,13 +25,13 @@ It also contains a preliminary sentence segmenter, which is currently only optim
 
 To segment words and POS tag texts run:
 
-`python pos-directory.py <my folder>`
+`python pos-directory.py <my_folder>`
 
 ## Sentence Segmentation
 
 To run the sentence segmentation script:
 
-`python SentSeg.py <my text>`
+`python SentSeg.py <my_text.txt>`
 
 ## Available Corpora
 
