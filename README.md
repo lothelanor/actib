@@ -1,4 +1,7 @@
 # The Annotated Corpora of Tibetan
+
+!!!DISCLAIMER: WORK IN PROGRESS!!!
+
 This repository will soon contain all scripts and links to the annotated corpora of Tibetan: ACTib and PACTib.
 
 The PArsed Corpus of Tibetan is new resource is uniquein bringing together a large number of Tibetan texts (>5000) from the 11th century until the present day. The texts in this diachronic corpus are provided with metadatacontaining information on dates and patron-/authorship and linguistic annotation in theform of tokenisation, sentence segmentation, part-of-speech tags and syntactic phrasestructure. With over 166 million tokens across 11 centuries and a variety of genres, PACTib will open up a wide range of research opportunities for historical and comparativelinguistics and scholars in Tibetan Studies, which we illustrate with two short case studies.
@@ -16,11 +19,19 @@ This repo currently presents tools to segment and POS tag Classical Tibetan spec
 - [Botok tokeniser](https://github.com/Esukhia/botok)
 - [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/)
 
-## Segmentation & POS tagging
+It also contains a preliminary sentence segmenter, which is currently only optimised for specific project purposes.
 
-To segment and POS texts run:
+## Word Segmentation & POS tagging
+
+To segment words and POS tag texts run:
 
 `python pos-directory.py <my folder>`
+
+## Sentence Segmentation
+
+To run the sentence segmentation script:
+
+`python SentSeg.py <my text> 
 
 ## Available Corpora
 
