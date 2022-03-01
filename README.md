@@ -31,7 +31,7 @@ To segment words and POS tag texts run:
 
 To run the sentence segmentation script:
 
-`python SentSeg.py <my text> 
+`python SentSeg.py <my text>`
 
 ## Available Corpora
 
