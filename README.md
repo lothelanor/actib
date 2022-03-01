@@ -21,6 +21,8 @@ This repo currently presents tools to segment and POS tag Classical Tibetan spec
 
 It also contains a preliminary sentence segmenter, which is currently only optimised for specific project purposes.
 
+NOTE that for POS tagging, we also tested neural-network based approaches, but results are still worse for Classical Tibetan, which is why we keep using the MBT for now. Preliminary tests with improved word embeddings indicate accuracies for BiLSTM-RNN taggers are likely to improve as soon as better embeddings are implemented (see Meelen, Roux & Hill 2021).
+
 ## Word Segmentation & POS tagging
 
 To segment words and POS tag texts run:
