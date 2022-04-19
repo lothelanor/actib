@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-import re
+# import re
+import regex as re
 import sys, argparse
 import codecs #tested for Python3 only so far
 import os
@@ -20,7 +21,7 @@ def main():
     out_dir_name = 'results_%s_%s' % (dir_name, timestamp)
     call(['mkdir', out_dir_name ])
     
-    print("Enter max 5 POS tags in the right sequence (most RegExes allowed). \n\S+ for any (unknown) tag. Hit Enter to skip tags at the end.")
+    print("Enter max 5 POS tags in the right sequence (wildcard * and most RegExes allowed). \nUse * for any (unknown) tag. Hit Enter to skip tags at the end.")
     POS1 = input("Enter POS1: ")
     POS2 = input("Enter POS2: ")
     POS3 = input("Enter POS3: ")
@@ -29,9 +30,20 @@ def main():
     POSsequence = POS1 + ' ' + POS2 + ' ' + POS3 + ' ' + POS4 + ' ' + POS5
     print('Searching for POS sequence: ' + POSsequence)
 
+    POS1 = re.sub(r'\*','\\S+',POS1)
+    POS2 = re.sub(r'\*','\\S+',POS2)
+    POS3 = re.sub(r'\*','\\S+',POS3)
+    POS4 = re.sub(r'\*','\\S+',POS4)
+    POS5 = re.sub(r'\*','\\S+',POS5)
+
     totalhits = 0
     for file in glob.glob("*.txt"):
         totalhits = totalhits + findPOSseq(file,out_dir_name,POS1,POS2,POS3,POS4,POS5)
+    POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
+    POS2 = re.sub(r'(?=(\S+))\\S\+','\1*',POS2)
+    POS3 = re.sub(r'(?=(\S+))\\S\+','\1*',POS3)
+    POS4 = re.sub(r'(?=(\S+))\\S\+','\1*',POS4)
+    POS5 = re.sub(r'(?=(\S+))\\S\+','\1*',POS5)
     print('Total hits whole directory = ' + str(totalhits) + ' ' + POS1 + ' ' + POS2 + ' ' + POS3 + ' ' + POS4 + ' ' + POS5)
 
 def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
@@ -56,7 +68,8 @@ def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
         hits += len(matchseq.findall(outputcorpus))
         #write corpus to file
         file_name = re.sub('.txt','',file_name)
-        output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w') 
+        output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w', encoding="utf-8") 
+        POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
         output_file.write(str(hits) + ' result(s) for ' + POS1 + ' found in ' + str(sentences) + ' total sentences.' + '\n\n' + 'Matches only:' + '\n\n' + matchcorpus + '\n\n' + 'Matches in lines:' + '\n\n' + outputcorpus)
         output_file.close()
         print(file_name + ' ' + str(hits) + ' result(s) for ' + POS1 + ' found in ' + str(sentences) + ' total sentences.')
@@ -81,6 +94,8 @@ def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
         #write corpus to file
         file_name = re.sub('.txt','',file_name)
         output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w') 
+        POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
+        POS2 = re.sub(r'(?=(\S+))\\S\+','\1*',POS2)
         output_file.write(str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' found in ' + str(sentences) + ' total sentences.' + '\n\n' + 'Matches only:' + '\n\n' + matchcorpus + '\n\n' + 'Matches in lines:' + '\n\n' + outputcorpus)
         output_file.close()
         print(file_name + ' ' + str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' found in ' + str(sentences) + ' total sentences.')
@@ -105,6 +120,9 @@ def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
         #write corpus to file
         file_name = re.sub('.txt','',file_name)
         output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w') 
+        POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
+        POS2 = re.sub(r'(?=(\S+))\\S\+','\1*',POS2)
+        POS3 = re.sub(r'(?=(\S+))\\S\+','\1*',POS3)
         output_file.write(str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' ' + POS3 +' found in ' + str(sentences) + ' total sentences.' + '\n\n' + 'Matches only:' + '\n\n' + matchcorpus + '\n\n' + 'Matches in lines:' + '\n\n' + outputcorpus)
         output_file.close()
         print(file_name + ' ' + str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' ' + POS3 +' found in ' + str(sentences) + ' total sentences.')
@@ -129,6 +147,10 @@ def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
         #write corpus to file
         file_name = re.sub('.txt','',file_name)
         output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w') 
+        POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
+        POS2 = re.sub(r'(?=(\S+))\\S\+','\1*',POS2)
+        POS3 = re.sub(r'(?=(\S+))\\S\+','\1*',POS3)
+        POS4 = re.sub(r'(?=(\S+))\\S\+','\1*',POS4)
         output_file.write(str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' ' + POS3 + ' ' + POS4 + ' found in ' + str(sentences) + ' total sentences.' + '\n\n' + 'Matches only:' + '\n\n' + matchcorpus + '\n\n' + 'Matches in lines:' + '\n\n' + outputcorpus)
         output_file.close()
         print(file_name + ' ' + str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' ' + POS3 + ' ' + POS4 + ' found in ' + str(sentences) + ' total sentences.')
@@ -152,6 +174,11 @@ def findPOSseq(file_name,out_dir_name,POS1,POS2,POS3,POS4,POS5):
         hits += len(matchseq.findall(outputcorpus))
         #write corpus to file
         file_name = re.sub('.txt','',file_name)
+        POS1 = re.sub(r'(?=(\S+))\\S\+','\1*',POS1)
+        POS2 = re.sub(r'(?=(\S+))\\S\+','\1*',POS2)
+        POS3 = re.sub(r'(?=(\S+))\\S\+','\1*',POS3)
+        POS4 = re.sub(r'(?=(\S+))\\S\+','\1*',POS4)
+        POS5 = re.sub(r'(?=(\S+))\\S\+','\1*',POS5)
         output_file = open('%s/%s_results.txt' % (out_dir_name,file_name), 'w') 
         output_file.write(str(hits) + ' result(s) for ' + POS1 + ' ' + POS2 + ' ' + POS3 + ' ' + POS4 + ' ' + POS5 + ' found in ' + str(sentences) + ' total sentences.' + '\n\n' + 'Matches only:' + '\n\n' + matchcorpus + '\n\n' + 'Matches in lines:' + '\n\n' + outputcorpus)
         output_file.close()
