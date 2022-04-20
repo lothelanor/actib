@@ -35,6 +35,14 @@ To run the sentence segmentation script:
 
 `python SentSeg.py <my_text.txt>`
 
+## Querying POS-tagged files
+
+POS-tagged files can be queried with the dedicated queryPOS.py script, which allows for queries for 1-5 POS sequences as well as wildcards (using \*).
+
+`python queryPOS.py <my_folder>`
+
+It produces an output folder with one text file listing all exact matches as well as matches in context for each input text. Total number of hits per file and for the entire folder are also calculated.
+
 ## Available Corpora
 
 The current version of the Annotated Corpus of Classical Tibetan (ACTIB) can be found on [Zenodo](https://zenodo.org/record/3951503#.Yh5VWsanxqs).
