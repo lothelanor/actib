@@ -41,7 +41,7 @@ POS-tagged files can be queried with the dedicated queryPOS.py script, which all
 
 `python queryPOS.py <my_folder>`
 
-It produces an output folder with one text file listing all exact matches as well as matches in context for each input text. Total number of hits per file and for the entire folder are also calculated.
+It produces an output folder with text files listing all exact matches as well as matches in context for each input file in the folder. Total number of hits per file and for the entire folder are also calculated.
 
 ## Available Corpora
 
