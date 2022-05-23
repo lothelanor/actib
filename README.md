@@ -1,4 +1,4 @@
-# The Annotated Corpora of Tibetan (ACTib)
+# Tools for the Annotated Corpora of Tibetan (ACTib)
 
 !!!DISCLAIMER: WORK IN PROGRESS!!!
 
