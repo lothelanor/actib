@@ -10,6 +10,8 @@ This repository will soon contain all scripts and links to the annotated corpora
 
 **Meelen & Roux 2020**, 'Meta-dating the PArsed Corpus of Tibetan (PACTib)' *Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories*, pp. 31–42, DOI: https://www.aclweb.org/anthology/2020.tlt-1.3/
 
+![Pipeline from Faggionato et al 2022](pipeline.png)
+
 ## Tools & Dependencies
 
 This repo currently presents tools to preprocess, segment and POS tag Old and Classical Tibetan specifically, focused on subsequent linguistic tasks (but useful for any downstream NLP tasks). It combines Esukhia's BOTOK tokeniser with a syllable-based classifier for optimal Classical Tibetan segmentation and uses the Memory-Based Tagger for POS tagging:
