@@ -14,9 +14,10 @@ This repository will soon contain all scripts and links to the annotated corpora
 
 This repo currently presents tools to preprocess, segment and POS tag Old and Classical Tibetan specifically, focused on subsequent linguistic tasks (but useful for any downstream NLP tasks). It combines Esukhia's BOTOK tokeniser with a syllable-based classifier for optimal Classical Tibetan segmentation and uses the Memory-Based Tagger for POS tagging:
 
-- [Botok tokeniser](https://github.com/Esukhia/botok) (for segmentation)
-- [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/) (for segmentation & POS tagging)
-- [Natural Language Toolkit](https://www.nltk.org/) (for parsing)
+- [Pyewts](https://pypi.org/project/pyewts/) (for Wylie-Unicode conversion)
+- [Botok tokeniser](https://github.com/Esukhia/botok) (for Segmentation)
+- [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/) (for Segmentation & POS tagging)
+- [Natural Language Toolkit](https://www.nltk.org/) (for Parsing)
 
 It also contains a preliminary sentence segmenter, which is currently only optimised for specific project purposes.
 
