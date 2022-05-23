@@ -24,7 +24,7 @@ NOTE that for POS tagging, we also tested neural-network based approaches, but r
 
 ## Preprocessing (for Old Tibetan and/or Wylie transcriptions)
 
-Texts in Classical Tibetan Unicode can directly be used as input for word segmentation (tokenisation) and POS tagging. Old Tibetan texts or texts that are transcribed in the Wylie transcription convention, however, need to be preprocessed first. Preprocessing of Old Tibetan texts can be done with any transcribed text taken from the OTDO website (which features a specific form of Wylie transcription). The preprocessing script creates three outputs:
+Texts in Classical Tibetan Unicode can directly be used as input for word segmentation (tokenisation) and POS tagging. Old Tibetan texts or texts that are transcribed in the Wylie transcription convention, however, need to be preprocessed first. Preprocessing of Old Tibetan texts can be done with any transcribed text taken from the [OTDO website](https://otdo.aa-ken.jp/) (which features a specific form of Wylie transcription). The preprocessing script creates three outputs:
 - Standardised Wylie
 - Tibetan Unicode
 - Normalised Tibetan Unicode
