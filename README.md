@@ -10,7 +10,7 @@ This repository will soon contain all scripts and links to the annotated corpora
 
 **Meelen & Roux 2020**, 'Meta-dating the PArsed Corpus of Tibetan (PACTib)' *Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories*, pp. 31–42, DOI: https://www.aclweb.org/anthology/2020.tlt-1.3/
 
-![Pipeline from Faggionato et al 2022](pipeline.png)
+![Pipeline from Faggionato et al 2022](/pipeline.png)
 
 ## Tools & Dependencies
 
