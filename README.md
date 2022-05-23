@@ -10,6 +10,8 @@ This repository will soon contain all scripts and links to the annotated corpora
 
 **Meelen & Roux 2020**, 'Meta-dating the PArsed Corpus of Tibetan (PACTib)' *Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories*, pp. 31–42, DOI: https://www.aclweb.org/anthology/2020.tlt-1.3/
 
+![Pipeline from Faggionato et al 2022](images/pipeline.png)
+
 ## Tools & Dependencies
 
 This repo currently presents tools to preprocess, segment and POS tag Old and Classical Tibetan specifically, focused on subsequent linguistic tasks (but useful for any downstream NLP tasks). It combines Esukhia's BOTOK tokeniser with a syllable-based classifier for optimal Classical Tibetan segmentation and uses the Memory-Based Tagger for POS tagging:
@@ -34,19 +36,18 @@ The final output 'Normalised Tibetan Unicode' removes typical Old Tibetan orthog
 
 To preprocess Old Tibetan and/or Wylie transcriptions:
 
-`python preprocessing.py <my_folder>`
+`python preprocessing.py <my_directory>`
 
 ## Word Segmentation & POS tagging
 
-To segment words and POS tag texts run:
+Phase II of our pipeline contains segmentation (of both words and sentences) as well as POS tagging. It generates three types of output:
+- tokenised (word segmentation with 'shunits')
+- POS-tagged - for parsing & querying with corrected sentence segmentation
+- POS-tagged (UD) - for Pyrrha correction with corrected sentence segmentation
 
-`python pos-directory.py <my_folder>`
+To run the script:
 
-## Sentence Segmentation
-
-To run the sentence segmentation script:
-
-`python SentSeg.py <my_text.txt>`
+`python pos-directory.py <my_directory>`
 
 ## Parsing & SentenceIDs
 
