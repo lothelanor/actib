@@ -34,13 +34,18 @@ The final output 'Normalised Tibetan Unicode' removes typical Old Tibetan orthog
 
 To preprocess Old Tibetan and/or Wylie transcriptions:
 
-`python preprocessing.py <my_folder>`
+`python preprocessing.py <my_directory>`
 
 ## Word Segmentation & POS tagging
 
-To segment words and POS tag texts run:
+Phase II of our pipeline contains segmentation (of both words and sentences) as well as POS tagging. It generates three types of output:
+- tokenised (word segmentation with 'shunits')
+- POS-tagged (querying format with corrected sentence segmentation)
+- POS-tagged (UD input format for Pyrrha with corrected sentence segmentation)
 
-`python pos-directory.py <my_folder>`
+To run the script:
+
+`python pos-directory.py <my_directory>`
 
 ## Sentence Segmentation
 
