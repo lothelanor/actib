@@ -38,12 +38,12 @@ To preprocess Old Tibetan and/or Wylie transcriptions:
 
 `python preprocessing.py <my_directory>`
 
-## Word Segmentation & POS tagging
+## Segmentation & POS tagging
 
 Phase II of our pipeline contains segmentation (of both words and sentences) as well as POS tagging. It generates three types of output:
-- tokenised (word segmentation with 'shunits')
-- POS-tagged - for parsing & querying with corrected sentence segmentation
-- POS-tagged (UD) - for Pyrrha correction with corrected sentence segmentation
+- tokenised - for LMs/embeddings etc. (word segmentation with 'shunits')
+- POS-tagged - for parsing & querying (with corrected sentence segmentation)
+- POS-tagged (UD) - for Pyrrha correction (with corrected sentence segmentation)
 
 To run the script:
 
