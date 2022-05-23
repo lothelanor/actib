@@ -2,7 +2,7 @@
 
 !!!DISCLAIMER: WORK IN PROGRESS!!!
 
-This repository will soon contain all scripts and links to the annotated corpora of Tibetan: ACTib and PACTib. When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found here:
+This repository will soon contain all scripts and links to the annotated corpora of Tibetan: ACTib and PACTib. When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below.
 
 **Faggionato, Hill & Meelen 2022**, 'NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties' in *LREC-EURALI Proceedings*
 
