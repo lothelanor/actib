@@ -53,6 +53,8 @@ After POS tagging, phrase structure can be added with the parsing script. To par
 
 `python tibparse.py <my_POS-taggedtext.txt>`
 
+Just like the UPenn-style historical corpora, constituency-based parsed .psd files can be queried with [CorpusSearch](http://corpussearch.sourceforge.net/) or XQuery after conversion to .psdx with, for example, [Cesax](http://erwinkomen.ruhosting.nl/software/Cesax/).
+
 ## Querying POS-tagged files
 
 POS-tagged files can be queried with the dedicated queryPOS.py script, which allows for queries for 1-5 POS sequences as well as wildcards (using \*).
