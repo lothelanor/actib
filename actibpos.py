@@ -62,12 +62,14 @@ def verbcaselookup(posstr):
 
 def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:ཏེ|སྟེ)་?//?)([^\s]+)', r'\1\2cv.sem', posstr)
+    posstr = re.sub(r'(^|\s)((?:p[0-9]+)//?)([^\s]+)', r'\1\2page.num', posstr)
+    posstr = re.sub(r'(^|\s)((?:l[0-9]+)//?)([^\s]+)', r'\1\2line.num', posstr)
     posstr = re.sub(r'(^|\s)((?:[0-9༠-༳]+)་?//?)([^\s]+)', r'\1\2numeral', posstr)
     posstr = re.sub(r'(^|\s)((?:ཏུ|དུ)་?//?)([^\s]+)', r'\1\2cv.term', posstr)
     posstr = re.sub(r'(^|\s)((?:ནོ|རོ|ཏོ|འོ|དོ)་?//?)([^\s]+)', r'\1\2cv.fin', posstr)
     posstr = re.sub(r'(^|\s)((?:ལོ|ངོ|གོ|སོ|མོ)་?//?)([^\s]+)\s།', r'\1\2cv.fin །', posstr)
     posstr = re.sub(r'(^|\s)((?:《|》|༈|༼|༽|༏|༑|༐|༒)//?)([^\s]+)', r'\1\2punc', posstr)
-    posstr = re.sub(r'(^|\s)((?:p[0-9]+)//?)([^\s]+)', r'\1\2page.num', posstr)
+    posstr = re.sub(r'(^|\s)((?:གང|མཆོག)་?//?)([^\s]+)', r'\1\2adj', posstr) #new SOAS pos corrections starting here
     return posstr
 
 WTConfig = Config() # TODO: load only the GMD
@@ -161,7 +163,7 @@ def getpage(p):
 
 def remove_spur_chars(s):
     s = re.sub(r"(\(|\)|\\|\$|\"|-|\.|\*|=|£|¥|\+|è|%|;|¿|¡|¤|\?)+","",s)
-    s = re.sub(r"[A-Za-z0-9]+","",s)
+    #s = re.sub(r"[A-Za-z0-9]+","",s) #to keep line and page numbers
     return s
 
 def preprocess(s):
@@ -290,6 +292,89 @@ def format_seg_for_output(segstr):
     segstr = re.sub(r'[  \t]+', ' ', segstr)
     return segstr
 
+def correctutts(posstr):
+    posstr = re.sub(r'<utt>',r'',posstr) #delete all automatic <utt>\n before adding the following:
+        #add <utt> after cv.fin + (double) shad
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin)\s?\n?',r'\1 <utt>',posstr)
+        #add <utt> after cv.sem + (double) shad
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem)\s?\n?',r'\1 <utt>',posstr)
+        #add <utt> after cv.ass + (double) shad
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass)\s?\n?',r'\1 <utt>',posstr)
+        #add <utt> after cv.imp(f) + (double) shad
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]? [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.imp[f]?)\s?\n?',r'\1 <utt>',posstr)
+        #add <utt> after cv.ques + (double) shad
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques)\s?\n?',r'\1 <utt>',posstr)
+        #add <utt> after verbs + (double) shad
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc)\s?\n',r'\1 <utt>',posstr)
+
+    posstr = re.sub(r'\s+',r' ',posstr)
+    posstr = re.sub(r'\n+',r'',posstr)
+    posstr = re.sub(r'<utt>',r'<utt>\n',posstr)
+    return posstr
+
+def createpyrrha(posstr):
+    #Create Pyrrha input in columns
+    posstr = re.sub(r'<utt>\n',r'<utt>\t<utt>\n\n',posstr)
+    posstr = re.sub(r'//',r'/',posstr)
+    posstr = re.sub(r'/([^\s]*) ',r'\t\1\n',posstr)
+    posstr = re.sub(r'\%^',r'token\tPOS\n',posstr)
+    return posstr
+
 def main():
     parser = argparse.ArgumentParser(description='ACTIB Segmenter & POS Tagger')
     parser.add_argument('input-file', nargs='?', type=argparse.FileType('r'), default=sys.stdin)
@@ -302,7 +387,7 @@ def main():
 
 # segoutp is written to only in the case of seg:pos pipeline, it is otherwise ignored
 # when using the seg pipeline, the segmented output goes to outp
-def process(inp, outp, segoutp, input_format="txt", pipeline="seg:pos"):
+def process(inp, pyrrhaoutp, posoutp, segoutp, input_format="txt", pipeline="seg:pos"):
     inputstr = inp.read()
     if input_format == 'bdrc-tei':
         inputstr = xmltocorpus(inputstr)
@@ -323,7 +408,10 @@ def process(inp, outp, segoutp, input_format="txt", pipeline="seg:pos"):
     posstr = verblook(posstr, VERBS)
     posstr = forcedpos(posstr)
     posstr = verbcaselookup(posstr)
-    outp.write(posstr)
+    posstr = correctutts(posstr)
+    posoutp.write(posstr)
+    posstr = createpyrrha(posstr)
+    pyrrhaoutp.write(posstr)
 
 def processtxtstr(inputstr, pipeline="seg:pos"):
     segstr = run_mbt(inputstr, 'conf/segmenting/segtrain.txt.settings')
@@ -338,11 +426,12 @@ def processtxtstr(inputstr, pipeline="seg:pos"):
     posstr = verbcaselookup(posstr)
     return posstr
 
-def processfiles(filename, segoutfilename, posoutfilename, pipeline="seg:pos", input_format="txt"):
+def processfiles(filename, segoutfilename, posoutfilename, pyrrhaoutfilename, pipeline="seg:pos", input_format="txt"):
     with open(segoutfilename, "w") as segoutp:
         with open(posoutfilename, "w") as posoutp:
-            with open(filename) as inp:
-                process(inp, posoutp, segoutp, input_format=input_format, pipeline=pipeline)    
+            with open(pyrrhaoutfilename, "w") as pyrrhaoutp:
+                with open(filename) as inp:
+                    process(inp, pyrrhaoutp, posoutp, segoutp, input_format=input_format, pipeline=pipeline)    
 
 def preprocesstest():
     xml_str = open("test/preprocess-bdrcxml.xml").read()

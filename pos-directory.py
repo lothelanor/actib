@@ -13,12 +13,14 @@ if len(sys.argv) < 2:
 indir = sys.argv[1]
 
 now = datetime.now()
-dt = now.strftime("%Y%m%d_%H-%M-%S")
+dt = now.strftime("%d%m%Y_%H-%M-%S")
 
-segoutpath = pathlib.Path("output-"+dt+"/seg/")
-posoutpath = pathlib.Path("output-"+dt+"/pos/")
+segoutpath = pathlib.Path(indir+"-out-"+dt+"/seg/")
+posoutpath = pathlib.Path(indir+"-out-"+dt+"/pos/")
+pyrrhaoutpath = pathlib.Path(indir+"-out-"+dt+"/pyrrha/")
 segoutpath.mkdir(parents=True, exist_ok=True)
 posoutpath.mkdir(parents=True, exist_ok=True)
+pyrrhaoutpath.mkdir(parents=True, exist_ok=True)
 
 previousdir = pathlib.Path("output-20200712_14-12-35")
 
@@ -32,11 +34,12 @@ def main():
             continue
         noext = os.path.splitext(basename)[0]
         posoutfilename = os.path.join(posoutpath, noext+".txt")
+#        pyrrhaposoutfilename = os.path.join(pyrrhaposoutpath, noext+".txt")
         segoutfilename = os.path.join(segoutpath, noext+".txt")
         if previousdir is not None and (previousdir/"pos"/(noext+".txt")).is_file():
             print("skipping "+noext)
             continue
-        POOL.apply_async(actibpos.processfiles, args=(filename, segoutfilename, posoutfilename, "seg:pos", "bdrc-tei"))
+        POOL.apply_async(actibpos.processfiles, args=(filename, segoutfilename, posoutfilename, pyrrhaoutfilename, "seg:pos", "bdrc-tei"))
 
     filenames = pathlib.Path(indir).rglob('*.txt')
     for filename in sorted(filenames, key=lambda fn: str(fn)):
@@ -46,11 +49,12 @@ def main():
             continue
         noext = os.path.splitext(basename)[0]
         posoutfilename = os.path.join(posoutpath, noext+".txt")
+        pyrrhaoutfilename = os.path.join(pyrrhaoutpath, noext+".txt")
         segoutfilename = os.path.join(segoutpath, noext+".txt")
         if previousdir is not None and (previousdir/"seg"/(noext+".txt")).is_file():
             print("skipping "+noext)
             continue
-        POOL.apply_async(actibpos.processfiles, args=(filename, segoutfilename, posoutfilename, "seg:pos", "txt"))
+        POOL.apply_async(actibpos.processfiles, args=(filename, segoutfilename, posoutfilename, pyrrhaoutfilename, "seg:pos", "txt"))
     POOL.close()
     POOL.join()
 
