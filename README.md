@@ -40,18 +40,12 @@ To preprocess Old Tibetan and/or Wylie transcriptions:
 
 Phase II of our pipeline contains segmentation (of both words and sentences) as well as POS tagging. It generates three types of output:
 - tokenised (word segmentation with 'shunits')
-- POS-tagged (querying format with corrected sentence segmentation)
-- POS-tagged (UD input format for Pyrrha with corrected sentence segmentation)
+- POS-tagged - for parsing & querying with corrected sentence segmentation
+- POS-tagged (UD) - for Pyrrha correction with corrected sentence segmentation
 
 To run the script:
 
 `python pos-directory.py <my_directory>`
-
-## Sentence Segmentation
-
-To run the sentence segmentation script:
-
-`python SentSeg.py <my_text.txt>`
 
 ## Parsing & SentenceIDs
 
