@@ -32,7 +32,7 @@ Texts in Classical Tibetan Unicode can directly be used as input for word segmen
 - Tibetan Unicode
 - Normalised Tibetan Unicode
 
-The final output 'Normalised Tibetan Unicode' removes typical Old Tibetan orthographical features, 'normalising' them to a more standard form of Classical Tibetan on which all subsequent NLP tools of the pipeline are trained. The non-normalised Tibetan Unicode output is preserved, however, for another interested in doing research on Old Tibetan orthographical features.
+The final output 'Normalised Tibetan Unicode' removes typical Old Tibetan orthographical features, 'normalising' them to standard Classical Tibetan on which all subsequent NLP tools of the pipeline are trained. The non-normalised Tibetan Unicode output is preserved, however, for another interested in doing research on Old Tibetan orthographical features.
 
 To preprocess Old Tibetan and/or Wylie transcriptions:
 
