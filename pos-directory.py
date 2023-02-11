@@ -11,6 +11,8 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 indir = sys.argv[1]
+if indir.endswith("/"):
+    indir = indir[:-1]
 
 now = datetime.now()
 dt = now.strftime("%d%m%Y_%H-%M-%S")
