@@ -14,20 +14,21 @@ indir = sys.argv[1]
 if indir.endswith("/"):
     indir = indir[:-1]
 
-now = datetime.now()
-dt = now.strftime("%d%m%Y_%H-%M-%S")
-
-segoutpath = pathlib.Path(indir+"-out-"+dt+"/seg/")
-posoutpath = pathlib.Path(indir+"-out-"+dt+"/pos/")
-pyrrhaoutpath = pathlib.Path(indir+"-out-"+dt+"/pyrrha/")
-segoutpath.mkdir(parents=True, exist_ok=True)
-posoutpath.mkdir(parents=True, exist_ok=True)
-pyrrhaoutpath.mkdir(parents=True, exist_ok=True)
-
 previousdir = pathlib.Path("output-20200712_14-12-35")
 
 def main():
     POOL = Pool(processes=5)
+
+    now = datetime.now()
+    dt = now.strftime("%d%m%Y_%H-%M-%S")
+
+    segoutpath = pathlib.Path(indir+"-out-"+dt+"/seg/")
+    posoutpath = pathlib.Path(indir+"-out-"+dt+"/pos/")
+    pyrrhaoutpath = pathlib.Path(indir+"-out-"+dt+"/pyrrha/")
+    segoutpath.mkdir(parents=True, exist_ok=True)
+    posoutpath.mkdir(parents=True, exist_ok=True)
+    pyrrhaoutpath.mkdir(parents=True, exist_ok=True)
+    
     filenames = pathlib.Path(indir).rglob('*.xml')
     for filename in sorted(filenames, key=lambda fn: str(fn)):
         print("treating %s" % filename)
