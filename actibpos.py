@@ -395,13 +395,11 @@ def process(inp, pyrrhaoutp, posoutp, segoutp, input_format="txt", pipeline="seg
         inputstr = preprocess(inputstr)
     segstr = run_mbt(inputstr, 'conf/segmenting/segtrain.txt.settings')
     segstr = post_seg_processing_str(segstr)
-    if pipeline == 'seg':
-        segstr = format_seg_for_output(segstr)
-        outp.write(segstr)
-        return
     if segoutp is not None:
         segstr = format_seg_for_output(segstr)
         segoutp.write(segstr)
+    if pipeline == 'seg':
+        return
     posstr = run_mbt(segstr, 'conf/pos-tagging/TibTrain5.txt.settings')
     #posstr = run_mbt(segstr, 'conf/evaluation/TibTrain5trainsplit.txt.settings') #use this to test & evaluate the SOAS corpus
     ensureverbs()
@@ -428,9 +426,15 @@ def processtxtstr(inputstr, pipeline="seg:pos"):
 
 def processfiles(filename, segoutfilename, posoutfilename, pyrrhaoutfilename, pipeline="seg:pos", input_format="txt"):
     with open(segoutfilename, "w") as segoutp:
-        with open(posoutfilename, "w") as posoutp:
-            with open(pyrrhaoutfilename, "w") as pyrrhaoutp:
-                with open(filename) as inp:
+        with open(filename) as inp:
+            if posoutfilename is None:
+                try:
+                    process(inp, None, None, segoutp, input_format=input_format, pipeline=pipeline)
+                except Exception as e:
+                    print(e)
+                return
+            with open(posoutfilename, "w") as posoutp:
+                with open(pyrrhaoutfilename, "w") as pyrrhaoutp:
                     process(inp, pyrrhaoutp, posoutp, segoutp, input_format=input_format, pipeline=pipeline)    
 
 def preprocesstest():
