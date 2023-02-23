@@ -194,10 +194,10 @@ def OT_Normalised(file_name):
                 # ད / ན suffix variation
                 # Background: The ད / ན suffix variation is another feature of Old Tibetan. Common forms are ཆེད་པོ་ and ཅེད་པོ་
                 # Rule: Normalize ཆེད་པོ་(པོའི་/པོར་/པོས་) and ཅེད་པོ་(པོའི་/པོར་/པོས་) as ཆེན་པོ་(པོའི་/པོར་/པོས་)
-                line = re.sub(r'(ཅེ|ཆེ)(ད|ན)་((པོ|ཕོ)(འི|ར|ས)?(་?))',r'ཆེན་\3',line)
+                line = re.sub(r'(ཅེ|ཆེ)(ད|ན)་((པོ|ཕོ)(འི|ར|ས)?(་?))',r'ཆེན་པོ\5\6',line)
 
                 # Medial འ
-                line = re.sub(r'([^་\n\s།]+)འ(ས|ད|ར)་',r'\1\2',line)
+                line = re.sub(r'([^་\n\s།]+)འ(ས|ད|ར)(་?)',r'\1\2\3',line)
 
                 # Alternation between aspirated and unaspirated voiceless consonants
                 line = re.sub(r'པོ་ཉ(་?)',r'ཕོ་ཉ\1',line)
