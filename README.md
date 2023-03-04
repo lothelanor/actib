@@ -2,7 +2,7 @@
 
 !!!DISCLAIMER: WORK IN PROGRESS!!!
 
-This repository will soon contain all scripts and links to the annotated corpora of Tibetan: ACTib and PACTib. When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below.
+This repository will soon contain all scripts and links to the annotated corpora of Tibetan: ACTib and PACTib. When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below. In addition, it will contain useful scripts for linguistic analysis, e.g. to query the POS files (queryPOS.py) or to extract minimal pairs from word lists (minpairs.py).
 
 **Christian Faggionato, Nathan Hill, and Marieke Meelen. 2022.*** NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties. In *Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia within the 13th Language Resources and Evaluation Conference*, pages 1–6, Marseille, France. European Language Resources Association. DOI: https://aclanthology.org/2022.eurali-1.1/
 
@@ -23,7 +23,7 @@ This repo currently presents tools to preprocess, segment and POS tag Old and Cl
 
 It also contains a preliminary sentence segmenter, which is currently only optimised for specific project purposes.
 
-NOTE that for POS tagging, we also tested neural-network based approaches, but results are still worse for Classical Tibetan, which is why we keep using the MBT for now. Preliminary tests with improved word embeddings indicate accuracies for BiLSTM-RNN taggers are likely to improve as soon as better embeddings are implemented (see Meelen, Roux & Hill 2021).
+Note that for POS tagging, we also tested neural-network based approaches, but results are still worse for Classical Tibetan, which is why we keep using the MBT for now. Preliminary tests with improved word embeddings indicate accuracies for BiLSTM-RNN taggers are likely to improve as soon as better embeddings are implemented (see Meelen, Roux & Hill 2021).
 
 ## Preprocessing (for Old Tibetan and/or Wylie transcriptions)
 
@@ -57,13 +57,24 @@ After POS tagging, phrase structure can be added with the parsing script. To par
 
 Just like the UPenn-style historical corpora, constituency-based parsed .psd files can be queried with [CorpusSearch](http://corpussearch.sourceforge.net/) or XQuery after conversion to .psdx with, for example, [Cesax](http://erwinkomen.ruhosting.nl/software/Cesax/).
 
-## Querying POS-tagged files
+## Linguistic analysis
 
 POS-tagged files can be queried with the dedicated queryPOS.py script, which allows for queries for 1-5 POS sequences as well as wildcards (using \*).
 
 `python queryPOS.py <my_folder>`
 
 It produces an output folder with text files listing all exact matches as well as matches in context for each input file in the folder. Total number of hits per file and for the entire folder are also calculated.
+
+For phonological analysis, there is a script that extracts minimal pairs from word lists: minpairs.py.
+
+`python minpairs.py <my_folder>`
+
+It produces a range of output files for:
+- absolute minimal pairs (i.e. one letter difference)
+- minimal clusters, e.g. zla~lda
+- special clusters and combinations relevant to Tibetan historical phonology.
+
+Special thanks to Elie Roux and Kitty Liu for helpful comments and suggestions with this script.
 
 ## References with full abstracts
 
