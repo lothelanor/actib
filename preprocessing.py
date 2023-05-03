@@ -183,11 +183,11 @@ def OT_Normalised(file_name):
                 # 'a rten
                 line = re.sub(r'ཡི་གེའ(་?)',r'ཡི་གེ\1',line)
                 line = re.sub(r'དུའ(་?)',r'དུ\1',line)
-                line = re.sub(r'པའ(་?)',r'པ\1',line)
+                line = re.sub(r'པའ(?!ི|ྀ)(་?)',r'པ\1',line)
                 line = re.sub(r'ལའ(་?)',r'ལ\1',line)
                 line = re.sub(r'ནའ(་?)',r'ན\1',line)
                 line = re.sub(r'སྟེའ(་?)',r'སྟེ\1',line)
-                line = re.sub(r'བའ(་?)',r'བ\1',line)
+                line = re.sub(r'བའ(?!ི|ྀ)(་?)',r'བ\1',line)
                 line = re.sub(r'མའ(་?)',r'མ\1',line)
                 line = re.sub(r'འདྲའ(་?)',r'འདྲ\1',line)
 
