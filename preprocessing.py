@@ -30,14 +30,14 @@ def main():
 
         convertToUnicode(file)
 
-    for file in glob.glob("**/*standardUnicode.txt"):
+    for file in glob.glob("**/*convertedUnicode.txt"):
 
         OT_Normalised(file)
 
 def standardWylie(file_name,out_dir_name):
 
         file_name = re.sub('.txt','',file_name)
-        wylie_standard = open('%s/%s_standardWylie.txt' %(out_dir_name, file_name), 'w')
+        wylie_standard = open('%s/%s_standardisedWylie.txt' %(out_dir_name, file_name), 'w')
 
         with open('%s.txt' %file_name, 'r', encoding="utf-8") as file_input:
             for line in file_input:
@@ -84,10 +84,10 @@ def standardWylie(file_name,out_dir_name):
         wylie_standard.close()
 
 def convertToUnicode(file_name):
-    file_name = re.sub('_standardWylie.txt','',file_name)
-    unicode_Tibetan = open('%s_standardUnicode.txt' %file_name, 'w', encoding="utf-8")
+    file_name = re.sub('_standardisedWylie.txt','',file_name)
+    unicode_Tibetan = open('%s_convertedUnicode.txt' %file_name, 'w', encoding="utf-8")
 
-    with open('%s_standardWylie.txt' %file_name, 'r', encoding="utf-8") as file_input:
+    with open('%s_standardisedWylie.txt' %file_name, 'r', encoding="utf-8") as file_input:
             for line in file_input:
 
                     converter = pyewts.pyewts()
@@ -127,10 +127,10 @@ def convertToUnicode(file_name):
 
 
 def OT_Normalised(file_name):
-    file_name = re.sub('_standardUnicode.txt','',file_name)
-    Normalised_OT = open('%s_normalUnicode.txt' %file_name, 'w', encoding="utf-8")
+    file_name = re.sub('_convertedUnicode.txt','',file_name)
+    Normalised_OT = open('%s_normalisedUnicode.txt' %file_name, 'w', encoding="utf-8")
 
-    with open('%s_standardUnicode.txt' %file_name, 'r', encoding="utf-8") as file_input:
+    with open('%s_convertedUnicode.txt' %file_name, 'r', encoding="utf-8") as file_input:
             
             for line in file_input:
 
