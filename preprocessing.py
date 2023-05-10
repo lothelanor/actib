@@ -56,7 +56,7 @@ def standardWylie(file_name,out_dir_name):
                     line = re.sub(r'([a-z,I,\',.]*)\[([^\s]*)\?]([a-z,I,\',.]*)',r'*\1\2\3',line) #regex 4
                     line = re.sub(r'\[([a-z,I,\',.]*) \(\/([a-z,I,\',.]*)\)\]',r'*\1',line) #regex 6
                     line = re.sub(r'###',r'',line)
-                    line = re.sub(r'\([^0-9]+\)',r'',line)
+                    line = re.sub(r'\([a-z]+\)',r'',line)
                     line = re.sub(r'\{.*\}',r'',line)
                     line = re.sub(r'\s\(',r'(',line)
                     line = re.sub(r'\)\s',r')',line)
@@ -69,6 +69,16 @@ def standardWylie(file_name,out_dir_name):
                     #once we convert to Unicode * is converted in tsheg so we need an alternative
                     #symbol - we receonvert § to * after with a re.sub
                     line = re.sub(r'\*',r'§',line)
+                    #if the input is Tibetan Unicode - we convert it back again to Wylie, replacing tabs with spaces afterwards 
+                    
+                    if re.search(r'[ༀ-࿘]+', line):
+
+                        converter = pyewts.pyewts()
+                        line = converter.toWylie(line)
+                        line = re.sub(r'_',r' ',line)
+                        line = re.sub(r'\[\\\[',r'[',line)
+                        line = re.sub(r'\\\]\]',r']',line)
+
                     wylie_standard.write(line)
 
         wylie_standard.close()
@@ -104,9 +114,9 @@ def convertToUnicode(file_name):
                         line = re.sub(r'༧',r'7',line)
                         line = re.sub(r'༨',r'8',line)
                         line = re.sub(r'༩',r'9',line)
-                        line = re.sub(r'\(',r'l',line)
+                        #line = re.sub(r'\(',r'l',line)
                         #line = re.sub(r'་l་',r'l',line)
-                        line = re.sub(r'\)',r'',line)
+                        #line = re.sub(r'\)',r'',line)
                         line = re.sub(r'\s+',r'',line)
                         
 
