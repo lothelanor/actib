@@ -30,14 +30,14 @@ def main():
 
         convertToUnicode(file)
 
-    for file in glob.glob("**/*standardUnicode.txt"):
+    for file in glob.glob("**/*convertedUnicode.txt"):
 
         OT_Normalised(file)
 
 def standardWylie(file_name,out_dir_name):
 
         file_name = re.sub('.txt','',file_name)
-        wylie_standard = open('%s/%s_standardWylie.txt' %(out_dir_name, file_name), 'w')
+        wylie_standard = open('%s/%s_standardisedWylie.txt' %(out_dir_name, file_name), 'w')
 
         with open('%s.txt' %file_name, 'r', encoding="utf-8") as file_input:
             for line in file_input:
@@ -56,7 +56,7 @@ def standardWylie(file_name,out_dir_name):
                     line = re.sub(r'([a-z,I,\',.]*)\[([^\s]*)\?]([a-z,I,\',.]*)',r'*\1\2\3',line) #regex 4
                     line = re.sub(r'\[([a-z,I,\',.]*) \(\/([a-z,I,\',.]*)\)\]',r'*\1',line) #regex 6
                     line = re.sub(r'###',r'',line)
-                    line = re.sub(r'\([^0-9]+\)',r'',line)
+                    line = re.sub(r'\([a-z]+\)',r'',line)
                     line = re.sub(r'\{.*\}',r'',line)
                     line = re.sub(r'\s\(',r'(',line)
                     line = re.sub(r'\)\s',r')',line)
@@ -69,15 +69,25 @@ def standardWylie(file_name,out_dir_name):
                     #once we convert to Unicode * is converted in tsheg so we need an alternative
                     #symbol - we receonvert § to * after with a re.sub
                     line = re.sub(r'\*',r'§',line)
+                    #if the input is Tibetan Unicode - we convert it back again to Wylie, replacing tabs with spaces afterwards 
+                    
+                    if re.search(r'[ༀ-࿘]+', line):
+
+                        converter = pyewts.pyewts()
+                        line = converter.toWylie(line)
+                        line = re.sub(r'_',r' ',line)
+                        line = re.sub(r'\[\\\[',r'[',line)
+                        line = re.sub(r'\\\]\]',r']',line)
+
                     wylie_standard.write(line)
 
         wylie_standard.close()
 
 def convertToUnicode(file_name):
-    file_name = re.sub('_standardWylie.txt','',file_name)
-    unicode_Tibetan = open('%s_standardUnicode.txt' %file_name, 'w', encoding="utf-8")
+    file_name = re.sub('_standardisedWylie.txt','',file_name)
+    unicode_Tibetan = open('%s_convertedUnicode.txt' %file_name, 'w', encoding="utf-8")
 
-    with open('%s_standardWylie.txt' %file_name, 'r', encoding="utf-8") as file_input:
+    with open('%s_standardisedWylie.txt' %file_name, 'r', encoding="utf-8") as file_input:
             for line in file_input:
 
                     converter = pyewts.pyewts()
@@ -104,9 +114,9 @@ def convertToUnicode(file_name):
                         line = re.sub(r'༧',r'7',line)
                         line = re.sub(r'༨',r'8',line)
                         line = re.sub(r'༩',r'9',line)
-                        line = re.sub(r'\(',r'l',line)
+                        #line = re.sub(r'\(',r'l',line)
                         #line = re.sub(r'་l་',r'l',line)
-                        line = re.sub(r'\)',r'',line)
+                        #line = re.sub(r'\)',r'',line)
                         line = re.sub(r'\s+',r'',line)
                         
 
@@ -117,10 +127,10 @@ def convertToUnicode(file_name):
 
 
 def OT_Normalised(file_name):
-    file_name = re.sub('_standardUnicode.txt','',file_name)
-    Normalised_OT = open('%s_normalUnicode.txt' %file_name, 'w', encoding="utf-8")
+    file_name = re.sub('_convertedUnicode.txt','',file_name)
+    Normalised_OT = open('%s_normalisedUnicode.txt' %file_name, 'w', encoding="utf-8")
 
-    with open('%s_standardUnicode.txt' %file_name, 'r', encoding="utf-8") as file_input:
+    with open('%s_convertedUnicode.txt' %file_name, 'r', encoding="utf-8") as file_input:
             
             for line in file_input:
 
@@ -183,11 +193,11 @@ def OT_Normalised(file_name):
                 # 'a rten
                 line = re.sub(r'ཡི་གེའ(་?)',r'ཡི་གེ\1',line)
                 line = re.sub(r'དུའ(་?)',r'དུ\1',line)
-                line = re.sub(r'པའ(་?)',r'པ\1',line)
+                line = re.sub(r'པའ(?!ི|ྀ)(་?)',r'པ\1',line)
                 line = re.sub(r'ལའ(་?)',r'ལ\1',line)
                 line = re.sub(r'ནའ(་?)',r'ན\1',line)
                 line = re.sub(r'སྟེའ(་?)',r'སྟེ\1',line)
-                line = re.sub(r'བའ(་?)',r'བ\1',line)
+                line = re.sub(r'བའ(?!ི|ྀ)(་?)',r'བ\1',line)
                 line = re.sub(r'མའ(་?)',r'མ\1',line)
                 line = re.sub(r'འདྲའ(་?)',r'འདྲ\1',line)
 
