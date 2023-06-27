@@ -200,6 +200,8 @@ def OT_Normalised(file_name):
                 line = re.sub(r'བའ(?!ི|ྀ)(་?)',r'བ\1',line)
                 line = re.sub(r'མའ(་?)',r'མ\1',line)
                 line = re.sub(r'འདྲའ(་?)',r'འདྲ\1',line)
+                line = re.sub(r'བཀྲའ(་?)',r'བཀྲ\1',line)
+                line = re.sub(r'བརྒྱའ(་?)',r'བརྒྱ\1',line)
 
                 # ད / ན suffix variation
                 # Background: The ད / ན suffix variation is another feature of Old Tibetan. Common forms are ཆེད་པོ་ and ཅེད་པོ་
@@ -268,6 +270,10 @@ def OT_Normalised(file_name):
                 line = re.sub(r'ལྖ(་?)',r'ལྕ\1',line)
                 line = re.sub(r'ལྠ(་?)',r'ལྟ\1',line)
                 line = re.sub(r'ལྥ(་?)',r'ལྤ\1',line)
+
+                #Normalisation of achung should happen not just with འི་ འོ་ འམ་ འང་ and other cases
+
+                line = re.sub(r'(གཅ|གཉ|གཏ|གད|གན|གཙ|གཞ|གཟ|གཡ|གཤ|གས|དཀ|དག|དང|དཔ|དབ|དམ|བཀ|བག|བཅ|བཏ|བད|བཙ|བཞ|བཟ|བཤ|བས|མཁ|མག|མང|མཆ|མཇ|མཉ|མཐ|མད|མན|མཚ|མཛ|འཁ|འག|འཆ|འཇ|འཐ|འད|འཕ|འབ|འཚ|འཛ)(?:(འིའམ|འིའང|འོའམ|འོའང|འིས|འི|འོ|འམ|འང|འས|འད|འར))(་?)', r'\1འ་\2\3',line)
                 
 
                 Normalised_OT.write(line)
