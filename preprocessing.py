@@ -54,7 +54,7 @@ def standardWylie(file_name,out_dir_name):
                     line = re.sub(r'([a-z,I,\',.]+)\*([a-z,I,\',.]+)',r'\1\2',line) #regex 2
                     line = re.sub(r'([a-z,I,\',.]*)\[-]([a-z,I,\',.]*)',r'*\1\2',line) #regex 3
                     line = re.sub(r'([a-z,I,\',.]*)\[([^\s]*)\?]([a-z,I,\',.]*)',r'*\1\2\3',line) #regex 4
-                    line = re.sub(r'\[([a-z,I,\',.]*) \(\/([a-z,I,\',.]*)\)\]',r'*\1',line) #regex 6
+                    line = re.sub(r'\[([a-z,I,\',.\s]*) \(\/([a-z,I,\',.\s]*)\)\]',r'*\1',line) #regex 6
                     line = re.sub(r'###',r'',line)
                     line = re.sub(r'\([a-z]+\)',r'',line)
                     line = re.sub(r'\{.*\}',r'',line)
@@ -100,8 +100,7 @@ def convertToUnicode(file_name):
                         #replace double shed with two single shed
                         line = re.sub(r'༎',r'།།',line)
                         line = re.sub(r'༎༎',r'།།།།',line)
-                        #regex to convert ༼tibetandigit༽ to l+linenumber
-                        line = re.sub(r'---',r'[---]',line) #not working properly in Python
+                        #regex to convert ༼tibetandigit༽ to (linenumber)
                         line = re.sub(r'༼',r'(',line)
                         line = re.sub(r'༽',r')',line)
                         line = re.sub(r'༠',r'0',line)
@@ -114,9 +113,6 @@ def convertToUnicode(file_name):
                         line = re.sub(r'༧',r'7',line)
                         line = re.sub(r'༨',r'8',line)
                         line = re.sub(r'༩',r'9',line)
-                        #line = re.sub(r'\(',r'l',line)
-                        #line = re.sub(r'་l་',r'l',line)
-                        #line = re.sub(r'\)',r'',line)
                         line = re.sub(r'\s+',r'',line)
                         
 
@@ -275,6 +271,7 @@ def OT_Normalised(file_name):
 
                 line = re.sub(r'(གཅ|གཉ|གཏ|གད|གན|གཙ|གཞ|གཟ|གཡ|གཤ|གས|དཀ|དག|དང|དཔ|དབ|དམ|བཀ|བག|བཅ|བཏ|བད|བཙ|བཞ|བཟ|བཤ|བས|མཁ|མག|མང|མཆ|མཇ|མཉ|མཐ|མད|མན|མཚ|མཛ|འཁ|འག|འཆ|འཇ|འཐ|འད|འཕ|འབ|འཚ|འཛ)(?:(འིའམ|འིའང|འོའམ|འོའང|འིས|འི|འོ|འམ|འང|འས|འད|འར))(་?)', r'\1འ་\2\3',line)
                 
+                line = re.sub(r'---',r'[]',line) #rendering missing text from --- to []
 
                 Normalised_OT.write(line)
 
