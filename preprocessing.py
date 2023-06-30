@@ -152,16 +152,16 @@ def OT_Normalised(file_name):
 
 
                 #Merged syllables - Rule for cases such as དྲངསྟེ > དྲངས་ཏེ
-                line = re.sub(r'([^་\n\s།]+)སྟེ(་?)',r'\1ས་ཏེ\2',line)
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)སྟེ(་?)',r'\1ས་ཏེ\2',line)
             
                 #Merged Syllables - Rule for cases as གཅལྟོ > གཅལད་ཏོ
-                line = re.sub(r'([^་\n\s།]+)((.)ྟ([ོ,ེ]་?))',r'\1\3ད་ཏ\4',line)
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)ྟ([ོ,ེ]་?))',r'\1\3ད་ཏ\4',line)
 
                 #Merged Syllables - Rule for cases as པགི་ > པག་གི་
-                line = re.sub(r'([^དའ*་\n\s།])((ག)([ྀ,ི]་?))',r'\1ག་ག\4',line)
+                line = re.sub(r'([^དའ*་\n\s།\(\)\[\]\-0-9])((ག)([ྀ,ི]་?))',r'\1ག་ག\4',line)
 
                 #Merged Syllables - Generic rule
-                line = re.sub(r'([^་\n\s།]{2,6})(([^ྲ,ྱ,ྩ,ྒ,ླ,ྡ,ྕ,ྟ,ྙ,ྐ,ྗ,དི,འ,ཨ])([ོ,ེ,ུ,ི,ྀ]་?))',r'\1\3་\3\4',line)
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]{2,6})(([^ྲ,ྱ,ྩ,ྒ,ླ,ྡ,ྕ,ྟ,ྙ,ྐ,ྗ,དི,འ,ཨ])([ོ,ེ,ུ,ི,ྀ]་?))',r'\1\3་\3\4',line)
                 
                 # Reverse Gigu:
                 line = re.sub(r'([^་\n\s།]*)འྀ་',r'\1འི་',line) #for genitive          
