@@ -27,7 +27,7 @@ def ensureverbs():
         line = source_file.readline()
     source_file.close()
 
-VERBPAT = re.compile("([^/ ]+)/+[^ v]*v\.[^ ]+ ") #་this one isn't working!!! but the next one is :)
+VERBPAT = re.compile("([^/ ]+)/+[^ v]*v\.[^ ]+ ") #་this one IS working!!!
 VERBCASEPAT = re.compile(r"/(?P<firsttag>[^\s]+\.)(?P<second>[^ \.]+\s+[^/ ]+/+)(?P<caseorcv>case|cv)\.")
 
 def verbrepl(matchobj, VERBS):
@@ -62,7 +62,31 @@ def verbcaselookup(posstr):
 def forcedpos2(posstr):
     posstr = re.sub(r'(^|\s)([^\s]+)(//?)cl.quot\s([^\s]+)(//?)case.([^\s]+)\s', r'\1\2\3cl.quot \4\5cv.\6 ', posstr)
     posstr = re.sub(r'(^|\s)([^\s]+)(//?)adj\s([^\s]+)(//?)cv.([^\s]+)\s', r'\1\2\3adj \4\5case.\6 ', posstr)
-    print(posstr)
+    posstr = re.sub(r'(^|\s)ལ(//?)case.all\sས་(//?)([^\s]+)\s', r'\1ལས་\2case.abl ', posstr)
+    posstr = re.sub(r'(//?)n.count\sཅན་(//?)([^\s]+)\s', r'ཅན་/n.count ', posstr)
+    posstr = re.sub(r'\sཕྱིར(་?)(//?)([^\s]+)\s', r' ཕྱི/n.count ར\1/case.term ', posstr)
+    posstr = re.sub(r'gen\sཕྱི/n.count ར(་?)/case.term\s', r'gen ཕྱི/n.rel ར\1/case.term ', posstr)
+    posstr = re.sub(r'\sཅི(་?)(//?)([^\s]+)\sསྲིད(་?)(//?)([^\s]+)\s', r' ཅི་སྲིད\4/p.interrog ', posstr)
+    posstr = re.sub(r'\sཡ(་?)(//?)([^\s]+)\sརེ(་?)(//?)([^\s]+)\s', r' ཡ་རེ\4/d.quant ', posstr)
+    posstr = re.sub(r'\sསླན(་?)(//?)([^\s]+)\sཅད(་?)(//?)([^\s]+)\s', r' སླན་ཅད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sསླན(་?)(//?)([^\s]+)\sཆད(་?)(//?)([^\s]+)\s', r' སླན་ཆད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sཕྱིན(་?)(//?)([^\s]+)\sཅད(་?)(//?)([^\s]+)\s', r' ཕྱིན་ཅད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sཕྱིན(་?)(//?)([^\s]+)\sཆད(་?)(//?)([^\s]+)\s', r' ཕྱིན་ཆད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sསྔོན(་?)(//?)([^\s]+)\sཆད(་?)(//?)([^\s]+)\s', r' སྔོན་ཆད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sསྔོན(་?)(//?)([^\s]+)\sཅད(་?)(//?)([^\s]+)\s', r' སྔོན་ཅད\4/adv.dir ', posstr)
+    posstr = re.sub(r'\sབདག(་?)(//?)([^\s]+)\sགི(་?)(//?)([^\s]+)\sབ(་?)(//?)([^\s]+)', r' བདག་གི་བ\7/n.count ', posstr)
+
+#forcing specific Buddhist/Sanskrit terms and names:
+    posstr = re.sub(r'\sབྱང་ཆུབ(་?)(//?)([^\s]+)\sསེམས་དཔའ(་?)(//?)([^\s]+)\s', r' བྱང་ཆུབ་སེམས་དཔའ\4/n.count ', posstr)
+    posstr = re.sub(r'\sདེ་བཞིན(་?)(//?)([^\s]+)\sགཤེགས་པ(་?)(//?)([^\s]+)\s', r' དེ་བཞིན་གཤེགས་པ\4/n.count ', posstr)
+    posstr = re.sub(r'\sཡང(་?)(//?)([^\s]+)\sདག་པ(་?)(//?)([^\s]+)\s', r' ཡང་དག་པ\4/n.count ', posstr)
+    posstr = re.sub(r'\sལྷ(་?)(//?)([^\s]+)\sམཛེས(་?)(//?)([^\s]+)\s', r' ལྷ་མཛེས\4/n.prop ', posstr)
+    posstr = re.sub(r'\sཤི(་?)(//?)([^\s]+)\sབི(་?)(//?)([^\s]+)\s', r' ཤི་བི\4/n.prop ', posstr)
+    posstr = re.sub(r'\sཉུག(་?)(//?)([^\s]+)\sརུམ(་?)(//?)([^\s]+)\s', r' ཉུག་རུམ\4/n.count ', posstr)
+    posstr = re.sub(r'\sལྷ་མ(་?)(//?)([^\s]+)\sཡིན(་?)(//?)([^\s]+)\s', r' ལྷ་མ་ཡིན\4/n.count ', posstr)
+    posstr = re.sub(r'\sཀུན(་?)(//?)([^\s]+)\sཏུ(་?)(//?)([^\s]+)\sརྒྱུ་བ་(་?)(//?)([^\s]+)\s', r' ཀུན་ཏུ་རྒྱུ་བ་\7/n.count ', posstr)
+
+    #print(posstr)
     return posstr
 
 def forcedpos(posstr):
@@ -138,6 +162,7 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:བསྒྱུར་བ)་?//?)([^\s]+)', r'\1\2n.v.fut.n.v.past.gyur', posstr)
     posstr = re.sub(r'(^|\s)((?:གྱུར)་?//?)([^\s]+)', r'\1\2v.past.gyur', posstr)
     posstr = re.sub(r'(^|\s)((?:གྱུར་བ)་?//?)([^\s]+)', r'\1\2n.v.past.gyur', posstr)
+    posstr = re.sub(r'(^|\s)((?:གྱུར་པ)་?//?)([^\s]+)', r'\1\2n.v.past.gyur', posstr)
     posstr = re.sub(r'(^|\s)((?:གྱུརད)་?//?)([^\s]+)', r'\1\2v.past.gyur', posstr)
     posstr = re.sub(r'(^|\s)((?:གྱུརད་བ)་?//?)([^\s]+)', r'\1\2n.v.past.gyur', posstr)
     posstr = re.sub(r'(^|\s)((?:བསྒྱུརད)་?//?)([^\s]+)', r'\1\2v.past.gyur', posstr)
@@ -164,7 +189,7 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:བྱོས་པ)་?//?)([^\s]+)', r'\1\2n.v.ipv.byed', posstr)
     posstr = re.sub(r'(^|\s)((?:ཤོག)་?//?)([^\s]+)', r'\1\2v.invar.shog', posstr)
     posstr = re.sub(r'(^|\s)((?:ཤོག་པ)་?//?)([^\s]+)', r'\1\2n.v.invar.shog', posstr)
-    posstr = re.sub(r'(^|\s)((?:ཤོག)་?//?)([^\s]+)(\s(?:ཅིག)་?/cv.ipv)', r'\1\2v.ipv.ong\4', posstr)
+    posstr = re.sub(r'(^|\s)((?:ཤོག)་?//?)([^\s]+)\s([^\s]+)(་?)(//?)cv.ipv', r'\1\2v.ipv.ong \4\5\6cv.ipv', posstr)
     posstr = re.sub(r'(^|\s)((?:ཡོང)་?//?)([^\s]+)', r'\1\2v.invar.yong', posstr)
     posstr = re.sub(r'(^|\s)((?:ཡོང་བ)་?//?)([^\s]+)', r'\1\2n.v.invar.yong', posstr)
     posstr = re.sub(r'(^|\s)((?:ཡིན་ལུགས)་?//?)([^\s]+)', r'\1\2n.v.fut.n.v.pres.yinlugs', posstr)
@@ -315,7 +340,7 @@ def getpage(p):
     return xmlcorpus
 
 def remove_spur_chars(s):
-    s = re.sub(r"(\(|\)|\\|\$|\"|-|\.|\*|=|£|¥|\+|è|%|;|¿|¡|¤|\?)+","",s)
+    s = re.sub(r"(\(|\)|\\|\$|\"|-|\.|=|£|¥|\+|è|%|;|¿|¡|¤|\?)+","",s)
     #s = re.sub(r"[A-Za-z0-9]+","",s) #to keep line and page numbers
     return s
 
@@ -332,12 +357,15 @@ def sylsplit(child):
     It takes child as its argument as these are the children of p (=tei:p);
     both the tei:milestone markup for line numbers and the text are children.
     """
-
+    #print(child)
     #add newlines after Tibetan
     child = re.sub(r"([ༀ-࿘])([^ༀ-࿘])",r"\1\n\2",child) 
+    child = re.sub(r"([ༀ-࿘])\n\[",r"\1[",child) 
 
     #add newlines before Tibetan
     child = re.sub(r"([^ༀ-࿘])([ༀ-࿘])",r"\1\n\2",child) 
+    child = re.sub(r"\]\n([ༀ-࿘])",r"]\1",child)
+    child = re.sub(r"\*\n([ༀ-࿘])",r"*\1",child)
     
     #Add newline & utt after shad and the like.
     child = re.sub(r"([།-༔])",r"\n\1\n<utt>\n",child) 
@@ -390,6 +418,7 @@ def post_seg_processing_str(srcstr):
     
     # གྱིས & al. are wrongly tagged as /SS or /ES, in that case they should not
     # be split
+    #print(srcstr)
     srcstr = re.sub(r'(^|[\n་ ])((?:གིས|ཀྱིས|ཡིས|ཅེས|ཞེས|གྱིས)་?)//?[ES]S ?', r'\2\n', srcstr)
 
     # splitting ra and sa before /ES and /SS
@@ -427,6 +456,8 @@ def post_seg_processing_str(srcstr):
     srcstr = re.sub('([^ༀ་ ཀ-\u0fbc\n༠-༳])([ༀ་ཀ-\u0fbc])',r'\1\n\2',srcstr)
 
     srcstr = re.sub(r'(?:^|\n)[^\n]+་[^\n]+(?=$|\n)', lambda m: lexiconsegment(m.group(0)), srcstr)
+    srcstr = re.sub(r'\*\n','*', srcstr)
+    #print(srcstr)
     return srcstr    
 
 def run_mbt(inputstr, settingsfile):
@@ -452,42 +483,68 @@ def correctutts(posstr):
     #posstr = re.sub(r'\n',r' ',posstr) #delete all \n before adding the following:
 
     #add <utt> after cv.fin
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.fin [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/cv\.fin)(?!\s།/punc)',r'\1 <utt>',posstr)
 
+    #add <utt> after cv.impf
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.impf)(?!\s།/punc)',r'\1 <utt>',posstr)
+
+    #add <utt> after case.impf + (double) shad
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case.impf)(?!\s།/punc)',r'n.v.\1\2 <utt>',posstr)
+
     #add <utt> after case.nare
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/case\.nare [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/case\.nare)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     #add <utt> after cv.ass + (double) shad
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ass [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/cv\.ass)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     # add <utt> after case.ass if it's following a verbal noun (this means merging sentences with verbal nouns that are names etc.)
@@ -496,16 +553,16 @@ def correctutts(posstr):
     posstr = re.sub(r'([ༀ-࿘]*//?n\.v\.[^\s]*\sདང་?/case\.ass)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     #add <utt> after cv.ipv + (double) shad
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/cv\.ipv)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     # add <utt> after case.ipv if it's following a verbal noun (this means merging sentences with verbal nouns that are names etc.)
@@ -514,25 +571,25 @@ def correctutts(posstr):
     posstr = re.sub(r'([ༀ-࿘]*//?n\.v\.[^\s]*\s[ༀ-࿘]*་?/case\.ipv)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     # add <utt> after verbs + (double) shad
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\sp[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\sln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[།༔]/punc <utt> [།༔]/punc)',r'\1 <utt>',posstr) #this doesn't prevent it from going wrong later
-    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*\s[།༔]/punc)', r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\sp[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\sln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*//?v\.[^\s]*\s[༑།༔]/punc <utt> [༑།༔]/punc)',r'\1 <utt>',posstr) #this doesn't prevent it from going wrong later
+    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*\s[༑།༔]/punc)', r'\1 <utt>',posstr)
 
     #add <utt> after cv.sem + (double) shad
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.sem [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/cv\.sem)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     # remove <utt> after cv.sem if it is followed by a single verb and one of the following cv's (ie. subordinating conjunctions)
@@ -546,17 +603,41 @@ def correctutts(posstr):
     posstr = re.sub(r'(cv\.sem\s)<utt>\s([ༀ-࿘]*//?v\.[^\s]*\s[ༀ-࿘]*//?cv\.ela\s)',r'\1 \2',posstr)
     posstr = re.sub(r'(cv\.sem\s)<utt>\s([ༀ-࿘]*//?v\.[^\s]*\s[ༀ-࿘]*//?cv\.cont\s)',r'\1 \2',posstr)
 
+    #add <utt> after case.sem + (double) shad
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem [༑།༔]/punc)\s?\n?',r'n.v.\1\2 <utt>',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem)(?!\s།/punc)',r'n.v.\1\2 <utt>',posstr)
+
+    # remove <utt> after case.sem if it is followed by a single verb and one of the following case's (ie. subordinating conjunctions)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.loc\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.gen\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.term\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.rung\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.odd\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.all\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.agn\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.ela\s)',r'\1 \2',posstr)
+    posstr = re.sub(r'n.v.([^\s]+)\s([ༀ-࿘]*/case\.sem\s)<utt>\s([ༀ-࿘]*//?n.v\.[^\s]*\s[ༀ-࿘]*//?case\.cont\s)',r'\1 \2',posstr)
+
     #add <utt> after cv.ques + (double) shad
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc [།༔]/punc)',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc [༑།༔]/punc)',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cv\.ques [༑།༔]/punc)(?!\s།/punc)',r'\1 <utt>',posstr)
     posstr = re.sub(r'([ༀ-࿘]*/cv\.ques)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     # add <utt> after case.ques if it's following a verbal noun (this means merging sentences with verbal nouns that are names etc.)
@@ -565,18 +646,33 @@ def correctutts(posstr):
     posstr = re.sub(r'([ༀ-࿘]*//?n\.v\.[^\s]*\s[ༀ-࿘]*་?/case\.ques)(?!\s།/punc)',r'\1 <utt>',posstr)
 
     #     #add <utt> after verbs + (double) shad
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc [།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
-    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [།༔]/punc)\s?\n',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'\1 <utt>',posstr)
+    # posstr = re.sub(r'((v\.aux|v\.cop\.neg|v\.cop|v\.fut\.v\.past|v\.fut\.v\.pres|v\.fut|v\.imp|v\.invar|v\.neg|v\.past\.v\.pres|v\.past|v\.pres) [༑།༔]/punc)\s?\n',r'\1 <utt>',posstr)
+
+    #add <utt> before cl.quot
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot p[0-9]*/page\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot ln[0-9]*/line\.num [༑།༔]/punc [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc [༑།༔]/punc)',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot p[0-9]*/page\.num [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot ln[0-9]*/line\.num [༑།༔]/punc)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc p[0-9]*/page\.num)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc ln[0-9]*/line\.num)\s?\n?',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot [༑།༔]/punc)(?!\s།/punc)',r'<utt> \1',posstr)
+    posstr = re.sub(r'([ༀ-࿘]*/cl.quot)(?!\s།/punc)',r'<utt> \1',posstr)
 
     #remove <utt> in between double shad
-    posstr = re.sub(r'([།༔]/punc)\s<utt>(\s?[།༔]/punc)',r'\1 \2',posstr)
-    posstr = re.sub(r'\s+',r' ',posstr)
+    posstr = re.sub(r'([༑།༔]/punc)\s<utt>(\s?[༑།༔]/punc)',r'\1 \2',posstr)
     posstr = re.sub(r'\n+',r'',posstr)
-    posstr = re.sub(r'<utt> ',r'<utt>\n',posstr)#capture <utt> + space to ensure no space at start of the line
+    posstr = re.sub(r'<utt>',r'<utt> ',posstr) #capture <utt> + space to ensure no space at start of the line
+    posstr = re.sub(r'\s+',r' ',posstr)
+    posstr = re.sub(r'<utt> ',r'<utt>\n',posstr) #capture <utt> + space to ensure no space at start of the line
+    posstr = re.sub(r'<utt>\n<utt>',r'<utt>',posstr) #capture <utt> + space to ensure no space at start of the line
     #print(posstr)
     return posstr
 
@@ -626,20 +722,20 @@ def process(inp, pyrrhaoutp, posoutp, segoutp, input_format="txt", pipeline="seg
     posstr = createpyrrha(posstr)
     pyrrhaoutp.write(posstr)
 
-def processtxtstr(inputstr, pipeline="seg:pos"):
+def processtxtstr(inputstr, pipeline="seg:pos"): #we appear to not be using this right now...
     segstr = run_mbt(inputstr, 'conf/segmenting/segtrain.txt.settings')
     segstr = post_seg_processing_str(segstr)
     if pipeline == 'seg':
         segstr = format_seg_for_output(segstr)
         return segstr
     posstr = run_mbt(segstr, 'conf/pos-tagging/TibTrain5.txt.settings')
-
     ensureverbs()
     posstr = verblook(posstr, VERBS)
     posstr = forcedpos(posstr)
     posstr = verbcaselookup(posstr)
+    posstr = correctutts(posstr)
     posstr = forcedpos2(posstr)
-    print(posstr)
+    #print(posstr)
     return posstr
 
 def processfiles(filename, segoutfilename, posoutfilename, pyrrhaoutfilename, pipeline="seg:pos", input_format="txt"):
