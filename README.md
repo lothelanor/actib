@@ -96,4 +96,4 @@ Special thanks to Elie Roux and Kitty Liu for helpful comments and suggestions w
 
 ## Available Corpora
 
-The current version of the Annotated Corpus of Classical Tibetan (ACTIB) can be found on [Zenodo](https://zenodo.org/record/3951503#.Yh5VWsanxqs).
+The most recent version of the Annotated Corpus of Classical Tibetan (ACTIB) can be found on [Zenodo](https://zenodo.org/record/3951503#.Yh5VWsanxqs). Note that this version does not yet contain the updated word + sentence segmentation and POS protocols outlined in the April 2023 version of the Annotation Manual.
