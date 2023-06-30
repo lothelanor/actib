@@ -6,11 +6,11 @@ This repository contains scripts and links to the annotated corpora of Tibetan: 
 
 The current word + sentence segmentation and POS tagging scripts reflect the detailed annotation rules outlined the Seg-POS annotation manual:
 
-**Christian Faggionato, Marieke Meelen and Nathan Hill. 2023.*** Classical Tibetan Annotation Manual Part II - Segmentation & POS tagging (1.1). Zenodo. https://doi.org/10.5281/zenodo.7880130
+**Christian Faggionato, Marieke Meelen and Nathan Hill. 2023.** Classical Tibetan Annotation Manual Part II - Segmentation & POS tagging (1.1). Zenodo. https://doi.org/10.5281/zenodo.7880130
 
 When using any part of this repo, please cite the relevant accompanying paper(s), abstracts of which can be found below. 
 
-**Christian Faggionato, Nathan Hill, and Marieke Meelen. 2022.*** NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties. In *Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia within the 13th Language Resources and Evaluation Conference*, pages 1–6, Marseille, France. European Language Resources Association. DOI: https://aclanthology.org/2022.eurali-1.1/
+**Christian Faggionato, Nathan Hill, and Marieke Meelen. 2022.** NLP Pipeline for Annotating (Endangered) Tibetan and Newar Varieties. In *Proceedings of the Workshop on Resources and Technologies for Indigenous, Endangered and Lesser-resourced Languages in Eurasia within the 13th Language Resources and Evaluation Conference*, pages 1–6, Marseille, France. European Language Resources Association. DOI: https://aclanthology.org/2022.eurali-1.1/
 
 **Meelen, Roux & Hill 2021**, 'Optimisation of the Largest Annotated Tibetan Corpus Combining Rule-based, Memory-based, and Deep-learning Methods' *ACM Transactions on Asian and Low-Resource Language Information Processing* Volume 20:1, pp 1–11, DOI: https://dl.acm.org/doi/10.1145/3409488
 
