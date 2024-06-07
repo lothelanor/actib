@@ -213,10 +213,8 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:བགྱིས་པ)་?//?)([^\s]+)', r'\1\2n.v.past.bgyid', posstr)
     posstr = re.sub(r'(^|\s)((?:བགྱི)་?//?)([^\s]+)', r'\1\2v.fut.bgyid', posstr)
     posstr = re.sub(r'(^|\s)((?:བགྱི་བ)་?//?)([^\s]+)', r'\1\2n.v.fut.bgyid', posstr)
-
     posstr = re.sub(r'(^|\s)((?:གྱིས)་?//?)([^\s]+)(\s(?:ཤིག)་?/cv.ipv)', r'\1\2v.ipv.bgyid\4', posstr)
     posstr = re.sub(r'(^|\s)((?:གྱི)་?//?)([^\s]+)(\s(?:ཅིག)་?/cv.ipv)', r'\1\2v.ipv.bgyid\4', posstr) #rules for གྱིས and གྱི as special verb and not cases
-
     posstr = re.sub(r'(^|\s)((?:འོང)་?//?)([^\s]+)', r'\1\2v.fut.v.pres.ong', posstr)
     posstr = re.sub(r'(^|\s)((?:འོང་བ)་?//?)([^\s]+)', r'\1\2n.v.fut.n.v.pres.ong', posstr)
     posstr = re.sub(r'(^|\s)((?:འོངས)་?//?)([^\s]+)', r'\1\2v.past.ong', posstr)
@@ -246,10 +244,8 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:འཚལ་བ)་?//?)([^\s]+)', r'\1\2n.v.invar.tshal2', posstr)
     posstr = re.sub(r'(^|\s)((?:མཆི)་?//?)([^\s]+)', r'\1\2v.fut.v.pres.mchi', posstr)
     posstr = re.sub(r'(^|\s)((?:མཆི་བ)་?//?)([^\s]+)', r'\1\2n.v.fut.n.v.pres.mchi', posstr)
-
     posstr = re.sub(r'(^|\s)((?:མཆིས)་?//?)([^\s]+)', r'\1\2v.invar.mchis', posstr)
     posstr = re.sub(r'(^|\s)((?:མཆིས་པ)་?//?)([^\s]+)', r'\1\2n.v.invar.mchis', posstr)
-
     posstr = re.sub(r'(^|\s)((?:དྲག)་?//?)([^\s]+)', r'\1\2v.invar.drag', posstr)
     posstr = re.sub(r'(^|\s)((?:དྲག་པ)་?//?)([^\s]+)', r'\1\2n.v.invar.drag', posstr)
     posstr = re.sub(r'(^|\s)((?:དྲགས)་?//?)([^\s]+)', r'\1\2v.past.drag', posstr)
