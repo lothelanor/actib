@@ -103,6 +103,7 @@ def forcedpos(posstr):
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཞིང|ཅིང|ཤིང)་?//?)([^\s]+)\s།', r'\1 \2cv.impf །', posstr)
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཞིང|ཅིང|ཤིང)་?//?)([^\s]+)\s', r'\1 \2cv.impf ', posstr)
     posstr = re.sub(r'(^|\s)((?:《|》|༈|༼|༽|༏|༑|༐|༒)//?)([^\s]+)', r'\1\2punc', posstr)
+    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ནས)་?//?)([^\s]+)\s', r'\1 \2cv.ela ', posstr)
     #posstr = re.sub(r'(^|\s)((?:གང|མཆོག)་?//?)([^\s]+)', r'\1\2adj', posstr) #new SOAS pos corrections starting here
     posstr = re.sub(r'(^|\s)((?:འམ)་?//?)([^\s]+)', r'\1\2cv.ques', posstr)
     posstr = re.sub(r'(^|\s)((?:ཐག)་?//?)([^\s]+)', r'\1\2v.invar.thag', posstr)
