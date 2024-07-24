@@ -96,13 +96,16 @@ def convertToUnicode(file_name):
 
                     for line in unicode:
 
-                        line = re.sub(r'§',r'*',line) #reintroduce * for editorial conventions
+                        #line = re.sub(r'§',r'*',line) #reintroduce * for editorial conventions
                         #replace double shed with two single shed
                         line = re.sub(r'༎',r'།།',line)
                         line = re.sub(r'༎༎',r'།།།།',line)
                         #regex to convert ༼tibetandigit༽ to (linenumber)
-                        line = re.sub(r'༼',r'(',line)
-                        line = re.sub(r'༽',r')',line)
+                        line = re.sub(r'༼',r'ln',line)
+                        line = re.sub(r'༽',r'',line)
+                        line = re.sub(r'ln',r'་ln',line)
+                        line = re.sub(r'།་',r'།',line) #not working some unicode issues?
+                        line = re.sub(r'\s+',r'',line)
                         line = re.sub(r'༠',r'0',line)
                         line = re.sub(r'༡',r'1',line)
                         line = re.sub(r'༢',r'2',line)
@@ -131,8 +134,12 @@ def OT_Normalised(file_name):
             for line in file_input:
 
                 count = 0
+
+
                 #Old Tibetan genitive - diphthong  ོེ་ replace with ོའི་
                 line = re.sub(r'(.*)ོེ(་?)',r'\1ོའི\2',line)
+                #we need this line becasue the diphtong 'oe' - present only in OT and not in CT - in pyewts is converted into ོཨེ
+                line = re.sub(r'ོཨེ(་?)',r'ོའི\1',line)
 
                 #Merged syllables - specific cases: 
                 line = re.sub(r'བགྱིསྣ(་?)',r'བགྱིས་ན\1',line)
@@ -149,6 +156,10 @@ def OT_Normalised(file_name):
                 line = re.sub(r'རིགསྣ(་?)',r'རིགས་ན\1',line)
                 line = re.sub(r'ཤུལྡུ(་?)',r'ཤུལ་དུ\1',line)
                 line = re.sub(r'བདགིས(་?)',r'བདག་གིས\1',line)
+                line = re.sub(r'སྨདུ(་?)',r'སྨད་དུ\1',line)
+                line = re.sub(r'རོལྡུ(་?)',r'རོལད་དུ\1',line)
+                line = re.sub(r'སྩལྡེ(་?)',r'སྩལད་དེ\1',line)
+                line = re.sub(r'རྒྱོདུ(་?)',r'རྒྱོད་དུ\1',line)
 
 
                 #Merged syllables - Rule for cases such as དྲངསྟེ > དྲངས་ཏེ
@@ -157,11 +168,15 @@ def OT_Normalised(file_name):
                 #Merged Syllables - Rule for cases as གཅལྟོ > གཅལད་ཏོ
                 line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)ྟ([ོ,ེ]་?))',r'\1\3ད་ཏ\4',line)
 
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)དེ(་?))',r'\1\3ད་དེ\4',line)
+
+
                 #Merged Syllables - Rule for cases as པགི་ > པག་གི་
                 line = re.sub(r'([^དའ*་\n\s།\(\)\[\]\-0-9])((ག)([ྀ,ི]་?))',r'\1ག་ག\4',line)
 
                 #Merged Syllables - Generic rule
-                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]{2,6})(([^ྲ,ྱ,ྩ,ྒ,ླ,ྡ,ྕ,ྟ,ྙ,ྐ,ྗ,དི,འ,ཨ])([ོ,ེ,ུ,ི,ྀ]་?))',r'\1\3་\3\4',line)
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]{2,6})(([^ྲ,ྱ,ྩ,ྒ,ླ,ྡ,ྕ,ྟ,ྙ,ྐ,ྗ,ྫ,དི,འ,ཨ])([ོ,ེ,ུ,ི,ྀ]་?))',r'\1\3་\3\4',line)
+
                 
                 # Reverse Gigu:
                 line = re.sub(r'([^་\n\s།]*)འྀ་',r'\1འི་',line) #for genitive          
@@ -196,8 +211,7 @@ def OT_Normalised(file_name):
                 line = re.sub(r'བའ(?!ི|ྀ)(་?)',r'བ\1',line)
                 line = re.sub(r'མའ(་?)',r'མ\1',line)
                 line = re.sub(r'འདྲའ(་?)',r'འདྲ\1',line)
-                line = re.sub(r'བཀྲའ(་?)',r'བཀྲ\1',line)
-                line = re.sub(r'བརྒྱའ(་?)',r'བརྒྱ\1',line)
+                line = re.sub(r'དཔྱའ(་?)',r'དཔྱ\1',line)
 
                 # ད / ན suffix variation
                 # Background: The ད / ན suffix variation is another feature of Old Tibetan. Common forms are ཆེད་པོ་ and ཅེད་པོ་
@@ -228,6 +242,8 @@ def OT_Normalised(file_name):
                 line = re.sub(r'པུལ(་?)',r'ཕུལ\1',line)
                 line = re.sub(r'བདག་ཆག(་?)',r'བདག་ཅག\1',line)
                 line = re.sub(r'པུར(་?)',r'ཕུར\1',line)
+                line = re.sub(r'པྱུང(་?)',r'ཕྱུང\1',line)
+                line = re.sub(r'ཆིང(་?)',r'ཅིང\1',line)
                 
                 # Alternation between aspirated and unaspirated voiceless consonants: ཕ / ཕོ vs པ / པོ
                 line = re.sub(r'(སྐྱེས་|བགྱིས་|བཏབ་|སོགས་|གསོལད་)ཕ((འི|ས|ར)?་?)',r'\1པ\2',line)
@@ -271,11 +287,11 @@ def OT_Normalised(file_name):
 
                 line = re.sub(r'(གཅ|གཉ|གཏ|གད|གན|གཙ|གཞ|གཟ|གཡ|གཤ|གས|དཀ|དག|དང|དཔ|དབ|དམ|བཀ|བག|བཅ|བཏ|བད|བཙ|བཞ|བཟ|བཤ|བས|མཁ|མག|མང|མཆ|མཇ|མཉ|མཐ|མད|མན|མཚ|མཛ|འཁ|འག|འཆ|འཇ|འཐ|འད|འཕ|འབ|འཚ|འཛ)(?:(འིའམ|འིའང|འོའམ|འོའང|འིས|འི|འོ|འམ|འང|འས|འད|འར))(་?)', r'\1འ་\2\3',line)
                 
-                line = re.sub(r'---',r'[]',line) #rendering missing text from --- to []
-
+                line = re.sub(r'---',r'[]',line) 
                 Normalised_OT.write(line)
 
     Normalised_OT.close()
+
 
 
 """
