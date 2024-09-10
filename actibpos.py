@@ -258,6 +258,9 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:བཞག་པ)་?//?)([^\s]+)', r'\1\2n.v.past.bzhag', posstr)
     posstr = re.sub(r'(^|\s)((?:རྒྱུ)་?//?)([^\s]+)', r'\1\2v.invar.rgyu', posstr)
     posstr = re.sub(r'(^|\s)((?:རྒྱུ་བ)་?//?)([^\s]+)', r'\1\2n.v.invar.rgyu', posstr)
+    #fixed tags for cv.agn and cv.cont
+    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཀྱིས)་?//?)([^\s]+)', r'\1 \2cv.agn', posstr)
+    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཀྱིན|གིན|གྱིན)་?//?)([^\s]+)', r'\1 \2cv.cont', posstr)
     return posstr
 
 WTConfig = Config() # TODO: load only the GMD
