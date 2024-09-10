@@ -103,7 +103,6 @@ def forcedpos(posstr):
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཞིང|ཅིང|ཤིང)་?//?)([^\s]+)\s།', r'\1 \2cv.impf །', posstr)
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཞིང|ཅིང|ཤིང)་?//?)([^\s]+)\s', r'\1 \2cv.impf ', posstr)
     posstr = re.sub(r'(^|\s)((?:《|》|༈|༼|༽|༏|༑|༐|༒)//?)([^\s]+)', r'\1\2punc', posstr)
-    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ནས)་?//?)([^\s]+)\s', r'\1 \2cv.ela ', posstr)
     #posstr = re.sub(r'(^|\s)((?:གང|མཆོག)་?//?)([^\s]+)', r'\1\2adj', posstr) #new SOAS pos corrections starting here
     posstr = re.sub(r'(^|\s)((?:འམ)་?//?)([^\s]+)', r'\1\2cv.ques', posstr)
     posstr = re.sub(r'(^|\s)((?:ཐག)་?//?)([^\s]+)', r'\1\2v.invar.thag', posstr)
@@ -258,7 +257,8 @@ def forcedpos(posstr):
     posstr = re.sub(r'(^|\s)((?:བཞག་པ)་?//?)([^\s]+)', r'\1\2n.v.past.bzhag', posstr)
     posstr = re.sub(r'(^|\s)((?:རྒྱུ)་?//?)([^\s]+)', r'\1\2v.invar.rgyu', posstr)
     posstr = re.sub(r'(^|\s)((?:རྒྱུ་བ)་?//?)([^\s]+)', r'\1\2n.v.invar.rgyu', posstr)
-    #fixed tags for cv.agn and cv.cont
+    #fixed tags for cv ela, cv.agn/ཀྱིས and cv.cont
+    posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ནས)་?//?)([^\s]+)\s', r'\1 \2cv.ela ', posstr)
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཀྱིས)་?//?)([^\s]+)', r'\1 \2cv.agn', posstr)
     posstr = re.sub(r'([ༀ-࿘]//?v\.[^\s]*)\s((?:ཀྱིན|གིན|གྱིན)་?//?)([^\s]+)', r'\1 \2cv.cont', posstr)
     return posstr
