@@ -156,10 +156,6 @@ def OT_Normalised(file_name):
                 line = re.sub(r'རིགསྣ(་?)',r'རིགས་ན\1',line)
                 line = re.sub(r'ཤུལྡུ(་?)',r'ཤུལ་དུ\1',line)
                 line = re.sub(r'བདགིས(་?)',r'བདག་གིས\1',line)
-                line = re.sub(r'སྨདུ(་?)',r'སྨད་དུ\1',line)
-                line = re.sub(r'རོལྡུ(་?)',r'རོལད་དུ\1',line)
-                line = re.sub(r'སྩལྡེ(་?)',r'སྩལད་དེ\1',line)
-                line = re.sub(r'རྒྱོདུ(་?)',r'རྒྱོད་དུ\1',line)
 
 
                 #Merged syllables - Rule for cases such as དྲངསྟེ > དྲངས་ཏེ
@@ -168,7 +164,8 @@ def OT_Normalised(file_name):
                 #Merged Syllables - Rule for cases as གཅལྟོ > གཅལད་ཏོ
                 line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)ྟ([ོ,ེ]་?))',r'\1\3ད་ཏ\4',line)
 
-                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)དེ(་?))',r'\1\3ད་དེ\4',line)
+                #Merged Syllables - Rule for cases as སྨདུ > སྨད་དུ
+                line = re.sub(r'([^་\n\s།\(\)\[\]\-0-9]+)((.)ྡ([ུ,ེ]་?))',r'\1\3ད་ད\4',line)
 
 
                 #Merged Syllables - Rule for cases as པགི་ > པག་གི་
@@ -212,6 +209,15 @@ def OT_Normalised(file_name):
                 line = re.sub(r'མའ(་?)',r'མ\1',line)
                 line = re.sub(r'འདྲའ(་?)',r'འདྲ\1',line)
                 line = re.sub(r'དཔྱའ(་?)',r'དཔྱ\1',line)
+                line = re.sub(r'དགུའ(་?)',r'དགུ\1',line)
+                line = re.sub(r'དབུའ(་?)',r'དབུ\1',line)
+                line = re.sub(r'བརྒྱའ(་?)',r'བརྒྱ\1',line)
+                line = re.sub(r'སའོ(་?)',r'སོ\1',line)
+                line = re.sub(r'མཐོའ(་?)',r'མཐོ\1',line)
+                line = re.sub(r'གོའ(་?)',r'གོ\1',line)
+                line = re.sub(r'སོའ(་?)',r'སོ\1',line)
+
+
 
                 # ད / ན suffix variation
                 # Background: The ད / ན suffix variation is another feature of Old Tibetan. Common forms are ཆེད་པོ་ and ཅེད་པོ་
