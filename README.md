@@ -30,8 +30,9 @@ This repo currently presents tools to preprocess, segment and POS tag Old and Cl
 As of December 2024 the Memory-Based Tagger can be easily installed on unix-based systems with:
 
 ```
-brew install timbl
-brew install mbtagger
+$ brew tap fbkarsdorp/homebrew-lamachine
+$ brew install mbtagger
+$ brew install timbl
 ```
 
 The conf files for the new version are slightly different from the old version, but both options are available in the conf directory. 
