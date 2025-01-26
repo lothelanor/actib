@@ -27,6 +27,15 @@ This repo currently presents tools to preprocess, segment and POS tag Old and Cl
 - [Memory-Based Tagger](https://github.com/LanguageMachines/mbt/) (for Segmentation & POS tagging)
 - [Natural Language Toolkit](https://www.nltk.org/) (for Parsing)
 
+As of December 2024 the Memory-Based Tagger can be easily installed on unix-based systems with:
+
+```
+brew install timble
+brew install mbtagger
+```
+
+The conf files for the new version are slightly different from the old version, but both options are available in the conf directory. 
+
 It also contains a preliminary sentence segmenter, which is currently only optimised for specific project purposes.
 
 Note that for POS tagging, we also tested neural-network based approaches, but results are still worse for Classical Tibetan, which is why we keep using the MBT for now. Preliminary tests with improved word embeddings indicate accuracies for BiLSTM-RNN taggers are likely to improve as soon as better embeddings are implemented (see Meelen, Roux & Hill 2021).
@@ -53,7 +62,8 @@ Phase II of our pipeline contains segmentation (of both words and sentences) as 
 
 To run the script:
 
-`python pos-directory.py <my_directory>`
+`python pos-directory.py <my_directory>` (for the new version of MBT)
+`python pos-directory-oldmbt.py <my_directory>` (for the old version of MBT)
 
 ## Parsing & SentenceIDs
 
