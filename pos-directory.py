@@ -26,11 +26,11 @@ def main():
 
     segoutpath = pathlib.Path(indir+"-out-"+dt+"/seg/")
     posoutpath = pathlib.Path(indir+"-out-"+dt+"/pos/")
-    pyrrhaoutpath = pathlib.Path(indir+"-out-"+dt+"/pyrrha/")
+    pyrrhaposoutpath = pathlib.Path(indir+"-out-"+dt+"/pyrrha/")
     segoutpath.mkdir(parents=True, exist_ok=True)
     if not SEGONLY:
         posoutpath.mkdir(parents=True, exist_ok=True)
-        pyrrhaoutpath.mkdir(parents=True, exist_ok=True)
+        pyrrhaposoutpath.mkdir(parents=True, exist_ok=True)
 
     pipeline = "seg" if SEGONLY else "seg:pos"
     

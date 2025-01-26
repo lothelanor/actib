@@ -1,8 +1,9 @@
+DATA_VERSION 2
 e <utt>
 l segtrain.txt.lex.ambi.05
-k segtrain.txt.known.dwdwdwfWawaw
-u segtrain.txt.unknown.psssdwdwdwFawaw
-p dwdwdwfWawaw
-P psssdwdwdwFawaw
-O +vS -FColumns -G K: -a0 -w2 -k1 U: -a0 -w2 -mM -k1 -dIL
-L segtrain.txt.top900
+k segtrain.txt.known.ddfa
+u segtrain.txt.unknown.dFapsss
+p ddfa
+P dFapsss
+O +vS -FColumns K: -a IGTREE +D U: -a IB1 
+L segtrain.txt.top100

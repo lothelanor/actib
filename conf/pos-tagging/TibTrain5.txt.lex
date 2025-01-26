@@ -1,364 +1,365 @@
 42297 ། punc:42297 
-11241 འི་ case.gen:11236 cv.gen:4 dunno:1 
-9997 ར་ case.term:9801 cv.term:187 dunno:2 n.count:5 skt:2 
-7603 ལ་ case.all:7178 cv.all:413 dunno:2 n.count:8 skt:2 
-7099 དང་ case.ass:6941 cv.ass:157 v.invar:1 
-5821 ས་ case.agn:5486 cv.agn:3 dunno:1 n.count:276 n.mass:51 n.rel:3 skt:1 
-4377 དེ་ cv.sem:187 d.dem:4189 dunno:1 
-4255 དུ་ case.term:3335 cv.term:920 
-4054 ནས་ case.ela:1841 cv.ela:2204 dunno:1 n.mass:8 
-2714 མི་ dunno:3 n.count:516 neg:2195 
-2600 ཀྱི་ case.gen:2545 cv.agn:1 cv.cont:1 cv.gen:53 
-2577 དེ cv.sem:425 d.dem:2152 
-2493 ན་ case.loc:1533 cv.loc:953 dunno:1 n.count:1 skt:2 v.invar:3 
-2337 ཏེ cv.sem:2337 
-2167 མ་ dunno:2 n.count:67 neg:2096 skt:2 
-2067 ནས case.ela:241 cv.ela:1826 
-2032 ས case.agn:1954 n.count:24 n.mass:3 n.rel:51 
+11241 འི་ case.gen:11204 cv.gen:37 
+9994 ར་ case.term:9799 cv.term:188 n.count:5 skt:2 
+7603 ལ་ case.all:7158 cv.all:435 n.count:8 skt:2 
+7100 དང་ case.ass:6933 cv.ass:166 v.invar:1 
+5806 ས་ case.agn:5472 cv.agn:3 n.count:277 n.mass:51 n.rel:2 skt:1 
+4409 དེ་ case.sem:6 cv.sem:181 d.dem:4222 
+4255 དུ་ case.term:3356 cv.term:899 
+4054 ནས་ case.ela:1814 cv.ela:2232 n.mass:8 
+2714 མི་ n.count:518 neg:2196 
+2600 ཀྱི་ case.gen:2474 cv.agn:1 cv.cont:1 cv.gen:124 
+2577 དེ case.sem:6 cv.sem:419 d.dem:2152 
+2494 ན་ case.loc:1556 cv.loc:932 n.count:1 skt:2 v.invar:3 
+2337 ཏེ case.sem:66 cv.sem:2271 
+2167 མ་ n.count:67 neg:2098 skt:2 
+2067 ནས case.ela:239 cv.ela:1828 
+2032 ས case.agn:1953 cv.agn:1 n.count:25 n.mass:3 n.rel:50 
 2022 འདི་ d.dem:2022 
-2006 ཡང་ adv.proclausal:391 cl.focus:1612 dunno:1 v.invar:2 
-1956 ནི་ cl.focus:1956 
-1930 ཏུ་ case.term:793 cv.term:1137 
-1878 གྱི་ case.agn:6 case.gen:1855 cv.gen:15 dunno:2 
+2006 ཡང་ cl.focus:2004 v.invar:2 
+1956 ནི་ cl.top:1956 
+1930 ཏུ་ case.term:1568 cv.term:362 
+1878 གྱི་ case.agn:6 case.gen:1812 cv.gen:60 
 1744 ཞེས་ cl.quot:1744 
 1709 རྣམས་ d.plural:1709 
-1667 ཀྱིས་ case.agn:1574 cv.agn:93 
-1561 གི་ case.agn:1 case.gen:1539 cv.gen:21 
-1540 སོ cv.fin:1540 
+1667 ཀྱིས་ case.agn:1570 cv.agn:97 
+1560 གི་ case.agn:1 case.gen:1518 cv.gen:41 
+1540 སོ case.fin:188 cv.fin:1352 
 1520 ཀྱང་ cl.focus:1520 
-1280 ཆོས་ dunno:1 n.count:1274 v.imp:5 
-1230 ལས་ case.abl:973 cv.abl:4 dunno:3 n.count:246 v.invar:4 
-1226 སུ་ case.term:996 cv.term:120 dunno:1 p.interrog:108 skt:1 
-1219 གྱིས་ case.agn:1052 cv.agn:24 dunno:2 v.imp:141 
-1216 ཞིག་ cv.imp:24 cv.impf:1 d.indef:1172 dunno:1 v.imp:3 v.past:15 
-1125 སྟེ cv.sem:1125 
-1115 ན case.loc:388 cv.loc:726 v.invar:1 
-1056 ལ adv.proclausal:27 case.all:782 cv.all:247 
-1048 ཏེ་ cv.sem:1048 
-1043 ཕྱི adv.temp:87 d.dem:70 dunno:1 n.rel:884 v.pres:1 
+1281 ཆོས་ n.count:1275 v.ipv:6 
+1230 ལས་ case.abl:973 cv.abl:5 n.count:248 v.invar:4 
+1226 སུ་ case.term:992 cv.term:125 p.interrog:108 skt:1 
+1219 གྱིས་ case.agn:1053 cv.agn:25 v.ipv.bgyid:141 
+1215 ཞིག་ cv.impf:1 cv.ipv:24 d.indef:1171 v.ipv:3 v.past:16 
+1125 སྟེ case.sem:223 cv.sem:902 
+1115 ན case.loc:415 cv.loc:699 v.invar:1 
+1056 ལ case.all:783 cv.all:246 n.count:27 
+1048 ཏེ་ case.sem:29 cv.sem:1019 
+1043 ཕྱི d.dem:70 n.count:383 n.rel:502 n.temp:87 v.pres:1 
 956 ཅེས་ cl.quot:956 
-953 ཅིག་ cv.imp:236 d.indef:717 
-942 གིས་ case.agn:904 case.gen:5 cv.agn:32 dunno:1 
-924 དག་ cl.focus:11 d.plural:882 dunno:1 v.invar:28 v.past:1 v.past.v.pres:1 
-919 ཚེ་ n.count:275 n.rel:644 
+953 ཅིག་ cv.ipv:236 d.indef:717 
+942 གིས་ case.agn:904 case.gen:5 cv.agn:33 
+924 དག་ cl.focus:11 d.plural:883 v.fut.v.past:30 
+917 ཚེ་ n.count:740 n.rel:177 
 906 ཁྱོད་ p.pers:906 
 906 བདག་ n.count:22 p.pers:861 p.refl:22 v.fut.v.pres:1 
-863 ཡིན་ v.cop:863 
-856 ཞིང་ cv.impf:747 dunno:1 n.count:108 
+863 ཡིན་ v.fut.v.pres.yin:863 
+855 ཞིང་ case.impf:6 cv.impf:742 n.count:107 
 827 རྒྱལ་པོ་ n.count:827 
 820 གཅིག་ num.card:820 
-812 འོ cv.fin:812 
-800 ལྟ cl.focus:3 n.rel:778 v.pres:19 
+812 འོ case.fin:374 cv.fin:438 
+800 ལྟ cl.focus:3 n.count:776 n.rel:2 v.pres:19 
 774 གཉིས་ num.card:774 
-763 བྱས་ v.past:763 
-735 གྱུར་ v.imp:42 v.past:693 
+763 བྱས་ v.past.byed:763 
+735 གྱུར་ v.past.gyur:735 
 721 ང་ n.count:1 p.pers:720 
-716 སྐད་ n.count:138 n.rel:574 v.invar:4 
+716 སྐད་ n.count:705 n.rel:7 v.invar:4 
 709 ཅི་ p.interrog:709 
-702 རང་ d.det:94 p.pers:33 p.refl:563 v.invar:12 
-698 བཞིན་ n.count:14 n.rel:684 
-681 ཐམས་ཅད་ d.plural:681 
+702 རང་ p.pers:33 p.refl:657 v.invar:12 
+698 བཞིན་ n.count:698 
+681 ཐམས་ཅད་ d.quant:681 
 680 བཅོམ་ལྡན་འདས་ n.count:680 
-647 དུས་ adv.temp:5 n.count:323 n.rel:319 
+647 དུས་ adv.temp:3 n.count:424 n.rel:218 n.temp:2 
 636 གསུམ་ num.card:636 
 608 ང p.pers:608 
-603 བྱུང་ v.past:603 
-599 ཏོ cv.fin:599 
-597 གང་ adj:61 dunno:2 p.interrog:505 v.invar:25 v.past:1 v.past.v.pres:3 
-597 ངོ་ cv.fin:475 dunno:1 n.count:121 
-596 ཀུན་ d.plural:596 
+603 བྱུང་ v.past.byung:603 
+599 ཏོ case.fin:6 cv.fin:593 
+597 ངོ་ case.fin:7 cv.fin:468 n.count:122 
+596 ཀུན་ d.quant:595 p.indef:1 
+596 གང་ adj:63 p.interrog:504 v.invar:25 v.past:1 v.past.v.pres:3 
 587 སངས་རྒྱས་ n.count:587 
-586 ད་ adv.temp:584 dunno:1 skt:1 
+586 ད་ adv.temp:565 n.temp:20 skt:1 
 543 རྒྱལ་པོ n.count:543 
-540 རབ་ adj:1 adv.intense:471 d.emph:57 dunno:3 n.count:8 
-537 དོ cv.fin:537 
-524 མེད་པ n.v.neg:524 
-517 ཅིང་ cv.impf:517 
+539 རབ་ adj:1 adv.intense:473 d.emph:57 n.count:8 
+537 དོ case.fin:22 cv.fin:515 
+524 མེད་པ n.v.invar.med:524 
+517 ཅིང་ case.impf:2 cv.impf:515 
 500 བུ་ n.count:500 
 499 འདི d.dem:499 
 478 བླ་མ་ n.count:478 
 477 ཆེན་པོ་ adj:477 
 476 དོན་ n.count:476 
-469 གཞན་ d.det:469 
-461 སོང་ v.imp:74 v.past:387 
-455 ཡིན v.cop:455 
-443 ར case.term:442 n.count:1 
-440 བྱེད་ v.pres:440 
+469 གཞན་ d.quant:469 
+461 སོང་ v.past.gro:461 
+455 ཡིན v.fut.v.pres.yin:455 
+444 བྱེད་ v.pres.byed:444 
+444 ར case.term:442 cv.term:1 n.count:1 
 440 སེམས་ n.count:386 v.pres:54 
 436 སྨྲས་ v.past:436 
-431 སྟེ་ cv.sem:431 
-426 ཡོད་ v.fut.v.pres:1 v.invar:425 
-422 ནི cl.focus:422 
-409 མེད་ v.neg:409 
+431 སྟེ་ case.sem:155 cv.sem:276 
+426 ཡོད་ v.invar.yod:426 
+422 ནི cl.top:422 
+409 མེད་ v.invar.med:409 
 407 ལུས་ n.count:377 v.invar:13 v.past:16 v.past.v.pres:1 
-405 མང་པོ་ adj:405 
-405 ཤིང་ cv.impf:297 n.count:106 v.invar:2 
-402 ནང་ adv.temp:8 d.dem:20 n.count:43 n.rel:331 
+405 མང་པོ་ d.quant:405 
+405 ཤིང་ case.impf:1 cv.impf:296 n.count:106 v.invar:2 
+402 ནང་ adv.temp:5 d.dem:20 n.count:184 n.rel:190 n.temp:3 
 397 ཙམ་ d.tsam:397 
 385 སྙམ་ v.fut.v.pres:100 v.invar:215 v.past.v.pres:70 
-379 གསུང་ dunno:1 n.count:87 v.fut.v.pres:7 v.invar:267 v.past.v.pres:17 
+379 གསུང་ n.count:88 v.fut.v.pres:7 v.invar:267 v.past.v.pres:17 
 375 བཀའ་ n.count:375 
-375 རོ cv.fin:369 n.count:6 
-370 ཤིག་ cv.imp:289 d.indef:78 v.imp:2 v.pres:1 
-363 བར་ d.dem:22 n.count:26 n.rel:315 
-363 ལས case.abl:362 n.count:1 
+375 རོ case.fin:59 cv.fin:310 n.count:6 
+370 ཤིག་ cv.ipv:289 d.indef:78 v.ipv:2 v.pres:1 
+363 ལས case.abl:361 cv.abl:1 n.count:1 
+359 བར་ d.dem:22 n.count:120 n.rel:217 
+357 བྱ n.count:5 v.fut.byed:352 
 353 དགེ་སློང་ n.count:353 
-350 ནོ cv.fin:350 
+350 ནོ case.fin:32 cv.fin:318 
 348 ཤིན་ adv.intense:348 
-347 བྱ n.count:5 v.fut:342 
 347 ཡུལ་ n.count:347 
-345 འགྱུར་ n.count:10 v.fut.v.pres:332 v.pres:3 
+345 འགྱུར་ n.count:10 v.fut.v.pres.gyur:335 
 345 ཡིད་ n.count:345 
-338 མཐོང་ n.count:3 v.fut.v.pres:7 v.imp:3 v.invar:151 v.past:26 v.past.v.pres:148 
+339 མཐོང་ n.count:3 v.fut.v.pres:7 v.invar:152 v.ipv:3 v.past:26 v.past.v.pres:148 
 335 སྨྲས་པ n.v.past:335 
-328 བྱ་བ་ n.v.fut:328 
+328 བྱ་བ་ n.v.fut.byed:328 
 328 ལྔ་ num.card:328 
 326 བཅུ་ num.card:324 v.pres:2 
-321 འོ་ adv.proclausal:93 cv.fin:228 
+323 འོ་ case.fin:27 cv.fin:201 d.dem:95 
 321 སྟོང་ n.count:2 num.card:312 v.fut.v.pres:1 v.invar:6 
 319 བཞི་ num.card:319 
-313 ཁྱེད་ p.pers:313 
-309 ཟེར་ n.count:2 v.fut.v.pres:145 v.invar:125 v.past:2 v.past.v.pres:31 v.pres:4 
-304 སྐྱེས་ n.count:17 v.imp:2 v.past:285 
-297 འདུག་ v.fut.v.pres:24 v.imp:9 v.invar:249 v.past:1 v.past.v.pres:14 
-297 ལོ་ cv.fin:56 cv.odd:1 n.count:240 
-294 བྱས་པ n.v.past:294 
+314 ཁྱེད་ p.pers:314 
+309 ཟེར་ n.count:2 v.invar:307 
+304 སྐྱེས་ n.count:16 v.ipv:2 v.past:286 
+297 འདུག་ v.invar.dug:297 
+297 ལོ་ case.fin:2 cv.fin:54 cv.odd:1 n.count:240 
+294 བྱས་པ n.v.past.byed:294 
 292 སེམས་ཅན་ n.count:292 
-286 རུང་ cv.rung:194 d.det:3 dunno:1 v.fut.v.pres:35 v.invar:51 v.past:2 
-284 བརྒྱ་ adv.temp:1 num.card:283 
-282 གསོལ་ n.count:12 v.fut.v.pres:20 v.imp:11 v.invar:55 v.past.v.pres:184 
+285 རུང་ case.rung:8 cv.rung:186 d.det:3 v.fut.v.pres:35 v.invar:51 v.past:2 
+284 བརྒྱ་ n.temp:1 num.card:283 
+282 གསོལ་ n.count:12 v.invar:270 
 278 གསེར་ n.count:1 n.mass:277 
 277 ཕྱག་ n.count:277 
-276 མཛད་ v.fut.v.pres:11 v.invar:205 v.past:6 v.past.v.pres:51 v.pres:3 
+276 མཛད་ v.invar.mdzad:276 
+275 གནས་ n.count:202 v.fut.v.pres:10 v.invar:61 v.past.v.pres:2 
 274 བདུན་ num.card:274 
 274 སྨྲས་པ་ n.v.past:274 
-273 གནས་ n.count:202 v.fut.v.pres:10 v.invar:59 v.past.v.pres:2 
-272 གསུངས་ n.count:1 v.imp:4 v.past:267 
+272 གསུངས་ n.count:1 v.ipv:4 v.past:267 
 272 བསྟན་པ་ n.v.past:272 
-270 ཡི་ case.gen:194 dunno:1 n.count:75 
-267 དགའ་ dunno:2 n.count:9 v.fut.v.pres:52 v.invar:142 v.past:1 v.past.v.pres:49 v.pres:12 
+270 ཡི་ case.gen:191 cv.gen:3 n.count:76 
+267 དགའ་ n.count:11 v.invar:244 v.pres:12 
 262 རིན་པོ་ཆེ་ adj:98 n.count:11 n.mass:153 
 262 སོགས་པ་ n.v.invar:262 
 261 བརྒྱད་ num.card:261 
 260 བླ་མ n.count:260 
-259 བྱུང་བ n.v.past:259 
+259 བྱུང་བ n.v.past.byung:259 
 258 ཐུགས་ n.count:258 
-257 སྔོན་ adv.temp:256 n.rel:1 
-254 མེད་པ་ n.v.neg:254 
+257 སྔོན་ adv.temp:184 n.temp:73 
+254 མེད་པ་ n.v.invar.med:254 
 252 བསྟན་ n.count:11 v.fut:69 v.fut.v.past:77 v.past:95 
-251 འཁོར་ dunno:1 n.count:225 v.fut.v.pres:6 v.invar:11 v.past:3 v.past.v.pres:5 
-249 ལམ་ cv.ques:11 dunno:1 n.count:237 
-246 ཁ་ d.det:2 dunno:1 n.count:93 n.rel:3 p.indef:147 
+251 འཁོར་ n.count:226 v.fut.v.pres:6 v.invar:11 v.past:3 v.past.v.pres:5 
+249 ལམ་ case.ques:3 cv.ques:8 n.count:238 
+246 ཁ་ d.quant:2 n.count:95 n.rel:2 p.indef:147 
 246 ཐོས་ n.count:3 v.fut.v.pres:2 v.invar:67 v.past:6 v.past.v.pres:168 
 244 ཉིད་ d.emph:243 p.pers:1 
-244 བྱ་བ n.v.fut:244 
+244 བྱ་བ n.v.fut.byed:244 
 242 ལྷ་ n.count:242 
 237 ཆེན་པོ adj:237 
-237 ཚེ n.count:56 n.rel:181 
-237 ཡིན་པ n.v.cop:237 
-237 ལན་ n.count:226 v.fut.v.pres:2 v.imp:3 v.invar:6 
+237 ཚེ n.count:236 n.rel:1 
+237 ཡིན་པ n.v.fut.n.v.pres.yin:237 
 236 མྱ་ངན་ n.count:236 
-236 སྔ adv.temp:234 n.rel:1 v.invar:1 
+236 ལན་ n.count:225 v.fut.v.pres:2 v.invar:6 v.ipv:3 
+236 སྔ n.rel:1 n.temp:234 v.invar:1 
 233 དུ case.term:215 cv.term:18 
 229 སྟོན་པ་ n.count:135 n.v.pres:94 
 225 ཡོངས་ d.plural:220 v.past:5 
 221 ཞུས་པ n.v.past:221 
 219 ཅི p.interrog:219 
 218 ཞལ་ n.count:218 
-218 ཡོད་པ n.v.invar:218 
-218 རིགས་ n.count:144 v.fut.v.pres:39 v.invar:35 
+218 ཡོད་པ n.v.invar.yod:218 
+217 རིགས་ n.count:143 v.invar:74 
 216 རྗེ་བཙུན་ n.count:216 
 214 རྗེ་ n.count:210 n.prop:1 v.pres:3 
 213 རྣམ་པ n.count:213 
-212 བྱེད་པ n.v.pres:212 
+212 བྱེད་པ n.v.pres.byed:212 
 212 བྲམ་ཟེ་ n.count:212 
-212 འདྲ་ n.rel:102 v.fut.v.pres:6 v.invar:104 
-211 ཇི་ p.interrog:211 
-211 ལྟ་བུ n.rel:211 
-209 དྲུང་ n.rel:209 
-208 དབང་ n.count:199 v.fut.v.pres:3 v.invar:6 
-208 མེད v.neg:208 
+212 འདྲ་ n.count:102 v.invar.dra2:110 
+211 ལྟ་བུ n.count:210 n.rel:1 
+210 ཇི་ p.interrog:210 
+209 དབང་ n.count:199 v.fut.v.pres:3 v.invar:7 
+209 དྲུང་ n.count:52 n.rel:157 
+208 མེད v.invar.med:208 
 207 དྲུག་ num.card:207 
-207 བྱེད་པ་ n.v.pres:207 
+207 བྱེད་པ་ n.v.pres.byed:207 
 206 བུ་མོ་ n.count:206 
-206 ཡོད་པ་ n.v.invar:206 
-204 སོགས་ d.det:148 v.fut.v.pres:1 v.invar:55 
+206 ཡོད་པ་ n.v.invar.yod:206 
+204 སོགས་ d.quant:148 v.fut.v.pres:1 v.invar:55 
 203 གདམས་ངག་ n.count:203 
-202 བཞུགས་ dunno:1 v.fut.v.pres:18 v.imp:8 v.invar:160 v.past.v.pres:15 
-201 སྲས་ n.count:201 
+202 བཞུགས་ v.invar:202 
+201 སྲས་ n.son:201 
 201 སློབ་དཔོན་ n.count:201 
 199 ལྷ n.count:198 n.prop:1 
-198 བྱིན་ dunno:1 n.count:88 v.imp:28 v.past:81 
-198 འདུག་པ n.v.fut.n.v.pres:13 n.v.invar:183 n.v.past:2 
+199 ཤེས་ v.invar.shes:199 
+198 བྱིན་ n.count:88 v.ipv:28 v.past:82 
+198 འདུག་པ n.v.invar.dug:198 
+197 འགྲོ་ n.count:25 v.fut.v.pres.gro:172 
 197 འཇིག་རྟེན་ n.count:197 
-196 འང་ adv.proclausal:5 cl.focus:191 
-195 འགྲོ་ n.count:25 v.fut.v.pres:170 
+196 འང་ cl.focus:196 
 194 དང་པོ་ num.ord:194 
-193 ཤེས་ v.aux:16 v.fut.v.pres:20 v.invar:112 v.past:8 v.past.v.pres:36 v.pres:1 
 192 མང་ d.det:10 v.pres:182 
-192 རྗེས་ n.count:28 n.rel:164 
-192 སྒོ་ n.count:132 n.rel:60 
-191 གནང་ v.fut.v.pres:16 v.imp:1 v.invar:113 v.past:17 v.past.v.pres:44 
-191 ཕུལ་ n.count:8 v.imp:14 v.past:169 
-189 གསོལ་བ་ n.v.fut.n.v.pres:188 n.v.past:1 
-189 སོ་ cv.fin:159 n.count:13 num.card:17 
-188 དགོས་ dunno:1 n.count:2 v.aux:124 v.fut.v.pres:11 v.invar:50 
+192 རྗེས་ n.count:150 n.rel:42 
+192 སྒོ་ n.count:188 n.rel:4 
+191 གནང་ v.fut.v.pres:16 v.invar:113 v.ipv:1 v.past:17 v.past.v.pres:44 
+191 ཕུལ་ n.count:8 v.ipv:14 v.past:169 
+190 དགོས་ n.count:2 v.invar.dgos:188 
+189 གསོལ་བ་ n.v.invar:189 
+189 སོ་ case.fin:15 cv.fin:144 n.count:13 num.card:17 
 181 ཁྱིམ་བདག་ n.count:181 
-181 ལོ cv.fin:172 n.count:7 v.fut.v.pres:1 v.invar:1 
+181 ལོ case.fin:10 cv.fin:162 n.count:7 v.fut.v.pres:1 v.invar:1 
 178 བསོད་ནམས་ n.count:178 
 178 ཞེས་པ་ cl.quot:178 
-177 ཐོབ་ v.fut.v.pres:5 v.imp:23 v.invar:90 v.past:14 v.past.v.pres:45 
+177 ཐོབ་ v.invar:177 
+176 བྱ་ n.count:52 v.fut.byed:124 
 176 རྒྱ་གར་ n.prop:176 
 175 ཀྱིས case.agn:89 cv.agn:86 
 174 བདག་ཅག་ p.pers:174 
-174 འོངས་ v.past:174 
-173 ཕྱིན་ n.count:8 v.past:165 
-173 བཟུང་ v.imp:6 v.past:167 
+174 འོངས་ v.past.ong:174 
+173 ཕྱིན་ n.count:8 v.past.gro:165 
+173 བཟུང་ v.ipv:6 v.past:167 
 173 ཡུམ་ n.count:172 n.prop:1 
-173 ལགས་ v.cop:173 
+173 ལགས་ v.invar.lags:173 
 173 ལུང་ n.count:173 
 171 བསྟན་པ n.count:6 n.v.past:165 
 170 བསམས་ v.past:170 
 170 བློན་པོ་ n.count:170 
 170 རྒྱལ་བུ་ n.count:170 
-169 ལྟ་བུ་ n.rel:169 
+169 ལྟ་བུ་ n.count:169 
 168 མངོན་པ n.count:6 n.v.past.n.v.pres:159 n.v.pres:3 
 167 ཀུན་དགའ་བོ་ n.prop:167 
-167 བྱུང་བ་ n.v.past:167 
-164 འདུག་པ་ n.v.fut.n.v.pres:5 n.v.invar:159 
+167 བྱུང་བ་ n.v.past.byung:167 
+164 འདུག་པ་ n.v.invar.dug:164 
 164 རྩ་ n.count:11 n.prop:3 n.rel:1 num.card:149 
 162 བཏང་ v.past:162 
-161 གོ cv.fin:144 n.count:4 v.fut.v.pres:2 v.invar:8 v.past:3 
+161 གོ case.fin:30 cv.fin:114 n.count:4 v.fut.v.pres:2 v.invar:8 v.past:3 
 161 འདས་པ n.v.past:161 
 160 བཟང་པོ་ adj:160 
 159 ཁྱིམ་ n.count:159 
 159 སྐུ་ n.count:159 
 158 ལྡན་པ n.v.past.n.v.pres:156 n.v.pres:2 
-157 ཐག་ n.count:39 v.aux:112 v.invar:4 v.past:1 v.past.v.pres:1 
-157 འཚལ་ v.fut.v.pres:70 v.invar:60 v.past:3 v.past.v.pres:24 
-156 བྱ་ n.count:52 v.fut:104 
-156 ལྟ་ cl.focus:18 dunno:1 n.rel:108 v.pres:29 
+157 འཚལ་ v.fut.v.pres.tshal1:116 v.invar.tshal2:41 
+156 ཐག་ n.count:38 v.invar.thag:118 
+156 ལྟ་ cl.focus:18 n.count:109 v.pres:29 
 156 ལྡན་པ་ n.v.past.n.v.pres:155 n.v.pres:1 
 156 སོགས་པ n.v.invar:156 
+155 རེ་ d.quant:82 n.count:36 num.card:2 p.indef:22 v.fut.v.pres:2 v.invar:5 v.past:1 v.past.v.pres:4 v.pres:1 
 155 སྣ་ཚོགས་ d.plural:155 
-154 བྱས་པ་ n.v.past:154 
+154 བྱས་པ་ n.v.past.byed:154 
 154 ཚོགས་ n.count:132 v.invar:18 v.past.v.pres:4 
-153 ཐོབ་པ n.count:1 n.v.fut.n.v.pres:6 n.v.invar:141 n.v.past:5 
+153 ཐོབ་པ n.count:1 n.v.invar:152 
 153 མིག་ n.count:153 
-153 འབྱུང་ n.count:2 v.fut.v.pres:150 v.pres:1 
-152 གྱིས case.agn:50 cv.agn:57 dunno:1 v.imp:44 
+153 འབྱུང་ n.count:2 v.fut.v.pres.byung:151 
+152 གྱིས case.agn:51 cv.agn:57 v.ipv.bgyid:44 
 152 དགེ་འདུན་ n.count:152 
-152 རེ་ d.det:78 dunno:10 n.count:37 num.card:2 p.indef:12 v.fut.v.pres:2 v.invar:5 v.past:1 v.past.v.pres:4 v.pres:1 
-151 སྤྱན་ n.count:151 
-150 འདོད་ n.count:14 v.aux:19 v.fut.v.pres:18 v.invar:92 v.past:1 v.past.v.pres:5 v.pres:1 
+150 སྤྱན་ n.count:150 
+149 འདོད་ n.count:13 v.invar.dod:136 
 149 སྦྱིན་པ་ n.v.pres:149 
-148 ཤིག cv.imp:145 d.indef:2 v.imp:1 
-147 བྱོན་ v.imp:6 v.past:141 
+148 ཤིག cv.ipv:145 d.indef:2 v.ipv:1 
+147 བྱོན་ v.past:147 
+146 ཁོང་ n.count:29 p.pers:115 v.ipv:2 
 146 ཁྱེའུ་ n.count:146 
-145 ཁོང་ n.count:6 n.rel:23 p.pers:114 v.imp:2 
 145 དམ་པ n.v.invar:145 
-145 འདུག v.fut.v.pres:18 v.invar:127 
+145 འདུག v.invar.dug:145 
 145 ཡོན་ཏན་ n.count:145 
-145 རོ་ cv.fin:68 n.count:77 
+145 རོ་ case.fin:7 cv.fin:61 n.count:77 
 144 ན་རེ case.nare:144 
-144 ཕྱོགས་ dunno:1 n.count:95 n.rel:44 v.invar:3 v.past:1 
-144 བླངས་ v.imp:1 v.past:143 
+144 ཕྱོགས་ n.count:114 n.rel:26 v.invar:3 v.past:1 
+144 བླངས་ v.ipv:1 v.past:143 
 144 འབྲས་བུ་ n.count:144 
 143 གླིང་ n.count:143 
-143 རྣམ་པ་ n.count:143 
+142 བས་ case.comp:139 cv.comp:2 v.past:1 
+142 རྣམ་པ་ n.count:142 
 141 བཏབ་ v.past:141 
 141 སྡུག་བསྔལ་ n.count:141 
-140 ཅིག cv.imp:121 d.indef:19 
+140 ཅིག cv.ipv:121 d.indef:19 
 139 རྟག་ v.fut.v.pres:128 v.invar:11 
-137 གལ་ adv.proclausal:130 n.count:6 v.fut.v.pres:1 
+137 གལ་ n.count:6 v.fut.v.pres:1 v.fut.v.pres.gal:130 
 136 བསྐལ་པ་ n.count:136 
-136 མཆོག་ adj:127 dunno:1 v.fut.v.pres:8 
+136 མཆོག་ adj:128 v.fut.v.pres:8 
 135 ངེད་ p.pers:135 
-135 ཤེས་པ n.v.aux:27 n.v.fut.n.v.pres:16 n.v.invar:90 n.v.past:2 
+135 ཤེས་པ n.v.invar.shes:135 
+134 ཆེ་ v.pres:134 
 134 དགའ་བ n.v.fut.n.v.pres:23 n.v.invar:110 n.v.past:1 
-134 མཛད་པ n.v.fut.n.v.pres:6 n.v.invar:126 n.v.past:2 
-133 འགྲོ་བ n.count:25 n.v.fut.n.v.pres:108 
-133 སོང་བ་ n.v.past:133 
+134 མཛད་པ n.v.invar.mdzad:134 
+133 འགྲོ་བ n.v.fut.n.v.pres.gro:133 
+133 སོང་བ་ n.v.past.gro:133 
 132 གསུངས་པ n.v.past:132 
 132 ཅུ་ num.card:132 
 132 བོད་ n.prop:132 
 132 སྲོག་ n.count:132 
-131 ཆེ་ v.pres:131 
 131 མར་པ n.prop:131 
-131 འམ cv.ques:131 
+131 འམ case.ques:119 cv.ques:12 
 131 སྦྱར་ v.fut:14 v.fut.v.past:89 v.past:28 
 130 བསམ་པ་ n.v.fut:130 
-130 མཐ d.dem:1 n.count:73 n.rel:56 
-129 ཁྱེར་ v.fut:11 v.fut.v.past:56 v.imp:36 v.past:26 
+130 མཐ d.dem:1 n.count:94 n.rel:35 
+129 ཁྱེར་ v.fut:11 v.fut.v.past:56 v.ipv:36 v.past:26 
 129 མཆོད་པ་ n.v.invar:129 
-129 འགྲོ་བ་ n.count:57 n.v.fut.n.v.pres:72 
-129 འོག་ n.rel:129 
+129 འགྲོ་བ་ n.v.fut.n.v.pres.gro:129 
+129 འོག་ n.count:48 n.rel:81 
 129 སུམ་ num.card:128 v.pres:1 
+128 གོས་ n.count:111 n.mass:11 v.invar:3 v.past:3 
+128 ཆེ v.pres:128 
 128 བཞི num.card:128 
-128 ཡོད v.invar:128 
-127 གོས་ n.count:110 n.mass:11 v.invar:3 v.past:3 
+128 ཡོད v.invar.yod:128 
+128 རྒྱུ་ n.count:66 v.invar.rgyu:62 
 127 ཆུ་ n.count:13 n.mass:114 
-127 ཆེ v.pres:127 
-127 བཅས་ d.det:16 v.fut.v.pres:1 v.invar:77 v.past:27 v.past.v.pres:6 
+127 བཅས་ d.det:16 v.invar:25 v.past:27 v.past.v.pres:4 v.rel:55 
 127 བུ n.count:127 
-126 འགའ་ d.plural:126 
+127 འགའ་ d.quant:127 
+126 བཤད་ v.fut:1 v.fut.v.past:116 v.past:9 
 126 སྟོན་པ n.count:54 n.v.pres:72 
 125 ཆུང་མ་ n.count:125 
 125 དྲངས་ v.past:125 
 125 ནོར་ n.count:5 n.mass:98 v.invar:18 v.past:4 
-125 བཤད་ v.fut:1 v.fut.v.past:115 v.past:9 
 125 ཚིག་ n.count:120 v.fut.v.pres:1 v.invar:3 v.past.v.pres:1 
-125 འགྱུར v.fut.v.pres:125 
+125 འགྱུར v.fut.v.pres.gyur:125 
 124 ཟེར v.invar:124 
 124 རྒྱ་མཚོ n.count:124 
 123 ངོ་མཚར་ adj:123 
-123 དོ་ cv.fin:115 dunno:4 num.card:3 v.invar:1 
+123 དོ་ case.fin:2 cv.fin:113 n.count:3 num.card:3 v.invar:2 
 123 བྱང་ཆུབ་ n.count:123 
-122 ནམ་ cv.ques:52 n.count:18 p.interrog:52 
+122 ནམ་ case.ques:8 cv.ques:44 n.count:18 p.interrog:52 
 122 སྙིང་ n.count:122 
 122 སྩལ་ v.fut:7 v.fut.v.past:19 v.past:96 
-121 ཀ་ d.det:99 dunno:1 n.count:20 n.rel:1 
+121 ཀ་ d.quant:99 n.count:22 
 121 གསུངས་པ་ n.v.past:121 
-121 བསྐྱེད་ v.fut:1 v.fut.v.past:93 v.imp:5 v.past:22 
-121 བྱས v.past:121 
+121 བསྐྱེད་ v.fut:1 v.fut.v.past:93 v.ipv:5 v.past:22 
+121 བྱས v.past.byed:121 
 121 མིང་ n.count:121 
-121 ཟེར་བ་ n.v.fut.n.v.pres:121 
-121 འདོད་པ་ n.v.fut.n.v.pres:1 n.v.invar:117 n.v.past:3 
+121 ཟེར་བ་ n.v.invar:121 
+121 འདོད་པ་ n.v.invar.dod:121 
 120 ཕྲག་ n.count:4 num.card:116 
 119 བཅས་པ་ n.v.invar:118 n.v.past:1 
 118 ནམ་མཁའ་ n.count:118 
-118 མཚན་ adv.temp:9 n.count:106 v.fut.v.pres:3 
+118 མཚན་ adv.temp:6 n.count:106 n.temp:3 v.fut.v.pres:3 
 118 མར་པ་ n.prop:118 
 117 ཁྲི་ n.count:27 n.prop:1 num.card:89 
 117 མཐོང་བ n.v.fut.n.v.pres:9 n.v.invar:96 n.v.past:12 
 116 ཉམས་ n.count:88 v.fut.v.pres:3 v.invar:20 v.past:5 
 116 ཞག་ n.count:116 
 116 སྨོན་ལམ་ n.count:116 
-115 ཕྱིན་པ་ n.v.past:115 
+115 ཕྱིན་པ་ n.v.past.gro:115 
 115 ཚུལ་ཁྲིམས་ n.count:115 
 115 སངས་ v.invar:52 v.past:60 v.past.v.pres:3 
-114 ཁྱད་པ adv.proclausal:114 
-114 ནུས་ n.count:1 v.aux:69 v.fut.v.pres:21 v.invar:21 v.past:2 
+114 ཁྱད་པ n.count:114 
+114 ནུས་ n.count:1 v.invar.nus:113 
 114 རྨི་ལམ་ n.count:114 
-114 ཤོག་ v.imp:114 
+114 ཤོག་ v.invar.shog:49 v.ipv.ong:65 
 113 ཟླ་བ་ n.count:112 n.v.pres:1 
 112 མཆོད་རྟེན་ n.count:112 
 111 ཐོས་པ n.v.fut.n.v.pres:1 n.v.invar:108 n.v.past:2 
-111 བོ cv.fin:111 
+111 བོ case.fin:4 cv.fin:107 
+111 ཞུ་ n.count:2 v.fut.v.pres:104 v.past:3 v.past.v.pres:2 
 110 གྲོང་ཁྱེར་ n.count:110 
-110 ཞུ་ n.count:2 v.fut.v.pres:103 v.past:3 v.past.v.pres:2 
-109 གཏམ་ n.count:108 v.past:1 
-109 སྟེང་ d.dem:1 n.rel:108 
-108 གཤེགས་ v.fut.v.pres:6 v.imp:3 v.invar:84 v.past:3 v.past.v.pres:12 
-108 གྱུར་པ་ n.v.past:108 
+109 སྟེང་ d.dem:1 n.count:52 n.rel:56 
+108 གཏམ་ n.count:107 v.past:1 
+108 གཤེགས་ v.fut.v.pres:6 v.invar:84 v.ipv:3 v.past:3 v.past.v.pres:12 
+108 གྱུར་པ་ n.v.past.gyur:108 
 108 ཕོ་བྲང་ n.count:108 
 108 ཞབས་ n.count:108 
 108 རྫོགས་པ n.v.fut.n.v.pres:1 n.v.invar:103 n.v.past:4 
+107 ཡོང་ v.invar.yong:107 
 107 རྒྱས་པ n.v.past:107 
 106 གྲངས་ n.count:105 v.past.v.pres:1 
-106 བས་ case.comp:105 v.past:1 
-106 མཛད་པ་ n.v.invar:106 
-106 ཡོང་ v.fut.v.pres:89 v.invar:17 
+106 མཛད་པ་ n.v.invar.mdzad:106 
 105 མེ་ཏོག་ n.count:105 
 105 རྙེད་ d.tsam:3 v.fut.v.pres:4 v.invar:63 v.past:29 v.past.v.pres:6 
 103 གནང་བ n.v.fut.n.v.pres:8 n.v.invar:86 n.v.past:9 
@@ -367,67 +368,67 @@
 102 གསུངས v.past:102 
 102 བཙུན་མོ་ n.count:102 
 102 བྱང་ཆུབ་སེམས་དཔ n.count:102 
-102 རི་ dunno:1 n.count:101 
+102 རི་ n.count:101 v.invar:1 
 102 ལེགས་པ n.v.fut.n.v.pres:1 n.v.invar:101 
 102 སྒྲ་ n.count:102 
-101 འགྲོ v.fut.v.pres:101 
-100 བྱེད v.pres:100 
+101 བྱེད v.pres.byed:101 
+101 འགྲོ v.fut.v.pres.gro:101 
 100 ཞེས་པ cl.quot:100 
-100 ལགས v.cop:100 
+100 ལགས v.invar.lags:100 
 100 སྩལ་པ n.v.past:100 
-99 དག་པ n.v.invar:96 n.v.past:3 
-99 ནོ་ cv.fin:99 
-99 འབྱུང་བ n.v.fut.n.v.pres:99 
+99 དག་པ n.v.fut.n.v.past:99 
+99 ནོ་ case.fin:4 cv.fin:95 
+99 འབྱུང་བ n.v.fut.n.v.pres.byung:99 
 98 དགེ་བ་ n.prop:1 n.v.fut.n.v.pres:8 n.v.invar:89 
 98 བདེ་བ n.v.fut.n.v.pres:11 n.v.invar:86 n.v.past:1 
 97 ལྡན་ v.fut.v.pres:28 v.invar:67 v.past.v.pres:2 
-97 ཤོག v.imp:97 
+97 ཤོག v.invar.shog:97 
 96 གཉིས་པ་ num.ord:96 
-96 གསོལ་པ་ n.v.past.n.v.pres:96 
+96 གསོལ་པ་ n.v.invar:96 
 96 ཐབས་ n.count:96 
 96 ཕ་མ་ n.count:96 
 96 མི n.count:96 
-95 དགོས་པ་ n.v.aux:20 n.v.fut.n.v.pres:5 n.v.invar:70 
+95 དགོས་པ་ n.v.invar.dgos:95 
 95 མཐུ་ n.count:95 
 95 ལོངས་སྤྱོད་ n.count:95 
 95 སྣ་ n.count:95 
 94 ལྷག་པ n.v.invar:94 
-93 ཞུགས་ v.imp:2 v.past:91 
 93 སྐྱེ་བ་ n.count:30 n.v.fut.n.v.pres:63 
 92 ཆེ་བ་ n.v.pres:92 
 92 མགོ་ n.count:92 
-92 མིན་ v.cop.neg:92 
+92 མིན་ v.fut.v.pres.min:92 
 92 ཚལ་ n.count:92 
+92 ཞུགས་ v.ipv:2 v.past:90 
 92 སློབ་མ་ n.count:92 
-91 ཕྱིན་པ n.v.past:91 
+91 ཕྱིན་པ n.v.past.gro:91 
 91 ཕྲད་ v.fut:9 v.fut.v.past:54 v.past:28 
 91 འདས་ v.past:91 
 90 གནས་པ n.v.fut.n.v.pres:7 n.v.invar:83 
 90 ཕུལ་བ n.v.past:90 
-90 འདྲ n.rel:17 v.fut.v.pres:2 v.invar:71 
-89 གྱུར་པ n.v.past:89 
-89 ཉོན་ dunno:1 v.imp:34 v.invar:54 
+90 འདྲ n.count:17 v.invar.dra2:73 
+89 གྱུར་པ n.v.past.gyur:89 
+89 ཉོན་ v.invar:55 v.ipv:34 
 89 བཅུག་ v.past:89 
 89 ཡབ་ n.count:89 
-88 དག d.plural:29 dunno:1 v.fut.v.pres:10 v.invar:48 
-88 དགུ་ cv.odd:1 dunno:2 num.card:85 
+88 དག d.plural:29 v.fut.v.past:59 
+88 དགུ་ cv.odd:1 num.card:85 p.indef:2 
 88 བྱང་ཆུབ་སེམས་དཔའ་ n.count:88 
 88 འཁོར་ལོ་ n.count:88 
+88 འོང་ v.fut.v.pres.ong:88 
 88 སུ case.term:60 cv.term:2 p.interrog:26 
-88 སྤྱི d.plural:88 
-87 ཀྱི case.gen:27 cv.gen:60 
+88 སྤྱི d.quant:88 
+87 ཀྱི case.gen:26 cv.gen:61 
+87 བཞག་ v.past.bzhag:87 
 87 ཚུལ་ n.count:87 
-87 ཞུས་ v.imp:22 v.past:65 
-87 འོང་ v.fut.v.pres:86 v.pres:1 
+87 ཞུས་ v.ipv:22 v.past:65 
 87 རྒྱུད་ n.count:86 v.pres:1 
 87 རྣམས d.plural:87 
-86 བཞག་ v.past:71 v.past.v.pres:15 
-86 མང་པོ adj:86 
+86 མང་པོ d.quant:86 
 86 ཟད་ v.fut.v.pres:2 v.invar:55 v.past:19 v.past.v.pres:10 
 86 ཡི་གེ་ n.count:70 n.mass:16 
-86 ཤེས་པ་ n.v.aux:8 n.v.fut.n.v.pres:11 n.v.invar:64 n.v.past:3 
-85 ཅུང་ཟད་ adj:9 adv.intense:43 d.plural:23 dunno:1 n.count:9 
-85 ལྔ adv.temp:6 num.card:79 
+86 ཤེས་པ་ n.v.invar.shes:86 
+85 ཅུང་ཟད་ adj:9 adv.intense:43 d.quant:24 n.count:9 
+85 ལྔ n.temp:6 num.card:79 
 84 ངེས་པ n.v.invar:83 n.v.past:1 
 84 འཛམ་བུ n.prop:84 
 83 ཁམས་ n.count:77 n.prop:6 
@@ -435,53 +436,52 @@
 83 བཅད་ v.past:83 
 83 མཁས་པ་ n.count:23 n.prop:1 n.v.fut.n.v.pres:1 n.v.invar:57 n.v.past:1 
 83 རུ་ case.term:55 cv.term:26 n.count:2 
-82 དྲིས་ v.imp:5 v.past:77 
+82 དྲིས་ v.ipv:5 v.past:77 
 82 བདུད་ n.count:82 
 82 བུད་མེད་ n.count:82 
-82 ལོག་ v.fut.v.pres:2 v.imp:10 v.invar:52 v.past:2 v.past.v.pres:15 v.pres:1 
+82 ལོག་ v.fut.v.pres:2 v.invar:52 v.ipv:10 v.past:2 v.past.v.pres:15 v.pres:1 
 82 ཤ་ n.mass:82 
 82 སྒྲུབ་པ་ n.v.pres:82 
-81 དགོངས་ dunno:1 v.fut.v.pres:2 v.imp:2 v.invar:55 v.past.v.pres:21 
+81 དགོངས་ v.invar:78 v.ipv:2 v.past:1 
 81 དྲང་སྲོང་ n.count:81 
 81 བཤད་པ n.v.fut:1 n.v.fut.n.v.past:79 n.v.past:1 
 81 བསམ་ n.count:57 v.fut:24 
 81 བསྒོ v.fut:81 
-81 རྒྱུ་ dunno:1 n.count:66 v.fut.v.pres:1 v.invar:13 
 81 རྟ་ n.count:81 
 81 སྤྱོད་པ་ n.v.pres:81 
 80 གསུམ་པ་ num.ord:80 
-80 ཕ་ dunno:1 n.count:79 
+80 ཕ་ n.count:80 
 80 བསྟན་བཅོས་ n.count:80 
 80 སྐྱོན་ n.count:75 v.fut.v.pres:5 
 80 སྡུག་ n.count:33 v.fut.v.pres:18 v.invar:29 
-79 ཐོབ་པ་ n.v.invar:74 n.v.past:5 
+79 ཐོབ་པ་ n.v.invar:79 
+79 ཕན་ n.count:53 v.fut.v.pres:7 v.invar:17 v.past:2 
 79 བརྩེ་བ n.v.invar:79 
 79 བྲམ་ཟེ n.count:79 
 79 བློ་ n.count:79 
 79 རྟོགས་པ n.v.fut.n.v.pres:1 n.v.invar:75 n.v.past:3 
-78 ངང་ n.count:4 n.rel:74 
+78 ངང་ n.count:64 n.rel:14 
+78 ཐོགས་ n.count:6 v.fut.v.pres:3 v.invar:49 v.ipv:7 v.past:2 v.past.v.pres:11 
 78 བལྟས་ v.past:78 
 78 རྨི v.fut.v.pres:78 
 77 ཉི་མ་ n.count:77 
-77 ཐོགས་ dunno:1 n.count:6 v.fut.v.pres:3 v.imp:7 v.invar:47 v.past:2 v.past.v.pres:11 
-77 ཕན་ n.count:53 v.fut.v.pres:7 v.invar:15 v.past:2 
 77 ཡོ་བྱད་ n.count:77 
 76 མྱུར་ v.pres:76 
 76 ཞུ v.fut.v.pres:75 v.past:1 
 76 ཟས་ n.count:76 
-76 འདྲ་བ n.v.fut.n.v.pres:9 n.v.invar:67 
-76 རྒྱ་ adv.temp:3 dunno:1 n.count:56 v.fut.v.pres:9 v.invar:7 
+76 འདྲ་བ n.v.invar:67 n.v.invar.dra2:9 
+76 རྒྱ་ adv.temp:1 n.count:57 n.temp:2 v.fut.v.pres:9 v.invar:7 
 75 ཆེ་བ n.v.pres:75 
 75 ཐོས་པ་ n.v.fut.n.v.pres:2 n.v.invar:71 n.v.past:2 
 75 བཏགས་ v.past:75 
 75 བྱོན་པ n.v.past:75 
 75 མཐོང་བ་ n.v.fut.n.v.pres:6 n.v.invar:66 n.v.past:3 
 75 རངས་ v.invar:28 v.past:1 v.past.v.pres:46 
-75 སླ adv.temp:1 n.rel:69 v.invar:5 
-74 བཞུགས་པ n.v.fut.n.v.pres:1 n.v.invar:72 n.v.past:1 
-73 གསོལ v.imp:5 v.invar:68 
-73 དམ་ cv.ques:35 n.count:34 v.fut.v.pres:4 
-73 འདོད་པ n.v.fut.n.v.pres:5 n.v.invar:65 n.v.past:3 
+75 སླ n.count:69 n.temp:1 v.invar:5 
+74 བཞུགས་པ n.v.invar:74 
+73 གསོལ v.invar:68 v.ipv:5 
+73 དམ་ case.ques:6 cv.ques:29 n.count:34 v.fut.v.pres:4 
+73 འདོད་པ n.v.invar.dod:73 
 73 ཤེས་རབ་ n.count:73 
 72 ཕ་རོལ་ n.count:72 
 72 བཅས་པ n.v.invar:71 n.v.past:1 
@@ -491,110 +491,111 @@
 72 རྒྱལ་ཕྲན་ n.count:72 
 72 ལེའུ་ n.count:72 
 71 བབ་ v.fut:1 v.fut.v.past:53 v.past:17 
-71 འཕོས་ v.imp:1 v.past:70 
-71 ཡིན་པ་ n.v.cop:71 
+71 འཕོས་ v.ipv:1 v.past:70 
+71 ཡིན་པ་ n.v.fut.n.v.pres.yin:71 
 71 ཤི་ v.past:71 
 71 སྐྱེས་པ་ n.count:9 n.v.past:62 
-71 སྙེད་ d.tsam:65 v.pres:6 
-71 སྟོབས་ n.count:61 n.rel:9 v.invar:1 
+71 སྙེད་ d.quant:65 v.pres:6 
+71 སྟོབས་ n.count:70 v.invar:1 
 70 གཉིས num.card:70 
-70 གྱུར v.past:70 
+70 གྱུར v.past.gyur:70 
 70 ཆུ n.mass:70 
 70 ཐེག་པ་ n.count:66 n.v.invar:4 
 70 བཀྲ་ཤིས་ n.count:70 
 70 ཟེར་བ n.v.fut.n.v.pres:68 n.v.past:2 
-70 འདྲ་བ་ n.v.fut.n.v.pres:10 n.v.invar:60 
+70 འདྲ་བ་ n.v.invar.dra2:70 
 70 ལ་ལ་ d.det:6 p.indef:64 
 70 ལྟ་བ་ n.v.pres:70 
-70 སླད་ n.rel:70 
-69 གདའ v.fut.v.pres:1 v.invar:68 
+70 སླད་ n.count:8 n.rel:62 
+69 ཁ d.quant:1 n.count:50 n.rel:18 
+69 གདའ v.invar.gda:69 
 69 གླུ་ n.count:69 
 69 བཤད་པ་ n.v.fut.n.v.past:68 n.v.past:1 
-69 འགྱུར་བ n.v.fut.n.v.pres:69 
-68 ཁ d.det:1 n.count:36 n.rel:31 
+69 འགྱུར་བ n.v.fut.n.v.pres.gyur:69 
 68 ཁོ་ d.emph:2 p.pers:66 
+68 གོ་ case.fin:4 cv.fin:22 n.count:5 num.card:3 v.fut.v.pres:2 v.invar:20 v.past:2 v.past.v.pres:10 
 68 བདེ་བ་ n.v.fut.n.v.pres:2 n.v.invar:66 
 68 བཟང་པོ adj:68 
 68 བླ་ n.count:65 v.invar:3 
 68 མགུར་ n.count:68 
 68 མདོ་ n.count:67 n.prop:1 
-68 ཚད་ cv.odd:5 dunno:1 n.count:61 v.invar:1 
-67 གོ་ cv.fin:26 n.count:5 num.card:3 v.fut.v.pres:2 v.invar:19 v.past:2 v.past.v.pres:10 
-67 བཞེས་ v.fut.v.pres:3 v.imp:7 v.invar:35 v.past:2 v.past.v.pres:20 
-67 བསྡུས་ v.imp:1 v.past:66 
+68 ཚད་ cv.odd:5 n.count:62 v.invar:1 
+67 བཞེས་ v.fut.v.pres:3 v.invar:35 v.ipv:7 v.past:2 v.past.v.pres:20 
+67 བསྡུས་ v.ipv:1 v.past:66 
 67 མཁས་པ n.count:6 n.v.fut.n.v.pres:1 n.v.invar:60 
+67 སྒོམ་ n.count:6 v.pres:61 
 66 ཆུང་མ n.count:66 
 66 བཏབ་པ n.v.past:66 
-66 བསྒྱུར་ v.fut:36 v.fut.v.past:15 v.past:15 
-66 མཐའ་ n.count:54 n.rel:12 
+66 བསྒྱུར་ v.fut.v.past.gyur:66 
+66 མཐའ་ n.count:61 n.rel:5 
 66 རིན་པོ་ཆེ adj:30 n.mass:36 
 66 རྒྱུན་ n.count:66 
-66 སྒོམ་ n.count:6 v.pres:60 
+66 སྒོ n.count:66 
 65 ཀུན་དགའ་བོ n.prop:65 
-65 གྲོགས་ n.count:55 v.fut.v.pres:2 v.imp:4 v.invar:4 
-65 ཐོག་ n.count:16 n.rel:49 
+65 གྲོགས་ n.count:55 v.fut.v.pres:2 v.invar:4 v.ipv:4 
+65 ཐོག་ n.count:56 n.rel:9 
 65 འཁོར་བ་ n.count:41 n.v.fut.n.v.pres:24 
-65 རྐྱེན་ n.count:62 n.rel:3 
-65 རྟོགས་ n.count:3 v.imp:1 v.invar:37 v.past:3 v.past.v.pres:21 
+65 རྐྱེན་ n.count:64 n.rel:1 
+65 རྟོགས་ n.count:3 v.invar:37 v.ipv:1 v.past:3 v.past.v.pres:21 
 64 དྲན་ n.count:7 v.fut.v.pres:24 v.invar:16 v.past.v.pres:17 
 64 བརྟེན་ v.fut:1 v.fut.v.past:18 v.past:45 
 64 མཁའ་འགྲོ n.count:64 
 64 མེ་ n.count:63 n.prop:1 
-64 འདུས་ v.imp:3 v.past:61 
+64 འདུས་ v.ipv:3 v.past:61 
 64 འབུལ་བ་ n.v.pres:64 
 64 ལུང་བསྟན་ n.count:64 
 64 སྦྲུལ་ n.count:64 
 63 ཁ་ཟས་ n.count:63 
-63 ཆར་ dunno:1 n.count:56 num.card:6 
+63 གྲགས་ n.count:3 v.invar.grags:60 
+63 ཆར་ n.count:57 num.card:6 
 63 དགའ་བ་ n.v.fut.n.v.pres:9 n.v.invar:52 n.v.past:2 
 63 པཎྜི་ཏ་ n.count:63 
-63 ཕྱུང་ v.imp:11 v.past:52 
+63 ཕྱུང་ v.ipv:11 v.past:52 
 63 རྩ་བ་ n.count:63 
 62 ཀླུ n.count:60 n.prop:2 
-62 གཟིགས་ v.fut.v.pres:1 v.imp:5 v.invar:32 v.past:2 v.past.v.pres:21 v.pres:1 
+62 གཟིགས་ v.fut.v.pres:1 v.invar:32 v.ipv:5 v.past:2 v.past.v.pres:21 v.pres:1 
 62 དབུ་ n.count:61 v.fut:1 
 62 ནད་ n.count:62 
 62 བདེན་པ་ n.v.past.n.v.pres:60 n.v.pres:2 
 62 བར་ཆད་ n.count:62 
-62 བསྐུར་ v.fut:5 v.fut.v.past:30 v.imp:7 v.past:20 
-62 མཆིས་ v.invar:26 v.past:35 v.past.v.pres:1 
-62 རྟེན་ n.count:53 n.rel:6 v.pres:3 
-61 གྲགས་པ་ n.v.invar:56 n.v.past:5 
+62 བསྐུར་ v.fut:5 v.fut.v.past:30 v.ipv:7 v.past:20 
+62 མཆིས་ v.invar.mchis:26 v.past.mchi:36 
+62 རྟེན་ n.count:54 n.rel:5 v.pres:3 
+61 གྲགས་པ་ n.v.invar.grags:61 
 61 ཉེས་པ་ n.v.invar:60 n.v.past:1 
 61 དམག་ n.count:61 
 61 དེ་བཞིན་གཤེགས་པ་ n.count:61 
-61 བཟང་ dunno:1 n.count:4 v.invar:56 
+61 བཟང་ n.count:4 v.invar:57 
 61 བརྒྱ num.card:61 
-61 འོངས་པ n.v.past:61 
-61 འོན་ adv.proclausal:55 v.imp:6 
-61 སམ cv.ques:61 
+61 འོངས་པ n.v.past.ong:61 
+61 འོན་ d.dem:55 v.ipv:6 
+61 སམ case.ques:15 cv.ques:46 
 60 ཁོ་བོ་ p.pers:60 
-60 གྲགས་ n.count:5 v.aux:4 v.fut.v.pres:1 v.invar:48 v.past:1 v.past.v.pres:1 
 60 ཐུགས་རྗེ n.count:60 
-60 ཐོག་མ n.count:50 n.rel:10 
+60 ཐོག་མ n.count:53 n.rel:7 
 60 དད་པ་ n.v.fut.n.v.pres:2 n.v.invar:58 
 60 པཎ་ཆེན་ n.count:60 
 60 བསྒོ་བ་ n.v.invar:60 
 60 བྱམས་པ n.v.fut.n.v.pres:2 n.v.invar:58 
-60 མོ cv.fin:45 n.count:6 p.pers:9 
+60 མོ case.fin:17 cv.fin:28 n.count:6 p.pers:9 
 60 ལེགས་ n.count:1 v.fut.v.pres:2 v.invar:57 
 60 སོ་སོ p.indef:60 
 60 སྡིག་པ་ n.v.pres:60 
-59 ཁྲིད་ v.fut:1 v.fut.v.past:47 v.imp:5 v.past:6 
+59 ཁྲིད་ v.fut:1 v.fut.v.past:47 v.ipv:5 v.past:6 
 59 ཕ་མ n.count:59 
 59 བཅུ num.card:59 
 59 བསོད་སྙོམས་ n.count:59 
-59 ཞེ་ cl.quot:49 dunno:1 n.count:4 num.card:5 
-59 འབའ་ d.det:59 
-59 འམ་ cv.ques:58 dunno:1 
+59 ཞེ་ cl.quot:49 n.count:5 num.card:5 
+59 འབའ་ d.quant:59 
+59 འམ་ case.ques:43 cv.ques:16 
 59 སོ་སོ་ p.indef:59 
 58 ཀླུ་ n.count:58 
 58 གླང་པོ་ཆེ་ n.count:58 
 58 བདེན་ n.count:7 v.fut.v.pres:12 v.invar:38 v.past.v.pres:1 
 58 བརྒྱ་བྱིན་ n.prop:58 
-58 མཛོད་ n.count:18 v.imp:40 
+58 མཛོད་ n.count:18 v.ipv:40 
 58 འཕགས་པ་ n.v.invar:58 
-58 ཡིས་ case.agn:49 cv.agn:9 
+58 ཡིས་ case.agn:50 cv.agn:8 
 58 རྟེན་འབྲེལ་ n.count:58 
 58 ལེན་ v.pres:58 
 58 སྦྱིན་པ n.count:4 n.v.pres:54 
@@ -602,127 +603,127 @@
 57 གནས་པ་ n.v.fut.n.v.pres:2 n.v.invar:55 
 57 ནཱ་རོ n.prop:57 
 57 འཛིན་པ་ n.v.pres:57 
-57 ཡི case.gen:57 
+57 ཡི case.gen:56 cv.gen:1 
 57 རྒྱ་མཚོ་ n.count:57 
 57 སྣང་ v.fut.v.pres:11 v.invar:41 v.past.v.pres:1 v.pres:4 
 56 ༑ punc:56 
 56 བསད་ v.past:56 
 56 བསྐོར་ v.fut:5 v.fut.v.past:35 v.past:16 
-55 གསན་ v.fut.v.pres:6 v.imp:14 v.invar:22 v.past.v.pres:13 
+55 གསན་ v.fut.v.pres:6 v.invar:22 v.ipv:14 v.past.v.pres:13 
 55 བཙུགས་ v.past:55 
 55 མཆོད་པ n.v.invar:55 
 55 མཚན་ཉིད་ n.count:55 
-55 མོད་ n.count:6 v.aux:49 
+55 མོད་ n.count:5 v.invar.mod:50 
 55 འཛིན་པ n.v.pres:55 
 55 ཡིས case.agn:51 cv.agn:4 
 55 རླུང་ n.count:55 
-55 སམ་ cv.ques:55 
+55 སམ་ case.ques:11 cv.ques:44 
 55 སྐྱེ་བ n.v.fut.n.v.pres:55 
 55 སྐྱེས་བུ་ n.count:55 
 55 སྙམ་པ་ n.v.fut.n.v.pres:2 n.v.invar:53 
-55 སྟོན་ n.count:9 v.imp:8 v.pres:38 
+55 སྟོན་ n.count:9 v.ipv:8 v.pres:38 
 55 སྤྱོད་པ n.v.pres:55 
-55 སྦྱིན་ n.count:5 v.fut.v.pres:48 v.imp:1 v.past:1 
+55 སྦྱིན་ n.count:5 v.fut.v.pres:48 v.ipv:1 v.past:1 
 55 སྨན་ n.count:2 n.mass:53 
 54 ཉིན་ adv.temp:19 n.count:35 
-54 དཀའ་བ་ n.v.aux:4 n.v.invar:50 
+54 དཀའ་བ་ n.v.invar.dka:54 
 54 ཕྱེད་ n.count:2 num.card:48 v.fut.v.pres:2 v.invar:1 v.past:1 
 54 མཁར་ n.count:54 
-54 མཛོད n.count:1 v.imp:53 
-54 རེ་རེ་ d.det:45 p.indef:9 
+54 མཛོད n.count:1 v.ipv:53 
+54 རེ་རེ་ d.quant:45 p.indef:9 
 54 རྒྱན་ n.count:53 v.pres:1 
 54 ལུགས་ n.count:54 
 54 སྣང་བ་ n.v.fut.n.v.pres:4 n.v.invar:50 
-53 གིས case.agn:31 cv.agn:22 
+53 གིས case.agn:30 cv.agn:23 
 53 ཆོ་འཕྲུལ་ n.count:53 
 53 དྲིས་པ n.v.past:53 
-53 ནུབ་ adv.temp:16 n.count:16 n.prop:1 v.fut.v.pres:1 v.invar:9 v.past:5 v.past.v.pres:5 
+53 ནུབ་ adv.temp:12 n.count:16 n.prop:1 n.temp:4 v.fut.v.pres:1 v.invar:9 v.past:5 v.past.v.pres:5 
+53 ཕྱི་ adv.temp:7 d.dem:15 d.det:1 n.count:14 n.rel:2 n.temp:14 
 53 བཙས་ v.past:53 
 53 བཞུགས་པ་ n.v.invar:53 
+53 ཟོས་ v.past:53 
 53 འཁོར་བ n.count:34 n.v.fut.n.v.pres:18 n.v.past:1 
-53 འབྱུང་བ་ n.v.fut.n.v.pres:53 
+53 འབྱུང་བ་ n.v.fut.n.v.pres.byung:53 
 53 རྣལ་འབྱོར་ n.count:53 
 53 རྫོགས་ v.fut.v.pres:1 v.invar:38 v.past:7 v.past.v.pres:7 
-53 སོང་བ n.v.past:53 
+53 སོང་བ n.v.past.gro:53 
 53 སྒྲུབ་པ n.v.pres:53 
 53 སྣང་བ n.v.fut.n.v.pres:22 n.v.invar:31 
-52 གསོལ་པ n.v.past.n.v.pres:52 
+52 གསོལ་པ n.v.invar:52 
 52 ཉེ་བ n.v.invar:52 
 52 དད་པ n.v.invar:49 n.v.past:3 
 52 ཚོང་པ་ n.count:52 
-52 ཟོས་ v.past:52 
 52 འདོད་ཆགས་ n.count:52 
 52 ཡེ་ཤེས་ n.count:51 n.prop:1 
 52 ལྷན་ n.count:51 v.invar:1 
 52 སྤྲུལ་པ n.count:2 n.v.past.n.v.pres:50 
-51 ཆུད་ v.fut.v.pres:1 v.imp:1 v.invar:43 v.past:2 v.past.v.pres:4 
+51 ཆུད་ v.fut.v.pres:1 v.invar:43 v.ipv:1 v.past:2 v.past.v.pres:4 
 51 ཆེས་ adv.intense:5 v.fut.v.pres:8 v.invar:17 v.past:17 v.past.v.pres:4 
-51 ཕྱི་ adv.temp:18 d.dem:15 dunno:1 n.count:5 n.rel:12 
 51 མཆི་མ་ n.count:51 
 51 མཐུན་པ n.v.past.n.v.pres:44 n.v.pres:7 
-50 ག d.det:11 p.interrog:38 v.imp:1 
+50 ག d.quant:11 p.interrog:38 v.ipv:1 
 50 ཏིང་ངེ་འཛིན་ n.count:50 
-50 ཐོན་ v.fut:2 v.fut.v.past:27 v.imp:14 v.past:7 
+50 ཐོན་ v.fut.v.past:31 v.ipv:14 v.past:5 
 50 དགོངས་པ་ n.prop:1 n.v.invar:49 
 50 དགྲ་བཅོམ་པ n.count:50 
 50 དྲིས་པ་ n.v.past:50 
 50 ཕྱི་རོལ་ n.count:50 
-50 བགྱིས་ v.past:50 
+50 བགྱིས་ v.past.bgyid:50 
 50 བཟོད་པ n.v.fut.n.v.pres:8 n.v.invar:32 n.v.past:10 
 50 མཇལ v.invar:49 v.past:1 
-50 མཛད v.fut.v.pres:1 v.invar:49 
+50 མཛད v.invar.mdzad:50 
+50 འཁོར་ལོ n.count:50 
 50 འཛིན་ v.pres:50 
 50 རྒྱས་པ་ n.prop:1 n.v.past:49 
 50 ལངས་ v.past:50 
-50 སྲིད་ n.count:26 n.rel:4 v.aux:12 v.fut.v.pres:1 v.invar:7 
+50 ཤར་ n.count:15 n.prop:1 v.past:34 
+50 སྨྲ་ v.fut.v.pres:45 v.pres:5 
 49 ཁབ་ n.count:49 
-49 ག་ d.det:19 p.interrog:29 skt:1 
-49 ཉན་ v.fut.v.pres:13 v.invar:17 v.past:7 v.past.v.pres:9 v.pres:3 
-49 དད་ n.count:7 v.fut.v.pres:5 v.imp:1 v.invar:28 v.past:3 v.past.v.pres:5 
-49 བཞུགས v.fut.v.pres:2 v.imp:5 v.invar:42 
+49 ག་ d.quant:19 p.interrog:29 skt:1 
+49 ཉན་ v.fut.v.pres:49 
+49 དད་ n.count:7 v.fut.v.pres:5 v.invar:28 v.ipv:1 v.past:3 v.past.v.pres:5 
+49 བཞུགས v.invar:49 
 49 བརྗོད་པ n.v.fut.n.v.past:49 
-49 མ d.dem:11 n.count:33 n.rel:3 neg:1 skt:1 
-49 མྱོང་ v.aux:6 v.fut.v.pres:4 v.invar:31 v.past:4 v.past.v.pres:4 
+49 མ d.dem:11 n.count:35 n.rel:1 neg:1 skt:1 
+49 མྱོང་ v.invar.myong2:42 v.pres.myong1:7 
 49 ཟ་བ n.v.fut.n.v.pres:30 n.v.invar:4 n.v.pres:15 
-49 འཁོར་ལོ n.count:49 
 49 འཕགས་པ n.count:1 n.v.invar:48 
+49 འབུལ་ v.pres:49 
 49 འོད་སྲུངས་ n.prop:49 
 49 ཡི་དམ་ n.count:49 
-49 རྟགས་ dunno:1 n.count:48 
+49 རྟགས་ n.count:49 
 49 ལག་ n.count:49 
-49 ཤར་ n.count:12 n.prop:1 n.rel:2 v.past:34 
 49 ཤཱ་རི n.prop:49 
 49 སྙིང་རྗེ་ adj:1 n.count:48 
-49 སྨྲ་ v.fut.v.pres:44 v.pres:5 
 49 སྨྲ་བ་ n.v.fut.n.v.pres:49 
+49 སྲིད་ n.count:29 v.invar.srid:20 
 48 གང་ན་བ་ n.count:48 
 48 དགྲ་བཅོམ་པ་ n.count:47 n.prop:1 
 48 ནཱ་རོ་པ n.prop:48 
 48 ཕེབས་ v.fut.v.pres:2 v.invar:33 v.past.v.pres:13 
-48 བཞིན n.rel:48 
+48 བཞིན n.count:48 
 48 བཤམས་ v.past:48 
-48 མོ་ cv.fin:14 dunno:3 n.count:12 p.pers:19 
-48 འབུལ་ v.pres:48 
+48 མོ་ case.fin:2 cv.fin:12 n.count:15 p.pers:19 
 48 རྒྱལ་བྱེད་ n.prop:48 
 48 སྡེ་སྣོད་ n.count:48 
 48 སྲང་ n.count:48 
 47 གནོད་པ་ n.v.fut.n.v.pres:1 n.v.invar:46 
 47 གཤེགས་པ་ n.v.invar:47 
-47 དག་པ་ n.v.fut:1 n.v.fut.n.v.past:40 n.v.past:6 
+47 དག་པ་ n.v.fut:1 n.v.fut.n.v.past:41 n.v.past:5 
 47 དབང་པོ་ n.count:47 
 47 བརྗོད་ n.count:4 v.fut:6 v.fut.v.past:29 v.past:8 
 47 མངོན་ n.count:4 v.fut.v.pres:36 v.invar:7 
-47 མཆོད་ n.count:1 v.fut.v.pres:1 v.imp:4 v.invar:36 v.past.v.pres:5 
+47 མཆོད་ n.count:1 v.fut.v.pres:1 v.invar:36 v.ipv:4 v.past.v.pres:5 
 47 མར་ n.mass:46 n.prop:1 
 47 རིག་པ n.v.invar:39 n.v.past:8 
 47 སྡེ་ n.count:47 
 47 ཨ་མ་ n.count:47 
-46 ཀ d.det:43 n.count:1 n.rel:1 skt:1 
+46 ཀ d.quant:43 n.count:2 skt:1 
 46 གསུང་བ་ n.v.fut.n.v.pres:46 
 46 ངུ་ n.count:5 v.fut.v.pres:40 v.pres:1 
 46 ཉི་ཤུ་ num.card:46 
 46 དགེ་དོན་ n.count:46 
-46 དགོས་པ n.v.aux:29 n.v.fut.n.v.pres:1 n.v.invar:14 n.v.past:2 
+46 དགོས་པ n.v.invar.dgos:46 
 46 དཔེ n.count:46 
 46 དབྱངས་ n.count:46 
 46 བཏང་བ n.v.past:46 
@@ -731,100 +732,99 @@
 46 འཚོ་བ་ n.count:8 n.v.fut.n.v.pres:1 n.v.invar:37 
 46 རང་སངས་རྒྱས་ n.count:46 
 46 ལོ་ཙྪ་ n.count:46 
-46 སྒོ n.count:46 
-46 སྡོད་ v.fut.v.pres:23 v.imp:20 v.pres:3 
+46 སྡོད་ v.fut.v.pres:23 v.ipv:20 v.pres:3 
 46 སྩལ་པ་ n.v.past:46 
-45 གྲགས་པ n.prop:6 n.v.invar:34 n.v.past:5 
+45 གྲགས་པ n.prop:6 n.v.invar.grags:39 
 45 གྲངས་མེད་ adj:19 n.count:26 
 45 ཐེ་ཚོམ་ n.count:45 
 45 དཔག་ n.count:2 v.fut:43 
-45 དབུས་ n.count:9 n.prop:15 n.rel:21 
+45 དབུས་ n.count:17 n.prop:15 n.rel:13 
 45 ནཱ་རོ་ n.prop:45 
 45 ཕ d.dem:17 n.count:28 
 45 བསྒོམས་པ n.v.past:45 
-45 འགྱུར་བ་ n.count:2 n.v.fut.n.v.pres:43 
+45 འགྱུར་བ་ n.count:2 n.v.fut.n.v.pres.gyur:43 
 45 འགྲེལ་པ་ n.count:35 n.v.past.n.v.pres:10 
-45 འོངས་པ་ n.v.past:45 
-45 རིགས་པ n.v.fut.n.v.pres:6 n.v.invar:39 
+45 འོངས་པ་ n.v.past.ong:45 
+45 རིགས་པ n.v.invar:45 
 45 རྟོགས་པ་ n.v.invar:44 n.v.past:1 
 45 རྫུ་འཕྲུལ་ n.count:45 
 45 སྙིང་པོ་ n.count:45 
-44 ཏུ case.term:29 cv.term:15 
-44 ནམ cv.ques:44 
+44 ཏུ case.term:31 cv.term:13 
+44 ནམ case.ques:12 cv.ques:32 
 44 ནཱ་རོ་པ་ n.prop:44 
 44 ཕྱེ་ n.count:14 v.past:30 
 44 བསྐྱེད་པ n.v.fut.n.v.past:44 
 44 མཐུ་ཆེན་ n.prop:44 
-44 ཚོལ་ v.fut.v.pres:30 v.imp:7 v.invar:6 v.past:1 
+44 ཚོལ་ v.fut.v.pres:30 v.invar:6 v.ipv:7 v.past:1 
 44 ལྷགས་ n.count:1 n.prop:2 v.invar:20 v.past.v.pres:21 
 44 སྐྲ་ n.mass:44 
 44 སྡུག་པ་ n.v.fut.n.v.pres:16 n.v.invar:28 
 43 གདོན་ n.count:41 v.fut.v.pres:2 
 43 གཞོན་ནུ་ adj:32 n.count:8 n.prop:3 
-43 ཆོད་ n.count:1 v.imp:15 v.invar:17 v.past:6 v.past.v.pres:4 
+43 ཆོད་ n.count:1 v.invar:17 v.ipv:15 v.past:6 v.past.v.pres:4 
 43 ཐུག་ v.invar:41 v.past.v.pres:2 
-43 ད་དུང་ adv.temp:43 
+43 ད་དུང་ adv.temp:42 n.temp:1 
 43 བཤེས་གཉེན་ n.count:43 
 43 བུ་མོ n.count:43 
 43 མྱོང་བ n.v.fut.n.v.pres:1 n.v.invar:39 n.v.past:3 
 43 ཚོ་ d.plural:43 
 43 འཇིགས་ n.count:8 v.fut.v.pres:10 v.invar:22 v.past.v.pres:3 
 43 འདའ་བ n.v.fut.n.v.pres:43 
-43 རིང་ n.count:18 n.rel:9 v.fut.v.pres:5 v.invar:10 v.past.v.pres:1 
+43 རིང་ n.count:24 n.rel:3 v.fut.v.pres:5 v.invar:10 v.past.v.pres:1 
 43 རིང་པོ adj:42 n.prop:1 
 43 རྒྱས་ n.count:3 n.prop:1 v.invar:6 v.past:33 
-43 ལྟ་བ n.rel:1 n.v.pres:42 
-43 སྐོར་ n.count:29 n.rel:7 v.pres:7 
-43 སྤྲུལ་ n.count:2 v.fut.v.pres:2 v.imp:1 v.invar:16 v.past.v.pres:22 
+43 ལྟ་བ n.count:1 n.v.pres:42 
+43 སྐོར་ n.count:32 n.rel:4 v.pres:7 
+43 སྤྲུལ་ n.count:2 v.fut.v.pres:2 v.invar:16 v.ipv:1 v.past.v.pres:22 
 42 གཞུང་ n.count:42 
 42 གྲུབ་པ n.v.past:42 
-42 དར་ dunno:1 n.count:13 n.mass:13 v.fut.v.pres:5 v.invar:7 v.past.v.pres:3 
+42 དར་ n.count:14 n.mass:13 v.fut.v.pres:5 v.invar:7 v.past.v.pres:3 
 42 ཕུག་རོན་ n.count:42 
 42 ཕྱི་མ་ adj:42 
 42 བཀའ་དྲིན་ n.count:42 
-42 བོས་ v.imp:8 v.past:34 
+42 བོས་ v.ipv:8 v.past:34 
 42 མགུ་ v.invar:41 v.past.v.pres:1 
 42 མཉན་ཡོད་ n.prop:42 
-42 མདུན་ n.count:4 n.rel:38 
+42 མདུན་ n.count:12 n.rel:30 
+42 མིན་པ་ n.v.fut.n.v.pres.min:42 
 42 ཡུན་ n.count:42 
 42 ཡོན་བདག་ n.count:42 
 42 རྒྱ n.count:6 n.prop:15 v.fut.v.pres:21 
-42 ལོང་ dunno:1 n.count:4 v.imp:30 v.invar:6 v.past.v.pres:1 
+42 ལོང་ n.count:5 v.invar:6 v.ipv:30 v.past.v.pres:1 
 41 ཁྲག་ n.mass:41 
 41 གང་ཟག་ n.count:41 
 41 གཏད་ v.fut.v.past:28 v.past:13 
 41 གཤེགས་པ n.v.fut.n.v.pres:1 n.v.invar:39 n.v.past:1 
 41 གྲོལ་བ n.v.fut.n.v.pres:38 n.v.past:3 
 41 གྲྭ་པ་ n.count:41 
-41 ཐོག་མ་ adj:2 adv.temp:17 n.count:22 
+41 ཐོག་མ་ adj:2 adv.temp:16 n.count:22 n.temp:1 
 41 དཀོན་མཆོག་ n.count:41 
 41 དང་པོ num.ord:41 
 41 བདག་མེད་མ་ n.prop:41 
 41 བབས་ v.past:41 
 41 བརྩོན་འགྲུས་ n.count:41 
-41 བོར་ v.fut.v.pres:10 v.imp:5 v.invar:3 v.past:22 v.past.v.pres:1 
+41 བོར་ v.fut.v.past:22 v.fut.v.past.v.pres:1 v.fut.v.pres:10 v.invar:3 v.ipv:5 
 41 མཇལ་བ n.v.fut.n.v.pres:41 
 41 མར་མེ་ n.count:40 n.prop:1 
-41 ཚར་ dunno:2 n.count:13 v.fut.v.pres:1 v.invar:20 v.past.v.pres:5 
+41 ཚར་ n.count:15 v.fut.v.pres:1 v.invar:20 v.past.v.pres:5 
 41 ཞུ་བ་ n.v.fut.n.v.pres:40 n.v.past:1 
-41 ཟུང་ n.count:11 num.card:1 v.imp:28 v.past:1 
+41 ཟུང་ n.count:11 num.card:1 v.ipv:28 v.past:1 
 41 འདྲེན་ v.pres:41 
 41 ལོན་པ n.v.past:31 n.v.past.n.v.pres:10 
 41 སྐྱེ་བོ་ n.count:41 
-41 སྤྱོད་ n.count:1 v.imp:2 v.pres:38 
+41 སྤྱོད་ n.count:1 v.ipv:2 v.pres:38 
 40 གསལ་བ n.v.fut.n.v.pres:40 
 40 གྱི case.gen:9 cv.gen:31 
 40 ཆ་ n.count:40 
 40 ཆགས་ v.fut.v.pres:7 v.invar:24 v.past:4 v.past.v.pres:5 
-40 ཐུབ་པ་ n.count:7 n.prop:3 n.v.fut.n.v.pres:1 n.v.invar:29 
-40 དེ་བ adv.proclausal:40 
-40 ནུས་པ་ n.v.aux:24 n.v.fut.n.v.pres:2 n.v.invar:14 
+40 ཐུབ་པ་ n.prop:3 n.v.invar:1 n.v.invar.thub2:34 n.v.pres.thub1:2 
+40 ནུས་པ་ n.v.invar.nus:40 
 40 བང་མཛོད་ n.count:40 
 40 བདེ་ n.count:8 v.fut.v.pres:6 v.invar:23 v.past:3 
 40 བྲལ་ v.fut.v.pres:7 v.invar:27 v.past:2 v.past.v.pres:4 
 40 བྲལ་བ n.v.fut.n.v.pres:39 n.v.past:1 
 40 མཁན་པོ་ n.count:40 
-40 ཟིན་ v.fut.v.pres:3 v.imp:1 v.invar:16 v.past:6 v.past.v.pres:13 v.pres:1 
+40 ཟིན་ v.fut.v.pres:3 v.invar:16 v.ipv:1 v.past:6 v.past.v.pres:13 v.pres:1 
 40 རིང་པོ་ adj:40 
 40 རྣམ་ n.count:40 
 40 རྩེ་ n.count:35 v.fut.v.pres:5 
@@ -833,12 +833,12 @@
 39 ཁྱབ་པ་ n.v.fut.n.v.pres:23 n.v.invar:15 n.v.past:1 
 39 ཁྲོས་ v.past:39 
 39 ཆེས་པ n.v.fut.n.v.pres:3 n.v.invar:24 n.v.past:12 
-39 ཏོ་ cv.fin:39 
+39 ཏོ་ case.fin:1 cv.fin:38 
 39 ཐེག་ཆེན་ n.count:39 
-39 དངོས་ dunno:1 n.count:35 v.invar:3 
+39 དངོས་ n.count:36 v.invar:3 
 39 དོགས་ n.count:8 v.fut.v.pres:2 v.invar:25 v.past.v.pres:4 
 39 དྲན་པ་ n.v.past:1 n.v.past.n.v.pres:38 
-39 བཞེངས་ n.prop:1 v.imp:1 v.past:37 
+39 བཞེངས་ n.prop:1 v.ipv:1 v.past:37 
 39 བྱོན་པ་ n.v.past:39 
 39 མཐུ n.count:39 
 39 འདུལ་བ་ n.v.pres:39 
@@ -847,25 +847,25 @@
 39 རྐང་པ་ n.count:39 
 39 རྒན་མོ་ adj:14 n.count:25 
 39 ལྟས་ n.count:37 v.past:2 
-39 ལྟོས་ v.imp:31 v.invar:4 v.past:1 v.past.v.pres:3 
+39 ལྟོས་ v.invar:4 v.ipv:31 v.past:1 v.past.v.pres:3 
 39 སྐྲག་ v.invar:22 v.past.v.pres:17 
 39 སྔ་མ་ adj:39 
-38 གཏན་ dunno:1 n.count:35 v.fut.v.pres:1 v.invar:1 
+38 གཏན་ n.count:36 v.fut.v.pres:1 v.invar:1 
 38 གྲུབ་ n.prop:1 v.past:37 
 38 གྲོང་འཇུག་ n.count:38 
 38 ཆས་ n.count:11 v.invar:22 v.past.v.pres:5 
 38 ཆུང་ v.fut.v.pres:3 v.invar:32 v.past:1 v.past.v.pres:1 v.pres:1 
-38 ཐོབ v.fut.v.pres:1 v.imp:5 v.invar:32 
+38 ཐོབ v.invar:38 
 38 དགེ་ཚུལ་ n.v.invar:38 
 38 དགེ་སྦྱོང་ n.count:38 
 38 དཔག་ཚད་ n.count:38 
-38 དམ cv.ques:38 
+38 དམ case.ques:9 cv.ques:29 
 38 ཕན་པ n.v.past.n.v.pres:38 
 38 བསམ་གཏན་ n.count:38 
-38 བསྒོ་ v.imp:2 v.invar:6 v.past.v.pres:30 
+38 བསྒོ་ v.invar:6 v.ipv:2 v.past.v.pres:30 
 38 བུམ་པ་ n.count:38 
 38 བློ་གྲོས་ n.count:38 
-38 མཁྱེན་ n.count:1 v.imp:3 v.invar:9 v.past.v.pres:25 
+38 མཁྱེན་ n.count:1 v.invar:9 v.ipv:3 v.past.v.pres:25 
 38 ཚུ d.dem:38 
 38 རྒྱལ་བུ n.count:38 
 38 ལག་པ་ n.count:38 
@@ -876,39 +876,39 @@
 37 གྲོགས་པོ་ n.count:37 
 37 གྲོང་ n.count:37 
 37 ངག་ n.count:37 
-37 ངོ་བོ་ n.count:37 
 37 ཆང་ n.count:1 n.mass:36 
-37 ཐུབ་པ n.count:7 n.prop:2 n.v.fut.n.v.pres:7 n.v.invar:18 n.v.past:3 
-37 དགོས v.aux:24 v.fut.v.pres:7 v.invar:6 
+37 ཐུབ་པ n.count:7 n.prop:2 n.v.invar.thub2:28 
+37 དགོས v.invar:6 v.invar.dgos:31 
 37 དབྱུག་པ་ཅན་ n.prop:37 
 37 དམ་པ་ n.v.invar:37 
 37 ནམ་མཁ n.count:37 
-37 བཙལ་ v.fut:12 v.fut.v.past:17 v.past:8 
+37 བཙལ་ v.fut.v.past.tshal1:37 
 37 མདོ་སྡེ་ n.count:37 
 37 མཚན་མཁན་ n.count:37 
 37 ཚངས་པ n.prop:30 n.v.invar:7 
 37 ཚིགས་ n.count:37 
 37 འདུལ་བ n.v.pres:37 
+37 འདེབས་ v.fut.v.pres:37 
 37 ཡན་ལག་ n.count:36 n.prop:1 
-37 ཡོང་བ་ n.v.fut.n.v.pres:8 n.v.invar:29 
+37 ཡོང་བ་ n.v.invar.yong:37 
 37 རང་བཞིན་ n.count:37 
 37 རིག་པ་ n.v.invar:35 n.v.past:2 
-37 ཤེས v.aux:7 v.fut.v.pres:5 v.invar:24 v.past:1 
+37 ཤེས v.invar.shes:37 
 37 སྐྱབས་ n.count:36 v.past:1 
 37 སྨྲ་བ n.v.fut.n.v.pres:37 
-36 ཆོག་ v.aux:1 v.fut.v.pres:3 v.imp:2 v.invar:30 
+36 ངོ་བོ་ n.count:36 
+36 ཆོག་ v.invar.chog:36 
 36 དཔེ་ n.count:36 
 36 ཕྲད་པ n.v.fut:3 n.v.fut.n.v.past:27 n.v.past:6 
 36 བསྐུལ་ v.fut:9 v.fut.v.past:14 v.past:13 
-36 བྲིས་ v.imp:4 v.past:32 
+36 བྲིས་ v.ipv:4 v.past:32 
 36 མཁའ་འགྲོ་ n.count:36 
-36 འོད་ཟེར་ n.count:36 
-36 ཡོང་བ n.v.fut.n.v.pres:8 n.v.invar:28 
+36 ཡོང་བ n.v.invar.yong:36 
 36 རིམ་ n.count:36 
 36 རྙེད་པ་ n.v.fut.n.v.pres:3 n.v.invar:28 n.v.past:5 
 36 ལོ་རྒྱུས་ n.count:36 
 36 ལོག་པ n.v.invar:31 n.v.past:5 
-36 སྐབས་ n.count:23 n.rel:13 
+36 སྐབས་ n.count:30 n.rel:6 
 36 སྐྱེ་ n.count:18 v.fut.v.pres:18 
 36 སྟན་ n.count:36 
 36 སྡུག་པ n.v.fut.n.v.pres:15 n.v.invar:21 
@@ -919,15 +919,15 @@
 35 ཐལ་མོ་ n.count:35 
 35 དཀྱིལ་འཁོར་ n.count:35 
 35 དམ་ཆོས་ n.count:35 
-35 ནུས་པ n.v.aux:20 n.v.fut.n.v.pres:3 n.v.invar:11 n.v.past:1 
+35 ནུས་པ n.v.invar.nus:35 
 35 བཅད་པ་ n.v.past:35 
 35 བཙུན་པ་ n.count:35 
 35 བུ་ཆེན་ n.count:35 
-35 བྲོས་ dunno:1 v.past:34 
-35 མཆི v.fut.v.pres:35 
+35 བྲོས་ v.past:35 
+35 མཆི v.fut.v.pres.mchi:35 
 35 ཞེ་སྡང་ n.count:35 
-35 འདེབས་ v.pres:35 
 35 འཚོ་བ n.v.fut.n.v.pres:35 
+35 འོད་ཟེར་ n.count:35 
 35 རྒྱལ་བ n.count:17 n.v.fut.n.v.pres:18 
 35 སོར་འཕྲེང་ཅན་ n.count:35 
 35 སྤྱི་བོ n.count:35 
@@ -943,8 +943,10 @@
 34 བསྒྲགས་ v.past:34 
 34 བསྡུས་པ n.v.past:34 
 34 ཞི་བ n.v.invar:34 
+34 འཆི་ v.fut.v.pres:34 
 34 སྙམ v.invar:34 
-34 སློང་ v.imp:9 v.pres:25 
+34 སྟེར་ v.fut.v.pres:8 v.invar:23 v.ipv:1 v.past:1 v.pres:1 
+34 སློང་ v.ipv:9 v.pres:25 
 34 ཨ་ནེ་ n.count:34 
 33 གདམས་པ་ n.count:7 n.v.fut.n.v.past:26 
 33 ཕལ་ཆེ adj:33 
@@ -955,22 +957,22 @@
 33 ཡབ་ཡུམ་ n.count:33 
 33 ཡུན་རིང་ adv.temp:9 n.count:24 
 33 རྙེད་པ n.v.fut.n.v.pres:1 n.v.invar:28 n.v.past:4 
-33 ལགས་པ n.v.cop:33 
+33 ལགས་པ n.v.invar.lags:33 
 33 ལྟད་མོ་ n.count:33 
 33 ལྷུང་ v.fut.v.pres:1 v.invar:27 v.past.v.pres:5 
 33 སྙིང་རུས་ n.count:33 
 33 སླེབ་ v.fut.v.pres:31 v.pres:2 
 32 ཁྲིམས་ n.count:32 
 32 གང་བ་ n.prop:1 n.v.invar:31 
-32 གདོད་ adv.temp:31 n.count:1 
+32 གདོད་ adv.temp:21 n.count:1 n.temp:10 
 32 ཆོས་ཉིད་ n.count:32 
 32 ཐུགས་རྗེ་ n.count:32 
 32 དཔལ་ n.count:29 n.prop:3 
 32 དྲི་མ་ n.count:32 
 32 ཕུལ་བ་ n.v.past:32 
 32 ཕོ་ཉ་ n.count:32 
-32 བཙལ་བ n.v.fut:32 
-32 བརྩིགས་ v.imp:5 v.past:27 
+32 བཙལ་བ n.v.fut.n.v.past.tshal1:32 
+32 བརྩིགས་ v.ipv:5 v.past:27 
 32 བསྟན v.fut.v.past:32 
 32 བྱིན་པ n.v.past:32 
 32 མཉམ་པ n.v.fut.n.v.pres:1 n.v.invar:31 
@@ -981,35 +983,34 @@
 32 རྒྱལ་མཚན་ n.count:32 
 32 རྣལ་འབྱོར་པ་ n.count:32 
 32 ལྷོ་བྲག་ n.prop:32 
-32 སྟེར་ dunno:1 v.fut.v.pres:8 v.imp:1 v.invar:20 v.past:1 v.pres:1 
 32 སྣོད་ n.count:32 
-32 སྤྱད་ n.count:2 v.fut.v.past:22 v.past:8 
+32 སྤྱད་ n.count:1 v.fut.v.past:23 v.past:8 
 31 གཉེན་པོ adj:1 n.count:30 
 31 གཙོ་བོ adj:31 
-31 གསོལ་བ n.v.fut.n.v.pres:30 n.v.past:1 
+31 གསོལ་བ n.v.invar:31 
 31 ངེས་པ་ n.v.invar:25 n.v.past:6 
-31 ཅང་ cl.focus:31 
 31 ཆད་པ n.v.fut.n.v.pres:8 n.v.invar:19 n.v.past:4 
 31 དེ་བཞིན་གཤེགས་པ n.count:31 
 31 དྲན་པ n.v.past.n.v.pres:27 n.v.pres:4 
+31 ན་རེ་ case.nare:31 
 31 བརྒྱུད་པ་ n.v.invar:31 
 31 བརྩམས་ v.past:31 
 31 བསད་པ n.v.past:31 
 31 བྱེ་བྲག་ adj:3 n.count:28 
 31 མངའ་བདག་ n.count:31 
 31 མདོག་ n.count:31 
-31 མིན v.cop.neg:31 
-31 མོད v.aux:31 
+31 མིན v.fut.v.pres.min:31 
+31 མོད v.invar.mod:31 
 31 འགྲེལ་པ n.count:28 n.v.past.n.v.pres:3 
-31 འཆི་ v.fut.v.pres:31 
 31 འདུད v.fut.v.pres:31 
-31 འདེབས v.pres:31 
+31 འདེབས v.fut.v.pres:31 
 31 འབྱོན་ v.fut.v.pres:30 v.pres:1 
-31 འོང་བ n.v.fut.n.v.pres:31 
-31 འོང་བ་ n.v.fut.n.v.pres:31 
-31 ཡ adv.dir:2 d.dem:27 n.rel:2 
-31 རློབས v.imp:31 
+31 འོང་བ n.v.fut.n.v.pres.ong:31 
+31 འོང་བ་ n.v.fut.n.v.pres.ong:31 
+31 ཡ adv.dir:2 d.dem:27 n.count:2 
+31 རློབས v.ipv:31 
 31 ལྷུང་བཟེད་ n.count:31 
+31 སེང་གེ་ n.count:29 n.prop:2 
 31 སེར་བ་ n.count:3 n.mass:28 
 31 སྐྱོ་བ་ n.v.invar:31 
 31 སྤངས་ v.past:31 
@@ -1018,12 +1019,12 @@
 30 གཉིད་ n.count:26 v.fut.v.pres:4 
 30 གཙུག་ལག་ཁང་ n.count:30 
 30 གཞི་ n.count:30 
-30 གོང་ n.count:6 n.rel:24 
+30 གོང་ n.count:27 n.rel:3 
 30 ངན་པ་ n.v.past.n.v.pres:30 
+30 ཅང་ cl.focus:30 
 30 ཆུ་བར་ n.prop:30 
 30 དགེ་བསྙེན་ n.count:30 
 30 དུ་མ་ adj:30 
-30 ན་རེ་ case.nare:30 
 30 པུར་ n.count:30 
 30 བཀ n.count:30 
 30 བཅད་པ n.v.past:30 
@@ -1033,30 +1034,29 @@
 30 བྱང་ཕྱོགས་ n.count:30 
 30 བློ n.count:30 
 30 མངོན་སུམ་ adj:7 n.count:23 
-30 མིན་པ་ n.v.past.n.v.pres:30 
-30 ཙ་ n.rel:30 
+30 ཙ་ n.count:29 n.rel:1 
+30 འགྲོགས་ v.invar:25 v.past.v.pres:5 
 30 འཕུར་ v.fut.v.pres:4 v.invar:25 v.past.v.pres:1 
 30 འབུལ་བ n.v.pres:30 
 30 རང་རེ་ p.pers:30 
-30 རེ d.det:12 dunno:1 n.count:1 p.indef:13 v.invar:3 
+30 རེ d.quant:9 p.indef:18 v.invar:3 
 30 རྫོགས་པ་ n.v.invar:30 
-30 ལོངས་ dunno:1 n.count:8 v.imp:12 v.past:9 
+30 ལོངས་ n.count:9 v.ipv:12 v.past:9 
 30 ལྡོག་པ n.v.fut.n.v.pres:25 n.v.invar:4 n.v.past:1 
-30 སེང་གེ་ n.count:28 n.prop:2 
 30 སྐལ་ལྡན་ adj:30 
-30 སྒྲུབ་ n.count:2 v.imp:2 v.pres:26 
+30 སྒྲུབ་ n.count:2 v.ipv:2 v.pres:26 
 30 སྨིན་པ་ n.v.past:3 n.v.past.n.v.pres:27 
 30 སྲིང་མོ་ n.count:30 
 29 ཁོ་མོ p.pers:29 
-29 གམ་ cv.ques:25 n.rel:4 
+29 གམ་ case.ques:8 cv.ques:17 n.count:2 n.rel:2 
 29 གཙོ་བོ་ adj:21 n.count:8 
 29 གཟུགས་ n.count:29 
 29 གྱད་ n.count:7 n.prop:22 
 29 ངན་ n.count:1 v.fut.v.pres:13 v.invar:14 v.pres:1 
-29 ཆོག་པ n.v.fut.n.v.pres:3 n.v.invar:25 n.v.past:1 
+29 ཆོག་པ n.v.invar.chog:29 
 29 ཉོན་མོངས་ n.count:29 
 29 ཐར་བ n.v.fut.n.v.pres:29 
-29 ཕྱིན v.past:29 
+29 ཕྱིན v.past.gro:29 
 29 བཏབ་པ་ n.v.past:29 
 29 བཟོད་པ་ n.v.fut.n.v.pres:4 n.v.invar:24 n.v.past:1 
 29 བརྩིགས v.past:29 
@@ -1066,7 +1066,6 @@
 29 ཚང་ n.count:6 v.fut.v.pres:1 v.invar:4 v.past:3 v.past.v.pres:15 
 29 ཚོགས་འཁོར་ n.count:29 
 29 ཞུས v.past:29 
-29 འགྲོགས་ v.invar:24 v.past.v.pres:5 
 29 འཇུག་ n.count:2 v.fut.v.pres:18 v.pres:9 
 29 ཡང་དག་པ adj:29 
 29 རྒྱལ་བ་ n.count:16 n.v.fut.n.v.pres:12 n.v.past:1 
@@ -1076,24 +1075,25 @@
 29 སྡིག་པ n.v.pres:29 
 29 སྤྱན་ཆབ་ n.count:29 
 29 སྤྲུལ་པ་ n.v.past.n.v.pres:29 
-28 ཀུན d.plural:28 
+28 ཀུན d.quant:28 
 28 ཀླུ་སྒྲུབ་ n.count:1 n.prop:27 
-28 ཁྱད་པར་ཅན་ adj:28 
+28 ཁྱད་པར་ཅན་ adj:27 n.count:1 
 28 ཁྱིམ་ཐབ་ n.count:28 
 28 གཏོང་ v.pres:28 
-28 གདའ་ v.fut.v.pres:4 v.invar:24 
-28 གདའ་བ n.v.fut.n.v.pres:5 n.v.invar:23 
+28 གདའ་ v.invar.gda:28 
+28 གདའ་བ n.v.invar.gda:28 
 28 གསོད་ v.pres:28 
+28 གྱོན་ v.fut.v.pres:5 v.invar:10 v.ipv:4 v.past.v.pres:9 
 28 གྲོལ་ v.fut.v.pres:5 v.invar:18 v.past:2 v.past.v.pres:3 
 28 གྲོས་ n.count:28 
 28 ཆུང་ངུ་ adj:28 
 28 ཐུགས་དམ་ n.count:28 
-28 ཐོང་ n.count:1 v.imp:25 v.invar:2 
+28 ཐོང་ n.count:1 v.invar:2 v.ipv:25 
 28 དམྱལ་བ n.count:28 
 28 ནན་ཏན་ n.count:28 
 28 ཕུ་བོ་ n.count:28 
-28 ཕྱི་བཞིན་ n.rel:28 
-28 བགྱི v.fut:28 
+28 ཕྱི་བཞིན་ n.count:20 n.rel:8 
+28 བགྱི v.fut.bgyid:28 
 28 བཞི་པ་ num.ord:28 
 28 བརྟགས་ v.past:28 
 28 བལྟ་ v.fut:28 
@@ -1117,16 +1117,16 @@
 27 གནོད་པ n.v.fut.n.v.pres:2 n.v.invar:25 
 27 གནོད་སྦྱིན་ n.count:27 
 27 གསང་སྔགས་ n.count:27 
-27 གསོས་ v.imp:3 v.past:24 
-27 གྱོན་ v.fut.v.pres:5 v.imp:4 v.invar:9 v.past.v.pres:9 
+27 གསུང་རབ་ n.count:27 
+27 གསོས་ v.ipv:3 v.past:24 
 27 ཆགས་པ n.v.invar:26 n.v.past:1 
 27 ཆུ་བོ་ n.count:27 
 27 ཆོས་གོས་ n.count:27 
 27 ཉལ་ v.fut.v.pres:12 v.invar:10 v.past:3 v.past.v.pres:2 
-27 ཉེས་ dunno:1 n.count:7 v.invar:17 v.past:2 
-27 ཐུབ་ dunno:1 v.aux:3 v.fut.v.pres:12 v.imp:1 v.invar:7 v.past:3 
+27 ཉེས་ n.count:7 v.invar:18 v.past:2 
+27 ཐུབ་ v.invar.thub2:20 v.pres.thub1:7 
 27 དགུ num.card:27 
-27 དགྱེས་ dunno:1 v.fut.v.pres:2 v.imp:1 v.invar:19 v.past.v.pres:4 
+27 དགྱེས་ v.fut.v.pres:2 v.invar:20 v.ipv:1 v.past.v.pres:4 
 27 དུར་ཁྲོད་ n.count:27 
 27 དུས་གསུམ་སངས་རྒྱས་ n.count:27 
 27 ན་བཟའ་ n.count:27 
@@ -1137,8 +1137,9 @@
 27 བགྲོས་ v.past:27 
 27 བཅོ་ num.card:27 
 27 བརྡ་ n.count:27 
+27 བསྡད་ v.fut.v.past:21 v.past:6 
 27 མ་སྨད་ n.count:27 
-27 མཆིས་པ n.v.invar:10 n.v.past:17 
+27 མཆིས་པ n.v.invar.mchis:10 n.v.past.mchi:17 
 27 མཆེད་པ་ n.v.invar:27 
 27 མེ n.count:27 
 27 མཽད་གལ་ n.prop:27 
@@ -1147,23 +1148,23 @@
 27 འགྲོ་དོན་ n.count:27 
 27 འབྲས་ n.mass:27 
 27 ཡང་དག་ adj:25 n.count:2 
-27 རྒྱབ་ n.count:20 n.rel:4 v.pres:3 
+27 རྒྱབ་ n.count:23 n.rel:1 v.pres:3 
+27 རྒྱུ n.count:20 v.invar.rgyu:7 
 27 རྣལ་འབྱོར་པ n.count:26 n.prop:1 
 27 ཤར་བ་ n.v.past:27 
 27 སྡིག་ n.count:25 v.pres:2 
-27 སློབ་ v.imp:2 v.pres:25 
+27 སློབ་ v.ipv:2 v.pres:25 
 27 ཨ་ཇོ n.count:27 
 26 ཁ་དོག་ n.count:26 
 26 ཁྱབ་པ n.v.fut.n.v.pres:14 n.v.invar:12 
-26 གཏིང་ n.count:21 n.rel:3 v.fut:2 
+26 གཏིང་ n.count:22 n.rel:2 v.fut:2 
 26 གཡོག་ n.count:26 
 26 གཡོས་ n.count:4 n.prop:2 v.past:20 
-26 གཤེགས v.fut.v.pres:1 v.imp:14 v.invar:11 
-26 གསུང་རབ་ n.count:26 
+26 གཤེགས v.fut.v.pres:1 v.invar:11 v.ipv:14 
 26 གྲག་ n.count:1 v.invar:24 v.pres:1 
 26 གྲུབ་པ་ n.v.past:26 
-26 ངམ cv.ques:26 
-26 ཉན་པ n.v.pres:26 
+26 ངམ case.ques:8 cv.ques:18 
+26 ཉན་པ n.v.fut.n.v.pres:26 
 26 དགེ་སློང་མ་ n.count:26 
 26 དགོན་པ་ n.count:26 
 26 དགྲ་ n.count:26 
@@ -1176,16 +1177,14 @@
 26 བཟློག་ v.fut:1 v.fut.v.past:16 v.past:9 
 26 བརྗེད་ v.invar:17 v.past:8 v.past.v.pres:1 
 26 བལ་པོ n.count:1 n.prop:25 
-26 བལ་པོ་ n.prop:26 
 26 བསྒོམས་ v.past:26 
-26 བསྡད་ v.fut.v.past:20 v.past:6 
-26 བྱང་ n.count:18 n.rel:6 v.invar:2 
+26 བྱང་ n.count:23 n.rel:1 v.invar:2 
 26 མཁས་ n.count:6 v.fut.v.pres:1 v.invar:19 
 26 མན་ངག་ n.count:26 
 26 མར་པ་མགོ་ལེགས་ n.prop:26 
 26 མཻ་ཏྲི་པ n.prop:26 
 26 ཞབས་ཏོག་ n.count:26 
-26 ཞིག cv.imp:9 d.indef:16 v.past:1 
+26 ཞིག cv.ipv:9 d.indef:16 v.past:1 
 26 ཞུགས་པ n.v.past:26 
 26 ཟིན་པ་ n.v.past:2 n.v.past.n.v.pres:23 n.v.pres:1 
 26 འགྲན་པ n.v.past.n.v.pres:26 
@@ -1201,19 +1200,21 @@
 26 སྐྱེས v.past:26 
 26 སྙན་པ་ n.count:5 n.v.pres:21 
 25 ཁྱེའུ n.count:25 
-25 ཁྲུས་ n.count:22 v.imp:2 v.past:1 
+25 ཁྲུས་ n.count:22 v.ipv:2 v.past:1 
 25 གསོད་པ n.v.pres:25 
 25 ཇོ་བོ་ n.count:25 
 25 ཉ་མ་ n.count:25 
 25 ཉམས་པ n.v.fut.n.v.pres:4 n.v.invar:16 n.v.past:5 
-25 ཐ་མ adj:6 n.count:14 n.rel:5 
+25 ཐ་མ adj:6 n.count:15 n.rel:4 
 25 དབྱེ་བ་ n.v.fut:25 
 25 ནགས་ n.count:25 
 25 པེ་ཏ་ n.prop:25 
 25 ཕན v.fut.v.pres:2 v.invar:23 
 25 ཕུལ v.past:25 
 25 བཟོད་ v.fut.v.pres:8 v.invar:6 v.past:9 v.pres:2 
+25 བལ་པོ་ n.prop:25 
 25 བསམས་པ་ n.v.past:25 
+25 བསྒྲུབ་ v.fut:25 
 25 མུ་སྟེགས་ n.count:25 
 25 མོངས་པ་ n.v.invar:25 
 25 ཚིམ་པ n.v.fut.n.v.pres:25 
@@ -1226,12 +1227,12 @@
 25 འཇིགས་པ་ n.v.fut.n.v.pres:3 n.v.invar:22 
 25 འཐུན་པ n.v.pres:25 
 25 འབུལ v.pres:25 
-25 རིགས་པ་ n.v.fut.n.v.pres:3 n.v.invar:22 
+25 རིགས་པ་ n.v.invar:25 
 25 ཤི་བ་ n.count:1 n.v.past:24 
 25 སྐུ་གདུང་ n.count:25 
 24 གང་བ n.v.invar:24 
 24 གཙང་ n.prop:23 v.pres:1 
-24 གི case.gen:13 cv.gen:11 
+24 གི case.gen:10 cv.gen:14 
 24 གྱེན་ n.count:24 
 24 གྲུབ་ཐོབ་ n.count:24 
 24 གླང་པོ་ཆེ n.count:24 
@@ -1243,22 +1244,21 @@
 24 དཔུང་ n.count:24 
 24 དབུལ་ v.fut.v.pres:9 v.invar:15 
 24 དྲངས་པ n.v.past:24 
-24 ནང་པ adv.temp:19 n.count:5 
-24 པས་ case.comp:23 dunno:1 
+24 ནང་པ n.count:5 n.temp:19 
 24 བཞེད་ v.fut.v.pres:1 v.invar:22 v.past.v.pres:1 
 24 བསྐོར་བ་ n.v.fut:23 n.v.past:1 
 24 བསྟེན་ v.fut:2 v.fut.v.past:10 v.past:12 
 24 བསྲུང་བ n.count:1 n.v.fut:23 
 24 བསླབས་ v.past:24 
-24 བྱོན v.fut.v.past:1 v.imp:2 v.past:21 
+24 བྱོན v.fut.v.past:1 v.ipv:2 v.past:21 
 24 བྲིན་ n.prop:17 v.fut.v.pres:6 v.invar:1 
 24 མཁྱེན་པ n.v.past.n.v.pres:23 n.v.pres:1 
-24 མཐིལ་ n.count:8 n.rel:16 
+24 མཐིལ་ n.count:10 n.rel:14 
 24 མདོ་སྡེ་རྒྱན་ n.prop:24 
 24 ཟད་པ n.v.fut.n.v.pres:3 n.v.invar:20 n.v.past:1 
 24 ཟབ་མོ་ adj:24 
 24 འགལ་ v.fut.v.pres:13 v.invar:10 v.past:1 
-24 འགྱོད་པ་ n.v.fut.n.v.pres:2 n.v.invar:22 
+24 འགྱོད་པ་ n.v.invar:24 
 24 འཕགས་ n.count:2 v.fut.v.pres:1 v.invar:13 v.past.v.pres:8 
 24 འབབ་པ་ n.v.fut.n.v.pres:24 
 24 ཡ་མཚན་ adj:14 n.count:10 
@@ -1270,14 +1270,14 @@
 24 རྟག་པ n.v.fut.n.v.pres:9 n.v.invar:15 
 24 རྡུལ་ n.count:24 
 24 ལུས་པ n.v.invar:8 n.v.past:16 
-24 ལོན་ n.count:1 v.fut.v.pres:1 v.imp:1 v.invar:10 v.past:3 v.past.v.pres:8 
+24 ལོན་ n.count:1 v.fut.v.pres:1 v.invar:10 v.ipv:1 v.past:3 v.past.v.pres:8 
 24 ཤར v.past:24 
 24 སྙན་ n.count:13 v.fut.v.pres:9 v.pres:2 
-24 སྦྱོར་ v.imp:8 v.pres:16 
+24 སྦྱོར་ v.ipv:8 v.pres:16 
 24 ཨ་མ n.count:24 
 23 གཅིག num.card:23 
 23 གཅིག་པུ་ adj:23 
-23 གཅོད་ v.imp:1 v.pres:22 
+23 གཅོད་ v.ipv:1 v.pres:22 
 23 གཉི་ num.card:23 
 23 གཉིས་པ num.ord:23 
 23 གཟིགས་པ n.v.invar:23 
@@ -1287,10 +1287,11 @@
 23 ཉམས་ལེན་ n.count:23 
 23 ཉིན་པ n.count:23 
 23 ཉེ་གནས་ n.count:23 
-23 ཐད་ n.rel:23 
+23 ཐད་ n.count:6 n.rel:17 
 23 དངོས་གྲུབ་ n.count:23 
 23 དེད་དཔོན་ n.count:22 n.prop:1 
 23 དྲག་པོ་ adj:22 n.count:1 
+23 པས་ case.comp:21 cv.comp:2 
 23 ཕྲག་དོག་ n.count:23 
 23 བཅོམ་ v.fut.v.past:14 v.past:9 
 23 བདེ་མཆོག་ n.prop:23 
@@ -1298,7 +1299,7 @@
 23 བཙུན་མོ n.count:23 
 23 བྱིན་པ་ n.v.past:23 
 23 བྲག་ n.count:23 
-23 མཆིས་པ་ n.v.invar:8 n.v.past:15 
+23 མཆིས་པ་ n.v.invar.mchis:8 n.v.past.mchi:15 
 23 མདའ་ n.count:23 
 23 མོས་པ་ n.prop:2 n.v.invar:21 
 23 ཟ n.count:1 v.fut.v.pres:3 v.invar:1 v.pres:18 
@@ -1307,8 +1308,8 @@
 23 ཡལ་ག་ n.count:23 
 23 རལ་གྲི་ n.count:23 
 23 རིང་བསྲེལ་ n.count:23 
-23 རེ་བ་ dunno:2 n.v.invar:21 
-23 རྒས་ n.count:2 v.past:21 
+23 རེ་བ་ n.v.invar:23 
+23 རྒས་ n.count:1 v.past:22 
 23 རྒྱང་མ་ n.count:23 
 23 ལོ་ཙྪ་བ་ n.count:23 
 23 ཤིང་རྟ་ n.count:23 
@@ -1318,24 +1319,23 @@
 23 སྤྲིན་ n.count:22 n.prop:1 
 22 གཅིག་པུ adj:22 
 22 གཉེན་ n.count:22 
-22 ངམ་ cv.ques:22 
+22 ངམ་ case.ques:3 cv.ques:19 
 22 ངུས་ v.past:22 
-22 ཆེད་ n.rel:22 
-22 ཉན་པ་ n.v.pres:22 
+22 ཆེད་ n.count:15 n.rel:7 
+22 ཉན་པ་ n.v.fut.n.v.pres:22 
 22 ཉི་ཟླ་ n.count:22 
 22 ཐོགས་པ་ n.v.invar:22 
-22 དཀའ་བ n.v.invar:22 
+22 དཀའ་བ n.v.invar.dka:22 
 22 དཀར་པོ་ adj:22 
 22 དམྱལ་བ་ n.count:18 n.v.pres:4 
-22 དེ་རིང་ adv.temp:22 
+22 དེ་རིང་ adv.temp:20 n.temp:2 
 22 ནག་པོ་ adj:22 
-22 ཕན་ཡོན་ n.count:22 
-22 ཕུད་ dunno:1 n.count:9 v.invar:4 v.past.v.pres:8 
+22 ཕུད་ n.count:10 v.invar:4 v.past.v.pres:8 
 22 ཕྱི་ནང་ n.count:22 
 22 ཕྱིན་ཅད་ adv.dir:22 
-22 བཏུབ་ v.fut.v.pres:8 v.invar:2 v.past:12 
+22 བཏུབ་ v.invar.thub1:22 
 22 བདག་པོ་ n.count:22 
-22 བཞག་པ n.v.past:20 n.v.pres:2 
+22 བཞག་པ n.v.past.bzhag:22 
 22 བརྗོད་པ་ n.v.fut.n.v.past:22 
 22 བལྟ v.fut:22 
 22 བསགས་ v.past:22 
@@ -1344,11 +1344,11 @@
 22 བསྡུས་པ་ n.v.past:22 
 22 བྱིན་རླབས་ n.count:22 
 22 བྱེ་བ་ n.v.past:2 num.card:20 
-22 བྱོས་ v.imp:21 v.past:1 
+22 བྱོས་ v.ipv.byed:22 
 22 བློན་པོ n.count:22 
 22 མང་བ n.v.pres:22 
 22 མཉན་ v.fut.v.pres:10 v.invar:7 v.past.v.pres:5 
-22 མཉེས་ dunno:1 v.imp:1 v.invar:18 v.past.v.pres:2 
+22 མཉེས་ v.invar:19 v.ipv:1 v.past.v.pres:2 
 22 མཛེས་པ n.v.invar:22 
 22 མོངས་པ n.v.invar:22 
 22 ཚེས་ n.count:22 
@@ -1359,7 +1359,6 @@
 22 ཡན་ཆད་ adv.dir:16 n.count:6 
 22 རུང་བ n.v.fut.n.v.pres:5 n.v.invar:15 n.v.past:2 
 22 རོལ་མོ་ n.count:22 
-22 རྒྱུ n.count:20 v.invar:2 
 22 ཤོར་ v.fut:4 v.fut.v.past:13 v.past:5 
 22 སྙན་པ n.v.past.n.v.pres:20 n.v.pres:2 
 22 སྟོན་མོ་ n.count:22 
@@ -1372,13 +1371,13 @@
 21 ཆུ་མིག་ n.count:20 n.prop:1 
 21 ཉ་ n.count:21 
 21 ཉེས་པ n.count:2 n.v.fut.n.v.pres:1 n.v.invar:16 n.v.past:2 
-21 ཐང་ n.count:17 v.aux:4 
+21 ཐང་ n.count:17 v.invar.thang:4 
 21 ཐུན་མོང་ adj:21 
 21 དཔོན་སློབ་ n.count:21 
 21 དབྱིངས་ n.count:21 
-21 དམ་ཚིག་ n.count:21 
 21 པགས་པ་ n.count:21 
 21 པད་མ་ n.count:21 
+21 ཕན་ཡོན་ n.count:21 
 21 ཕྲིན་ལས་ n.count:21 
 21 བག་ཆགས་ n.count:21 
 21 བཏོན་ v.past:21 
@@ -1387,20 +1386,19 @@
 21 བཟང་བ n.v.invar:21 
 21 བལྟས་པ n.v.past:21 
 21 བསགས་པ n.v.past:21 
-21 བསྒྲུབ་ v.fut:21 
 21 བསྟོད v.invar:21 
 21 བསྟོད་ v.invar:19 v.past.v.pres:2 
 21 བོ་ cv.fin:21 
 21 བྲལ་བ་ n.v.fut:17 n.v.past:4 
 21 མཉམ་ v.fut.v.pres:11 v.invar:10 
-21 མཚམས་ n.count:19 n.rel:2 
+21 མཚམས་ n.count:21 
 21 ཚོགས་གྲལ་ n.count:21 
 21 ཟབ་མོ adj:21 
-21 འགྱེལ་ v.fut.v.pres:5 v.invar:6 v.past:2 v.past.v.pres:8 
+21 འགྱེལ་ v.invar:21 
 21 འདུ་ཤེས་ n.count:21 
-21 འདོང་ v.fut.v.pres:18 v.imp:3 
+21 འདོང་ v.fut.v.pres:18 v.ipv:3 
 21 འབྱོན་པ་ n.v.pres:21 
-21 འཚལ v.fut.v.pres:5 v.invar:16 
+21 འཚལ v.fut.v.pres.tshal1:4 v.invar.tshal2:17 
 21 རིམ་གྲོ་ n.count:21 
 21 རྒྱལ་ཚབ་ n.count:21 
 21 རྣམ་ཐར་ n.count:21 
@@ -1410,7 +1408,6 @@
 21 ལྷག་མ་ adj:1 n.count:20 
 21 ཤར་ཕྱོགས་ n.count:21 
 21 སྐྱེད་མོས་ཚལ་ n.count:21 
-21 སྒོས་ adv.proclausal:20 v.imp:1 
 21 སྙམ་པ n.v.invar:21 
 21 སྤྱན་སྔ n.count:21 
 20 གཅན་གཟན་ n.count:20 
@@ -1422,14 +1419,14 @@
 20 ངན་པ adj:1 n.v.past.n.v.pres:19 
 20 ཅུ num.card:20 
 20 ཆོ་ག་ n.count:20 
-20 དཀའ་ v.invar:20 
 20 དགེ་སྦྱོར་ n.count:20 
 20 དཔེ་ཆ་ n.count:20 
 20 དབྱིག་གཉེན་ n.prop:20 
+20 དམ་ཚིག་ n.count:20 
 20 དུང་ n.count:19 v.invar:1 
 20 དྲིན་ n.count:20 
 20 ཕན་པ་ n.v.past.n.v.pres:20 
-20 ཕོད་ v.aux:14 v.past:6 
+20 ཕོད་ v.past.phod:20 
 20 ཕྲད་པ་ n.v.fut:1 n.v.fut.n.v.past:17 n.v.past:2 
 20 བཞི་པ num.ord:20 
 20 བརྩོན་པ n.v.past.n.v.pres:20 
@@ -1441,13 +1438,14 @@
 20 མངའ་ n.count:6 v.fut.v.pres:3 v.invar:11 
 20 མཚོན་ n.count:19 v.fut.v.pres:1 
 20 མེ་ལོང་ n.count:20 
+20 འགྱོད་ v.invar:20 
 20 འཐད་ v.fut.v.pres:12 v.invar:5 v.past:2 v.past.v.pres:1 
-20 འཕྲལ་ adv.temp:10 cv.odd:2 n.rel:6 v.fut.v.pres:2 
-20 འཚལ་བ་ n.v.fut.n.v.pres:20 
-20 ཡ་ d.det:1 dunno:3 n.count:16 
+20 འཕྲལ་ adv.temp:2 cv.odd:2 n.count:6 n.temp:8 v.fut.v.pres:2 
+20 འཚལ་བ་ n.v.fut.n.v.pres.tshal1:20 
+20 ཡ་ d.dem:18 d.det:2 
 20 ཡི་གེ n.count:13 n.mass:7 
-20 རྟིང་ n.rel:20 
-20 རྟོགས v.imp:3 v.invar:16 v.past:1 
+20 རྟིང་ n.count:20 
+20 རྟོགས v.invar:16 v.ipv:3 v.past:1 
 20 རྣམ་བཤད་རིགས་པ n.prop:20 
 20 རྨ་ n.count:17 n.prop:2 v.fut.v.pres:1 
 20 ལ་ལ p.indef:20 
@@ -1461,23 +1459,25 @@
 20 སྐྱེ v.fut.v.pres:20 
 20 སྒྲ n.count:20 
 20 སྡིག་དོན་ n.prop:20 
-20 སྤོང་ v.imp:1 v.pres:19 
+20 སྤོང་ v.ipv:1 v.pres:19 
+19 ཁོ p.pers:19 
 19 ཁོ་ན་ d.emph:19 
 19 གཏོང་བ n.v.pres:19 
 19 གསང་འདུས་ n.prop:19 
 19 གུས་པ n.v.invar:19 
 19 གླང་པོ་སྐྱོང་ n.prop:19 
 19 ངེས་ཤེས་ n.count:19 
-19 ཆུག་ v.fut.v.pres:3 v.imp:15 v.pres:1 
+19 ཆུག་ v.fut.v.pres:3 v.ipv:15 v.pres:1 
 19 ཆུང་བ་ n.v.fut.n.v.pres:1 n.v.invar:18 
 19 ཆོས་སྐྱོང་ n.count:17 n.prop:2 
 19 ཐར་ v.fut.v.pres:4 v.invar:7 v.past:2 v.past.v.pres:6 
 19 ཐུག་པ n.v.invar:19 
-19 དོ་ནུབ་ adv.temp:19 
+19 དོ་ནུབ་ adv.temp:14 n.temp:5 
 19 དྲིལ་ n.count:6 v.fut:1 v.fut.v.past:8 v.past:4 
+19 ནན་ n.count:19 
 19 ནུབ་པ n.v.invar:19 
 19 ཕེབས་པ n.v.invar:18 n.v.past:1 
-19 ཕྱི་ཉིན་ adv.temp:19 
+19 ཕྱི་ཉིན་ adv.temp:18 n.temp:1 
 19 བ་ལང་ n.count:19 
 19 བཀང་ v.past:19 
 19 བདེ v.fut.v.pres:2 v.invar:17 
@@ -1492,7 +1492,6 @@
 19 མཛེས་པ་ n.prop:2 n.v.invar:17 
 19 ཚངས་པ་ n.prop:14 n.v.invar:5 
 19 ཞེས cl.quot:19 
-19 འགྱོད་ v.fut.v.pres:1 v.imp:2 v.invar:15 v.past.v.pres:1 
 19 འདུས་པ n.v.past:19 
 19 འདོན་ v.pres:19 
 19 འཕེལ་བ n.v.fut.n.v.pres:19 
@@ -1500,24 +1499,22 @@
 19 འོ་སྐོལ་ p.pers:19 
 19 ཡེངས་ n.count:8 v.past:6 v.past.v.pres:3 v.pres:2 
 19 རུ case.term:19 
-19 རྒྱལ་ n.count:6 n.prop:2 v.fut.v.pres:1 v.imp:1 v.invar:9 
+19 རྒྱལ་ n.count:6 n.prop:2 v.fut.v.pres:1 v.invar:9 v.ipv:1 
 19 རྒྱུས་ n.count:18 v.invar:1 
-19 རྡོ་རྗེ་ n.count:19 
 19 རྩ་བ n.count:19 
 19 ལྟུང་ n.count:8 v.fut.v.pres:1 v.invar:10 
 19 ལྷ་མོ་ n.count:19 
-19 ཤས་ d.plural:19 
-19 ཤུལ་ n.count:13 n.rel:6 
+19 ཤས་ d.quant:19 
+19 ཤུལ་ n.count:15 n.rel:4 
 19 སྒོམ་པ་ n.v.pres:19 
 19 སྒྲིབ་པ་ n.v.pres:19 
 19 སྡོམ་པ་ n.count:6 n.v.pres:13 
 19 སྤངས་པ n.v.past:19 
 19 སྤོས་ n.count:19 
-19 སྨད་ n.prop:1 n.rel:9 v.invar:7 v.past.v.pres:2 
+19 སྨད་ n.count:9 n.prop:1 v.invar:7 v.past.v.pres:2 
 18 ཀ་ཆེན་ n.count:18 
 18 ཁ་ཆེ n.count:3 n.prop:15 
-18 ཁ་སང་ adv.temp:18 
-18 ཁོ p.pers:18 
+18 ཁ་སང་ adv.temp:9 n.temp:9 
 18 ཁོ་ན d.emph:18 
 18 ཁྱབ་ v.fut.v.pres:11 v.invar:7 
 18 གདུངས་ v.past:18 
@@ -1527,14 +1524,14 @@
 18 ངེས་ n.count:1 v.invar:15 v.past:2 
 18 ཅེས་པ cl.quot:18 
 18 ཆས་པ་ n.v.invar:18 
-18 ཆོས dunno:1 n.count:17 
+18 ཆོས n.count:17 v.ipv:1 
 18 ཆོས་པ་ n.count:18 
 18 ཆོས་སྐུ n.count:18 
 18 དངངས་ v.past:18 
 18 དབང་པོ n.count:17 n.prop:1 
 18 དུག་ n.count:18 
-18 དྲགས་ v.past:18 
-18 ནན་ n.count:18 
+18 དྲགས་ v.past.drag:18 
+18 དྲི་ n.count:13 v.fut:5 
 18 ཕན་ཚུན་ adv.dir:18 
 18 བཀྲོལ་ v.past:18 
 18 བཏགས v.past:18 
@@ -1542,7 +1539,7 @@
 18 བཟའ་བ་ n.v.fut:18 
 18 བརྡུངས་ v.past:18 
 18 བསྒོམ་པ་ n.v.fut.n.v.pres:18 
-18 བསྒྱུར་བ n.v.fut:18 
+18 བསྒྱུར་བ n.v.fut.n.v.past.gyur:18 
 18 བསྣམས་ v.past:18 
 18 བྱམས་པ་ n.prop:14 n.v.invar:4 
 18 བྱིས་པ་ n.count:18 
@@ -1553,7 +1550,7 @@
 18 མོས་གུས་ n.count:18 
 18 ཚང་བ་ n.v.invar:11 n.v.past:7 
 18 ཞལ་ཟས་ n.count:18 
-18 ཞོག་ v.imp:18 
+18 ཞོག་ v.ipv:18 
 18 ཟིན་པ n.v.past:1 n.v.past.n.v.pres:17 
 18 ཟོས་པ n.v.past:18 
 18 འདས v.past:18 
@@ -1561,9 +1558,11 @@
 18 འབར་བ n.v.fut.n.v.pres:17 n.v.past:1 
 18 འབོད་ v.fut.v.pres:18 
 18 འཚོ v.pres:18 
-18 རེ་རེ d.det:11 p.indef:7 
+18 རིན་ n.count:18 
+18 རེ་རེ d.quant:11 p.indef:7 
 18 རྟ n.count:18 
 18 རྟོག་པ་ n.v.past.n.v.pres:2 n.v.pres:16 
+18 རྡོ་རྗེ་ n.count:18 
 18 རྩོད་པ་ n.v.pres:18 
 18 རྩྭ་ n.count:18 
 18 ལྔ་པ་ num.ord:18 
@@ -1572,11 +1571,11 @@
 18 སོས་ v.past:18 
 18 སྐལ་བ་ n.count:18 
 18 སྐྱོང་ v.pres:18 
-18 སྒྱུར་བ n.v.pres:18 
+18 སྒྱུར་བ n.v.pres.gyur:18 
 18 སྒྲ་བསྒྱུར་ n.count:18 
 18 སྟག་ n.count:18 
 18 སྨིན་པ n.v.past:1 n.v.past.n.v.pres:17 
-18 སྨོས་ v.imp:1 v.invar:17 
+18 སྨོས་ v.invar:17 v.ipv:1 
 18 སླས་ n.count:18 
 18 སློབ་གཉེར་ n.count:18 
 17 ཀུན་ཏུ་རྒྱུ་ n.count:17 
@@ -1597,51 +1596,52 @@
 17 ཉམས་པ་ n.v.invar:13 n.v.past:4 
 17 ཉམས་རྟོགས་ n.count:17 
 17 ཐ་དད་ adj:13 n.count:4 
-17 ཐག་པ་ n.count:13 n.v.aux:3 n.v.past:1 
+17 ཐག་པ་ n.count:14 n.v.invar.thag:3 
 17 ཐར་པ་ n.v.past.n.v.pres:17 
 17 ཐོགས་པ n.v.fut.n.v.pres:6 n.v.invar:10 n.v.past:1 
 17 དཔལ་སྐྱེས་ n.prop:17 
-17 དུ་མ d.plural:17 
-17 དྲི་ n.count:13 v.fut:4 
+17 དུ་མ d.quant:17 
 17 ཕེབས་པ་ n.v.invar:16 n.v.past:1 
 17 ཕོངས་ v.invar:17 
 17 ཕྱི་ཕྱག་ n.count:17 
 17 བཀུར་སྟི་ n.count:17 
 17 བཀྲུས་ v.past:17 
 17 བཏབ v.past:17 
+17 བདུད་རྩི n.count:17 
 17 བརྒྱད་པ་ num.ord:17 
 17 བསམས་པ n.v.past:17 
 17 བསྐུར་བ་ n.v.fut.n.v.pres:16 n.v.past:1 
-17 བསྒོམས v.imp:5 v.past:12 
+17 བསྒོམས v.ipv:5 v.past:12 
 17 བསྒྲུབས་པ n.v.past:17 
 17 བསྲུངས་པ n.v.past:17 
 17 བླ n.count:2 v.invar:15 
 17 མཇལ་བ་ n.v.fut.n.v.pres:17 
-17 མདོག་ཅན་ adj:17 
+17 མདོག་ཅན་ adj:1 n.count:16 
 17 མཚན་མོ་ adv.temp:17 
 17 མོས་ v.fut.v.pres:2 v.invar:15 
 17 ཙན་དན་ n.mass:17 
+17 ཚ་ d.plural:1 n.count:1 v.fut.v.pres:2 v.invar:12 v.past.v.pres:1 
 17 ཞལ་ཏ་ n.count:17 
 17 ཟང་ཟིང་ n.count:17 
 17 འཇིགས་པ n.v.invar:17 
-17 འདོད v.fut.v.pres:1 v.invar:16 
+17 འདོད v.invar.dod:17 
 17 འདྲེ་ n.count:15 v.fut.v.pres:2 
 17 འདྲེན་པ n.v.pres:17 
 17 འཕོས་པ n.v.past:17 
+17 འཕྲིན་ n.count:17 
 17 འཚམས་ n.count:15 v.past:2 
 17 རི་མོ་ n.count:17 
-17 རིན་ n.count:17 
 17 རྣ་བ n.count:17 
 17 ལེན་པ་ n.v.pres:17 
 17 སུན་ v.invar:16 v.past.v.pres:1 
 17 སྒོམ་པ n.v.pres:17 
-17 སྔ་ adv.temp:15 v.invar:2 
+17 སྔ་ adv.temp:8 n.temp:7 v.invar:2 
 17 སྙིང་རྗེ n.count:17 
-17 སྤོངས་ v.imp:17 
+17 སྤོངས་ v.ipv:17 
 17 སྤྱན་མིག་ n.count:17 
 17 སྤྲང་པོ་ n.count:17 
 17 སྤྲུལ་སྐུ་ n.count:17 
-17 སྨྲོས་ v.imp:17 
+17 སྨྲོས་ v.ipv:17 
 17 སློབ་མ n.count:17 
 16 ཀྱེ་མ་ interj:16 
 16 ཁང་པ་ n.count:16 
@@ -1654,7 +1654,6 @@
 16 གཞི n.count:16 
 16 གཟུགས་ཅན་སྙིང་པོ་ n.prop:16 
 16 གིན་ cv.cont:16 
-16 ཉིན་མཚན་ adv.temp:10 n.count:6 
 16 ཐུགས་དགོངས་ n.count:16 
 16 ཐོས་པ་དགའ་ n.prop:16 
 16 དཔག་མེད་ adj:16 
@@ -1662,25 +1661,24 @@
 16 བཀོད་ v.past:16 
 16 བཀོད་པ n.v.past:16 
 16 བགོས་ v.past:16 
-16 བགྱིད་ v.pres:16 
-16 བགྱིད་པ n.v.pres:16 
+16 བགྱིད་ v.pres.bgyid:16 
+16 བགྱིད་པ n.v.pres.bgyid:16 
 16 བཅུག v.past:16 
-16 བདུད་རྩི n.count:16 
 16 བདུན་པ་ num.ord:16 
 16 བབ་པ་ n.v.past:16 
 16 བཤད v.fut:1 v.fut.v.past:15 
 16 བསམ་པ n.v.fut:16 
 16 བསུ v.fut.v.pres:16 
-16 བསྐུར v.fut.v.past:15 v.imp:1 
+16 བསྐུར v.fut.v.past:15 v.ipv:1 
+16 བསྒོམ་ v.fut:14 v.pres:2 
 16 བསྟི་སྟང་ n.count:16 
 16 བསྡེབས་ v.past:16 
 16 བྱད་གཟུགས་ n.count:16 
 16 མགོ་བོ n.count:16 
-16 མཆིས v.fut.v.pres:1 v.imp:1 v.invar:2 v.past:12 
+16 མཆིས v.fut.v.pres:1 v.invar.mchis:2 v.ipv:1 v.past.mchi:12 
 16 མཆེད་གྲོགས་ n.count:16 
 16 མཉམ་པ་ n.v.invar:16 
 16 མི་ལ་ n.prop:16 
-16 ཚ་ d.plural:1 n.count:1 v.fut.v.pres:2 v.invar:11 v.past.v.pres:1 
 16 ཚོ d.plural:16 
 16 ཚོགས་པ་ n.v.invar:16 
 16 ཚོར་ v.fut.v.pres:2 v.invar:5 v.past:5 v.past.v.pres:4 
@@ -1688,13 +1686,12 @@
 16 ཟད་པ་ n.v.fut.n.v.pres:4 n.v.invar:12 
 16 ཟིལ་ n.count:16 
 16 འགྱོད་པ n.v.invar:16 
-16 འགྲན་ dunno:1 n.count:3 v.fut.v.pres:5 v.invar:6 v.past.v.pres:1 
+16 འགྲན་ n.count:3 v.fut.v.pres:5 v.invar:7 v.past.v.pres:1 
 16 འཆག་ v.fut.v.pres:8 v.invar:8 
 16 འཆད་པ n.v.fut.n.v.pres:16 
 16 འཇིག་པ n.v.invar:16 
 16 འཕེལ་ v.fut.v.pres:6 v.invar:8 v.past.v.pres:2 
-16 འཕྲིན་ n.count:16 
-16 འཕྲོ་ adv.temp:1 n.count:6 n.rel:5 v.fut.v.pres:4 
+16 འཕྲོ་ n.count:9 n.rel:2 n.temp:1 v.fut.v.pres:4 
 16 འབྱོར་ v.fut.v.pres:4 v.invar:4 v.past:2 v.past.v.pres:5 v.pres:1 
 16 འབྲུ་ n.count:15 v.fut.v.pres:1 
 16 འོབས་ n.count:16 
@@ -1705,7 +1702,7 @@
 16 རྨིས་ v.past:16 
 16 རྩེ་མོ་ n.count:15 n.prop:1 
 16 ལ་ཕྱི་གངས་ n.prop:16 
-16 ལོང་བ་ n.count:3 n.v.invar:13 
+16 ལོང་བ་ n.count:2 n.v.invar:14 
 16 ལྟོ་ n.count:16 
 16 ས་གཞི་ n.count:16 
 16 སྒྱུ་མ་ n.count:16 
@@ -1713,7 +1710,7 @@
 16 སྦྱིན་བདག་ n.count:16 
 16 སྲིན་པོ་ n.count:16 
 16 ཧ་ཅང་ adv.intense:16 
-15 ཁུར་ n.count:7 v.fut.v.past:4 v.imp:2 v.past:2 
+15 ཁུར་ n.count:7 v.fut.v.past:4 v.ipv:2 v.past:2 
 15 ཁྱི་ n.count:15 
 15 གཉེར་ v.fut.v.pres:8 v.invar:6 v.past.v.pres:1 
 15 གཙང་མ་ adj:14 n.prop:1 
@@ -1724,11 +1721,12 @@
 15 གྲྭ་པ་བུ་སློབ་ n.count:15 
 15 ཆག་ n.prop:6 v.invar:7 v.past:1 v.past.v.pres:1 
 15 ཆེན་མོ་ adj:15 
-15 ཆོད v.fut.v.pres:1 v.imp:1 v.invar:13 
+15 ཆོད v.fut.v.pres:1 v.invar:13 v.ipv:1 
 15 ཆོས་སྐུ་ n.count:15 
 15 ཇོ་སྲས་ n.count:15 
 15 ཉལ་བ n.v.fut.n.v.pres:14 n.v.past:1 
-15 ཉེན་ n.count:4 n.rel:2 v.fut.v.pres:1 v.invar:5 v.past.v.pres:3 
+15 ཉིན་མཚན་ adv.temp:3 n.count:6 n.temp:6 
+15 ཉེན་ n.count:5 n.rel:1 v.fut.v.pres:1 v.invar:5 v.past.v.pres:3 
 15 ཏམ cv.ques:15 
 15 དགོངས་པ n.v.invar:14 n.v.past:1 
 15 དབུལ་པོ་ adj:15 
@@ -1740,35 +1738,35 @@
 15 བག་ n.count:15 
 15 བཏུས་ n.count:1 v.past:14 
 15 བམ་པོ་ n.count:15 
-15 བཙལ v.fut.v.past:15 
-15 བཞེངས v.imp:1 v.past:14 
+15 བཙལ v.fut.v.past.tshal1:15 
+15 བཞེངས v.ipv:1 v.past:14 
 15 བརྒྱགས་ n.count:15 
 15 བརྟན་ n.count:4 v.fut.v.pres:5 v.invar:6 
 15 བརྟེན་པ n.v.fut:2 n.v.past:13 
 15 བལྟ་བ n.v.fut:15 
 15 བསུ་ n.count:1 v.fut.v.pres:10 v.pres:4 
-15 བསུས་ v.imp:1 v.past:14 
+15 བསུས་ v.ipv:1 v.past:14 
 15 བསྐོར་བ n.v.fut:15 
 15 བསྡུ་བ n.v.fut:15 
 15 བསླབས v.past:15 
 15 བཱ་རཱ་ཎ་སཱི་ n.prop:15 
 15 བྱང་སེམས་ n.count:15 
-15 བྱིན v.imp:5 v.past:10 
+15 བྱིན v.ipv:5 v.past:10 
 15 བྱིན་བརླབས་ n.count:15 
 15 བླངས་པ་ n.v.past:15 
 15 མ་བུ་ n.count:15 
 15 མངོན་པ་ n.count:6 n.v.past.n.v.pres:8 n.v.pres:1 
 15 མཚན་མ་ n.count:15 
-15 མྱོང་བ་ n.v.fut.n.v.pres:1 n.v.invar:14 
+15 མྱོང་བ་ n.v.invar.myong2:15 
 15 ཚ་བ་ n.v.fut.n.v.pres:2 n.v.invar:13 
 15 ཚོལ་བ་ n.v.fut.n.v.pres:15 
-15 ཞུགས v.imp:1 v.past:14 
+15 ཞུགས v.ipv:1 v.past:14 
 15 ཟངས་ n.count:11 n.mass:4 
 15 ཟབ་ n.count:3 v.pres:12 
 15 ཟླ་ n.count:15 
 15 འཁམས་ v.invar:8 v.past.v.pres:7 
 15 འདུན་པ་ n.prop:8 n.v.past.n.v.pres:7 
-15 འདྲི་ n.rel:1 v.pres:14 
+15 འདྲི་ n.count:1 v.pres:14 
 15 འཕྲད་ v.fut.v.pres:10 v.pres:5 
 15 འཛིན v.pres:15 
 15 འོག་མིན་ n.prop:15 
@@ -1776,13 +1774,13 @@
 15 འོད་སྲུང་ n.count:1 n.prop:14 
 15 འོས་ n.count:8 v.fut.v.pres:2 v.invar:5 
 15 རུས་པ n.mass:15 
-15 རེག་ n.count:1 v.imp:1 v.invar:9 v.past:3 v.pres:1 
+15 རེག་ n.count:1 v.invar:9 v.ipv:1 v.past:3 v.pres:1 
 15 རོལ་མོ n.count:15 
 15 རྒྱ་བ n.v.fut.n.v.pres:15 
-15 རྨོས་ n.count:1 v.imp:3 v.past:11 
+15 རྨོས་ n.count:1 v.ipv:3 v.past:11 
 15 རྩལ་ n.count:15 
 15 རྫོང་ n.count:15 
-15 ལམ cv.ques:7 n.count:8 
+15 ལམ case.ques:3 cv.ques:4 n.count:8 
 15 ལུང་བ་ n.count:15 
 15 ལྟུང་བ་ n.v.invar:15 
 15 ལྟོ་གོས་ n.count:15 
@@ -1792,14 +1790,14 @@
 15 སྤངས་པ་ n.v.past:15 
 15 སྤོང་བ་ n.v.pres:15 
 15 སྦྱངས་པ n.v.past:15 
-15 སྲིད་པ་ n.v.invar:15 
+15 སྲིད་པ་ n.v.invar.srid:15 
 15 སྲིན་བུ་ n.count:15 
 15 ཨ་ཁུ n.count:15 
-14 ཁྱེར v.fut.v.past:8 v.imp:6 
+14 ཁྱེར v.fut.v.past:8 v.ipv:6 
 14 གཅོད་པ n.v.pres:14 
 14 གཅོད་པ་ n.v.pres:14 
 14 གདེངས་ n.count:14 
-14 གམ cv.ques:14 
+14 གམ case.ques:6 cv.ques:8 
 14 གཙང་མ adj:13 n.prop:1 
 14 གསད་པ n.v.fut:14 
 14 གསོ་ v.fut.v.pres:14 
@@ -1810,13 +1808,14 @@
 14 ང་རྒྱལ་ n.count:14 
 14 ཆུང་བ n.v.fut.n.v.pres:1 n.v.invar:13 
 14 ཆོད་པ n.v.invar:11 n.v.past:3 
-14 ཐོ་རངས་ adv.temp:14 
+14 ཇི་སྲིད་ p.interrog:14 
+14 ཐོ་རངས་ adv.temp:10 n.temp:4 
 14 ཐོགས་མེད་ n.prop:14 
-14 ཐོན་པ n.v.past:14 
+14 ཐོན་པ n.v.fut.n.v.past:14 
 14 དགའ་སྤྲོ་ n.count:14 
-14 དེང་ adv.temp:11 v.imp:3 
+14 དེང་ adv.temp:7 n.temp:4 v.ipv:3 
 14 དོན་མེད་ adj:14 
-14 དྲག་ v.fut.v.pres:4 v.invar:10 
+14 དྲག་ v.invar.drag:14 
 14 དྲག་པོ adj:14 
 14 དྲིན་ལན་ n.count:14 
 14 ནུབ་མོ་ n.count:14 
@@ -1826,12 +1825,11 @@
 14 བཏིང་ v.past:14 
 14 བདག་མེད་མ n.prop:14 
 14 བཙོན་ n.count:14 
-14 བཞག་པ་ n.v.past:12 n.v.pres:2 
+14 བཞག་པ་ n.v.past.bzhag:14 
 14 བརྩམས་པ n.v.past:14 
 14 བརྫངས་ v.past:14 
 14 བསགས་པ་ n.v.past:14 
 14 བསྐྱེད v.fut.v.past:14 
-14 བསྒོམ་ v.fut:14 
 14 བསྟེན v.fut.v.past:14 
 14 མཁར་ལས་ n.count:14 
 14 མཉན་པ n.count:1 n.v.past:13 
@@ -1841,18 +1839,20 @@
 14 མི་ལ་རས་པ་ n.prop:14 
 14 ཚད་མེད་ adj:14 
 14 ཞིབ་ v.fut.v.pres:11 v.invar:3 
-14 འཁོད་ v.imp:1 v.invar:12 v.past.v.pres:1 
+14 འཁོད་ v.invar:12 v.ipv:1 v.past.v.pres:1 
 14 འཁྲུངས་པ n.v.past.n.v.pres:14 
 14 འགལ་བ་ n.v.fut.n.v.pres:14 
 14 འཇའ་འོད་ n.count:14 
-14 འཇུས་ v.imp:2 v.past:12 
+14 འཇུས་ v.ipv:2 v.past:12 
 14 འདུས་པ་ n.v.past:14 
+14 འབབ་ v.fut.v.pres:14 
 14 འབར་ v.fut.v.pres:5 v.invar:9 
 14 འབེབས་ v.pres:14 
 14 འབྲས་བུ n.count:14 
 14 འཛོམ་ v.fut.v.pres:1 v.invar:12 v.past.v.pres:1 
 14 རྒྱ་བ་ n.v.fut.n.v.pres:14 
-14 རྒྱུག་ v.fut.v.pres:1 v.imp:1 v.invar:10 v.past:1 v.pres:1 
+14 རྒྱུག་ v.fut.v.pres:1 v.invar:10 v.ipv:1 v.past:1 v.pres:1 
+14 རྔ་ n.count:11 v.pres:3 
 14 ལུས་ངག་ཡིད་ n.count:14 
 14 ལུས་པ་ n.v.invar:7 n.v.past:7 
 14 ལོ་ཙྪ་བ n.count:14 
@@ -1868,7 +1868,7 @@
 14 སྐྱེལ་ v.pres:14 
 14 སྟོང་ཉིད་ n.count:14 
 14 སྣ་ལེན་ n.count:14 
-14 སྤྱི་ d.plural:11 n.count:3 
+14 སྤྱི་ d.quant:11 n.count:3 
 14 སྦྱངས་ v.past:14 
 14 སྦྲན་ v.fut:3 v.fut.v.past:7 v.past:4 
 14 སྨྲེ་སྔགས་ n.count:14 
@@ -1877,21 +1877,20 @@
 13 གངས་ n.mass:13 
 13 གཉུག་མ adj:12 n.count:1 
 13 གདུག་པ adj:6 n.count:1 n.v.pres:6 
-13 གནོང་ n.count:1 v.imp:11 v.invar:1 
+13 གནོང་ n.count:1 v.invar:1 v.ipv:11 
 13 གཡོན་ n.count:13 
 13 གསང་བ n.v.invar:13 
 13 གསན་པ n.v.past:4 n.v.past.n.v.pres:7 n.v.pres:2 
-13 གསེབ་ n.count:1 n.rel:12 
+13 གསེབ་ n.count:4 n.rel:9 
 13 གུས་ n.count:5 v.invar:8 
 13 གླང་ n.count:13 
 13 ངུར་སྨྲིག་ n.mass:13 
 13 ཆ་ལུགས་ n.count:13 
 13 ཆད་པ་ n.v.fut.n.v.pres:1 n.v.invar:12 
-13 ཆོག v.aux:1 v.imp:1 v.invar:11 
-13 ཇི་སྲིད་ p.interrog:13 
+13 ཆོག v.invar.chog:13 
 13 ཉལ་བ་ n.v.fut.n.v.pres:13 
 13 ཉེ་བ་ n.v.invar:13 
-13 ཉོན n.count:1 v.imp:12 
+13 ཉོན n.count:1 v.ipv:12 
 13 ཐ་སྙད་ n.count:13 
 13 ཐེ་ཙོམ་ n.count:13 
 13 ཐོས v.invar:11 v.past:2 
@@ -1907,7 +1906,6 @@
 13 དྲང་ v.fut:13 
 13 དྲུག num.card:13 
 13 དྲུག་པོ་ num.card:13 
-13 ཕུག་ dunno:1 n.count:6 v.imp:1 v.past:5 
 13 ཕུང་པོ n.count:12 n.prop:1 
 13 ཕྱུག་པ་ n.v.invar:13 
 13 ཕྲན་ཚེགས་ adj:13 
@@ -1924,6 +1922,7 @@
 13 བསྐུར་བ n.v.fut:12 n.v.past:1 
 13 བསྐོར v.fut.v.past:13 
 13 བསྡད v.fut.v.past:12 v.past:1 
+13 བསླབ་ n.count:2 v.fut:11 
 13 བུ་ཁྱེའུ་ n.count:13 
 13 བོད་ཡུལ་ n.prop:13 
 13 བླངས v.past:13 
@@ -1940,19 +1939,17 @@
 13 འཁོར་འདས་ n.count:13 
 13 འཇིག་ v.fut.v.pres:1 v.invar:11 v.past.v.pres:1 
 13 འཐུང་ v.pres:13 
-13 འཐུངས་ v.imp:1 v.past:12 
+13 འཐུངས་ v.ipv:1 v.past:12 
 13 འདུ་བྱེད་ n.count:13 
 13 འདོད་ཡོན་ n.count:13 
 13 འདྲེན་པ་ n.v.pres:13 
 13 འཕངས་ v.past:13 
-13 འབབ་ dunno:1 v.fut.v.pres:12 
 13 འབྲེལ་བ་ n.v.fut.n.v.pres:13 
 13 འཛེགས་ v.past:13 
 13 ཡི་དགས་ n.count:13 
 13 རི་དགས་ n.count:13 
 13 རིག་ n.count:1 v.invar:5 v.past.v.pres:7 
 13 རུས་བུ་ n.count:13 
-13 རྔ་ n.count:11 v.pres:2 
 13 རྣ་བ་ n.count:13 
 13 རྣམ་གྲངས་ n.count:13 
 13 རྩིས་ n.count:7 n.prop:4 v.past:2 
@@ -1964,7 +1961,7 @@
 13 སྐོམ་ n.count:8 v.invar:5 
 13 སྙན་གྲགས་ n.count:13 
 13 སྟོང་པ n.v.invar:13 
-13 སྡིག་ཅན་ adj:11 n.count:2 
+13 སྡིག་ཅན་ adj:8 n.count:5 
 13 སྡོང་དུམ་ n.prop:13 
 13 སྤྲེའུ་ n.count:13 
 13 སྦས་ v.past:13 
@@ -1991,7 +1988,7 @@
 12 ཉམས n.count:3 v.invar:8 v.past:1 
 12 ཉི་མ n.count:12 
 12 ཉུང་ v.invar:12 
-12 ཏམ་ cv.ques:12 
+12 ཏམ་ case.ques:2 cv.ques:10 
 12 ཐལ་ n.count:4 v.fut:6 v.fut.v.past:2 
 12 དཀའ་ཐུབ་ n.count:12 
 12 དཀའ་ལས་ n.count:12 
@@ -2001,17 +1998,17 @@
 12 དོགས་པ་ n.v.invar:12 
 12 དོང་ཚེ་ n.count:12 
 12 དྲང་པོ adj:12 
-12 དྲོངས་ v.imp:11 v.past:1 
+12 དྲོངས་ v.ipv:11 v.past:1 
+12 ཕུག་ n.count:6 v.ipv:1 v.past:5 
 12 ཕུན་སུམ་ཚོགས་པ་ adj:12 
 12 ཕྱག་དར་ n.count:12 
 12 ཕྱུག་ n.count:1 v.fut.v.pres:1 v.invar:9 v.past.v.pres:1 
-12 བ་ dunno:1 n.count:4 skt:7 
-12 བགྱིས་པ n.v.past:12 
-12 བགྱིས་པ་ n.v.past:12 
+12 བགྱིས་པ n.v.past.bgyid:12 
+12 བགྱིས་པ་ n.v.past.bgyid:12 
 12 བདུད་རྩི་ n.count:12 
 12 བདེ་སྐྱིད་ n.count:12 
 12 བཙུན་པ n.count:5 n.v.past.n.v.pres:7 
-12 བཞག v.past:12 
+12 བཞག v.past.bzhag:12 
 12 བརྒྱད་པ num.ord:12 
 12 བརྒྱན་ v.fut.v.past:6 v.past:6 
 12 བརྒྱལ་ v.fut.v.pres:7 v.invar:4 v.past.v.pres:1 
@@ -2019,13 +2016,13 @@
 12 བརྩོན་ v.fut.v.pres:3 v.invar:9 
 12 བརླབས་ v.past:12 
 12 བསུ་བ་ n.v.fut.n.v.pres:12 
-12 བསྐོས་ dunno:1 v.past:11 
+12 བསྐོས་ v.past:12 
 12 བསྡོས་ v.past:12 
 12 བྲལ v.fut.v.past:12 
 12 མགོ་ལེགས་ n.prop:12 
 12 མཆེད་ལྕམ་ n.count:12 
 12 མཆོད་རྫས་ n.count:12 
-12 མཐའ་དག་ d.plural:12 
+12 མཐའ་དག་ d.quant:12 
 12 མཐུ་སྟོབས་ adj:1 n.count:11 
 12 མཐོ་བ n.v.invar:12 
 12 མདངས་ n.count:12 
@@ -2034,10 +2031,10 @@
 12 མཚུངས་པ n.v.invar:12 
 12 མཛེས་ n.count:1 v.invar:11 
 12 མི་རྒན་ n.count:12 
-12 མིན་པ n.v.pres:12 
 12 མུན་པ་ n.count:12 
 12 ཚང་བ n.v.invar:7 n.v.past:5 
 12 ཚོགས n.count:11 v.invar:1 
+12 ཞིག་པ d.indef:1 n.v.past:11 
 12 ཞིམ་པོ་ adj:12 
 12 ཞོ་ n.count:12 
 12 ཟུར་ n.count:12 
@@ -2049,8 +2046,9 @@
 12 འབྲིང་ n.count:9 n.prop:3 
 12 འབྲུ་མར་ n.count:12 
 12 འཚོ་ v.pres:12 
-12 འོངས v.imp:1 v.past:11 
+12 འོངས v.past.ong:12 
 12 ཡལ་ v.fut.v.pres:2 v.invar:7 v.past:1 v.past.v.pres:2 
+12 ར་བ་ n.count:12 
 12 རབ་གནས་ n.count:12 
 12 རི་བོ་ n.count:12 
 12 རིག་བྱེད་ n.prop:12 
@@ -2063,13 +2061,14 @@
 12 ལག་པ n.count:12 
 12 ལྕེ་ n.count:12 
 12 ལྷན་པ་ n.count:8 n.v.pres:4 
+12 ཤཱཀྱ་ n.prop:12 
 12 ཤི v.past:12 
-12 ཤོམས་ v.imp:11 v.past:1 
+12 ཤོམས་ v.ipv:11 v.past:1 
 12 སད་པ n.v.invar:12 
 12 སུ་ཏ་སོ་མ་ n.prop:12 
 12 སེལ་བ n.v.pres:12 
 12 སྐར་མ་ n.count:12 
-12 སྟོན v.imp:1 v.pres:11 
+12 སྟོན v.ipv:1 v.pres:11 
 12 སྤྱད་པ n.v.fut.n.v.past:11 n.v.past:1 
 12 སྦྱར་བ n.v.fut:12 
 12 སྨད་པ n.v.fut:1 n.v.fut.n.v.past:10 n.v.past:1 
@@ -2078,28 +2077,28 @@
 11 ཁང་པ n.count:11 
 11 ཁྱད་ཆོས་ n.count:11 
 11 གཉིས་པོ་ num.card:11 
-11 གདུགས་ཚོད་ adv.temp:8 n.count:3 
+11 གདུགས་ཚོད་ n.count:3 n.temp:8 
 11 གདུང་བ n.v.fut.n.v.pres:11 
 11 གདུལ་བྱ n.count:11 
 11 གདོང་ n.count:11 
 11 གཙོ་ n.count:11 
 11 གཟུགས་ཅན་སྙིང་པོ n.prop:11 
 11 གཟུགས་བརྙན་ n.count:11 
-11 གཟོད་ adv.temp:11 
+11 གཟོད་ adv.temp:10 n.temp:1 
 11 གསུང་པ n.v.fut.n.v.pres:11 
 11 གསུམ་པོ་ num.card:11 
 11 གཽ་ཏ་མ་ n.prop:11 
-11 ཅིག་ཅར་ adj:4 adv.temp:7 
-11 ཉམ་ n.count:8 v.invar:3 
+11 ཅིག་ཅར་ adj:4 adv.temp:6 n.temp:1 
+11 ཉམ་ n.count:9 v.invar:2 
 11 ཉིད d.emph:11 
-11 ཐེག་ dunno:1 n.count:4 v.imp:1 v.invar:3 v.past:2 
+11 ཐེག་ n.count:4 v.invar:4 v.ipv:1 v.past:2 
 11 དགའ་སྟོན་ n.count:11 
-11 དགོངས v.imp:1 v.invar:10 
+11 དགོངས v.invar:10 v.ipv:1 
 11 དབང་གདམས་ངག་ n.count:11 
 11 དབུ་མ n.prop:11 
 11 དམ་པོ་ adj:11 
 11 དྲངས་པ་ n.v.past:11 
-11 དྲིན་ཅན་ adj:10 n.count:1 
+11 དྲིན་ཅན་ adj:6 n.count:5 
 11 ནུབ་པ་ n.v.invar:11 
 11 ཕ་ཇོ་ n.count:11 
 11 ཕ་རྒན་ n.count:11 
@@ -2107,8 +2106,9 @@
 11 ཕྱག་རྟགས་ n.count:11 
 11 ཕྱི་མ adj:11 
 11 ཕྱུག་པོ་ adj:11 
+11 བ་ n.count:4 skt:7 
 11 བ་སྤུ་ n.mass:11 
-11 བགྱི་བ་ n.v.fut:11 
+11 བགྱི་བ་ n.v.fut.bgyid:11 
 11 བཅུག་པ n.v.past:11 
 11 བཏགས་པ་ n.v.past:11 
 11 བཏེག་ v.fut.v.past:7 v.past:4 
@@ -2117,7 +2117,7 @@
 11 བདོག་པ་ n.v.fut.n.v.pres:3 n.v.invar:8 
 11 བརྐུས་ v.past:11 
 11 བརྒྱན་པ n.v.past:11 
-11 བརྒྱུད་ n.count:9 v.past.v.pres:2 
+11 བརྒྱུད་ n.count:8 v.invar:1 v.past.v.pres:2 
 11 བརྟག་པ n.v.fut.n.v.past:11 
 11 བརྟན་པ་ n.v.fut:1 n.v.past:10 
 11 བརྡབས་ v.past:11 
@@ -2130,9 +2130,10 @@
 11 བསྔོ་བ་ n.v.fut:11 
 11 བསྙེན་ v.fut.v.past:9 v.past:2 
 11 བསྙེན་པ n.v.past.n.v.pres:11 
+11 བསྲུང་བ་ n.v.fut:11 
 11 བསྲེགས་ v.past:11 
 11 བྱང་ཆུབ་སེམས་ n.count:11 
-11 བྱུང་ཚུལ་ n.v.past:11 
+11 བྱུང་ཚུལ་ n.v.past.byung:11 
 11 བྱེད་ལུགས་ n.v.pres:11 
 11 བྲག་ཕུག་ n.count:11 
 11 མཁའ་ n.count:11 
@@ -2140,7 +2141,7 @@
 11 མངོན་རྟོགས་རྒྱན་ n.prop:11 
 11 མཆོངས་ v.past:11 
 11 མཉན་པ་ n.v.past:11 
-11 མཐོ་ n.count:1 n.rel:1 v.invar:9 
+11 མཐོ་ n.count:2 v.invar:9 
 11 མཚོན་པ n.v.past:1 n.v.past.n.v.pres:9 n.v.pres:1 
 11 མཛེས་སེ་ n.prop:11 
 11 མར་མེ་མཛད་ n.prop:11 
@@ -2152,16 +2153,15 @@
 11 ཚ་བ n.v.fut.n.v.pres:1 n.v.invar:10 
 11 ཚོགས་པ n.v.invar:11 
 11 ཚོགས་མཆོད་ n.count:11 
-11 ཞིག་པ d.indef:1 n.v.past:10 
 11 ཟད v.past:11 
 11 ཟྭ་ n.count:11 
 11 འགུམ་ v.fut.v.pres:11 
 11 འཇམ་དཔལ་ n.prop:11 
 11 འད v.fut.v.pres:11 
 11 འདམ་ n.count:6 n.prop:2 v.pres:3 
-11 འདེབས་པ n.v.pres:11 
+11 འདེབས་པ n.v.fut.n.v.pres:11 
 11 འབབ་པ n.v.fut.n.v.pres:11 
-11 འཚལ་བ n.v.fut.n.v.pres:11 
+11 འཚལ་བ n.v.fut.n.v.pres.tshal1:9 n.v.invar.tshal2:2 
 11 འཛམ་གླིང་ n.count:11 
 11 ཡོངས་པ་ n.v.past:11 
 11 རངས་པ n.v.invar:11 
@@ -2175,28 +2175,28 @@
 11 རྡོ་རྗེ་འཆང་ n.prop:11 
 11 རྩེ་མོ n.count:11 
 11 རྩྭ་ཅན་ n.prop:11 
+11 ལབ་ v.fut.v.pres:2 v.invar:9 
 11 ལམ་བར་ n.count:11 
 11 ལེ་ལོ་ adj:1 n.count:10 
 11 ལོ་མ་ n.count:11 
-11 ལོགས་ n.rel:11 
+11 ལོགས་ n.count:11 
 11 ལྷ་ཆོས་ n.count:11 
 11 ལྷག་མཐོང་ n.count:11 
-11 ཤཱཀྱ་ n.prop:11 
 11 ཤཱཀྱ་ཐུབ་པ་ n.prop:11 
-11 སང་ adv.temp:10 v.past:1 
+11 སང་ adv.temp:8 n.temp:2 v.past:1 
 11 སུམ་ཆ་ num.card:11 
 11 སེམས n.count:7 v.pres:4 
 11 སྐུ་ཚེ་ n.count:11 
 11 སྐྱེ་མཆེད་ n.count:10 n.prop:1 
 11 སྐྱོ་བ n.v.invar:11 
 11 སྐྱོ་ཤས་ adj:1 n.count:10 
-11 སྟེར v.fut.v.pres:1 v.imp:1 v.invar:9 
-11 སྡོད v.fut.v.pres:7 v.imp:3 v.pres:1 
+11 སྟེར v.fut.v.pres:1 v.invar:9 v.ipv:1 
+11 སྡོད v.fut.v.pres:7 v.ipv:3 v.pres:1 
 11 སྦྱོར་བ n.v.pres:11 
 11 སྨན་དཔྱད་ n.count:11 
-11 སྨོན་པ་ n.v.past.n.v.pres:11 
+11 སྨོན་པ་ n.v.invar:11 
 11 སྲས་མོ་ n.count:11 
-11 སྲིད་པ n.v.invar:11 
+11 སྲིད་པ n.v.invar.srid:11 
 11 སྲོག་ཆགས་ n.count:11 
 11 སླེབ v.fut.v.pres:9 v.pres:2 
 11 སླེབ་པ་ n.v.fut.n.v.pres:11 
@@ -2212,33 +2212,31 @@
 10 གར་ n.count:10 
 10 གསང་བ་ n.v.invar:10 
 10 གསལ་བ་ n.v.fut.n.v.pres:10 
-10 གསོན་ v.fut.v.pres:1 v.imp:4 v.invar:4 v.past.v.pres:1 
+10 གསོན་ v.fut.v.pres:1 v.invar:4 v.ipv:4 v.past.v.pres:1 
 10 གུག་ v.invar:10 
 10 གེགས་ n.count:10 
 10 གོང་མ་ adj:10 
-10 གྲགས v.invar:10 
+10 གྲགས v.invar.grags:10 
 10 གྲུབ v.past:10 
 10 གླེང་མོ་ n.count:10 
 10 ངེས v.invar:10 
 10 ངོགས་ n.count:10 
-10 ཅན་ dunno:10 
 10 ཆིབས་ n.count:5 v.pres:5 
 10 ཆོ་ངེས་ n.count:10 
-10 ཆོག་པ་ n.v.invar:10 
+10 ཆོག་པ་ n.v.invar.chog:10 
 10 ཆོས་ཉན་ n.count:10 
-10 ཉན v.pres:10 
+10 ཉན v.fut.v.pres:10 
 10 ཉམས་མྱོང་ n.count:10 
 10 ཉིན་ཞག་ n.count:10 
 10 ཐུག་པ་ n.v.invar:10 
 10 ཐུན་ n.count:10 
-10 ཐོན་པ་ n.v.past:10 
-10 དགྱེས་པ་རྡོ་རྗེ་ n.prop:10 
+10 ཐོན་པ་ n.v.fut.n.v.past:10 
 10 དཔལ་ནཱ་རོ་པ་ n.prop:10 
 10 དབྱུང་ v.fut:10 
 10 དར་བ་ n.v.fut.n.v.pres:10 
 10 དལ་ n.count:7 v.past:3 
 10 དུར་ n.count:8 v.fut.v.pres:2 
-10 དུས n.count:2 n.rel:8 
+10 དུས n.count:10 
 10 དོལ་ n.prop:10 
 10 དྲངས v.past:10 
 10 དྲི་བསུང་ n.count:10 
@@ -2250,17 +2248,17 @@
 10 ཕ་རོལ་པོ adj:1 n.count:9 
 10 ཕམ་པ n.v.fut.n.v.past:9 n.v.past:1 
 10 ཕུན་སུམ་ཚོགས་པ adj:9 n.count:1 
-10 ཕོ་ dunno:1 n.count:9 
+10 ཕོ་ n.count:10 
 10 ཕྱག་རྟེན་ n.count:10 
 10 ཕྱུང་བ་ n.v.past:10 
-10 ཕྱེས་ v.imp:4 v.past:6 
+10 ཕྱེས་ v.ipv:4 v.past:6 
 10 བཀག་ v.past:10 
 10 བཀའ་བཀྱོན་ n.count:10 
 10 བཀལ་ v.fut.v.past:6 v.past:4 
 10 བཀུར་བ n.v.fut.n.v.pres:10 
 10 བཅུ་པ num.ord:10 
 10 བཅུག་པ་ n.v.past:10 
-10 བཏུབ་པ n.v.fut.n.v.pres:5 n.v.invar:1 n.v.past:4 
+10 བཏུབ་པ n.v.invar.thub1:10 
 10 བམ་ cv.ques:10 
 10 བཙན་ v.fut.v.pres:4 v.invar:5 v.past.v.pres:1 
 10 བཙན་པོ་ n.count:10 
@@ -2269,7 +2267,7 @@
 10 བཞེས་པ་ n.v.fut.n.v.pres:1 n.v.invar:9 
 10 བཟུང་བ n.v.past:10 
 10 བར་སྣང་ n.count:10 
-10 བརྒལ་ dunno:1 v.fut.v.past:3 v.past:6 
+10 བརྒལ་ v.fut.v.past:10 
 10 བརྒྱ་པ་ num.ord:10 
 10 བརྒྱད num.card:10 
 10 བརྟག་པ་ n.v.fut.n.v.past:10 
@@ -2277,11 +2275,11 @@
 10 བལ་ཡུལ་ n.prop:10 
 10 བསམ་སྦྱོར་ n.count:10 
 10 བསིལ་ v.fut.v.pres:5 v.invar:2 v.past.v.pres:3 
-10 བསྒྱུར v.fut.v.past:10 
+10 བསྒྱུར v.fut.v.past.gyur:10 
 10 བསླངས་ v.past:10 
 10 བུ་ཆུང་ n.count:10 
 10 བཻ་དཱུརྱ་ n.mass:8 n.prop:2 
-10 བྱེ་ dunno:1 n.count:6 v.past:3 
+10 བྱེ་ n.count:7 v.past:3 
 10 བྲག་དཀར་ཏ་སོ n.prop:10 
 10 བྲོས་པ n.v.past:10 
 10 མཁྱེན་པ་ n.v.past.n.v.pres:10 
@@ -2297,7 +2295,7 @@
 10 ཚོར་བ n.v.fut.n.v.pres:2 n.v.past:8 
 10 ཚོལ་བ n.v.fut.n.v.pres:10 
 10 ཞེན་པ་ n.v.past.n.v.pres:10 
-10 ཞོག v.imp:10 
+10 ཞོག v.ipv:10 
 10 ཟ་མ་ n.count:10 
 10 འཁར་བ་ n.count:10 
 10 འག d.plural:10 
@@ -2313,7 +2311,7 @@
 10 འབྲེལ་བ n.v.fut.n.v.pres:8 n.v.past:2 
 10 འོ་ཅག་ p.pers:10 
 10 ཡུས་ n.count:6 v.fut.v.pres:1 v.invar:3 
-10 རམ cv.ques:10 
+10 རམ case.ques:5 cv.ques:5 
 10 རས་པ་ n.count:10 
 10 རི n.count:10 
 10 རེག་པ་ n.v.invar:10 
@@ -2321,12 +2319,10 @@
 10 རྒྱས v.past:10 
 10 རྒྱུད་འགྲེལ་ n.count:10 
 10 རྒྱུད་སྡེ་ n.count:10 
-10 ལབ་ v.fut.v.pres:2 v.invar:8 
 10 ལྡིང་བ་ n.v.invar:10 
 10 ལྷུང་བ་ n.v.invar:10 
-10 ཤེས་བྱ་ n.v.fut:10 
 10 སེར་སྐྱ n.prop:10 
-10 སོགས d.det:10 
+10 སོགས d.quant:10 
 10 སྐད n.count:5 v.invar:5 
 10 སྐུ་གསུང་ཐུགས་ n.count:10 
 10 སྐྱིད་པ་ n.v.invar:10 
@@ -2336,12 +2332,12 @@
 10 སྟེར་བ n.v.fut.n.v.pres:10 
 10 སྟེར་བ་ n.v.fut.n.v.pres:8 n.v.past:2 
 10 སྟོང་པ་ n.count:1 n.v.invar:7 num.ord:2 
-10 སྡེབས་ v.imp:5 v.past:5 
+10 སྡེབས་ v.ipv:5 v.past:5 
 10 སྡོང་པོ་ n.count:10 
 10 སྣམ་བུ་ n.mass:10 
 10 སྤྱི་བོ་ n.count:10 
 10 སྲིན་པོ n.count:10 
-10 སྲུང་ v.fut.v.pres:9 v.imp:1 
+10 སྲུང་ v.fut.v.pres:9 v.ipv:1 
 10 སླ་བ་ n.v.pres:10 
 10 སློབ་པ་ n.v.pres:10 
 9 ཀཱ་ཏྱཱ་ཡ་ན n.prop:9 
@@ -2362,9 +2358,9 @@
 9 གནོད་ v.fut.v.pres:2 v.invar:7 
 9 གནོན་ n.count:1 v.pres:8 
 9 གཞན་དོན་ n.count:9 
-9 གཞོན་པ་ n.count:8 n.v.invar:1 
+9 གཞོན་པ་ n.count:9 
 9 གཟི་བརྗིད་ n.count:9 
-9 གཟིགས v.imp:5 v.invar:4 
+9 གཟིགས v.invar:4 v.ipv:5 
 9 གཟུང་བ n.v.fut.n.v.pres:9 
 9 གཡས་ n.count:9 
 9 གསེར་ས་ལ n.prop:9 
@@ -2374,7 +2370,7 @@
 9 གྲབས་ n.count:9 
 9 ངེས་འབྱུང་ n.count:9 
 9 ངོ་བོ n.count:9 
-9 ངོ་མཚར་ཅན་ adj:9 
+9 ངོ་མཚར་ཅན་ adj:4 n.count:5 
 9 ངོ་ཚ n.count:9 
 9 ངོ་སྤྲོད་ n.count:9 
 9 ཇོ་མོ་ n.count:8 n.prop:1 
@@ -2387,7 +2383,6 @@
 9 ཐུགས་ཉམས་ n.count:9 
 9 ཐུགས་རྗེ་ཅན adj:9 
 9 ཐུགས་སྲས་ n.count:9 
-9 ཐུང་ v.pres:9 
 9 ཐེག་པ n.v.fut.n.v.pres:2 n.v.invar:6 n.v.past:1 
 9 ཐེབས་པ་ n.v.invar:9 
 9 དཀའ་སྤྱད་ n.count:9 
@@ -2395,6 +2390,7 @@
 9 དགུན་ adv.temp:5 n.count:4 
 9 དགེ་བསྙེན་མ་ n.count:9 
 9 དགོངས་འགྲེལ་ n.count:8 n.prop:1 
+9 དགྱེས་པ་རྡོ་རྗེ་ n.prop:9 
 9 དཔང་ n.count:9 
 9 དཔལ་ལྡན་ adj:7 n.prop:2 
 9 དབང་ཕྱུག་ n.count:9 
@@ -2411,15 +2407,15 @@
 9 ཕར་ཕྱིན་ n.count:8 n.prop:1 
 9 ཕུག་པ n.count:8 n.v.past:1 
 9 ཕུང་ n.count:3 v.past:6 
-9 ཕོད་པ n.v.aux:7 n.v.past:2 
+9 ཕོད་པ n.v.past.phod:9 
 9 ཕྱག་ཕྱི n.count:9 
 9 ཕྱག་ལེན་ n.count:9 
 9 ཕྱིན་ཆད་ adv.dir:9 
-9 བཀའ་དྲིན་ཅན་ adj:9 
+9 བཀའ་དྲིན་ཅན་ adj:7 n.count:2 
 9 བཀུར་ v.fut.v.pres:7 v.invar:1 v.past.v.pres:1 
 9 བཀོད v.past:9 
 9 བཀྱེ་ v.fut.v.past:7 v.past:2 
-9 བགྱི་ v.fut:9 
+9 བགྱི་ v.fut.bgyid:9 
 9 བཅིངས་ v.past:9 
 9 བཏགས་པ n.v.past:9 
 9 བཏིང་བ་ n.v.past:9 
@@ -2478,12 +2474,11 @@
 9 ཡུག་ n.count:9 
 9 ཡུལ་ཕྱོགས་ n.count:9 
 9 ཡོང་པ་ n.v.invar:9 
-9 ར་བ་བསྲུང་བ་ n.count:9 
 9 རིང་བ n.v.fut.n.v.pres:1 n.v.invar:8 
 9 རིང་བ་ n.v.fut.n.v.pres:2 n.v.invar:7 
 9 རྐང་ལག་ n.count:9 
 9 རྒྱང་གྲགས་ n.count:9 
-9 རྒྱལ n.count:1 v.imp:1 v.invar:7 
+9 རྒྱལ n.count:1 v.invar:7 v.ipv:1 
 9 རྒྱལ་ཆེན་ n.count:9 
 9 རྒྱལ་རིགས་ n.count:9 
 9 རྔོན་པ་ n.count:7 n.v.pres:2 
@@ -2501,7 +2496,7 @@
 9 ལྕམ n.count:9 
 9 ལྟོ་བ་ n.count:9 
 9 ལྟོགས་ v.fut.v.pres:1 v.invar:7 v.past.v.pres:1 
-9 ལྟོས v.imp:7 v.invar:2 
+9 ལྟོས v.invar:2 v.ipv:7 
 9 ལྡེ་མིག་ n.count:9 
 9 ལྷ་མི་ n.count:9 
 9 ལྷ་རྫས་ n.count:9 
@@ -2509,28 +2504,28 @@
 9 སེར་བ n.mass:9 
 9 སོ་མ་ adj:9 
 9 སྐྱེངས་ v.invar:3 v.past.v.pres:6 
-9 སྐྱོལ་ v.imp:9 
+9 སྐྱོལ་ v.ipv:9 
 9 སྒལ་པ་ n.count:8 n.v.pres:1 
 9 སྙུན་ n.count:9 
 9 སྟོང་པ་ཉིད་ n.count:9 
 9 སྣོད་ལྡན་ adj:9 
-9 སྤེལ་ v.fut.v.pres:2 v.imp:1 v.invar:5 v.past.v.pres:1 
+9 སྤེལ་ v.fut.v.pres:2 v.invar:5 v.ipv:1 v.past.v.pres:1 
 9 སྤོང་བ n.v.pres:9 
 9 སྤྱོད་འཇུག་ n.prop:9 
 9 སྤྲིང་བ་ n.v.fut.n.v.pres:9 
-9 སྤྲོད་ v.imp:4 v.pres:5 
+9 སྤྲོད་ v.ipv:4 v.pres:5 
 9 སྨིན་གྲོལ་ n.count:9 
-9 སྲིད v.aux:2 v.invar:7 
+9 སྲིད v.invar.srid:9 
 9 སླེབ་པ n.v.fut.n.v.pres:9 
 9 སླེབས་པ་ n.v.past:9 
 8 ཀཽཎྜི་ནྱ་ n.prop:8 
 8 ཀློག་པ་ n.v.pres:8 
 8 ཁག་ n.count:8 
-8 ཁོངས་ n.rel:8 
+8 ཁོངས་ n.count:6 n.rel:2 
 8 ཁྱེད་ཅག་ p.pers:8 
 8 ཁྲ n.count:8 
-8 ཁྲ་ dunno:1 n.count:7 
-8 ཁྲོད་ n.rel:8 
+8 ཁྲ་ n.count:8 
+8 ཁྲོད་ n.count:5 n.rel:3 
 8 གཉེན་པོ་ adj:1 n.count:7 
 8 གདན་ས་ n.count:8 
 8 གདུངས་པ་ n.v.past:8 
@@ -2557,13 +2552,13 @@
 8 ཆོས་འཁོར་ n.count:8 
 8 ཉ n.count:4 v.invar:4 
 8 ཉམ་ང་ n.count:8 
-8 ཏོག་ n.count:4 n.prop:3 n.rel:1 
-8 ཐོངས་ v.imp:3 v.past:5 
-8 ཐོངས་པ n.v.imp:8 
+8 ཏོག་ n.count:5 n.prop:3 
+8 ཐོངས་ v.ipv:3 v.past:5 
+8 ཐོངས་པ n.v.ipv:8 
 8 དཀོན་པ n.v.past.n.v.pres:8 
 8 དག་སྣང་ n.count:8 
 8 དགོན་པ n.count:8 
-8 དད་པ་ཅན་ adj:8 
+8 དད་པ་ཅན་ adj:7 n.count:1 
 8 དཔལ་ཞི་བ་ n.prop:8 
 8 དབང་གྲལ་ n.count:8 
 8 དབང་ཐང་ n.count:8 
@@ -2571,12 +2566,13 @@
 8 དབབ་པ n.v.fut:8 
 8 དབྱིབས་ n.count:8 
 8 དམར་པོ adj:8 
-8 དེང་སང་ adv.temp:8 
+8 དེ་བར་ adv.temp:8 
+8 དེང་སང་ adv.temp:7 n.temp:1 
 8 དོན་དམ་ n.count:8 
 8 དྲང་བ n.v.fut:8 
-8 དྲན v.fut.v.pres:2 v.imp:1 v.invar:5 
+8 དྲན v.fut.v.pres:2 v.invar:5 v.ipv:1 
 8 ནར་མ adj:8 
-8 ནོན་ v.fut.v.pres:2 v.imp:1 v.invar:4 v.past:1 
+8 ནོན་ v.fut.v.pres:2 v.invar:4 v.ipv:1 v.past:1 
 8 པཎྜི་ཏ n.count:8 
 8 པདྨ་ n.count:8 
 8 ཕ་ཇོ n.count:8 
@@ -2589,13 +2585,13 @@
 8 ཕྲུག་གུ་ n.count:8 
 8 བཀབ་ v.past:8 
 8 བཀའ་ལུང་ n.count:8 
-8 བགྱིད་པ་ n.v.pres:8 
+8 བགྱིད་པ་ n.v.pres.bgyid:8 
 8 བགྲད་པ་ n.v.invar:8 
 8 བཅུ་པ་ n.prop:1 num.ord:7 
 8 བདག་ཉིད་ n.count:8 
 8 བདག་མོ་ n.count:8 
 8 བབས་པ་ n.v.past:8 
-8 བཞིན་པ n.rel:8 
+8 བཞིན་པ n.count:8 
 8 བཞེད་པ་ n.v.invar:8 
 8 བཟློག་པ n.v.fut.n.v.past:7 n.v.past:1 
 8 བརྒྱན་པ་ n.v.past:8 
@@ -2607,27 +2603,25 @@
 8 བརླབས་པ་ n.v.past:8 
 8 བཤགས་པ་ n.v.invar:8 
 8 བཤུས་ v.past:8 
-8 བཤོས་ dunno:1 n.count:3 v.imp:1 v.past.v.pres:3 
 8 བསིལ་བ n.v.fut.n.v.pres:8 
 8 བསྐུལ་བ་ n.v.fut:8 
 8 བསྙད་པ n.v.invar:8 
 8 བསྙེན་རྫོགས་ n.count:8 
 8 བསྟོད་པ་ n.v.invar:8 
-8 བསླབ་བྱ་ n.v.fut:8 
 8 བུ་ལོན་ n.count:8 
 8 བུམ་པ n.count:8 
 8 བྱོན་ཚུལ་ n.v.past:8 
-8 བྲིམས་ v.imp:2 v.past:6 
+8 བྲིམས་ v.ipv:2 v.past:6 
 8 བྲེ་ n.count:8 
 8 བླགས་ v.past:8 
 8 མ་རྒྱུད་ n.count:7 n.prop:1 
 8 མཁའ་སྤྱོད་ n.count:8 
 8 མཁྱེན v.invar:8 
 8 མགུར་ཆེན་ n.count:8 
-8 མགོ n.count:5 n.rel:3 
+8 མགོ n.count:6 n.rel:2 
 8 མགྱོགས་པ n.v.past:8 
-8 མཆི་ v.fut.v.pres:8 
-8 མཇུག་ n.count:1 n.rel:7 
+8 མཆི་ v.fut.v.pres.mchi:8 
+8 མཇུག་ n.count:3 n.rel:5 
 8 མཐོང་སྣང་ n.count:8 
 8 མཐོངས་ n.count:8 
 8 མནན་ v.fut:1 v.fut.v.past:5 v.past:2 
@@ -2645,7 +2639,7 @@
 8 ཞིང་པ་ n.count:8 
 8 ཞུ་བ n.v.fut.n.v.pres:8 
 8 ཟམ་པ་ n.count:8 
-8 ཟོ་ v.imp:8 
+8 ཟོ་ v.ipv:8 
 8 འཁྲུགས་པ་ n.v.fut.n.v.pres:4 n.v.invar:4 
 8 འགྲིབ་ v.fut.v.pres:4 v.invar:4 
 8 འགྲོགས་པ n.v.invar:8 
@@ -2661,12 +2655,11 @@
 8 འབྲེལ་ v.fut.v.pres:3 v.invar:3 v.past:1 v.past.v.pres:1 
 8 འཚོ་བྱེད་ n.count:7 n.prop:1 
 8 འཛོམ་པ n.v.fut.n.v.pres:8 
-8 ར་བ་ n.count:8 
 8 རང་རེ p.pers:8 
-8 རན་ v.aux:5 v.fut.v.pres:1 v.invar:2 
+8 རན་ v.invar.ran:8 
 8 རབ་བྱུང་ n.count:8 
 8 རབས་ n.count:8 
-8 རམ་ cv.ques:7 n.count:1 
+8 རམ་ case.ques:3 cv.ques:4 n.count:1 
 8 རུངས་པ་ n.v.fut.n.v.pres:8 
 8 རྐང་པ n.count:8 
 8 རྐང་བ་ n.count:8 
@@ -2678,7 +2671,7 @@
 8 རྗེ n.count:7 v.pres:1 
 8 རྗེ་བ་ n.v.pres:8 
 8 རྙེད v.fut.v.pres:2 v.invar:4 v.past:2 
-8 རྟིང་སོ adv.temp:8 
+8 རྟིང་སོ n.temp:8 
 8 རྣམ་སྨིན་ n.count:8 
 8 རྣོན་པོ adj:8 
 8 རྨད་ v.fut.v.pres:6 v.invar:2 
@@ -2699,7 +2692,7 @@
 8 སོས་པ་ n.v.past:8 
 8 སྐལ་ n.count:8 
 8 སྐུ་ཚེ n.count:8 
-8 སྐྱེད་ v.imp:4 v.pres:4 
+8 སྐྱེད་ v.ipv:4 v.pres:4 
 8 སྒྱུ་རྩལ་ n.count:8 
 8 སྒྱུ་ལུས་ n.count:8 
 8 སྙིང་རླུང་ n.count:8 
@@ -2711,15 +2704,15 @@
 8 སྡེར་ n.count:8 
 8 སྡོད་པ n.v.fut.n.v.pres:8 
 8 སྡོམ་བརྩོན་ n.count:8 
-8 སྤུངས་ v.imp:1 v.past:7 
-8 སྤོངས v.imp:8 
+8 སྤུངས་ v.ipv:1 v.past:7 
+8 སྤོངས v.ipv:8 
 8 སྤྱི་ཐེར་བ་ n.prop:8 
 8 སྤྲད་ v.invar:7 v.past.v.pres:1 
 8 སྤྲིང་ v.fut.v.pres:8 
-8 སྦར་ dunno:2 n.count:3 v.invar:1 v.past.v.pres:2 
+8 སྦར་ n.count:5 v.invar:1 v.past.v.pres:2 
 8 སྦྱོང་ v.pres:8 
 8 སྦྲན་པ n.v.past:8 
-8 སྩོལ་ v.imp:7 v.pres:1 
+8 སྩོལ་ v.fut.v.pres:1 v.ipv:7 
 8 སྲུང་བ n.v.pres:8 
 8 སྲུང་བ་ n.v.pres:8 
 8 སླེབས་ v.past:8 
@@ -2734,10 +2727,10 @@
 7 ཁོག་པ་ n.v.pres:7 
 7 ཁྱབ v.fut.v.pres:3 v.invar:4 
 7 ཁྱེར་བ n.v.fut:7 
-7 ཁྱོད dunno:2 p.pers:5 
+7 ཁྱོད p.pers:7 
 7 ཁྲག་ཁྲིག་ num.card:7 
 7 ཁྲོན་པ་ n.count:7 
-7 གངས་ཅན་ adj:4 n.count:2 n.prop:1 
+7 གངས་ཅན་ adj:3 n.count:3 n.prop:1 
 7 གཅེས་པ n.v.invar:7 
 7 གཏུམ་མོ adj:7 
 7 གཏུམ་མོ་ adj:1 n.count:5 n.prop:1 
@@ -2766,7 +2759,7 @@
 7 གྱོས་པོ n.count:7 
 7 གྲུ n.count:7 
 7 གྲྭ་བུ་སློབ་ n.count:7 
-7 གློ་བུ adv.temp:7 
+7 གློ་བུ n.temp:7 
 7 ངལ་དུབ་ n.count:7 
 7 ངེས་དོན་ n.count:7 
 7 ཆག་པ་ n.v.invar:6 n.v.past:1 
@@ -2778,12 +2771,13 @@
 7 ཉི་ཤུ num.card:7 
 7 ཉེ་རིང་ adj:4 n.count:3 
 7 ཏི་ལོ n.prop:7 
-7 ཐག་པ n.count:2 n.v.aux:2 n.v.past:3 
+7 ཐག་པ n.count:2 n.v.invar.thag:2 n.v.past:3 
 7 ཐག་རིང་ adj:4 n.count:3 
-7 ཐོན v.fut.v.past:3 v.imp:3 v.past:1 
+7 ཐུང་ v.pres:7 
+7 ཐོན v.fut.v.past:3 v.ipv:3 v.past:1 
 7 དཀར་ཕྱོགས་ n.count:7 
-7 དཀྱིལ་ n.count:2 n.rel:5 
-7 དགའ v.fut.v.pres:3 v.invar:4 
+7 དཀྱིལ་ n.count:3 n.rel:4 
+7 དགའ v.invar:7 
 7 དགུང་ལོ་ n.count:7 
 7 དགེ་བཤེས་རྩག་ཕུ་པ་ n.prop:7 
 7 དགྱེས་པ་ n.v.fut.n.v.pres:2 n.v.invar:5 
@@ -2803,7 +2797,7 @@
 7 དིང་རི n.prop:7 
 7 དུག་མཚོ n.count:7 
 7 དུས་མཆོད་ n.count:7 
-7 དྲག་པ་ n.v.fut.n.v.pres:2 n.v.invar:5 
+7 དྲག་པ་ n.v.invar.drag:7 
 7 དྲང་དོན་ n.count:7 
 7 དྲི་མ n.count:7 
 7 ནོར་དབྱིག་ n.count:7 
@@ -2821,6 +2815,7 @@
 7 བན་ཆུང་ n.count:7 
 7 བཙས་སྟོན་ n.count:7 
 7 བཞོན་པ་ n.v.past:7 
+7 བཟའ་ n.count:1 n.mass:4 v.fut:2 
 7 བཟུང་བ་ n.v.past:7 
 7 བཟོད་པ་ཅན་ adj:6 n.prop:1 
 7 བར་པ་ n.count:7 
@@ -2833,6 +2828,7 @@
 7 བརྩིས་པ n.v.past:7 
 7 བཤམས་པ་ n.v.past:7 
 7 བཤིག་པ n.v.past:7 
+7 བཤོས་ n.count:4 v.ipv:1 v.past.v.pres:2 
 7 བས case.comp:7 
 7 བསད v.past:7 
 7 བསམ་མནོ་ n.count:7 
@@ -2841,11 +2837,9 @@
 7 བསྒོམ་པ n.v.fut:7 
 7 བསྒོས་ v.past:7 
 7 བསྔོས་ v.past:7 
-7 བསྲུང་བ་ n.v.fut:7 
-7 བསླབ་ n.count:2 v.fut:5 
 7 བསླབས་པ n.v.past:7 
 7 བཱ་རཱ་ཎ་སཱི n.prop:7 
-7 བོར་བ n.v.fut.n.v.pres:5 n.v.past:2 
+7 བོར་བ n.v.fut.n.v.past:2 n.v.fut.n.v.pres:5 
 7 བོས་པ n.v.past:7 
 7 བྱ་ཀ་ལན་ད་ཀ་ n.prop:7 
 7 བྲིས་པ་ n.v.past:7 
@@ -2858,8 +2852,8 @@
 7 མགོན n.count:7 
 7 མགྲོན་ n.count:7 
 7 མངལ་ n.count:7 
-7 མཆི་བ n.v.fut.n.v.pres:7 
-7 མཆི་བ་ n.v.fut.n.v.pres:7 
+7 མཆི་བ n.v.fut.n.v.pres.mchi:7 
+7 མཆི་བ་ n.v.fut.n.v.pres.mchi:7 
 7 མཆི་མ n.count:7 
 7 མཆོངས་པ་ n.v.past:7 
 7 མཆོད v.invar:7 
@@ -2871,16 +2865,16 @@
 7 མདང་ adv.temp:7 
 7 མདུད་པ་ n.count:7 
 7 མནལ་ལམ་ n.count:7 
-7 མམ cv.ques:7 
+7 མམ case.ques:3 cv.ques:4 
 7 མཚོན་པ་ n.v.past.n.v.pres:7 
 7 མཛའ་བོ་ n.count:7 
 7 མི་རྒོད་ n.count:7 
 7 མིང་པོ་ n.count:7 
 7 མུག་ v.invar:6 v.past.v.pres:1 
-7 ཚངས་ n.prop:2 v.imp:2 v.invar:3 
+7 ཚངས་ n.prop:2 v.invar:3 v.ipv:2 
 7 ཚད་པ་ n.v.invar:7 
 7 ཚར་བ་ n.v.fut.n.v.pres:7 
-7 ཚུགས་ v.fut.v.pres:1 v.imp:3 v.past:1 v.past.v.pres:2 
+7 ཚུགས་ v.fut.v.pres:1 v.ipv:3 v.past:1 v.past.v.pres:2 
 7 ཚུལ་ཤིང་ n.count:7 
 7 ཚོང་པ n.count:7 
 7 ཞང་པོ n.count:7 
@@ -2899,7 +2893,7 @@
 7 འདྲི་བ་ n.v.pres:7 
 7 འདྲོངས་པ n.v.past:7 
 7 འཕྲོས་ n.count:2 v.past.v.pres:5 
-7 འབད་ v.imp:2 v.invar:5 
+7 འབད་ v.invar:5 v.ipv:2 
 7 འབད་པ n.v.invar:7 
 7 འབད་པ་ n.v.invar:7 
 7 འབེབས་པ་ n.v.pres:7 
@@ -2924,7 +2918,7 @@
 7 རྐང་བཀྲ་ n.prop:7 
 7 རྒན་པོ་ adj:7 
 7 རྒྱ་ཆེན་པོ་ adj:7 
-7 རྒྱུགས་ v.imp:2 v.invar:4 v.past:1 
+7 རྒྱུགས་ v.invar:4 v.ipv:2 v.past:1 
 7 རྔོག་སྟོན་ཆོས་རྡོར་ n.prop:7 
 7 རྙིང་པ་ n.v.fut.n.v.pres:7 
 7 རྡོ n.count:7 
@@ -2935,10 +2929,11 @@
 7 རྫིང་བུ་ n.count:7 
 7 ལ་ཕྱི་ n.prop:7 
 7 ལམ་སྣ་ n.count:7 
+7 ལས་འཕྲོ་ཅན་ adj:5 n.count:2 
 7 ལུ་གུ་ n.count:7 
 7 ལུས་སྲོག་ n.count:7 
 7 ལེན v.pres:7 
-7 ལོངས v.imp:5 v.past:2 
+7 ལོངས v.ipv:5 v.past:2 
 7 ལྕེབས་ v.past:7 
 7 ལྡང་ v.fut.v.pres:4 v.invar:3 
 7 ལྷ་མོ n.count:7 
@@ -2949,9 +2944,9 @@
 7 སེམས་ཙམ་ n.prop:7 
 7 སེལ་བ་ n.v.pres:7 
 7 སོ་ནམ་ n.count:7 
-7 སོག་ d.det:2 v.imp:1 v.pres:4 
+7 སོག་ d.det:2 v.ipv:1 v.pres:4 
 7 སྐུ་དྲིན་ n.count:7 
-7 སྐུར་ n.count:5 v.imp:2 
+7 སྐུར་ n.count:5 v.ipv:2 
 7 སྐྱུག་ n.count:3 v.fut.v.pres:4 
 7 སྐྱེད་པ n.v.pres:7 
 7 སྐྱོབ་ v.pres:7 
@@ -2965,6 +2960,7 @@
 7 སྡིག v.pres:7 
 7 སྡིག་པོ་ཆེ་ adj:7 
 7 སྡུད་པ་པོ n.count:7 
+7 སྤང་ n.count:1 n.prop:1 v.fut:5 
 7 སྤོ་ n.count:1 v.fut.v.pres:6 
 7 སྤྱོས་ v.past:7 
 7 སྤྲང་པོ n.count:7 
@@ -2975,7 +2971,7 @@
 7 སློང་མོ་ n.count:7 
 7 སློབ་འབངས་ n.count:7 
 7 ཨ་མྲ n.count:7 
-7 ཨང་ cv.odd:7 
+7 ཨང་ case.odd:1 cv.odd:6 
 6 ༡༠ numeral:6 
 6 ༢༣ numeral:6 
 6 ༧ numeral:6 
@@ -2995,7 +2991,7 @@
 6 གཏུམ་ v.invar:6 
 6 གཏོར་བ་ n.v.fut.n.v.pres:6 
 6 གདམས་པ n.v.fut.n.v.past:6 
-6 གདའ་བ་ n.v.invar:6 
+6 གདའ་བ་ n.v.invar.gda:6 
 6 གདུང་དབྱངས་ n.count:6 
 6 གདུང་ཤུགས་ n.count:6 
 6 གདུང་སེམས་ n.count:6 
@@ -3011,11 +3007,11 @@
 6 གསེར་འོད་ n.prop:6 
 6 གསོན་པོ adj:6 
 6 གོལ་ས་ n.v.invar:6 
-6 གྱིན་ cv.cont:5 dunno:1 
+6 གྱིན་ cv.cont:5 n.count:1 
 6 གྱུར་བ n.v.past:6 
-6 གྱོན v.imp:1 v.invar:5 
+6 གྱོན v.invar:5 v.ipv:1 
 6 གྲག་པ n.v.fut.n.v.pres:1 n.v.invar:5 
-6 གྲང་བ n.v.invar:6 
+6 གྲང་བ n.v.invar.grang:6 
 6 གྲལ་དབུ་ n.count:6 
 6 གྲིབ་མ་ n.count:6 
 6 གྲུབ་མཐ n.count:6 
@@ -3023,7 +3019,6 @@
 6 ངེས་ཚིག་ n.count:6 
 6 ངོ cv.fin:2 n.count:4 
 6 ངོ་ལྐོག་ n.count:6 
-6 ཅན dunno:6 
 6 ཅེས cl.quot:6 
 6 ཅོད་པན་ n.count:6 
 6 ཆ་བྱད་ n.count:6 
@@ -3031,7 +3026,6 @@
 6 ཆུ་སྡོར་ n.count:3 n.mass:3 
 6 ཆོས་ཁྲིམས་ n.count:6 
 6 ཆོས་དབྱིངས་ n.count:6 
-6 ཇེ་ dunno:6 
 6 ཉིན་མོ n.count:6 
 6 ཉེས་ཚོལ་ n.prop:6 
 6 ཉོས་ v.past:6 
@@ -3041,7 +3035,7 @@
 6 ཐིམ་པ n.v.invar:6 
 6 ཐུགས་དྲན་ n.count:6 
 6 ཐུགས་ལས་ n.count:6 
-6 ཐུབ v.invar:2 v.past:4 
+6 ཐུབ v.invar.thub2:6 
 6 ཐུལ་ v.fut.v.pres:1 v.invar:3 v.past:2 
 6 ཐེབས་ n.count:1 v.invar:2 v.past:2 v.past.v.pres:1 
 6 དཀའ་མོ་ adj:6 
@@ -3049,7 +3043,7 @@
 6 དཀྲུགས་ v.past:6 
 6 དགའ་མོ་ adj:6 
 6 དགེ་ n.count:6 
-6 དགོད་ v.fut.v.pres:5 v.imp:1 
+6 དགོད་ v.fut.v.pres:5 v.ipv:1 
 6 དགོས་འདོད་ n.count:6 
 6 དགྱེས་པ n.v.invar:6 
 6 དགྱེས་པ་རྡོ་རྗེ n.count:1 n.prop:5 
@@ -3060,14 +3054,14 @@
 6 དབབ་པ་ n.v.fut:6 
 6 དབུ n.count:6 
 6 དབུལ་ཕོངས་ n.count:6 
-6 དབེན་ dunno:1 v.fut.v.pres:1 v.invar:4 
+6 དབེན་ n.count:1 v.fut.v.pres:1 v.invar:4 
 6 དབེན་པ་ n.v.past.n.v.pres:6 
 6 དབྱུང་བ n.v.fut:1 n.v.fut.n.v.past:5 
 6 དབྱེར་མེད་ adj:6 
 6 དམན་པ n.v.past.n.v.pres:6 
 6 དམིགས་ n.count:2 v.fut.v.pres:2 v.invar:2 
 6 དམིགས་པ n.v.fut.n.v.pres:1 n.v.invar:5 
-6 དེད་ dunno:1 v.invar:4 v.past.v.pres:1 
+6 དེད་ v.invar:5 v.past.v.pres:1 
 6 དོ་ཟླ་ n.count:6 
 6 དོགས་པ n.v.invar:6 
 6 དོར་ v.fut:1 v.fut.v.past:3 v.past:2 
@@ -3084,8 +3078,8 @@
 6 ཕམ་ v.fut.v.past:4 v.past:2 
 6 ཕུ་བོ n.count:6 
 6 ཕོངས་པ n.v.invar:6 
-6 ཕོད་པ་ n.v.aux:4 n.v.past:2 
-6 ཕོབ་ v.imp:6 
+6 ཕོད་པ་ n.v.past.phod:6 
+6 ཕོབ་ v.ipv:6 
 6 ཕྱག་རྫས་ n.count:6 
 6 ཕྱི་མོ་ n.count:6 
 6 ཕྱེད་པ n.v.fut.n.v.pres:6 
@@ -3096,7 +3090,7 @@
 6 བཀྲེས་པ n.v.invar:6 
 6 བག་མེད་ adj:2 n.count:4 
 6 བགོ་བ་ n.count:3 n.v.fut.n.v.pres:3 
-6 བགྱི་བ n.v.fut:6 
+6 བགྱི་བ n.v.fut.bgyid:6 
 6 བགྲེས་ v.invar:6 
 6 བགྲོད་ n.count:2 v.invar:4 
 6 བཅག་ v.fut:1 v.fut.v.past:3 v.past:2 
@@ -3113,11 +3107,11 @@
 6 བཙུམས་ v.past:6 
 6 བཙོང་ v.fut:6 
 6 བཙོངས་པ n.v.past:6 
-6 བཞུད་ v.imp:2 v.invar:4 
-6 བཞེས v.imp:1 v.invar:5 
+6 བཞུད་ v.invar:4 v.ipv:2 
+6 བཞེས v.invar:5 v.ipv:1 
 6 བཟའ་བཏུང་ n.mass:6 
 6 བཟླས་ v.fut.v.past:5 v.past:1 
-6 བར n.rel:6 
+6 བར n.count:6 
 6 བར་དོ་ n.count:6 
 6 བརྒལ v.fut.v.past:6 
 6 བརྒྱ་པོ་ num.card:6 
@@ -3128,7 +3122,7 @@
 6 བརྩོན་པ་ n.v.past.n.v.pres:6 
 6 བསལ v.fut.v.past:6 
 6 བསལ་བ n.v.fut:6 
-6 བསྒྲུབ་པ་ n.v.fut.n.v.past:6 
+6 བསྒྲུབ་པ་ n.v.fut:2 n.v.fut.n.v.past:4 
 6 བསྔགས་པ་ n.v.invar:6 
 6 བསྔལ་བ n.v.fut:6 
 6 བསྙུང་བ་ n.v.invar:6 
@@ -3148,7 +3142,7 @@
 6 བོགས་ n.count:6 
 6 བྱ་དགའ་ n.count:6 
 6 བྱིངས་ n.count:5 n.prop:1 
-6 བྱོལ་ v.fut:2 v.imp:2 v.past:2 
+6 བྱོལ་ v.fut:2 v.ipv:2 v.past:2 
 6 བྲན་ཕོ་ n.count:6 
 6 བྲིན v.invar:6 
 6 བྲོ v.invar:6 
@@ -3169,12 +3163,13 @@
 6 མེས་སྟོན་ཚོན་པོ་ n.prop:6 
 6 མཻ་ཏྲི་ n.prop:6 
 6 མྱོས་ v.invar:5 v.past.v.pres:1 
-6 ཚ n.rel:1 v.fut.v.pres:2 v.invar:3 
+6 ཚ n.count:1 v.fut.v.pres:2 v.invar:3 
 6 ཚིག་འབྲུ་ n.count:6 
 6 ཚུགས་པ n.v.fut.n.v.pres:2 n.v.invar:1 n.v.past:3 
 6 ཚེ་ཚད་ n.count:6 
 6 ཚེར་མ་ n.count:6 
 6 ཚོར་བ་ n.v.fut.n.v.pres:6 
+6 ཞན་ n.prop:3 v.invar:1 v.past.v.pres:2 
 6 ཞབས་རྗེས་ n.count:6 
 6 ཞལ་རས་ n.count:6 
 6 ཞི་བ་འོད་ n.prop:6 
@@ -3202,18 +3197,19 @@
 6 འཐོར་ n.count:1 v.fut.v.pres:1 v.invar:2 v.past:1 v.past.v.pres:1 
 6 འཐོར་བ་ n.v.fut.n.v.pres:6 
 6 འདག་པ n.v.fut.n.v.pres:6 
-6 འདེབས་པ་ n.v.pres:6 
+6 འདེབས་པ་ n.v.fut.n.v.pres:6 
 6 འདོ་ལི་ n.count:6 
 6 འདྲེས་པ n.v.invar:4 n.v.past:2 
+6 འཕོ་ v.fut.v.pres:3 v.invar:3 
 6 འཕོ་བ n.v.invar:6 
 6 འཕྲུལ་ n.count:6 
 6 འཕྲེང་ v.invar:5 v.past.v.pres:1 
-6 འབུངས་ v.imp:5 v.past:1 
+6 འབུངས་ v.ipv:5 v.past:1 
 6 འབྱུང་པོ n.count:6 
 6 འབྱེད་ v.pres:6 
 6 འབྲལ་ v.fut.v.pres:6 
 6 འཚེར་བ n.v.fut.n.v.pres:6 
-6 འཚོལ་ v.imp:1 v.pres:5 
+6 འཚོལ་ v.ipv:1 v.pres:5 
 6 འོད་ལྡན་ adj:2 n.prop:4 
 6 ཡལ་བ n.v.fut.n.v.pres:4 n.v.past:2 
 6 ཡལ་བ་ n.v.fut.n.v.pres:6 
@@ -3226,8 +3222,8 @@
 6 རང་དབང་ n.count:6 
 6 རང་བྱུང་ adj:3 n.count:3 
 6 རི་མོ n.count:6 
-6 རིག v.imp:1 v.invar:5 
-6 རིགས n.count:1 v.fut.v.pres:2 v.invar:3 
+6 རིག v.invar:5 v.ipv:1 
+6 རིགས n.count:1 v.invar:5 
 6 རིན་ཆེན་ཕྲེང་བ n.prop:6 
 6 རེ་བ n.v.fut.n.v.pres:1 n.v.invar:5 
 6 རྐང་འགྲོས་ n.count:6 
@@ -3250,8 +3246,6 @@
 6 ལང་ཀ n.prop:6 
 6 ལན v.invar:6 
 6 ལས་ངན་ n.count:6 
-6 ལས་འཕྲོ་ n.count:6 
-6 ལས་འཕྲོ་ཅན་ adj:6 
 6 ལེགས་ཚོལ་ n.prop:6 
 6 ལོངས་པ་ n.v.past:6 
 6 ལོངས་སྐུ n.count:6 
@@ -3273,14 +3267,14 @@
 6 ཤིང་མཁན་ n.count:6 
 6 ཤུ་ལོ་ཀ་ n.count:6 
 6 ཤེས་རབ་སེང་གེ་ n.prop:6 
-6 ཤོད་ v.imp:4 v.pres:2 
+6 ཤོད་ v.ipv:4 v.pres:2 
 6 སེང་ n.count:5 v.invar:1 
 6 སེན་ཏ་བ n.prop:6 
 6 སེམས་ཉིད་ n.count:6 
 6 སེམས་ལས་ n.count:6 
 6 སེར་སྣ་ n.count:6 
 6 སེལ་ n.count:1 v.pres:5 
-6 སོད་ v.imp:2 v.pres:4 
+6 སོད་ v.ipv:2 v.pres:4 
 6 སྐུ་ཁམས་ n.count:6 
 6 སྐྱིད་སྡུག་ n.count:6 
 6 སྐྱེ་བོ n.count:6 
@@ -3295,13 +3289,12 @@
 6 སྙན་དངགས་ n.count:5 n.prop:1 
 6 སྙིགས་མ་ n.count:6 
 6 སྙིང་རྗེ་པད་དཀར་ n.prop:6 
-6 སྙེད་པ་ d.tsam:6 
+6 སྙེད་པ་ n.v.invar:6 
 6 སྟེའུ་ n.count:6 
 6 སྡུག་པོ་ adj:1 n.count:5 
 6 སྡེ n.count:6 
 6 སྡོད་པ་ n.v.fut.n.v.pres:6 
 6 སྣུམ་ n.count:5 v.invar:1 
-6 སྤང་ n.count:1 n.prop:1 v.fut:4 
 6 སྤངས v.past:6 
 6 སྤུ་ n.mass:6 
 6 སྤུར་ཁང་ n.count:6 
@@ -3315,8 +3308,8 @@
 6 སྩལ་བ n.v.fut:6 
 6 སྲིང་མོ n.count:6 
 6 སྲེད་པ་ n.v.invar:6 
-6 སྲོད་ adv.temp:6 
-6 ཧར་ dunno:1 v.invar:5 
+6 སྲོད་ n.temp:6 
+6 ཧར་ n.count:1 v.invar:5 
 6 ཨ་ཙ་ར་ n.count:5 n.prop:1 
 6 ‘ punc:6 
 5 ༠ numeral:5 
@@ -3342,7 +3335,7 @@
 5 ཀཽ་ཤཱཾ་བཱི n.prop:5 
 5 ཀྱིན་ cv.cont:5 
 5 ཀློག་སྐྱ་ n.prop:5 
-5 ཀློང་ n.count:1 n.rel:4 
+5 ཀློང་ n.count:4 n.rel:1 
 5 ཁ་ཏོན་ n.count:5 
 5 ཁ་ན་མ་ཐོ་བ་ adj:5 
 5 ཁ་བ་ཅན་ adj:2 n.count:3 
@@ -3354,7 +3347,7 @@
 5 ཁྱུང་ཆེན་ n.count:5 
 5 ཁྲ་ལམ་མེ་ adj:5 
 5 ཁྲི་སྟན་ n.count:5 
-5 ཁྲིད v.fut.v.past:4 v.imp:1 
+5 ཁྲིད v.fut.v.past:4 v.ipv:1 
 5 ཁྲོ་བོ་ n.count:5 
 5 གང་པོ n.prop:5 
 5 གཅགས v.fut.v.past:5 
@@ -3362,7 +3355,7 @@
 5 གཏུན་ n.count:5 
 5 གཏུམ་པ n.v.fut.n.v.pres:1 n.v.invar:4 
 5 གདགས་ v.fut:5 
-5 གདུག་པ་ཅན་ adj:5 
+5 གདུག་པ་ཅན་ adj:3 n.count:2 
 5 གདུལ་བ n.v.fut:5 
 5 གདོང་པ་ n.count:5 
 5 གནད n.count:5 
@@ -3371,7 +3364,7 @@
 5 གཙང་པོ་ adj:1 n.prop:4 
 5 གཙུག་ལག་ n.count:5 
 5 གཞག་པ་ n.v.fut:5 
-5 གཞན d.det:5 
+5 གཞན d.quant:5 
 5 གཞོན་ n.count:4 v.invar:1 
 5 གཞོན་པ n.count:2 n.v.past.n.v.pres:3 
 5 གཟིམས་ v.invar:4 v.past:1 
@@ -3385,10 +3378,9 @@
 5 གུག་པ་ n.v.invar:5 
 5 གུམ་པ n.v.past:5 
 5 གོམས་པ་ n.v.invar:5 
-5 གོས་ཅན་ adj:5 
+5 གོས་ཅན་ n.count:5 
 5 གྱེས་པ n.v.past.n.v.pres:5 
 5 གྱོན་པ་ n.v.past.n.v.pres:5 
-5 གྲགས་རྒྱུ n.v.fut.n.v.pres:5 
 5 གྲལ་པ་ n.count:5 
 5 གྲོལ v.invar:5 
 5 གླང་ཆེན་ n.count:5 
@@ -3398,15 +3390,16 @@
 5 ངན་རྫོང་ n.prop:5 
 5 ངེའུ་ཅག་ p.pers:5 
 5 ངོ་མཚར་རྨད་ adj:5 
-5 ཅུང་ adv.intense:1 dunno:4 
+5 ཅུང་ adv.intense:5 
 5 ཆུ་བོ n.count:5 
-5 ཆུག v.imp:5 
+5 ཆུག v.ipv:5 
 5 ཆེ་ཁྱད་ n.count:5 
 5 ཆེ་ཆུང་ adj:4 n.count:1 
 5 ཆེ་ཐབས་ n.v.pres:5 
 5 ཆོས་དོན་ n.count:5 
 5 ཆོས་ལུགས་ n.count:5 
 5 ཆོས་སྒོ n.count:5 
+5 ཇེ་ adv.intense:5 
 5 ཇོ་ཇོ་ n.count:5 
 5 ཉམས་དགའ་ n.count:5 
 5 ཉིལ་ v.invar:5 
@@ -3418,8 +3411,7 @@
 5 ཐ་མལ་བ་ adj:3 n.prop:2 
 5 ཐལ་བ n.count:2 n.v.fut:2 n.v.past:1 
 5 ཐུགས་རྒྱལ་ n.count:5 
-5 ཐོག་ཐག་ adv.intense:3 dunno:2 
-5 ཐོངས་པ་ n.v.imp:5 
+5 ཐོངས་པ་ n.v.ipv:5 
 5 དཀ v.invar:5 
 5 དཀར་མི་ n.count:5 
 5 དཀར་མོ་ adj:3 n.prop:2 
@@ -3453,7 +3445,7 @@
 5 དྲོ་བ n.v.fut.n.v.pres:5 
 5 དྲོད་ n.count:5 
 5 ནད་པ n.count:5 
-5 ནུས v.aux:5 
+5 ནུས v.invar.nus:5 
 5 ནོར་ཕྱུགས་ n.count:5 
 5 ནོར་རྫས་ n.count:5 
 5 པང་པ n.v.invar:5 
@@ -3466,7 +3458,7 @@
 5 ཕྱག་རྡོར་ n.prop:5 
 5 ཕྱི་དར་ n.count:5 
 5 ཕྱིར་ཡང་ cl.focus:5 
-5 ཕྱིས་ adj:1 v.imp:2 v.past:2 
+5 ཕྱིས་ adj:1 v.ipv:2 v.past:2 
 5 ཕྱུག་པ n.v.invar:5 
 5 ཕྱུགས་ n.count:5 
 5 ཕྱེ n.count:2 v.past:3 
@@ -3482,7 +3474,7 @@
 5 བཀླགས་པ n.v.past:5 
 5 བག་མ་ n.count:5 
 5 བགམ་ v.invar:5 
-5 བགས་ adv.temp:1 n.count:4 
+5 བགས་ n.count:4 n.temp:1 
 5 བཅག་པ n.v.fut.n.v.past:3 n.v.past:2 
 5 བཅོམ་པ n.v.fut.n.v.past:5 
 5 བཅོལ་ v.fut:1 v.fut.v.past:2 v.past:2 
@@ -3491,16 +3483,15 @@
 5 བཏེགས་ v.past:5 
 5 བཏོན་པ n.v.past:5 
 5 བབས་པ n.v.past:5 
-5 བམ cv.ques:5 
+5 བམ case.ques:1 cv.ques:4 
 5 བཙན་པོ n.count:5 
 5 བཞི་པོ་ num.card:5 
 5 བཟང་ངན་ adj:5 
 5 བཟད་པ་ n.v.fut.n.v.pres:5 
-5 བཟའ་ n.count:1 n.mass:3 v.fut:1 
 5 བཟའ་བ n.v.fut:5 
 5 བར་དོ n.count:5 
 5 བརྐྱང་ v.fut:5 
-5 བརྒལ་བ n.v.fut:5 
+5 བརྒལ་བ n.v.fut.n.v.past:5 
 5 བརྒྱ་པ num.ord:5 
 5 བརྙེས v.fut.v.past:5 
 5 བརྙེས་པ n.v.fut.n.v.past:5 
@@ -3515,8 +3506,9 @@
 5 བསྐྱལ་བ n.v.fut:5 
 5 བསྐྱིས་ v.past:5 
 5 བསྒོམས་པ་ n.v.past:5 
-5 བསྒྱུར་བ་ n.v.fut:5 
+5 བསྒྱུར་བ་ n.v.fut.n.v.past.gyur:5 
 5 བསྒྲགས v.past:5 
+5 བསྒྲལ་ v.fut:1 v.fut.v.past:3 v.past:1 
 5 བསྒྲིགས་ v.past:5 
 5 བསྒྲིབས་ v.past:5 
 5 བསྒྲུབས v.past:5 
@@ -3537,7 +3529,7 @@
 5 བྱང་ས་ n.prop:5 
 5 བྱེ་མ n.count:5 
 5 བྱེ་མ་ n.count:5 
-5 བྱེད་མཁན་ n.v.pres:5 
+5 བྱེད་མཁན་ n.v.pres.byed:5 
 5 བྲན་ n.count:5 
 5 བྲིན་པ་ n.prop:1 n.v.past.n.v.pres:4 
 5 བྲིས་པ n.v.past:5 
@@ -3569,7 +3561,7 @@
 5 མི་མེད་ adj:5 
 5 མི་རོ་ n.count:5 
 5 མི་ལ་རྡོ་རྗེ་རྒྱལ་མཚན་ n.prop:5 
-5 མིང་ཅན་ adj:1 n.count:4 
+5 མིང་ཅན་ n.count:5 
 5 མུ་ལྟོ་བ་ n.count:5 
 5 མེལ་ཙེ་ n.count:5 
 5 མཻ་ཏྲི n.prop:5 
@@ -3584,8 +3576,7 @@
 5 ཚོགས་གཏོར་ n.count:5 
 5 ཚོགས་ལམ་ n.count:5 
 5 ཚོང་འདུས་ n.count:5 
-5 ཚོས་ n.count:1 n.mass:2 v.imp:1 v.invar:1 
-5 ཞན་ n.prop:3 v.past.v.pres:2 
+5 ཚོས་ n.count:1 n.mass:2 v.invar:1 v.ipv:1 
 5 ཞལ་གདམས་ n.count:5 
 5 ཞལ་ཅེ་བ n.count:5 
 5 ཞལ་འཛུམ་ n.count:5 
@@ -3612,7 +3603,7 @@
 5 འཐབ་རྩོད་ n.count:5 
 5 འཐུང་བ་ n.v.pres:5 
 5 འཐུན་རྐྱེན་ n.count:5 
-5 འཐེན་ v.imp:1 v.invar:1 v.past.v.pres:3 
+5 འཐེན་ v.invar:1 v.ipv:1 v.past.v.pres:3 
 5 འདག་ n.mass:2 v.fut.v.pres:3 
 5 འདི་ཕྱི་ n.count:5 
 5 འདུ་བ n.v.fut.n.v.pres:5 
@@ -3626,6 +3617,7 @@
 5 འཕྲོད་པ་ n.v.fut.n.v.pres:1 n.v.invar:4 
 5 འབབ v.fut.v.pres:5 
 5 འབེབས་པ n.v.pres:5 
+5 འབྱུང་གནས་ n.count:5 
 5 འབྱོར་བ n.count:1 n.v.fut.n.v.pres:1 n.v.past:3 
 5 འབྱོར་བ་ n.v.fut.n.v.pres:3 n.v.past:2 
 5 འབྲིང་པོ་ adj:5 
@@ -3636,11 +3628,12 @@
 5 འཛུམ་ v.invar:5 
 5 འོ་མ་ n.mass:5 
 5 འོས་པ n.v.fut.n.v.pres:1 n.v.invar:3 n.v.past:1 
-5 ཡ་མཚན་ཅན་ adj:4 n.count:1 
+5 ཡ་མཚན་ཅན་ adj:3 n.count:2 
 5 ཡངས་པ adj:5 
 5 ཡན་ལག་བདུན་པ་ adj:5 
 5 ཡོལ་ v.fut.v.pres:1 v.invar:4 
 5 ཡོས་ n.count:5 
+5 ར་བ་བསྲུང་བ་ n.count:5 
 5 ར་མ་ n.count:5 
 5 རགས་པ་ n.v.past:5 
 5 རང་གནས་ n.count:5 
@@ -3656,15 +3649,15 @@
 5 རིང་འཕུར་ n.prop:5 
 5 རིན་ཆེན་གསེར་ n.mass:5 
 5 རིམ་པ n.count:5 
-5 རིལ་ d.plural:1 dunno:1 n.count:1 v.invar:2 
+5 རིལ་ d.plural:2 n.count:1 v.invar:2 
 5 རུམ་ n.count:5 
 5 རུལ་ v.invar:2 v.past:1 v.past.v.pres:2 
-5 རེམ་ v.imp:4 v.past.v.pres:1 
+5 རེམ་ v.ipv:4 v.past.v.pres:1 
 5 རྐྱལ་ n.count:2 v.fut.v.pres:1 v.invar:2 
 5 རྒོད་མ་ n.count:5 
 5 རྒྱང་ n.count:5 
 5 རྒྱལ་ཁམས་ n.count:5 
-5 རྒྱུ་བ n.v.invar:5 
+5 རྒྱུ་བ n.v.invar.rgyu:5 
 5 རྔོག་སྟོན་ n.prop:5 
 5 རྗེས་གནང་ n.count:5 
 5 རྟོན་ v.fut.v.pres:5 
@@ -3678,9 +3671,10 @@
 5 རྩེད་མོ་ n.count:5 
 5 རྫིང་བུ n.count:5 
 5 རྫོགས་བྱེད་ n.prop:5 
-5 རློབས་ v.imp:5 
+5 རློབས་ v.ipv:5 
 5 ལ་སྟོད་ n.prop:5 
 5 ལས་མི་ n.count:5 
+5 ལས་འཕྲོ་ n.count:5 
 5 ལི་ཤི་བར་ n.prop:5 
 5 ལུང་པ་ n.count:5 
 5 ལུང་བ n.count:5 
@@ -3689,7 +3683,7 @@
 5 ལོ་ཏོག་ n.count:5 
 5 ལོ་ཙྪ n.count:5 
 5 ལྔ་སྡེ n.count:5 
-5 ལྟག་ n.rel:5 
+5 ལྟག་ n.count:3 n.rel:2 
 5 ལྟོ་གོས་གཏམ་ n.count:5 
 5 ལྟོགས་པ་ n.v.invar:5 
 5 ལྟོས་པ n.v.fut.n.v.pres:1 n.v.invar:2 n.v.past:2 
@@ -3701,7 +3695,7 @@
 5 ལྷུམས་ n.count:5 
 5 ལྷོ n.count:5 
 5 ཤ་ན n.mass:5 
-5 ཤ་སྟག་ d.det:5 
+5 ཤ་སྟག་ d.quant:5 
 5 ཤཱཀྱ་འོད་ n.prop:5 
 5 ཤིང་ཐོག་ n.count:5 
 5 ཤིང་རྟ n.count:5 
@@ -3717,14 +3711,13 @@
 5 སེར་པོ་ adj:5 
 5 སེར་སྣ n.count:5 
 5 སོག་པ n.v.pres:5 
-5 སོངས་ v.imp:5 
-5 སྐར་ཁུང་ n.count:5 
+5 སོངས་ v.ipv:5 
 5 སྐས་ n.count:5 
 5 སྐུད་པ་ n.count:2 n.v.pres:3 
 5 སྐུར་པ་ n.v.pres:5 
 5 སྐྱེད་མོས་ n.prop:5 
 5 སྐྱེས་རབས་ n.count:3 n.prop:2 
-5 སྐྱོངས་ v.imp:5 
+5 སྐྱོངས་ v.ipv:5 
 5 སྐྱོབ་པ་ n.v.pres:5 
 5 སྒོ་ང་ n.count:5 
 5 སྒོམ་ཆེན་ n.count:5 
@@ -3734,14 +3727,14 @@
 5 སྒྲུབ་བརྒྱུད་ n.count:5 
 5 སྒྲོགས་པ་ n.count:1 n.v.pres:4 
 5 སྔ་ཕྱི་ adj:5 
-5 སྔོ་ dunno:1 n.count:1 v.pres:3 
+5 སྔོ་ n.count:2 v.pres:3 
 5 སྔོན་པོ་ adj:5 
 5 སྙིང་གཏམ་ n.count:5 
 5 སྙིང་ཚིམ་ n.count:5 
 5 སྙུང་གཞི་ n.count:5 
 5 སྙེ་མ་ n.count:5 
 5 སྟ་གོན་ n.count:5 
-5 སྟོད་ n.count:1 n.prop:1 n.rel:3 
+5 སྟོད་ n.count:4 n.prop:1 
 5 སྡིག་པོ་ n.count:5 
 5 སྡུད་པ་ n.prop:1 n.v.pres:4 
 5 སྡེ་པ་ n.count:5 
@@ -3790,9 +3783,9 @@
 4 ཁ་ཕོ་ n.count:4 
 4 ཁ་བ་ n.mass:4 
 4 ཁ་རླངས་ n.count:4 
-4 ཁད་ dunno:1 n.count:3 
-4 ཁུངས་ dunno:1 n.count:3 
-4 ཁོ་ར་ཁོར་ཡུག་ adv.mim:1 n.count:3 
+4 ཁད་ n.count:3 n.prop:1 
+4 ཁུངས་ n.count:4 
+4 ཁོ་ར་ཁོར་ཡུག་ adv.mim:4 
 4 ཁོང་འཛུམ་ n.count:4 
 4 ཁོམ་པ་ n.v.fut.n.v.pres:2 n.v.invar:2 
 4 ཁོལ་མ adj:4 
@@ -3812,7 +3805,7 @@
 4 གཉེར་བ་ n.v.fut.n.v.pres:4 
 4 གཏང་བ n.v.fut:4 
 4 གཏམ་སྙན་ n.count:4 
-4 གཏི་མུག་ཅན་ adj:4 
+4 གཏི་མུག་ཅན་ adj:3 n.count:1 
 4 གཏོགས v.past:4 
 4 གཏོར v.invar:4 
 4 གཏོལ་ n.count:4 
@@ -3826,14 +3819,15 @@
 4 གཞན་ལུས་ n.count:4 
 4 གཞལ་མེད་ཁང་ n.count:4 
 4 གཞི་བདག་ n.count:4 
+4 གཞིན་ d.quant:4 
 4 གཞུ་རྒྱུད་ n.count:4 
 4 གཟུགས་བྱད་ n.count:4 
 4 གཟུགས་མེད་ adj:2 n.count:2 
 4 གཟེངས་པ་ n.v.invar:4 
-4 གཡའ་ dunno:1 n.count:2 v.invar:1 
+4 གཡའ་ n.count:3 v.invar:1 
 4 གཡེང་ n.count:1 v.fut.v.pres:3 
 4 གཡེང་བ་ n.v.fut.n.v.pres:4 
-4 གཡོགས v.imp:1 v.past:3 
+4 གཡོགས v.ipv:1 v.past:3 
 4 གཤའ་མ་ n.count:4 
 4 གཤེ་ v.invar:3 v.past.v.pres:1 
 4 གཤེད་མ་ n.count:4 
@@ -3845,7 +3839,7 @@
 4 གསེར་ཐུབ་ n.prop:4 
 4 གསོ་བ n.v.fut.n.v.pres:4 
 4 གསོ་བ་ n.v.fut.n.v.pres:4 
-4 གུང་ adv.temp:3 n.rel:1 
+4 གུང་ adv.temp:2 n.rel:1 n.temp:1 
 4 གུད་ v.fut.v.pres:1 v.invar:2 v.past.v.pres:1 
 4 གུར་ཁང་ n.count:4 
 4 གོ་ཆ n.count:4 
@@ -3870,7 +3864,8 @@
 4 ངུས་པ་ n.v.past:4 
 4 ངོ༌ cv.fin:4 
 4 ངོམས་པ n.v.invar:4 
-4 ཅིག་ཆར་ adv.temp:4 
+4 ཅན་ n.count:1 n.rel:3 
+4 ཅིག་ཆར་ adv.temp:1 n.temp:3 
 4 ཆ n.count:3 v.fut.v.pres:1 
 4 ཆག v.invar:4 
 4 ཆག་ཆག་ n.count:4 
@@ -3878,7 +3873,7 @@
 4 ཆང་ས་ n.count:4 
 4 ཆབ་སྲིད་ n.count:4 
 4 ཆིག་བརྒྱུད་ n.count:4 
-4 ཆིངས་ n.count:1 v.imp:3 
+4 ཆིངས་ n.count:1 v.ipv:3 
 4 ཆིབས་པ་ n.v.pres:4 
 4 ཆུ་ཀླུང་ n.count:4 
 4 ཆུ་ཞེང་ n.count:4 
@@ -3899,7 +3894,7 @@
 4 ཉེར་སྦས་ n.prop:4 
 4 ཏི་ཀི་ཙ་ཤི་རི n.prop:4 
 4 ཐ་ཆུངས་ adj:4 
-4 ཐ་བ་ adj:1 n.count:1 n.v.invar:2 
+4 ཐ་བ་ adj:1 n.count:3 
 4 ཐ་ཚིག་ n.count:4 
 4 ཐགས་ n.count:2 v.invar:2 
 4 ཐབས་ཤེས་ n.count:4 
@@ -3915,11 +3910,13 @@
 4 ཐུགས་འདུན་ n.count:4 
 4 ཐུལ་གོག་ n.count:4 
 4 ཐོ་ n.count:4 
+4 ཐོག་ཐག་ adv.intense:3 adv.temp:1 
 4 ཐོགས v.fut.v.pres:1 v.invar:3 
 4 ཐོགས་བརྡུགས་ n.count:4 
 4 ཐོས་བསམ་ n.count:4 
 4 དཀོན་མཆོག་བརྩེགས་པ་ n.prop:4 
 4 དཀྲིས་པ་ n.v.past:4 
+4 དགག་ v.fut:4 
 4 དགའ་བོ་ n.prop:4 
 4 དགེས་པ་རྡོ་རྗེ་ n.prop:4 
 4 དགོངས་པ་ངེས་འགྲེལ་ n.count:1 n.prop:3 
@@ -3939,12 +3936,13 @@
 4 དུད་པ་ n.count:3 n.v.invar:1 
 4 དུལ་བ n.v.fut.n.v.pres:4 
 4 དུས་འཁོར་ n.prop:4 
+4 དེའུ་ n.count:4 
 4 དོ་མེད་ adj:4 
 4 དྲི n.count:2 v.fut:2 
 4 དྲི་བ n.v.fut:4 
 4 དྲི་མ་ཅན་ adj:3 n.count:1 
 4 དྲིན n.count:4 
-4 དྲིལ v.imp:4 
+4 དྲིལ v.ipv:4 
 4 དྲིལ་བུ་ n.count:4 
 4 དྲུག་སྡེ་ n.count:3 num.card:1 
 4 ན་ཆུང་མ་ n.count:4 
@@ -3954,8 +3952,8 @@
 4 ནག་པོ adj:4 
 4 ནགས་ཚལ་ n.count:4 
 4 ནང་རོལ་ n.count:4 
-4 ནངས་ adv.temp:4 
-4 ནངས་པ adv.temp:4 
+4 ནངས་ adv.temp:1 n.temp:3 
+4 ནངས་པ n.temp:4 
 4 ནམ་འཆི་ n.count:4 
 4 ནོངས་ v.invar:2 v.past:1 v.past.v.pres:1 
 4 ནོངས་པ་ n.v.invar:4 
@@ -3973,7 +3971,7 @@
 4 ཕན་ཐོགས་ n.count:4 
 4 ཕབ་པ n.v.past:4 
 4 ཕལ་པོ་ཆེ་ adj:2 n.prop:2 
-4 ཕུ་ n.rel:4 
+4 ཕུ་ n.count:1 n.rel:3 
 4 ཕུ་ནུ་ n.count:4 
 4 ཕུད་པ n.v.invar:1 n.v.past:3 
 4 ཕོ་བྲང་སླས་ n.count:4 
@@ -3986,7 +3984,7 @@
 4 ཕྱེ་བ་ n.v.past:4 
 4 ཕྱེད num.card:1 v.fut.v.pres:2 v.invar:1 
 4 ཕྱོགས་པ་ n.v.fut.n.v.pres:1 n.v.invar:3 
-4 ཕྲ་ dunno:1 n.count:2 v.invar:1 
+4 ཕྲ་ n.count:3 v.invar:1 
 4 ཕྲ་མ་ n.count:4 
 4 བ་གླང་ n.count:4 
 4 བཀང་བ་ n.v.past:4 
@@ -3994,8 +3992,8 @@
 4 བཀའ་བརྒྱུད་བླ་མ n.count:4 
 4 བག་ལ་ཉལ་ n.count:4 
 4 བགད་ v.fut.v.past:4 
-4 བགྱིད v.pres:4 
-4 བགྱིས v.past:4 
+4 བགྱིད v.pres.bgyid:4 
+4 བགྱིས v.past.bgyid:4 
 4 བགྲེས་པ་ n.v.invar:4 
 4 བགྲོ་གླེང་ n.count:4 
 4 བགྲོད་པ n.v.fut.n.v.pres:1 n.v.invar:2 n.v.past:1 
@@ -4010,7 +4008,7 @@
 4 བདེ་མོ་ adj:4 
 4 བབས v.past:4 
 4 བཙན་དུག་ n.count:4 
-4 བཙལ་བ་ n.v.fut:4 
+4 བཙལ་བ་ n.v.fut.n.v.past.tshal1:4 
 4 བཙེམས་ v.past:4 
 4 བཙོག་པ་ n.v.invar:4 
 4 བཞད་གད་ n.count:4 
@@ -4020,7 +4018,7 @@
 4 བཟློག་པ་ n.v.fut.n.v.past:4 
 4 བར་པ adj:4 
 4 བར་མ་ adj:4 
-4 བརྒལ་བ་ n.v.fut:4 
+4 བརྒལ་བ་ n.v.fut.n.v.past:4 
 4 བརྗོད་བྱ n.count:4 
 4 བརྗོད་བྱ་ n.count:4 
 4 བརྣངས་ v.past:4 
@@ -4034,6 +4032,7 @@
 4 བཤུམས་པ n.v.past:4 
 4 བཤེས་ n.count:2 v.invar:2 
 4 བཤོར་བ་ n.v.fut.n.v.pres:4 
+4 བཤོས་ཞིང་ n.count:4 
 4 བསམ་ངན་ n.count:4 
 4 བསུ་བ n.v.fut.n.v.pres:4 
 4 བསོད་སྙོམས་པ་ n.count:4 
@@ -4050,7 +4049,6 @@
 4 བསྐྱོད་པ་ n.v.fut:1 n.v.fut.n.v.past:3 
 4 བསྒྱུར་རྒྱལ་ n.count:4 
 4 བསྒྲགས་པ་ n.v.past:4 
-4 བསྒྲལ་ v.fut:1 v.fut.v.past:2 v.past:1 
 4 བསྔལ་ v.fut:2 v.fut.v.past:2 
 4 བསྔོ v.fut:4 
 4 བསྙད་ v.invar:4 
@@ -4062,11 +4060,11 @@
 4 བསླབ་ཚིགས་ n.count:4 
 4 བུ་ག་ n.count:4 
 4 བུ་ཕོ n.count:4 
-4 བུབ་ dunno:1 n.count:1 v.past:2 
+4 བུབ་ n.count:2 v.past:2 
 4 བེར་ཀ n.count:4 
 4 བོ་དྷི་ས་ཏྭ n.prop:4 
 4 བོ་དྷི་ས་ཏྭ་ n.prop:4 
-4 བོར v.past:4 
+4 བོར v.fut.v.past:4 
 4 བོས་པ་ n.v.past:4 
 4 བྱ་གག་ n.count:4 
 4 བྱ་དག n.count:4 
@@ -4125,7 +4123,7 @@
 4 མཽ་ད་གལ་ n.prop:4 
 4 མཽད་གལ་ཡ་ན n.prop:4 
 4 མཽད་གལ་ཡ་ན་ n.prop:4 
-4 མྱང་ v.fut:4 
+4 མྱང་ v.fut.myong1:4 
 4 མྱང་ཚ་དཀར་རྒྱན་ n.prop:4 
 4 མྱོང་པ n.v.invar:3 n.v.past:1 
 4 ཙམ་པ་ཀ་ n.count:3 n.prop:1 
@@ -4138,7 +4136,7 @@
 4 ཚིག་པ་ n.count:1 n.v.invar:3 
 4 ཚིམ་ v.invar:3 v.past.v.pres:1 
 4 ཚིམ་པ་ n.v.fut.n.v.pres:4 
-4 ཚུན་ adv.dir:3 n.rel:1 
+4 ཚུན་ adv.dir:3 n.count:1 
 4 ཚུལ་བཞིན་ n.count:4 
 4 ཚུལ་འཆོས་ n.count:4 
 4 ཚེགས་ n.count:3 v.invar:1 
@@ -4154,21 +4152,21 @@
 4 ཟབ་ཁྱད་ adj:2 n.count:2 
 4 ཟམ་པ n.count:4 
 4 ཟུག་ v.invar:1 v.past.v.pres:3 
-4 ཟུངས་ v.imp:4 
+4 ཟུངས་ v.ipv:4 
 4 ཟྭ n.count:4 
 4 ཟློག་ v.pres:4 
 4 འཁར་བ n.count:2 n.v.fut.n.v.pres:2 
 4 འཁོར་ཐབས་ n.v.invar:4 
 4 འཁོར་རྣམ་ n.count:4 
 4 འཁྱམ་ v.fut.v.pres:4 
-4 འཁྲིས་ n.prop:2 n.rel:2 
+4 འཁྲིས་ n.count:2 n.prop:2 
 4 འཁྲུག་པ n.v.invar:4 
 4 འཁྲུངས་པ་ n.v.past.n.v.pres:4 
 4 འགུམ་པ n.v.fut.n.v.pres:4 
 4 འགྱིང་བ་ n.v.invar:4 
 4 འགྱུ་བ་ n.v.fut.n.v.pres:4 
 4 འགྱུར་བཅོས་ n.count:4 
-4 འགྱེལ་བ་ n.v.fut.n.v.pres:4 
+4 འགྱེལ་བ་ n.v.invar:4 
 4 འགྲེ་ v.fut.v.pres:4 
 4 འགྲོགས་པ་ n.v.invar:4 
 4 འཆད v.fut.v.pres:3 v.pres:1 
@@ -4190,9 +4188,8 @@
 4 འདོམ་ n.count:4 
 4 འདྲུལ་བ n.v.fut.n.v.pres:4 
 4 འདྲོངས་པ་ n.v.past:4 
-4 འཕེལ v.imp:1 v.invar:3 
+4 འཕེལ v.invar:3 v.ipv:1 
 4 འཕེལ་བ་ n.v.fut.n.v.pres:4 
-4 འཕོ་ v.fut.v.pres:3 v.invar:1 
 4 འཕྲང་ n.count:3 n.prop:1 
 4 འཕྲོག་ v.fut.v.pres:4 
 4 འཕྲོད་ v.invar:4 
@@ -4200,7 +4197,6 @@
 4 འབུམ་ཏིག་ n.prop:4 
 4 འབོད་པ་ n.v.fut.n.v.pres:4 
 4 འབྱང་ v.fut.v.pres:4 
-4 འབྱུང་གནས་ n.count:4 
 4 འབྱོན་ཐེངས་ n.v.fut.n.v.pres:4 
 4 འབྱོན་ཚུལ་ n.v.fut.n.v.pres:4 
 4 འབྱོར་པ n.v.past.n.v.pres:3 n.v.pres:1 
@@ -4228,7 +4224,7 @@
 4 རང་བྱན་ n.count:4 
 4 རང་འགྲེལ་ n.count:4 
 4 རང་རྒྱལ་ n.count:4 
-4 རན v.aux:2 v.invar:2 
+4 རན v.invar.ran:4 
 4 རབ་བཟངས་ n.prop:4 
 4 རལ v.invar:4 
 4 རས་པ་ཞི་བ་འོད་ n.prop:4 
@@ -4250,7 +4246,7 @@
 4 རྒྱུག v.invar:4 
 4 རྒྱུད་བླ་མ n.prop:4 
 4 རྒྱུད་སྡེ n.count:4 
-4 རྗེས n.rel:2 v.imp:2 
+4 རྗེས n.count:2 v.ipv:2 
 4 རྙིང་ v.fut.v.pres:3 v.pres:1 
 4 རྟག v.past.v.pres:1 v.pres:3 
 4 རྟོགས་བརྗོད་ n.count:4 
@@ -4266,7 +4262,7 @@
 4 རྩ་རླུང་ n.count:4 
 4 རྩིག་པ n.v.pres:4 
 4 རྩིག་པ་ n.v.pres:4 
-4 རྩིགས་ n.count:1 v.imp:1 v.past:2 
+4 རྩིགས་ n.count:1 v.ipv:1 v.past:2 
 4 རྩེ་བ n.v.invar:4 
 4 རྩོམ་ v.pres:4 
 4 རྫ་ n.count:4 
@@ -4277,11 +4273,11 @@
 4 ལ་ཁ་བ་ n.count:4 
 4 ལག་དཔོན་ n.count:4 
 4 ལག་ལེན་ n.count:4 
-4 ལགས་པ་ n.v.cop:3 n.v.invar:1 
+4 ལགས་པ་ n.v.invar.lags:4 
 4 ལངས v.past:4 
 4 ལམ་གྲོགས་ n.count:4 
 4 ལམ་སྲང་ n.count:4 
-4 ལས་ཅན་ adj:1 n.count:3 
+4 ལས་ཅན་ n.count:4 
 4 ལས་ཆེ cv.odd:4 
 4 ལས་པ་ n.v.invar:3 n.v.past:1 
 4 ལི་ཙྪ་བཱི་ n.count:3 n.prop:1 
@@ -4295,17 +4291,17 @@
 4 ལོ་ལེགས་ n.count:4 
 4 ལོང་བ n.prop:1 n.v.invar:3 
 4 ལོངས་པ n.v.past:4 
-4 ལོབས་པ་ n.v.invar:4 
+4 ལོབས་པ་ n.v.invar:3 n.v.past:1 
 4 ལོཙྪ་བ་ n.count:4 
 4 ལྐོག་ n.count:4 
 4 ལྕག་ n.count:4 
-4 ལྕོགས་ v.imp:2 v.invar:2 
+4 ལྕོགས་ v.invar:2 v.ipv:2 
 4 ལྟས་མཁན་ n.count:4 
 4 ལྟུང་བ n.v.fut.n.v.pres:1 n.v.invar:3 
 4 ལྟེ་བ་ n.count:4 
 4 ལྟོགས་གྲི n.count:4 
 4 ལྷ་མ་ཡིན་ n.count:4 
-4 ལྷ་མཛེས་ n.count:1 n.prop:3 
+4 ལྷ་མཛེས་ n.prop:4 
 4 ལྷ་སྲིན་ n.count:4 
 4 ལྷག་མེད་ adj:4 
 4 ལྷགས་པ་ n.v.invar:4 
@@ -4317,6 +4313,7 @@
 4 ཤིང་ཏ་ལ་ n.count:4 
 4 ཤིང་བལ་ n.count:4 
 4 ཤུབས་ n.count:4 
+4 ཤེས་བྱ་ n.count:4 
 4 ཤེས་རབ་ཅན་ n.count:4 
 4 ཤོ་ n.count:4 
 4 ཤོར་བ་ n.v.past:4 
@@ -4335,8 +4332,9 @@
 4 སེང་ལྡེང་ n.mass:3 n.prop:1 
 4 སེན་ཏ་བ་ n.prop:4 
 4 སོ་ཚིས་ n.count:4 
-4 སོམས་ v.imp:4 
+4 སོམས་ v.ipv:4 
 4 སོས་པ n.v.past:4 
+4 སྐར་ཁུང་ n.count:4 
 4 སྐལ་བ n.count:4 
 4 སྐུ་དྲིན་ཅན adj:4 
 4 སྐུ་ན་ n.count:4 
@@ -4352,7 +4350,7 @@
 4 སྐྱེད་ཤིང་ n.count:4 
 4 སྐྱེལ v.pres:4 
 4 སྐྱེལ་མ་ n.count:4 
-4 སྐྱོངས v.imp:4 
+4 སྐྱོངས v.ipv:4 
 4 སྐྱོབ་པ n.v.pres:4 
 4 སྐྲག་པ་ n.v.fut.n.v.pres:2 n.v.invar:2 
 4 སྒ་ n.count:4 
@@ -4377,16 +4375,16 @@
 4 སྟབས་ n.count:4 
 4 སྟོར་བ n.v.fut.n.v.pres:4 
 4 སྡང་བ n.v.invar:4 
-4 སྡིག་པ་ཅན་ adj:4 
+4 སྡིག་པ་ཅན་ adj:1 n.count:3 
 4 སྡིག་སྒྲིབ་ n.count:4 
 4 སྡུམས་བྱེད་ n.prop:4 
-4 སྡོམས་ n.count:1 v.imp:3 
+4 སྡོམས་ n.count:1 v.ipv:3 
 4 སྣ n.count:4 
-4 སྣ་རེ་ d.det:4 
 4 སྣང་སྲིད་ n.count:4 
 4 སྤར་ n.count:3 v.fut.v.past:1 
 4 སྤུངས་པ་ n.v.past:4 
 4 སྤུར་ n.count:4 
+4 སྤྱན་ཅན་ adj:1 n.count:3 
 4 སྤྱན་འདྲེན་ n.count:4 
 4 སྤྱན་རས་གཟིགས་ n.count:1 n.prop:3 
 4 སྤྱི་གཙུག་རྒྱན་ n.count:4 
@@ -4400,11 +4398,12 @@
 4 སྤྲོས་བྲལ་ adj:4 
 4 སྦས v.past:4 
 4 སྦྱིན་བ་ n.v.fut.n.v.pres:4 
-4 སྦྱོངས་ v.imp:4 
+4 སྦྱོངས་ v.ipv:4 
 4 སྦྲ་ n.count:4 
 4 སྦྲང་རྩི་མཆོག་ n.prop:4 
 4 སྦྲན་པ་ n.v.past:4 
 4 སྨིན་མཚམས་ n.count:4 
+4 སྨོན་ n.count:1 v.invar:3 
 4 སྨྱོན་པ་ n.count:1 n.v.past.n.v.pres:3 
 4 སྲ་བ n.v.pres:4 
 4 སྲས n.count:4 
@@ -4413,15 +4412,14 @@
 4 སླང་ v.fut.v.pres:4 
 4 སླེབས་པ n.v.past:4 
 4 སློང་བ n.v.pres:4 
-4 སློངས་ n.count:1 v.imp:3 
+4 སློངས་ n.count:1 v.ipv:3 
 4 སློངས་མོ་ n.count:4 
 4 སློབ་མ་བུ་ཆེན་ n.count:4 
-4 ཨ་ dunno:1 n.count:1 skt:2 
 4 ཨ་མེས་ n.prop:4 
 4 ཨ་ཞང་ n.count:4 
 4 ཨ་ལམ་པ་ n.prop:4 
 4 ཨུ་དྲ་ཡ་ན་ n.prop:4 
-4 〉 punc:4 
+4 〉 punc:4 
 3 p10 page.num:3 
 3 p2 page.num:3 
 3 p3 page.num:3 
@@ -4437,7 +4435,6 @@
 3 ༢༣༤ numeral:3 
 3 ཀ་མ་ལ་ཤཱི་ལ་ n.prop:3 
 3 ཀ་ཤི་ཀ n.prop:3 
-3 ཀ་སོ་རི་པ་ n.prop:3 
 3 ཀུན་གཞི་ n.count:3 
 3 ཀུན་ཏ n.prop:3 
 3 ཀུན་ཏ་ n.prop:3 
@@ -4455,10 +4452,11 @@
 3 ཁང་བ n.count:3 
 3 ཁམ་ n.count:3 
 3 ཁར་རྩང་ adv.temp:3 
-3 ཁུག་ v.imp:3 
+3 ཁུག་ v.ipv:3 
 3 ཁུམས v.past:3 
 3 ཁུར n.count:1 v.fut.v.past:2 
 3 ཁེངས་པ་ n.v.invar:3 
+3 ཁོར་ཁོར་ཡུག་ adv.mim:3 
 3 ཁོལ་བ་ n.v.fut.n.v.pres:3 
 3 ཁྱི་མོ་ n.count:3 
 3 ཁྱིམ་མཛེས་ n.count:3 
@@ -4518,6 +4516,7 @@
 3 གསན v.invar:3 
 3 གསན་པ་ n.v.past.n.v.pres:3 
 3 གསལ་ཐུབ་ n.prop:3 
+3 གསལ་བྱེད་ n.count:3 
 3 གསལ་ལྡན་ adj:1 n.prop:2 
 3 གསུང་ཡིག་ n.count:3 
 3 གསུང་རབ་ཡན་ལག་ n.count:3 
@@ -4534,11 +4533,11 @@
 3 གོམས་ v.fut.v.pres:1 v.invar:2 
 3 གོས n.count:3 
 3 གོས་ཚགས་ n.count:3 
-3 གྲང་ cv.odd:1 v.invar:1 v.past.v.pres:1 
+3 གྲང་ v.invar.grang:3 
 3 གྲུ་བཙས་ n.count:3 
 3 གྲུམ་ n.prop:3 
 3 གྲེ་བ་ n.count:3 
-3 གྲོ་ dunno:1 n.count:2 
+3 གྲོ་ n.count:3 
 3 གྲོད་ཕུག་ n.prop:3 
 3 གླང་རྫི་ n.count:3 
 3 གླིང་བུ་ n.count:3 
@@ -4548,6 +4547,7 @@
 3 ངུ་ངག་ n.count:3 
 3 ངུ་འབོད་ n.count:3 
 3 ངེ་ cv.ques:3 
+3 ངོ་བོ་ཅན adj:2 n.count:1 
 3 ངོམས་ v.invar:1 v.past.v.pres:2 
 3 ཅི་གསུང་ n.count:3 
 3 ཅིག་ཤོས་ d.dem:1 d.det:2 
@@ -4600,12 +4600,12 @@
 3 ཊཱིཀྐ་ n.prop:3 
 3 ཏི་ལོ་ n.prop:3 
 3 ཏིང་ n.count:2 skt:1 
-3 ཏུར་ adv.temp:3 
+3 ཏུར་ adv.temp:1 n.temp:2 
 3 ཐ་མལ་པ adj:3 
-3 ཐག v.aux:2 v.past:1 
+3 ཐག v.invar.thag:3 
 3 ཐང་ཤིང་ n.count:3 
 3 ཐད་ཀ adj:1 n.rel:2 
-3 ཐིང་ v.imp:3 
+3 ཐིང་ v.ipv:3 
 3 ཐུ་བོ་ adj:3 
 3 ཐུག v.invar:3 
 3 ཐུགས་ཐག་ n.count:3 
@@ -4617,24 +4617,25 @@
 3 ཐེག་དམན་ n.count:3 
 3 ཐེབས་པ n.v.invar:1 n.v.past:2 
 3 ཐོ་བ n.count:3 
-3 ཐོབ་ཚུལ་ n.v.invar:3 
+3 ཐོབ་ཚུལ་ n.v.fut.n.v.past:1 n.v.invar:1 n.v.past.n.v.fut:1 
 3 དཀའ་ཚེགས་ n.count:3 
 3 དཀར་ཆག་ n.count:3 
 3 དཀར་བ་ n.v.fut.n.v.pres:3 
 3 དཀར་ཡོལ་ n.count:3 
 3 དཀོན་གཉེར་ n.count:3 
 3 དཀོན་པ་ n.v.fut:3 
-3 དཀྲིས v.imp:1 v.past:2 
+3 དཀྲིས v.ipv:1 v.past:2 
 3 དཀྲུགས་པ་ n.v.past:3 
 3 དཀྲོལ་ v.invar:3 
 3 དག་ལྡན་ n.prop:3 
 3 དགག་པ n.v.fut:3 
-3 དགག་བྱ n.v.fut:3 
+3 དགའ་རབ་ adj:1 n.count:1 n.prop:1 
 3 དགེ་བཤེས་ n.count:3 
 3 དགེ་བསྙེན་མ n.count:3 
+3 དགེ་ཚོགས་ n.count:3 
 3 དགེ་སློང་མ n.count:3 
 3 དགྲ་བོ་ n.count:3 
-3 དངོས་གྲུབ་ཅན་ adj:3 
+3 དངོས་གྲུབ་ཅན་ adj:1 n.count:2 
 3 དངོས་མེད་ adj:1 n.count:2 
 3 དད v.invar:3 
 3 དཔང་པོ n.count:3 
@@ -4673,14 +4674,14 @@
 3 དོ་རི་ n.count:3 
 3 དོན་ལྡན་ adj:3 
 3 དོར་བ n.v.fut:3 
-3 དྲག་པ n.v.invar:3 
+3 དྲག་པ n.v.invar.drag:3 
 3 དྲང་པོ་ adj:3 
 3 དྲལ་ v.fut:1 v.fut.v.past:2 
 3 དྲི་བ་ n.v.fut:3 
 3 དྲིལ་བ་ n.v.fut:3 
 3 དྲུག་པོ num.card:3 
 3 དྲེས་ n.count:3 
-3 དྲོངས v.imp:3 
+3 དྲོངས v.ipv:3 
 3 ན་བུན་ n.count:3 
 3 ན་མོ་ skt:3 
 3 ན་སོ་ n.count:3 
@@ -4693,14 +4694,14 @@
 3 ནམ་གུང་ n.count:3 
 3 ནམ་ཕྱེད་ n.count:3 
 3 ནུ་མ་ n.count:3 
-3 ནུབ་མོ adv.temp:2 n.count:1 
+3 ནུབ་མོ adv.temp:1 n.count:1 n.temp:1 
 3 ནེའུ་གསིང་ n.count:3 
-3 ནོད་ dunno:1 v.fut.v.pres:1 v.invar:1 
+3 ནོད་ v.fut.v.pres:1 v.invar:1 v.pres:1 
 3 ནོད་པ་ n.v.invar:3 
 3 ནོར་བུ n.mass:3 
 3 ནོར་སློངས་ n.count:3 
 3 ནྱ་གྲོ་དྷ་ n.prop:3 
-3 པ་ dunno:1 skt:2 
+3 པ་ n.count:1 skt:2 
 3 པདྨ་རཱ་ག n.mass:3 
 3 པུ་རངས་ n.prop:3 
 3 པུ་ལ་ཧ་རི n.prop:3 
@@ -4788,7 +4789,7 @@
 3 བརྟན་མ་ n.count:2 n.prop:1 
 3 བརྡབས་པ n.v.past:3 
 3 བརྡུང་བ n.v.fut:3 
-3 བརྡེག་ v.fut.v.pres:1 v.invar:1 v.pres:1 
+3 བརྡེག་ v.invar:3 
 3 བརྩིས་ v.past:3 
 3 བརྩིས་པ་ n.v.past:3 
 3 བརྫངས་པ་ n.v.past:3 
@@ -4802,7 +4803,6 @@
 3 བཤམས v.past:3 
 3 བཤུམས་ v.past:3 
 3 བཤེས་པ་ n.v.invar:3 
-3 བཤོས་ཞིང་ n.count:3 
 3 བསོད་ནམས་ཅན་ adj:3 
 3 བསོད་ནམས་ཚོགས་ n.count:3 
 3 བསོད་པ n.v.invar:3 
@@ -4812,7 +4812,7 @@
 3 བསྐྱབ་པ n.v.invar:3 
 3 བསྐྱབས་ v.invar:2 v.past.v.pres:1 
 3 བསྐྱིས་པ n.v.past:3 
-3 བསྐྱུར v.fut.v.past:2 v.imp:1 
+3 བསྐྱུར v.fut.v.past:2 v.ipv:1 
 3 བསྐྱུར་བ n.v.fut:3 
 3 བསྐྲད་ v.fut.v.past:3 
 3 བསྒོས་པ n.v.past:3 
@@ -4825,10 +4825,11 @@
 3 བསྡིགས་ v.past:3 
 3 བསྡུས v.past:3 
 3 བསྡུས་དོན་ n.count:3 
+3 བསྣན་ v.fut.v.past:3 
 3 བསྣམས v.past:3 
 3 བསྣུབས་ v.past:3 
 3 བསྣུབས་པ n.v.past:3 
-3 བསྲུངས v.imp:2 v.past:1 
+3 བསྲུངས v.ipv:2 v.past:1 
 3 བསྲེ་ n.count:1 v.fut:2 
 3 བསྲེ་འཕོ n.count:3 
 3 བསླད་ v.fut.v.past:1 v.past:2 
@@ -4846,18 +4847,17 @@
 3 བཻ་ཌཱུརྱ་ n.count:3 
 3 བོ་དྷི་སཏྭ n.count:1 n.prop:2 
 3 བོད་སྐད་ n.count:3 
-3 བོས v.imp:1 v.past:2 
+3 བོས v.ipv:1 v.past:2 
 3 བྱ་རྒོད་ n.count:3 
 3 བྱང་ཁོག་ n.count:3 
 3 བྱང་བ་ n.v.invar:3 
 3 བྱས་བ n.v.past:3 
-3 བྱས་ཚུལ་ n.v.past:3 
+3 བྱས་ཚུལ་ n.v.past.byed:3 
 3 བྱི་མ་སེ་ན n.prop:3 
 3 བྱི་མ་སེ་ན་ n.prop:3 
 3 བྱིང་བ་ n.v.past.n.v.pres:3 
 3 བྱུང་པ་ n.v.past:3 
 3 བྱེ་བ n.v.past:1 num.card:2 
-3 བྱེད་རྒྱུ་ n.v.pres:3 
 3 བྱེར་ v.fut.v.pres:2 v.invar:1 
 3 བྲན་མོ n.count:3 
 3 བྲེ་པེ་སྟན་ཆུང་ n.prop:3 
@@ -4909,7 +4909,7 @@
 3 མདོ་སྡེ་འབུམ་ n.prop:3 
 3 མནན་པ n.v.past:3 
 3 མནན་པ་ n.v.past:3 
-3 མམ་ cv.ques:3 
+3 མམ་ case.ques:2 cv.ques:1 
 3 མཚན་ཉིད n.count:3 
 3 མཚན་ཉིད་པ adj:3 
 3 མཚན་པ n.v.past.n.v.pres:3 
@@ -4945,7 +4945,7 @@
 3 ཙམ་པོ་ adj:3 
 3 ཙུན་ད n.prop:3 
 3 ཚ་བོ n.count:3 
-3 ཚགས་ dunno:2 v.imp:1 
+3 ཚགས་ n.count:2 v.ipv:1 
 3 ཚངས་རིས་ n.count:3 
 3 ཚར v.invar:3 
 3 ཚིག་ངན་ n.count:3 
@@ -4960,10 +4960,10 @@
 3 ཚོང་སྤོགས་ n.count:3 
 3 ཚོན་ n.count:3 
 3 ཚོམས་ n.count:3 
-3 ཚོལ v.fut:1 v.imp:2 
+3 ཚོལ v.fut:1 v.ipv:2 
 3 ཚྭ་ n.count:3 
 3 ཞན་པ་ adj:3 
-3 ཞར་ n.rel:3 
+3 ཞར་ n.count:2 n.rel:1 
 3 ཞལ་ཅེ་བ་ n.count:3 
 3 ཞལ་ཏོན་ n.count:3 
 3 ཞི v.fut.v.pres:1 v.invar:2 
@@ -4993,7 +4993,7 @@
 3 འཁྲུངས v.past.v.pres:3 
 3 འཁྲུལ་བ་ n.v.fut.n.v.pres:3 
 3 འཁྲེང་ v.invar:3 
-3 འགག་ dunno:1 v.fut.v.pres:2 
+3 འགག་ n.count:1 v.fut.v.pres:2 
 3 འགག་མེད་ adj:3 
 3 འགགས་ v.past:3 
 3 འགལ v.fut.v.pres:2 v.invar:1 
@@ -5005,14 +5005,13 @@
 3 འགྲན་པ་ n.v.past.n.v.pres:3 
 3 འགྲན་ཟླ་ n.count:3 
 3 འགྲིམ་ v.fut.v.pres:2 v.pres:1 
-3 འགྲིམས་ v.imp:3 
-3 འགྲེངས་ v.imp:2 v.past:1 
-3 འགྲོ་ས་ n.v.fut.n.v.pres:3 
+3 འགྲིམས་ v.ipv:3 
+3 འགྲེངས་ v.ipv:2 v.past:1 
+3 འགྲོ་ས་ n.v.fut.n.v.pres.gro:3 
 3 འགྲོལ་ v.fut.v.pres:3 
 3 འཆང་ v.pres:3 
 3 འཆད་པ་པོ་ n.count:3 
 3 འཆར་ n.count:1 v.fut.v.pres:2 
-3 འཆི་རྒྱུ་ n.v.fut.n.v.pres:3 
 3 འཆིང་བ་ n.v.fut.n.v.pres:3 
 3 འཆོར v.fut.v.pres:3 
 3 འཇ n.count:3 
@@ -5047,7 +5046,7 @@
 3 འཕང་ལོ་ n.count:3 
 3 འཕེན v.pres:3 
 3 འཕེན་པ་ n.v.pres:3 
-3 འཕོས v.imp:2 v.past:1 
+3 འཕོས v.ipv:2 v.past:1 
 3 འཕྱ་བ་ n.v.fut.n.v.pres:3 
 3 འཕྱི་བ་ n.v.fut.n.v.pres:3 
 3 འཕྱོ v.invar:3 
@@ -5055,7 +5054,7 @@
 3 འཕྲེང་བ n.v.invar:3 
 3 འཕྲེང་བ་ n.v.invar:3 
 3 འཕྲོག v.fut.v.pres:3 
-3 འཕྲོགས་ v.imp:3 
+3 འཕྲོགས་ v.ipv:3 
 3 འབག་ n.count:2 v.fut.v.pres:1 
 3 འབུ n.count:3 
 3 འབུད་ v.fut.v.pres:3 
@@ -5078,7 +5077,7 @@
 3 འཚམ་པ་ n.v.fut.n.v.pres:3 
 3 འཚལ་ལུགས་ n.v.invar:3 
 3 འཚེང་ v.fut.v.pres:3 
-3 འཚེམ་ v.fut.v.pres:2 v.imp:1 
+3 འཚེམ་ v.fut.v.pres:2 v.ipv:1 
 3 འཚེར་ v.fut.v.pres:2 v.invar:1 
 3 འཚོ་བ་པ་ n.count:3 
 3 འཚོབ་པ n.v.invar:3 
@@ -5104,8 +5103,8 @@
 3 ཡུལ་མི n.count:3 
 3 ཡེ་ཤེས་དབང་པོ n.prop:3 
 3 ཡེ་ཤེས་སྙིང་པོ་ n.prop:3 
-3 ཡོ་ dunno:2 v.invar:1 
-3 ཡོད་ས n.v.invar:3 
+3 ཡོ་ d.quant:2 v.invar:1 
+3 ཡོད་ས n.v.invar.yod:3 
 3 ཡོན་བཤད་ n.count:3 
 3 ཡོལ་བ n.count:1 n.v.fut.n.v.pres:2 
 3 ཡོལ་བ་ n.count:1 n.v.fut.n.v.pres:2 
@@ -5113,8 +5112,8 @@
 3 རང་མཐོང་ n.count:3 
 3 རང་ཡུལ་ n.count:3 
 3 རང་རྒྱུད་ n.count:3 
-3 རན་པ n.v.past:2 n.v.past.n.v.pres:1 
-3 རན་པ་ n.v.aux:2 n.v.past.n.v.pres:1 
+3 རན་པ n.v.invar.ran:3 
+3 རན་པ་ n.v.fut.n.v.pres.ran:3 
 3 རབ་འབྱམ་ n.count:3 
 3 རམ་བུ་ n.count:3 
 3 རལ་ v.fut.v.pres:1 v.invar:1 v.past.v.pres:1 
@@ -5128,6 +5127,7 @@
 3 རི་བོང་ n.count:3 
 3 རི་རྩེ་ n.count:3 
 3 རིགས་ངན་ n.count:3 
+3 རིགས་ཅན་ n.count:3 
 3 རིགས་བརྒྱུད་ n.count:3 
 3 རིངས་ v.invar:3 
 3 རིངས་པ་ n.v.invar:2 n.v.past:1 
@@ -5152,7 +5152,7 @@
 3 རྒྱན n.count:1 n.prop:1 v.pres:1 
 3 རྒྱབ v.pres:3 
 3 རྒྱབ་རྟེན་ n.count:3 
-3 རྒྱུ་བ་ n.v.invar:3 
+3 རྒྱུ་བ་ n.v.invar.rgyu:3 
 3 རྒྱུགས་པ་ n.v.invar:3 
 3 རྔ n.count:1 v.pres:2 
 3 རྔ་མོ་ཆུ་ཤུལ་ n.count:1 n.prop:2 
@@ -5180,14 +5180,14 @@
 3 རྩ་འགྲེལ་ n.count:3 
 3 རྩ་རྒྱུད་ n.count:3 
 3 རྩིག་ v.pres:3 
-3 རྩིགས v.imp:2 v.past:1 
+3 རྩིགས v.ipv:2 v.past:1 
 3 རྩིབ་ལོགས་ n.count:3 
 3 རྩིབས་ཀྱི་མུ་ཁྱུད་ n.prop:3 
 3 རྩུབ་པ་ n.v.invar:3 
 3 རྩེ་དགའ་ n.count:3 
 3 རྩོད་ v.pres:3 
 3 རྩོམ་པ་ n.v.pres:3 
-3 རྩོམས་ v.imp:3 
+3 རྩོམས་ v.ipv:3 
 3 རྩྭ n.count:3 
 3 རྫ n.count:3 
 3 རྫུ་འཕྲུལ་ཅན་ adj:1 n.count:2 
@@ -5269,7 +5269,7 @@
 3 སོད་པ n.v.pres:3 
 3 སོད་པ་ n.v.pres:3 
 3 སོམ་ཉི་ n.count:3 
-3 སོར་ dunno:1 n.count:2 
+3 སོར་ n.count:3 
 3 སོས་བ n.v.past:3 
 3 སཾ་སྐྲི་ཏ n.count:1 n.prop:2 
 3 སཾསྐྲི་ཏ་ n.count:3 
@@ -5286,36 +5286,36 @@
 3 སྐོར་བ n.v.pres:3 
 3 སྐྱིད་གྲོང་ n.prop:3 
 3 སྐྱིད་ཕུག་ n.prop:3 
-3 སྐྱུར་ v.imp:1 v.pres:2 
+3 སྐྱུར་ v.ipv:1 v.pres:2 
 3 སྐྱེ་འགག་ n.count:3 
 3 སྐྱེ་འགྲོ་ n.count:3 
 3 སྐྱེལ་བ n.v.pres:3 
 3 སྐྱེས་མ adj:1 n.count:2 
 3 སྐྱོ་མ་ n.mass:3 
 3 སྐྱོང་བ་ n.count:1 n.v.invar:2 
-3 སྐྱོད་ v.imp:1 v.pres:2 
+3 སྐྱོད་ v.ipv:1 v.pres:2 
 3 སྐྱོན་མེད་ adj:3 
 3 སྒལ་ཚགས་ n.count:3 
 3 སྒོ་བ n.count:3 
 3 སྒོམ་སྲན་ n.count:3 
 3 སྒྱུ་ n.count:3 
-3 སྒྱུར་ v.pres:3 
+3 སྒྱུར་ v.pres.gyur:3 
 3 སྒྲ་སྙན་ n.count:3 
 3 སྒྲིབ་པ n.v.pres:3 
 3 སྒྲིལ་བ n.v.pres:3 
 3 སྒྲུབ་བརྒྱགས་ n.count:3 
 3 སྒྲོ་ n.count:3 
-3 སྒྲོགས་ v.imp:3 
+3 སྒྲོགས་ v.ipv:3 
 3 སྒྲོན་གསལ་ n.prop:3 
 3 སྒྲོན་མ n.count:3 
 3 སྔོན་པོ adj:2 n.count:1 
-3 སྙད་ d.tsam:1 n.count:2 
+3 སྙད་ n.count:3 
 3 སྙན་ཁུང་ n.count:3 
 3 སྙིང་པོ་ཅན་ n.count:3 
-3 སྙིང་རུས་ཅན་ adj:3 
+3 སྙིང་རུས་ཅན་ adj:2 n.count:1 
 3 སྙིང་རེ་རྗེ adj:3 
-3 སྙེགས་ v.imp:3 
-3 སྙེད་པ d.tsam:3 
+3 སྙེགས་ v.ipv:3 
+3 སྙེད་པ n.v.invar:3 
 3 སྙེམས་ n.count:2 n.prop:1 
 3 སྙོག་ v.pres:3 
 3 སྟག་མོ n.count:3 
@@ -5342,7 +5342,6 @@
 3 སྤོས་པ n.v.fut.n.v.past:3 
 3 སྤྱང་ཀི n.count:3 
 3 སྤྱད་ཚུལ་ n.v.fut.n.v.past:3 
-3 སྤྱན་ཅན་ adj:3 
 3 སྤྱི་གཙུག་ n.count:3 
 3 སྤྱི་ཐེར་བ n.prop:3 
 3 སྤྲས་པ་ n.v.invar:3 
@@ -5352,28 +5351,29 @@
 3 སྦྱང་ v.fut.v.past:3 
 3 སྦྱང་བ n.v.fut.n.v.past:3 
 3 སྦྱར v.fut.v.past:3 
-3 སྦྱིན v.fut.v.pres:2 v.imp:1 
+3 སྦྱིན v.fut.v.pres:2 v.ipv:1 
 3 སྦྱོར་ལམ་ n.count:3 
 3 སྦྲུམ་མ་ n.count:3 
 3 སྨ་ར་ n.count:3 
 3 སྨད་པ་ n.prop:1 n.v.fut.n.v.past:2 
-3 སྨར་བ dunno:1 n.v.pres:2 
-3 སྨོན་ n.count:1 v.invar:2 
+3 སྨར་བ n.v.pres:3 
 3 སྨོན་པ n.v.past.n.v.pres:3 
 3 སྨྱོ་བ n.v.fut.n.v.pres:3 
 3 སྨྱོས་ v.past:3 
 3 སྨྲས v.past:3 
 3 སྲིང་ n.count:3 
 3 སྲིའུ་ n.count:3 
-3 སྲུངས་ v.imp:2 v.past:1 
+3 སྲུངས་ v.ipv:2 v.past:1 
 3 སྲོག་ཤིང་ n.count:3 
 3 སྲོལ་ n.count:3 
 3 སླན་ཅད་ adv.dir:3 
 3 སླན་ཆད་ adv.temp:3 
 3 སློབ་བརྒྱུད་ n.count:3 
 3 ཧ་དུ་ n.prop:3 
-3 ཧར་འདོན་ dunno:1 n.count:2 
+3 ཧར་འདོན་ n.count:3 
 3 ཧྲུལ་པོ་ adj:3 
+3 ཨ་ n.count:1 skt:2 
+3 ཨ་ཅང་ adv.intense:3 
 3 ཨ་ནནྟ་ n.prop:3 
 3 ཨཥྚ་སྔགས་ n.count:3 
 3 ཨཱརྱ་དེ་བ་ n.prop:3 
@@ -5389,6 +5389,7 @@
 2 ཀ་པྱི་ལི་ n.prop:2 
 2 ཀ་ཤི n.prop:2 
 2 ཀ་ཤི་ n.prop:2 
+2 ཀ་སོ་རི་པ་ཅན་ n.prop:2 
 2 ཀཱར་ཥཱ་པ་ཎ་ n.count:2 
 2 ཀི་མ་ n.count:2 
 2 ཀུ་ཀུ་རི་པ n.prop:2 
@@ -5408,8 +5409,8 @@
 2 ཀཽ་ཎྜི་ནྱ n.prop:2 
 2 ཀྱི་ཚོ་སྟོད་ n.prop:2 
 2 ཀྱི་ཧུད་ interj:2 
-2 ཀྱུས་ dunno:2 
-2 ཀློགས་ v.imp:2 
+2 ཀྱུས་ n.count:2 
+2 ཀློགས་ v.ipv:2 
 2 ཀློང་ཐང་ n.prop:2 
 2 ཁ་གང་ n.count:2 
 2 ཁ་གསག་ n.count:2 
@@ -5437,8 +5438,6 @@
 2 ཁོ་མོ་ཅག་ p.pers:2 
 2 ཁོག་མ་ n.count:2 
 2 ཁོན་ v.past:2 
-2 ཁོར་ཁོར་ཡུག་ adv.mim:2 
-2 ཁོར་ཡུག་ n.count:2 
 2 ཁྭ་ n.count:2 
 2 ཁྱད་ཆོས n.count:2 
 2 ཁྱིམ་ཚེས་ n.count:2 
@@ -5455,12 +5454,13 @@
 2 ཁྲོ་བོ n.count:2 
 2 ཁྲོ་ལོ་ n.prop:2 
 2 ཁྲོན་པ n.count:2 
-2 ཁྲོལ་ v.imp:1 v.invar:1 
+2 ཁྲོལ་ v.invar:1 v.ipv:1 
 2 ག་གོན་ n.prop:2 
 2 ག་ཡ་གོ་རི n.prop:2 
 2 ག་རེ p.interrog:2 
-2 ག་ལེ་ adj:1 dunno:1 
+2 ག་ལེ་ adj:2 
 2 གང་བྱོ adj:2 
+2 གང་རུང་ n.count:1 p.interrog:1 
 2 གངས་ཁྲོད་ n.count:2 
 2 གངས་རི n.count:2 
 2 གངྒཱ་ n.prop:2 
@@ -5489,7 +5489,7 @@
 2 གཏེར་ཁ་ n.count:2 
 2 གཏོང་ཐབས་ n.v.pres:2 
 2 གཏོངས་པ n.v.pres:2 
-2 གཏོད་ v.fut.v.pres:1 v.imp:1 
+2 གཏོད་ v.invar:1 v.ipv:1 
 2 གཏོར་བ n.v.fut.n.v.pres:2 
 2 གདངས་པ་ n.v.past:2 
 2 གདབ་པ n.v.fut:2 
@@ -5503,14 +5503,13 @@
 2 གནག་ v.invar:2 
 2 གནང་ཚུལ་ n.v.invar:2 
 2 གནད་ཀྱི་ཟླ་ཟེར་ n.count:1 n.prop:1 
-2 གནའ་ adv.temp:2 
+2 གནའ་ adv.temp:1 n.temp:1 
 2 གནའ་མ n.count:2 
 2 གནས་གཞི་ n.count:2 
 2 གནས་ཆེན་ n.count:2 
 2 གནས་ཐབས་ n.count:2 
 2 གནས་བཅས་ n.prop:2 
 2 གནས་བརྟན་པ n.prop:2 
-2 གནས་བྱ n.v.fut:2 
 2 གནས་མ n.prop:2 
 2 གནས་ཚུལ་ n.v.invar:2 
 2 གནོད་བྱེད་ n.count:2 
@@ -5537,12 +5536,12 @@
 2 གཟིར་བ་ n.v.fut.n.v.pres:2 
 2 གཟུག་ n.count:2 
 2 གཟུག་པ n.v.fut:2 
-2 གཟུགས་ཅན་ adj:1 n.count:1 
+2 གཟུགས་ཅན་ n.count:2 
 2 གཟུགས་བརྙན་ཡིད་ n.count:2 
 2 གཟུགས་བརྙན་ལོ་ n.count:2 
 2 གཟུང་འཛིན་རི་དྭགས་ n.count:2 
 2 གཟེབ་ n.count:2 
-2 གཟོད་མ་ adv.temp:2 
+2 གཟོད་མ་ n.temp:2 
 2 གཡུང་པོ་ n.prop:2 
 2 གཡུང་རྒྱལ་ n.prop:2 
 2 གཡུང་སྟོན་ཁྲོ་རྒྱལ་ n.prop:2 
@@ -5555,18 +5554,17 @@
 2 གཡོག་མོ་ n.count:2 
 2 གཡོག་རིགས་ n.count:2 
 2 གཡོགས་པ་ n.v.past:2 
-2 གཡོར་ v.fut.v.pres:1 v.imp:1 
+2 གཡོར་ v.fut.v.pres:1 v.ipv:1 
 2 གར་མཁན་ n.count:2 
 2 གཤིན་རྗེ n.prop:2 
 2 གཤིན་རྗེ་གཤེད་དམར་ n.prop:2 
 2 གཤེར་བ n.v.fut.n.v.pres:2 
-2 གཤོག་ n.count:1 v.imp:1 
+2 གཤོག་ n.count:1 v.ipv:1 
 2 གས་པ་ n.v.past:2 
 2 གསང་བ་འདུས་པ n.prop:2 
 2 གསང་ཚིག་ n.count:2 
 2 གསང་འདུས n.prop:2 
 2 གསང་སྟོན་ n.count:2 
-2 གསལ་བྱེད་ n.count:2 
 2 གསུང་ངག་ n.count:2 
 2 གསུང་དོན་ n.count:2 
 2 གསུང་བགྲོས་ n.count:2 
@@ -5583,7 +5581,7 @@
 2 གསོ་སྦྱོང་ n.count:2 
 2 གསོག་འཇོག་ n.count:2 
 2 གསོང་པོ adj:2 
-2 གསོན v.imp:2 
+2 གསོན v.ipv:2 
 2 གསོན་སྙིང་ n.count:2 
 2 གསོལ་འདེབས་ n.count:2 
 2 གསོས་པ n.v.past:2 
@@ -5606,7 +5604,7 @@
 2 གྱོས་སྒྱུག་ n.count:2 
 2 གྲ་པ་ n.count:2 
 2 གྲག་པ་ n.v.invar:2 
-2 གྲང་བ་ n.v.invar:2 
+2 གྲང་བ་ n.v.invar.grang:2 
 2 གྲངས་ངེས་ n.count:2 
 2 གྲལ་མགོ་མ་ adj:1 n.count:1 
 2 གྲི་ n.count:2 
@@ -5654,10 +5652,9 @@
 2 ངུ v.fut.v.pres:2 
 2 ངུ་ཆོང་ n.count:2 
 2 ངོ་ཆེན་ n.count:2 
-2 ངོ་བོ་ཅན adj:2 
 2 ངོ་བོ་ཉིད་ n.count:2 
 2 ངོ་སྤྲོད་ལུང་བསྟན་ n.count:2 
-2 ངོས་མད་ dunno:1 n.count:1 
+2 ངོས་མད་ n.count:2 
 2 ངོས་འཛིན་ n.count:2 
 2 ཅམ་ v.invar:2 
 2 ཅི་བྱེད་ n.count:2 
@@ -5686,17 +5683,16 @@
 2 ཆུ་བོ་འོད་སྲུང་ n.prop:2 
 2 ཆུ་བྲན་ n.count:2 
 2 ཆུ་རླབས་ n.count:2 
-2 ཆུང་ཟད་ d.plural:2 
-2 ཆུངས་བ n.v.invar:2 
+2 ཆུང་ཟད་ d.quant:2 
+2 ཆུངས་བ n.v.past:2 
 2 ཆུབ་ v.past.v.pres:2 
-2 ཆུས་ v.imp:2 
-2 ཆེ་རྒྱུ་ n.v.pres:2 
+2 ཆུས་ v.ipv:2 
 2 ཆེ་ཤོས་ adj:2 
 2 ཆེད་གཉེར་ adj:2 
 2 ཆེན་པ་ adj:2 
 2 ཆེན་མ་ n.count:2 
 2 ཆེས v.fut.v.pres:1 v.past:1 
-2 ཆོངས་ v.imp:2 
+2 ཆོངས་ v.ipv:2 
 2 ཆོས་གོས་སྨད་ n.count:2 
 2 ཆོས་གྲྭ་ n.count:2 
 2 ཆོས་དབང་ n.count:1 n.prop:1 
@@ -5771,7 +5767,7 @@
 2 ཐུགས་ཁྲེལ་ n.count:2 
 2 ཐུགས་ངན་ n.count:2 
 2 ཐུགས་མཁྱེན་ n.count:2 
-2 ཐུགས་རྗེ་ཅན་ adj:2 
+2 ཐུགས་རྗེ་ཅན་ n.count:2 
 2 ཐུགས་སྲས་བུ་ཆེན་ n.count:2 
 2 ཐུད་ n.mass:2 
 2 ཐུབ་པ་དགོངས་རྒྱན་ n.prop:2 
@@ -5798,8 +5794,8 @@
 2 ཐོར་བུ n.count:2 
 2 ཐོས་པ་དག n.prop:2 
 2 ཐོས་བསམ་སྒོམ་ n.count:2 
-2 ད adv.temp:1 v.fut:1 
-2 ད་ལོ adv.temp:2 
+2 ད n.temp:1 v.fut:1 
+2 ད་ལོ n.temp:2 
 2 དཀའ་ཆེན་ n.count:2 
 2 དཀའ་ཕྲན་ n.count:2 
 2 དཀའ་འགྲེལ་ n.count:2 
@@ -5812,11 +5808,9 @@
 2 དགག་དབྱེ་ n.count:2 
 2 དགང་གཟར་ n.count:2 
 2 དགའ་བོ n.prop:2 
-2 དགའ་རབ་ adj:1 n.count:1 
 2 དགའ་སྤྲོ n.count:2 
 2 དགར་བ་ n.v.fut.n.v.pres:2 
 2 དགེ་བསྐུལ་ n.count:2 
-2 དགེ་ཚོགས་ n.count:2 
 2 དགེ་འདུན་ཕལ་ཆེན་པ n.prop:2 
 2 དགེ་རྒྱས་ n.prop:2 
 2 དགེ་ལྟས་ n.count:2 
@@ -5827,7 +5821,6 @@
 2 དགོངས་བཞེད་ n.count:2 
 2 དགོངས་མོ n.count:2 
 2 དགོངས་ཚུལ་ n.v.invar:1 n.v.past:1 
-2 དགོས་རྒྱུ་ n.v.invar:2 
 2 དགྲ་བོ n.count:2 
 2 དགྲ་ལན་ n.count:2 
 2 དངངས་པ n.v.past:2 
@@ -5836,7 +5829,7 @@
 2 དངོས་སྡིག་ n.count:2 
 2 དངོས་སློབ n.count:2 
 2 དངོས་སློབ་ n.count:2 
-2 དད་ཅན་ adj:2 
+2 དད་ཅན་ adj:1 n.count:1 
 2 དན་བྱི་ལ་ n.prop:2 
 2 དཔའ་བ n.v.invar:2 
 2 དཔའ་བོ n.count:2 
@@ -5878,6 +5871,7 @@
 2 དམ་པོ adj:2 
 2 དམ་བཅས་ n.count:2 
 2 དམ་བཅས་པ n.count:2 
+2 དམ་ཚིག་ཅན n.count:2 
 2 དམ་ཚིག་ཅན་ adj:2 
 2 དམངས་ n.count:2 
 2 དམངས་རིགས་ n.count:1 n.prop:1 
@@ -5897,7 +5891,7 @@
 2 དུ་བ་ n.count:2 
 2 དུག་ཅན་ adj:2 
 2 དུབ་པ n.v.invar:2 
-2 དུམ་ dunno:1 n.count:1 
+2 དུམ་ n.count:2 
 2 དུར་ས་ n.count:2 
 2 དུལ་ལྷ n.prop:2 
 2 དུལ་ལྷ་ n.prop:2 
@@ -5905,10 +5899,8 @@
 2 དུས་ངན་ n.count:2 
 2 དུས་བཟང་ n.count:2 
 2 དུས་འཁོར n.prop:2 
-2 དེ་བ་ dunno:2 
+2 དེ་བ་ n.count:2 
 2 དེད་པ་ n.v.invar:2 
-2 དེའུ་ n.count:2 
-2 དེའུ་རེ་ adv.intense:1 dunno:1 
 2 དོ་སྨད་ n.count:2 
 2 དོག་པ n.v.invar:2 
 2 དོན་གཉེར་ n.count:2 
@@ -5919,9 +5911,9 @@
 2 དོན་རྗེས་དཔག་ n.count:2 
 2 དོན་སྙིང་ n.count:2 
 2 དྨ་ v.fut.v.pres:2 
-2 དྲ་བ n.v.fut:2 
+2 དྲ་བ n.v.fut.dra1:2 
 2 དྲག་ཤུལ་ཅན་ n.prop:2 
-2 དྲགས v.past:2 
+2 དྲགས v.past.drag:2 
 2 དྲང་སྲོང་ལྷུང་བ n.prop:2 
 2 དྲན་ཤེས་ n.count:2 
 2 དྲི་བཟང་ n.count:2 
@@ -5931,17 +5923,17 @@
 2 དྲིན་གཟོ་ n.count:2 
 2 དྲུང་པ་ adj:2 
 2 དྲུད་ n.rel:2 
-2 དྲེག་ n.count:2 
+2 དྲེག་ n.count:1 v.fut:1 
 2 དྲེགས་པ n.v.invar:2 
 2 དྲེའུ་ n.count:2 
 2 དྷརྨཱ་ཀཱིརྟི་ n.prop:2 
 2 དྷརྨྨ་པཱ་ལ་ n.prop:2 
 2 དྷི་དྷི་ཀ་ n.prop:2 
-2 ན་ནིང་ adv.temp:2 
+2 ན་ནིང་ adv.temp:1 n.temp:1 
 2 ན་ཚ n.count:2 
 2 ན་ཚོད་ n.count:2 
 2 ན་ཟུག་ n.count:2 
-2 ན་རོ dunno:1 n.prop:1 
+2 ན་རོ n.prop:2 
 2 ན་རོ་ n.prop:2 
 2 ན་ལེན་ཏྲ n.prop:2 
 2 ནག་ཚོ n.prop:2 
@@ -5981,7 +5973,7 @@
 2 ཕ་ཕོང་ n.count:2 
 2 ཕ་བུ n.count:2 
 2 ཕ་མེས་རྒྱུད་ n.count:2 
-2 ཕ་འབགས་ dunno:1 n.count:1 
+2 ཕ་འབགས་ n.count:2 
 2 ཕ་རབས་ n.count:2 
 2 ཕ་རོལ་པོ་ n.count:2 
 2 ཕ་རོལ་ཕྱིན་ n.count:2 
@@ -5991,7 +5983,6 @@
 2 ཕག་རྒོད་ n.count:2 
 2 ཕངས་མེད་ adj:2 
 2 ཕངས་སེམས་ n.count:2 
-2 ཕན་རྒྱུ་ n.v.invar:2 
 2 ཕལ་པ adj:1 n.count:1 
 2 ཕལ་བ་ n.count:2 
 2 ཕས་རྒོལ་ n.count:2 
@@ -6004,7 +5995,7 @@
 2 ཕེད་ v.invar:1 v.past.v.pres:1 
 2 ཕོ་ཉ n.count:2 
 2 ཕོ་བ n.v.past:2 
-2 ཕོབ v.imp:2 
+2 ཕོབ v.ipv:2 
 2 ཕྱག་གཡས་ n.count:2 
 2 ཕྱག་ཆེན་ n.count:1 n.prop:1 
 2 ཕྱག་དཔེ n.count:2 
@@ -6024,7 +6015,7 @@
 2 ཕྱིན་ཏེ་ལོ་ཤུ་ཤ་ n.prop:2 
 2 ཕྱུག་དབུལ་ n.count:2 
 2 ཕྱེད་མ n.count:2 
-2 ཕྱོགས n.rel:1 v.invar:1 
+2 ཕྱོགས n.count:1 v.invar:1 
 2 ཕྱོགས་རིས་ n.count:2 
 2 ཕྲ་མོ adj:2 
 2 ཕྲ་ལ་རིང་བ་ n.prop:2 
@@ -6046,14 +6037,14 @@
 2 བཀྲ་བ n.v.past.n.v.pres:2 
 2 བཀྲ་ཤིས་པ n.count:2 
 2 བཀྲ་ཤིས་མངའ་གསོལ་ n.count:2 
-2 བཀྲག་ dunno:2 
+2 བཀྲག་ n.count:2 
 2 བཀྲམ་ v.past:2 
 2 བཀྲུས v.past:2 
 2 བཀྲུས་པ n.v.past:2 
 2 བཀྲུས་པ་ n.v.past:2 
 2 བཀྲོངས་ v.past:2 
 2 བཀླགས་ v.past:2 
-2 བག་ཙམ་ dunno:2 
+2 བག་ཙམ་ d.quant:2 
 2 བགྲང་བ n.v.fut.n.v.pres:2 
 2 བགྲང་བ་ n.v.fut.n.v.pres:2 
 2 བགྲད་ v.invar:2 
@@ -6067,7 +6058,7 @@
 2 བཏང་ཚུལ་ n.v.past:2 
 2 བཏབ་བ་ n.v.past:2 
 2 བཏུད v.fut.v.past:2 
-2 བཏུབ v.fut.v.pres:1 v.past:1 
+2 བཏུབ v.invar.thub1:2 
 2 བཏུལ་བ་ n.v.past:2 
 2 བཏེག་པ་ n.v.past:2 
 2 བད v.invar:2 
@@ -6099,7 +6090,7 @@
 2 བཙན་ཉན་ n.count:2 
 2 བཙན་ས་ n.v.invar:2 
 2 བཙམ་ v.fut:2 
-2 བཙལ་ས་ n.v.fut.n.v.past:2 
+2 བཙལ་ས་ n.v.fut.n.v.past:1 n.v.fut.n.v.past.tshal1:1 
 2 བཙས v.past:2 
 2 བཙུག་ v.past:2 
 2 བཙུན་ཆུང་ n.count:2 
@@ -6109,7 +6100,7 @@
 2 བཞམས་ v.past:2 
 2 བཞུ་བ n.v.fut.n.v.pres:2 
 2 བཞུགས་ཚུལ་ n.v.invar:2 
-2 བཞུད v.imp:1 v.invar:1 
+2 བཞུད v.invar:1 v.ipv:1 
 2 བཞེངས་པ་ n.v.past:2 
 2 བཞེད་གཞུང་ n.count:2 
 2 བཟ v.fut:2 
@@ -6172,11 +6163,11 @@
 2 བསུ་སྐྱེལ་ n.count:2 
 2 བསུང་ཅན་ adj:2 
 2 བསེ་རུ་ n.count:2 
-2 བསེབ་ n.rel:2 
+2 བསེབ་ n.count:1 n.rel:1 
 2 བསོད་ནམས་ཡེ་ཤེས་ n.count:2 
 2 བསོད་ནམས་ཡེ་ཤེས་ཚོགས་ n.count:2 
 2 བསོད་ནམས་ལས་ n.count:2 
-2 བསོད་སྐྱབས་ dunno:2 
+2 བསོད་སྐྱབས་ n.prop:2 
 2 བསོད་སྙོམས་པ n.count:2 
 2 བསྐམས v.past:2 
 2 བསྐམས་པ n.v.past:2 
@@ -6209,8 +6200,6 @@
 2 བསྒྲིལ་ v.past:2 
 2 བསྒྲིལ་བ n.v.fut:2 
 2 བསྒྲུན་པ n.v.past:2 
-2 བསྒྲུབ་བྱ n.v.fut:2 
-2 བསྒྲུབ་བྱ་ n.v.fut:2 
 2 བསྒྲེང་བ n.v.fut:2 
 2 བསྔལ v.fut.v.past:2 
 2 བསྔོ་ v.fut:2 
@@ -6227,7 +6216,6 @@
 2 བསྟི་ v.fut.v.pres:2 
 2 བསྡམས v.past:2 
 2 བསྡོ་བ n.v.fut:2 
-2 བསྣན་ v.fut.v.past:2 
 2 བསྣུན་པ་ n.v.past:2 
 2 བསྲེ་འཕོ་ n.count:2 
 2 བསྲེག་ v.fut:2 
@@ -6235,6 +6223,7 @@
 2 བསྲེགས་པ n.v.past:2 
 2 བསླངས་པ་ n.v.past:2 
 2 བསླད་པ n.v.fut.n.v.past:2 
+2 བསླབ་བྱ་ v.pres:2 
 2 བསླུ v.fut:2 
 2 བི་བྷུ་ཏི་ཙནྡྲ་ n.prop:2 
 2 བི་ཤྭ་ཀརྨ་ n.prop:2 
@@ -6269,7 +6258,6 @@
 2 བྱ་ཡུལ་ n.v.fut:2 
 2 བྱ་རྐང་ n.prop:2 
 2 བྱ་རྒོད་ཕུང་པོ n.prop:2 
-2 བྱ་རྒྱུ་ n.v.fut:2 
 2 བྱ་རྒྱུས་ n.prop:2 
 2 བྱ་ལམ་ n.count:2 
 2 བྱ་སྐད་ n.count:2 
@@ -6281,7 +6269,7 @@
 2 བྱས་པ་གཟོ་བ n.count:2 
 2 བྱས་བ་གཟོ་བ་ n.count:2 
 2 བྱིན་བ་ n.v.past:2 
-2 བྱིན་རླབས་ཅན་ adj:2 
+2 བྱིན་རླབས་ཅན་ adj:1 n.count:1 
 2 བྱིའུ n.count:2 
 2 བྱུང་ཆུབ་ n.count:2 
 2 བྱུང་པ n.count:1 n.v.past:1 
@@ -6291,7 +6279,7 @@
 2 བྱེད་གྲབས་ n.v.pres:2 
 2 བྱེད་པ་པོ་ n.count:2 
 2 བྱེའུ་ n.count:2 
-2 བྱོས v.imp:2 
+2 བྱོས v.ipv.byed:2 
 2 བྲག་དཀར་རྟ་སོ n.prop:2 
 2 བྲག་དམར་ n.prop:2 
 2 བྲག་དམར་སྤོ་མཐོ n.prop:2 
@@ -6314,12 +6302,12 @@
 2 བླ་སྡེ n.count:2 
 2 བླང་དོར་ n.count:2 
 2 བླུ་ v.fut.v.pres:2 
-2 བླུགས dunno:1 v.past:1 
+2 བླུགས v.past:2 
 2 བློ་ཁ་ n.count:2 
 2 བློ་ཕྱོགས་ n.count:2 
 2 བློ་རྣོ་བ n.count:2 
 2 བློ་སྣ་ n.count:2 
-2 བློན་ dunno:1 n.count:1 
+2 བློན་ n.count:2 
 2 བྷ་བྱ་ n.prop:2 
 2 མ་ཀི་ d.dem:2 
 2 མ་གྲུབ་ adj:2 
@@ -6424,6 +6412,7 @@
 2 མི་ཚེ་ n.count:2 
 2 མིག་འཁྲུལ་ n.count:2 
 2 མིང་པོ n.count:2 
+2 མུ་ས་ར་གལ་བ་ n.count:2 
 2 མུ་སྟེགས་ཅན་ཀུན་ཏུ་རྒྱུ་ n.count:2 
 2 མུ་སྟེགས་པ n.count:2 
 2 མུག་པ n.v.invar:2 
@@ -6440,7 +6429,7 @@
 2 མེས་བྱིན་ n.prop:2 
 2 མོ་གཤམ་ n.count:2 
 2 མོན་ n.prop:2 
-2 མོས་གུས་ཅན་ adj:2 
+2 མོས་གུས་ཅན་ adj:1 n.count:1 
 2 མྱང་སྟོད་རི་ནང་ n.prop:2 
 2 མྱུར་བ་ n.v.pres:2 
 2 མྱུར་སྟབས་ n.v.invar:2 
@@ -6464,18 +6453,19 @@
 2 ཚིག་ལེའུ n.count:2 
 2 ཚིག་སྨྲ་ n.count:2 
 2 ཚིམ་པོ་ adj:2 
-2 ཚུགས v.imp:2 
+2 ཚུགས v.ipv:2 
 2 ཚུགས་ཤིང་ n.count:2 
 2 ཚུད v.invar:2 
 2 ཚུར་སྟོན་ n.prop:2 
 2 ཚུལ་ཁྲིམས་བསྐྱངས་ n.prop:2 
+2 ཚེ་ཐུང་ n.count:2 
 2 ཚེ་བསྐལ་པ་ n.count:2 
 2 ཚེ་རིངས་མ n.prop:2 
 2 ཚེ་སྲོག་ n.count:2 
 2 ཚེགས་ཆེན་ adj:2 
 2 ཚེམས་ v.past.v.pres:2 
 2 ཚེར་མ n.count:2 
-2 ཚོག་ n.count:1 v.imp:1 
+2 ཚོག་ n.count:1 v.ipv:1 
 2 ཚོགས་ཁྲོམ་ n.count:2 
 2 ཚོགས་སྐལ་ n.count:2 
 2 ཚོང་དུས་ n.count:2 
@@ -6498,7 +6488,6 @@
 2 ཞི་བ་ལྷས n.prop:2 
 2 ཞི་རྒྱས་དབང་དྲག་ n.count:2 
 2 ཞིམ་པ n.count:2 
-2 ཞུ་རྒྱུ་ n.v.fut.n.v.pres:2 
 2 ཞུམ་པ་ n.v.invar:2 
 2 ཞུས་དག་ n.count:2 
 2 ཞུས་ཚུལ་ n.v.past:2 
@@ -6509,7 +6498,7 @@
 2 ཞེན་མེད་ adj:1 n.count:1 
 2 ཞོན་པ n.v.pres:2 
 2 ཞོན་པ་ n.v.pres:2 
-2 ཞོར་ n.rel:2 
+2 ཞོར་ n.count:1 n.rel:1 
 2 ཞོལ་ n.count:2 
 2 ཞོལ་མོ་ adj:1 n.count:1 
 2 ཟ་ཧོར་ n.prop:2 
@@ -6526,14 +6515,14 @@
 2 ཟུར་ཆག་ n.prop:2 
 2 ཟུར་ཆག་པ་ n.prop:2 
 2 ཟུར་མིག་ n.count:2 
-2 ཟོན་ v.imp:2 
+2 ཟོན་ v.ipv:2 
 2 ཟླ་གྲགས་ n.prop:2 
 2 ཟླ་བ་མགོན་པོ་ n.prop:2 
 2 ཟླ་བ་མེ n.count:2 
 2 ཟླ་བ་རི་བོ་ n.count:2 
 2 ཟློག་པ n.v.pres:2 
 2 ཟློས་པ n.v.invar:2 
-2 འ་ཚོ་ dunno:1 n.prop:1 
+2 འ་ཚོ་ n.count:1 n.prop:1 
 2 འཁམས་པ n.v.invar:2 
 2 འཁལ་ v.fut.v.pres:2 
 2 འཁོན་ v.fut.v.pres:2 
@@ -6566,11 +6555,11 @@
 2 འཁྲུལ་འཁོར་ n.count:2 
 2 འཁྲེང་བ་ n.v.invar:2 
 2 འགག་པ n.v.fut.n.v.pres:2 
-2 འགའ d.plural:2 
+2 འགའ d.quant:2 
 2 འགས d.plural:1 v.fut.v.pres:1 
 2 འགོང་བོ་ n.count:2 
 2 འགོད་པ་ n.v.past.n.v.pres:2 
-2 འགོས་ n.prop:2 
+2 འགོས་ n.prop:1 v.past:1 
 2 འགྱུར་མེད་ adj:1 n.count:1 
 2 འགྱེད་ v.invar:2 
 2 འགྱེད་པ་ n.v.invar:2 
@@ -6584,7 +6573,6 @@
 2 འགྲེལ་པ་ཤུ་ལོ་ཀ་ n.count:2 
 2 འགྲེལ་བ་ n.count:1 n.v.pres:1 
 2 འགྲོ་པ་ n.v.fut.n.v.pres:2 
-2 འགྲོ་རྒྱུ་ n.v.fut.n.v.pres:2 
 2 འགྲོངས་ v.fut.v.pres:1 v.pres:1 
 2 འགྲོན་པོ་ n.count:2 
 2 འགྲོལ་བ n.v.fut.n.v.pres:2 
@@ -6600,7 +6588,7 @@
 2 འཆི་མེད་མཛོད་ n.prop:2 
 2 འཆིང་ v.fut.v.pres:2 
 2 འཆེ v.fut.v.pres:2 
-2 འཆོར་ dunno:1 v.fut.v.pres:1 
+2 འཆོར་ v.fut.v.pres:2 
 2 འཆོར་བ་ n.v.fut.n.v.pres:2 
 2 འཇགས་པ n.v.invar:2 
 2 འཇམ་པོ adj:2 
@@ -6637,13 +6625,12 @@
 2 འདར་བ n.v.fut.n.v.pres:2 
 2 འདུ་བ་ n.count:1 n.v.fut.n.v.pres:1 
 2 འདུ་འཛི n.count:2 
-2 འདུག་ས་ n.v.invar:2 
+2 འདུག་ས་ n.v.invar.dug:2 
 2 འདུམ་ v.fut.v.pres:2 
 2 འདེགས་ v.pres:2 
 2 འདེགས་པ་ n.v.pres:2 
-2 འདེང་ dunno:1 v.fut.v.pres:1 
-2 འདེབས་རྒྱུ་ n.v.pres:2 
-2 འདོད་ཚུལ་ n.v.invar:2 
+2 འདེང་ v.fut.v.pres:2 
+2 འདོད་ཚུལ་ n.v.invar.dod:2 
 2 འདོམས་ n.count:2 
 2 འདྲ་པ n.v.invar:2 
 2 འདྲི་བ n.v.pres:2 
@@ -6719,19 +6706,20 @@
 2 འཛེར་པོ་ adj:2 
 2 འཛོམ v.invar:2 
 2 འཛོམ་ས n.v.invar:2 
-2 འོ་ན་ adv.proclausal:2 
 2 འོ་རྒྱལ་ n.count:2 
 2 འོངས་བ་ n.v.past:2 
 2 འོད་གསལ་མ་བུ་ n.count:2 
+2 འོད་ཟེར་ཅན adj:1 n.count:1 
 2 འོད་སྲུངས n.prop:2 
 2 འོན་པ་ n.count:1 n.v.past.n.v.pres:1 
+2 ཡ་གི་ d.dem:2 
 2 ཡ་ང་བ་ adj:2 
 2 ཡ་བ་ན་ n.prop:2 
 2 ཡ་བྲལ་ adj:2 
 2 ཡ་འབྲོག་ n.prop:2 
 2 ཡང་དབེན་ n.count:2 
 2 ཡང་སློབ་ n.count:2 
-2 ཡན་ adv.dir:1 n.rel:1 
+2 ཡན་ adv.dir:1 n.count:1 
 2 ཡར་ངོ n.count:2 
 2 ཡས་པ n.v.invar:2 
 2 ཡི་ཆད་ n.count:2 
@@ -6742,7 +6730,7 @@
 2 ཡིད་ཅན་ n.count:2 
 2 ཡིད་ཆེས་ n.count:2 
 2 ཡིད་དམ་ n.count:2 
-2 ཡིན་ལུགས་ n.v.cop:2 
+2 ཡིན་ལུགས་ n.v.fut.n.v.pres.yinlugs:2 
 2 ཡུ་བ་ n.count:2 
 2 ཡུར་བ་ n.count:2 
 2 ཡུར་མ་ n.count:2 
@@ -6758,10 +6746,9 @@
 2 ཡེ་ཤེས་སྤྲིན་ཕུང་ n.count:2 
 2 ཡེངས v.past:2 
 2 ཡོག་པ་ n.count:2 
-2 ཡོང v.fut.v.pres:1 v.invar:1 
+2 ཡོང v.invar.yong:2 
 2 ཡོང་པ n.v.fut.n.v.pres:1 n.v.invar:1 
-2 ཡོང་མཁན་ n.v.invar:2 
-2 ཡོང་རྒྱུ་ n.v.fut.n.v.pres:2 
+2 ཡོང་མཁན་ n.v.invar.yong:2 
 2 ཡོངས་གྲགས་ adj:2 
 2 ཡོད་བ n.v.invar:2 
 2 ཡོད་མེད་ adj:1 n.count:1 
@@ -6794,10 +6781,8 @@
 2 རི་བོ n.count:2 
 2 རི་བོ་གངས་ཅན་ n.prop:2 
 2 རི་མགོ་ n.count:2 
-2 རི་རི་པ་ n.prop:2 
 2 རི་སུལ་ n.count:2 
 2 རིག་མ་ n.count:2 
-2 རིགས་ཅན་ n.count:2 
 2 རིགས་ཆོས་ n.count:2 
 2 རིགས་པ་དྲུག་ཅུ་པ n.prop:2 
 2 རིགས་རལ་ n.prop:2 
@@ -6844,7 +6829,7 @@
 2 རྒྱ་འགྲེལ་ n.count:2 
 2 རྒྱ་རོལ་ n.prop:2 
 2 རྒྱང་རོ་ཞང་སྟོན་ n.prop:2 
-2 རྒྱན་ཅན་ adj:2 
+2 རྒྱན་ཅན་ n.count:2 
 2 རྒྱན་བཀོད་ n.count:2 
 2 རྒྱས་བ n.v.past:2 
 2 རྒྱུག་པ n.v.fut.n.v.pres:1 n.v.invar:1 
@@ -6888,7 +6873,7 @@
 2 རྣམ་ཀུན་མངོན་རྫོགས་ n.count:2 
 2 རྣམ་གཞག n.count:2 
 2 རྣམ་དཀར་ adj:2 
-2 རྣམ་པ་ཅན་ adj:2 
+2 རྣམ་པ་ཅན་ n.count:2 
 2 རྣམ་བ n.count:2 
 2 རྣམ་བྱང་ adj:2 
 2 རྣམ་འབྱུང་ n.count:2 
@@ -6928,7 +6913,7 @@
 2 རླུང་ནད་ n.count:2 
 2 རླུང་ཚུབས་ n.prop:2 
 2 རློག v.pres:2 
-2 རློགས་པ n.v.imp:2 
+2 རློགས་པ n.v.ipv:2 
 2 ལ་ཀྵེ་ཏྲ n.prop:2 
 2 ལ་ཡག་ n.prop:2 
 2 ལག་བརྡ་ n.count:2 
@@ -6942,10 +6927,9 @@
 2 ལམ་རྒྱགས་ n.count:2 
 2 ལས་བརྒྱ་རྩ་གཅིག་ n.prop:2 
 2 ལས་སྐལ་ n.count:2 
-2 ལི dunno:1 n.prop:1 
+2 ལི n.prop:2 
 2 ལི་ n.prop:2 
 2 ལི་ཤོ་ཀ་ར་ n.prop:2 
-2 ལིང་ adv.mim:1 dunno:1 
 2 ལིང་པ་བྲག་ n.prop:2 
 2 ལིཙྪ་བཱི་ n.prop:2 
 2 ལུག་ n.count:2 
@@ -6974,6 +6958,7 @@
 2 ལྕེབ་པ n.v.fut.n.v.pres:2 
 2 ལྕོགས v.past:2 
 2 ལྟ་སྤྱོད་ཟུང་འབྲེལ་ n.count:2 
+2 ལྟང་ n.count:2 
 2 ལྟང་དཀར་ཉ་ n.count:2 
 2 ལྟས་ངན་ n.count:2 
 2 ལྟས་པ n.v.past:2 
@@ -7033,7 +7018,7 @@
 2 ཤོག་བུ་ n.mass:2 
 2 ཤོག་ཤོག་ n.count:2 
 2 ཤོང་བ n.v.invar:1 n.v.past:1 
-2 ཤོད v.imp:1 v.pres:1 
+2 ཤོད v.ipv:1 v.pres:1 
 2 ཤོམ་པ n.v.pres:2 
 2 ཤོལ་ v.pres:2 
 2 ས་མཁར་ n.count:2 
@@ -7078,8 +7063,8 @@
 2 སོག་པ་ n.v.pres:2 
 2 སོག་ཚུལ་ཁྲིམས་བླ་མ n.prop:2 
 2 སོན་ v.invar:1 v.past.v.pres:1 
-2 སོམས v.imp:2 
-2 སོལ v.imp:1 v.pres:1 
+2 སོམས v.ipv:2 
+2 སོལ v.ipv:1 v.pres:1 
 2 སོལ་ནག་ཐང་ཆེན་ n.prop:2 
 2 སཾ་གྷ་ཤྲཱི་ n.prop:2 
 2 སཾ་སྐྲི་ཏ་ n.count:2 
@@ -7102,7 +7087,7 @@
 2 སྐུད་པ n.v.pres:2 
 2 སྐུར་ཡིག་ n.count:2 
 2 སྐོང་ v.pres:2 
-2 སྐོངས་ v.imp:2 
+2 སྐོངས་ v.ipv:2 
 2 སྐོམ་པ n.v.invar:2 
 2 སྐྱ་ v.invar:2 
 2 སྐྱ་ནར་བུ n.prop:2 
@@ -7123,17 +7108,17 @@
 2 སྐྱོང་བ n.v.invar:2 
 2 སྐྱོན་ཅན་ n.count:2 
 2 སྐྱོན་པ n.v.pres:2 
-2 སྐྱོལ v.imp:2 
+2 སྐྱོལ v.ipv:2 
 2 སྐྲག v.invar:2 
 2 སྒལ་དམིག་ n.count:2 
 2 སྒུག་ v.pres:2 
-2 སྒུར་ v.imp:2 
+2 སྒུར་ v.ipv:2 
 2 སྒོམ་ལམ་ n.count:2 
-2 སྒོམས v.imp:2 
-2 སྒོམས་ v.imp:2 
+2 སྒོམས v.ipv:2 
+2 སྒོམས་ v.ipv:2 
 2 སྒྱུ་རྩལ་ཤེས་ n.prop:2 
-2 སྒྱུར་བ་ n.v.pres:2 
-2 སྒྱེ dunno:1 n.count:1 
+2 སྒྱུར་བ་ n.v.pres.gyur:2 
+2 སྒྱེ n.count:2 
 2 སྒྱེ་ n.count:2 
 2 སྒྲ་གཅན་ཟིན་ n.prop:2 
 2 སྒྲ་གདངས་ n.count:2 
@@ -7151,7 +7136,7 @@
 2 སྔ་དར་ n.count:2 
 2 སྔ་དྲོ་ adv.temp:2 
 2 སྔ་ལྟས་ n.count:2 
-2 སྔ་ཤོས་ dunno:2 
+2 སྔ་ཤོས་ adv:1 adv.term:1 
 2 སྔགས་བཙུན་ n.count:2 
 2 སྔགས་མཚན་ཉིད་ n.count:2 
 2 སྔགས་འཆང་ n.count:2 
@@ -7170,10 +7155,9 @@
 2 སྙིང་རྗེ་རྗེ་ adj:2 
 2 སྙིང་སྟོབས་ n.count:2 
 2 སྙུང་ཚུལ་ n.v.pres:2 
-2 སྙོམས v.imp:1 v.pres:1 
+2 སྙོམས v.ipv:1 v.pres:1 
 2 སྟག་ཕུག་སེང་གེ་རྫོང་ n.prop:2 
-2 སྟེངས་ n.rel:2 
-2 སྟེར་རྒྱུ་ n.v.invar:2 
+2 སྟེངས་ n.count:2 
 2 སྟོང་ཉིད་སྙིང་རྗེ n.count:2 
 2 སྟོང་ཉིད་སྙིང་རྗེ་ n.count:2 
 2 སྟོང་པ་ཉིད n.count:2 
@@ -7188,14 +7172,14 @@
 2 སྡང་པོ་ n.count:2 
 2 སྡང་བ་ n.v.invar:2 
 2 སྡིགས་མོ་ n.count:2 
-2 སྡུག་བསྔལ་ཅན་ adj:2 
+2 སྡུག་བསྔལ་ཅན་ n.count:2 
 2 སྡུག་བསྔལ་བ་ n.count:2 
 2 སྡུད་ཚུལ་ n.v.pres:2 
 2 སྡུད་འགྲེལ་ n.count:1 n.prop:1 
 2 སྡེ་སྣོད n.count:2 
 2 སྡོང་བོ་ n.count:2 
 2 སྡོམ་རྣམ་པ་གཉིས་ n.prop:2 
-2 སྣ་དགུ་ d.plural:2 
+2 སྣ་དགུ་ d.quant:2 
 2 སྣ་ནམ་ n.prop:2 
 2 སྣ་ལན་ n.count:2 
 2 སྣང་ངོ n.count:2 
@@ -7220,6 +7204,7 @@
 2 སྤྲིངས་པ་ n.v.past:2 
 2 སྤྲིན་ནག་ n.count:2 
 2 སྤྲིན་ཕུང་ n.count:2 
+2 སྤྲུགས་ v.past:2 
 2 སྤྲོ་བདེ་བཀྲ་ཤིས་སྒང་ n.prop:2 
 2 སྦ n.prop:2 
 2 སྦས་པ་ n.v.past:2 
@@ -7276,19 +7261,18 @@
 2 སློབ་མ་བྲམ་ཟེ་ n.count:2 
 2 སློབ་མ་སློབ་དཔོན་ n.count:2 
 2 སློབ་རྒྱུད་ n.count:2 
-2 སློབས་ v.imp:2 
+2 སློབས་ v.ipv:2 
 2 ཧལ་ v.past.v.pres:2 
 2 ཧེ་ interj:2 
 2 ཧེ་རུ་ཀ་ n.count:2 
 2 ཧྲིག་གེ་ adj:2 
 2 ཨ་ཀ་རུ་ n.mass:2 
 2 ཨ་ཀྱང་ interj:2 
-2 ཨ་ཅང་ adv.intense:2 
 2 ཨ་ནནྟ་ཤྲཱི་ n.prop:2 
 2 ཨ་པ་ interj:1 n.prop:1 
 2 ཨ་མ་ར་ཙནྟྲ་ n.prop:2 
 2 ཨ་ཙ་ར n.count:2 
-2 ཨ་ཝང་ dunno:2 
+2 ཨ་ཝང་ n.prop:2 
 2 ཨ་ལ་ལ interj:2 
 2 ཨ་ལ་ལ་ interj:2 
 2 ཨག་ཚོམས་ n.count:2 
@@ -7304,7 +7288,7 @@
 2 ཨུ་རྱན་ n.prop:2 
 2 ཨེ་མ་ཧོ་ interj:2 
 2 ཨོང་ཅོ n.prop:2 
-2 〈 punc:2 
+2 〈 punc:2 
 1 1 numeral:1 
 1 10 numeral:1 
 1 11 numeral:1 
@@ -7331,6 +7315,7 @@
 1 ln7 line.num:1 
 1 ln9 line.num:1 
 1 p12 page.num:1 
+1 p128048001 page.num:1 
 1 p128048031 page.num:1 
 1 ༠༡༢༣༤ numeral:1 
 1 ༢༣༢༢ numeral:1 
@@ -7365,6 +7350,7 @@
 1 ཀ་ལིང་ n.prop:1 
 1 ཀ་ལིང་ག་ n.prop:1 
 1 ཀ་ལླྱ་མི་ཏྲ་ skt:1 
+1 ཀ་སོ་རི་པ་ n.prop:1 
 1 ཀ་ཧྣ་པ་ n.prop:1 
 1 ཀར་ཤ་པ་ཎ་ n.count:1 
 1 ཀར་ཤ་པ་ནེ n.count:1 
@@ -7417,7 +7403,7 @@
 1 ཀེ་ n.prop:1 
 1 ཀེ་བང་ n.prop:1 
 1 ཀེ་ཡུ་རེ skt:1 
-1 ཀེམ་མོ་ dunno:1 
+1 ཀེམ་མོ་ n.prop:1 
 1 ཀེའུ་ལོ n.prop:1 
 1 ཀོ་ཀ་ལི་ཀ་ n.prop:1 
 1 ཀོ་ཁྱིམ་པ་ཡེ་ཤེས་བླ་མ n.prop:1 
@@ -7447,7 +7433,7 @@
 1 ཀྱི་ཚོ་སྨད་པ་ n.prop:1 
 1 ཀྱི་ཡེ་ཤེས་དབང་པོ n.prop:1 
 1 ཀྱི་རྡོ་རྗེ n.prop:1 
-1 ཀྱུ་ dunno:1 
+1 ཀྱུ་ n.count:1 
 1 ཀྱུན་ཏེ n.prop:1 
 1 ཀྱེ་རྡོ་རྗེ n.prop:1 
 1 ཀྱེ་རྡོ་རྗེ་གུར n.prop:1 
@@ -7526,7 +7512,7 @@
 1 ཁ་ཚོན་ n.count:1 
 1 ཁ་ཟས་རོ་ n.count:1 
 1 ཁ་ཟིན་ n.count:1 
-1 ཁ་འཁོས་ dunno:1 
+1 ཁ་འཁོས་ n.count:1 
 1 ཁ་འཆལ་ n.count:1 
 1 ཁ་འཐོར་ adj:1 
 1 ཁ་འཛིན་ n.count:1 
@@ -7562,7 +7548,6 @@
 1 ཁམས་པ་ n.prop:1 
 1 ཁམས་བདེ་ n.count:1 
 1 ཁམས་ཚོ་ n.prop:1 
-1 ཁར dunno:1 
 1 ཁར་ས་པཱ་ཎི n.prop:1 
 1 ཁར་སརྦ་ཎི་ n.prop:1 
 1 ཁརས་པཱ་ཎི n.prop:1 
@@ -7578,7 +7563,7 @@
 1 ཁུ་ལུང་ལྷ་གྲལ་ n.prop:1 
 1 ཁུ་ལེ n.count:1 
 1 ཁུ་སྟོན་ཤེས་རབ་བརྩོན་འགྲུས n.prop:1 
-1 ཁུག v.imp:1 
+1 ཁུག v.ipv:1 
 1 ཁུག་པ n.v.invar:1 
 1 ཁུགས་པ n.v.past:1 
 1 ཁུང་བུ n.count:1 
@@ -7597,15 +7582,14 @@
 1 ཁོ་བོ་ཅག་ p.pers:1 
 1 ཁོང་ཁྲོ་ n.count:1 
 1 ཁོང་གསེང་ n.count:1 
-1 ཁོང་ཅན་ dunno:1 
 1 ཁོང་རྒྱུད་ n.count:1 
 1 ཁོང་སྙིང་ n.count:1 
 1 ཁོམ v.fut.v.pres:1 
 1 ཁོམ་པ n.v.fut.n.v.pres:1 
 1 ཁོར་མོ་ n.count:1 
+1 ཁོར་ཡུག་ n.count:1 
 1 ཁོར་ཡུག་དཔག་ཚད་ n.count:1 
-1 ཁོར་རེ་ dunno:1 
-1 ཁོལ v.imp:1 
+1 ཁོལ v.ipv:1 
 1 ཁོལ་པ་ n.v.past.n.v.pres:1 
 1 ཁོལ་མ་ adj:1 
 1 ཁོལ་མོ་ n.count:1 
@@ -7641,7 +7625,6 @@
 1 ཁྱེ་ཆུང་ n.count:1 
 1 ཁྱེ་ཉེན་ n.count:1 
 1 ཁྱེད p.pers:1 
-1 ཁྱེད་ཅན་ dunno:1 
 1 ཁྱེད་པ n.v.past:1 
 1 ཁྱེད་པ་ n.v.invar:1 
 1 ཁྱེམ་ n.count:1 
@@ -7676,7 +7659,7 @@
 1 ཁྲི་ལྡེ་མགོན་པོ n.prop:1 
 1 ཁྲི་སྐྱིད་ལྡེ་ཉི་མ་མགོན་ n.prop:1 
 1 ཁྲི་སྒོ་རྩེགས་པ n.count:1 
-1 ཁྲི་སྙན་ dunno:1 
+1 ཁྲི་སྙན་ n.count:1 
 1 ཁྲི་སྟོན་བརྩོན་འབར་ n.prop:1 
 1 ཁྲིག་པ་གང་ adj:1 
 1 ཁྲིད་པ n.v.invar:1 
@@ -7722,7 +7705,6 @@
 1 གང་ཟག་རྣམ་པ n.count:1 
 1 གང་ཟག་ལས་ n.count:1 
 1 གང་ཟག་ལུང་ n.count:1 
-1 གང་རུང་ n.count:1 
 1 གངས་ཅན་ལྗོངས་ n.count:1 
 1 གངས་ཏི་སེ་ n.prop:1 
 1 གངས་དཀར་ལྟོངས་ n.count:1 
@@ -7791,6 +7773,7 @@
 1 གཏན་ཚིགས་ཐིགས་པ་ n.prop:1 
 1 གཏན་ལེགས་ n.count:1 
 1 གཏབ་ v.past:1 
+1 གཏམ་གྲགས་ n.count:1 
 1 གཏམ་ངན་ n.count:1 
 1 གཏམ་རྣམ་པ་ n.count:1 
 1 གཏམས་ v.past:1 
@@ -7817,7 +7800,7 @@
 1 གཏོང་པ་ n.v.pres:1 
 1 གཏོང་མཁན་ n.v.pres:1 
 1 གཏོངས་བ n.v.pres:1 
-1 གཏོད་པ་ n.v.fut.n.v.pres:1 
+1 གཏོད་པ་ n.v.invar:1 
 1 གཏོར་ཆོག་རྫོགས་རིམ་ n.count:1 
 1 གཏོར་ཕོར་ n.count:1 
 1 གཏོར་མ n.count:1 
@@ -7835,7 +7818,7 @@
 1 གདན་བཞི་གསང་འདུས་བདེ་མཆོག་སྐོར n.count:1 
 1 གདན་བཞིའི་དཀྱིལ་ཆོག་སྙིང་པོ་མདོར་བསགས n.prop:1 
 1 གདབ v.fut:1 
-1 གདབས་ dunno:1 
+1 གདབས་ལན་ n.count:1 
 1 གདམས་ v.past:1 
 1 གདམས་ངག་ཆོས་ n.count:1 
 1 གདམས་ངག་ཉམས་ལེན་ n.count:1 
@@ -7917,7 +7900,7 @@
 1 གནོད་སྦྱིན་བདག་པོ་ n.count:1 
 1 གནོད་སྦྱིན་མོ n.count:1 
 1 གནོད་སྦྱིན་སྔགས་ n.count:1 
-1 གནོས་ v.imp:1 
+1 གནོས་ v.ipv:1 
 1 གནྡྷ་མཧཱ་ན n.prop:1 
 1 གནྡྷོ་ལ n.prop:1 
 1 གབ་ v.invar:1 
@@ -7983,7 +7966,7 @@
 1 གཞུན་པོ་ adj:1 
 1 གཞུའི་ཆུན་དགའ་ར་བ་ n.prop:1 
 1 གཞེན་པ n.v.pres:1 
-1 གཞེས་ v.imp:1 
+1 གཞེས་ v.ipv:1 
 1 གཞོགས་གཡས་ n.count:1 
 1 གཞོགས་སློངས་ n.count:1 
 1 གཞོང་པ n.count:1 
@@ -8096,7 +8079,7 @@
 1 གཡོན་པ་ adj:1 
 1 གཡོན་ཞལ་འགྲམ་ n.count:1 
 1 གཡོན་རི་ n.count:1 
-1 གཡོམ་ n.rel:1 
+1 གཡོམ་ n.count:1 
 1 གཡོར་མོ་ n.count:1 
 1 གར་བུ n.count:1 
 1 གར་མ་ adj:1 
@@ -8104,7 +8087,7 @@
 1 གར་ལོག་ n.prop:1 
 1 གར་སླ་འབྲིང་ adj:1 
 1 གཤགས་པ n.v.invar:1 
-1 གཤའ dunno:1 
+1 གཤའ n.count:1 
 1 གཤའ་ n.count:1 
 1 གཤའ་མ adj:1 
 1 གཤར་བ་ n.v.fut.n.v.pres:1 
@@ -8112,7 +8095,7 @@
 1 གཤིན་པ n.v.pres:1 
 1 གཤིན་པོ་ adj:1 
 1 གཤིན་ཟས་ n.count:1 
-1 གཤིས་ dunno:1 
+1 གཤིས་ n.count:1 
 1 གཤེ v.invar:1 
 1 གཤེ་བ་ n.v.invar:1 
 1 གཤེ་བྱེད་སྐྱེ་བོ་ n.count:1 
@@ -8164,7 +8147,6 @@
 1 གསལ་གྲགས་ n.prop:1 
 1 གསལ་པ་ n.v.past.n.v.pres:1 
 1 གསལ་པོ་ adj:1 
-1 གསལ་བྱེད་ཆོས་ n.count:1 
 1 གསལ་མཛད་ n.prop:1 
 1 གསལ་སྣང་ n.prop:1 
 1 གསིང་མ་ n.count:1 
@@ -8219,7 +8201,7 @@
 1 གསོལ་མཁན་ n.v.invar:1 
 1 གསོལ་ཞིང་ n.count:1 
 1 གསོལ་འཕྲོ་ n.count:1 
-1 གསོས v.imp:1 
+1 གསོས v.ipv:1 
 1 གསོས་སྨན་ n.count:1 
 1 གི་ཧང་ n.count:1 
 1 གིང་ cv.cont:1 
@@ -8237,9 +8219,9 @@
 1 གུར n.count:1 
 1 གུར་ཀུམ་ n.count:1 
 1 གུར་ཕུབ་ n.count:1 
-1 གུལ་བ་ dunno:1 
+1 གུལ་བ་ n.count:1 
 1 གུལ་ལེ་ adj:1 
-1 གུས v.imp:1 
+1 གུས v.ipv:1 
 1 གུས་པ་དེ་ n.prop:1 
 1 གེ cv.ques:1 
 1 གེ་ cv.ques:1 
@@ -8252,7 +8234,6 @@
 1 གོ་བཅད་མཐུ་ n.count:1 
 1 གོ་མི་འཆི་མེད་ n.prop:1 
 1 གོ་འཚམས་ n.count:1 
-1 གོ་རྒྱུ་ n.v.invar:1 
 1 གོ་རྟོགས་ཡིད་ཡུལ་ n.count:1 
 1 གོག་པོ་ adj:1 
 1 གོང་པོ n.count:1 
@@ -8300,12 +8281,11 @@
 1 གྱུར་ཚད་ n.v.past:1 
 1 གྱེ་རེ་འཚར་སྣ n.prop:1 
 1 གྱེར་ཕུ n.prop:1 
-1 གྱེས v.imp:1 
+1 གྱེས v.ipv:1 
 1 གྱེས་ཚུལ་ n.v.past.n.v.pres:1 
 1 གྱོ་མོ n.count:1 
 1 གྱོ་མོ་ n.count:1 
-1 གྱོ་ལེ dunno:1 
-1 གྱོན་རྒྱུ་ n.v.fut:1 
+1 གྱོ་ལེ n.count:1 
 1 གྲ་ n.count:1 
 1 གྲ་ས n.count:1 
 1 གྲ་སེ་གྲས་ནེ skt:1 
@@ -8313,6 +8293,7 @@
 1 གྲགས་ཆོ་ག་བཟང་ཤེས་ n.count:1 
 1 གྲགས་པ་ཅན་ adj:1 
 1 གྲགས་པོ་ n.count:1 
+1 གྲགས་འདོད་ n.count:1 
 1 གྲགས་འབྱོར་ n.prop:1 
 1 གྲགས་འབྱོར་ཤེས་རབ་ n.prop:1 
 1 གྲགས་འོད n.prop:1 
@@ -8345,7 +8326,7 @@
 1 གྲིབ་སེ་སྒྲོམ་གྱི་ཕུ n.prop:1 
 1 གྲིམས་ v.past:1 
 1 གྲིལ v.past:1 
-1 གྲིས་པ dunno:1 
+1 གྲིས་པ n.v.invar:1 
 1 གྲུ་གཟིངས་ཕལ་ n.count:1 
 1 གྲུ་གསུམ་ n.count:1 
 1 གྲུ་ཆར་ n.count:1 
@@ -8368,7 +8349,7 @@
 1 གྲེ་བ n.count:1 
 1 གྲེ་མོ n.count:1 
 1 གྲེ་འགྱུར་ n.count:1 
-1 གྲེས་ dunno:1 
+1 གྲེས་ n.count:1 
 1 གྲོ་བོ་ལུང་དཔེ་གསར་ n.prop:1 
 1 གྲོ་མོ n.prop:1 
 1 གྲོག་མ་ n.count:1 
@@ -8394,7 +8375,7 @@
 1 གྲོད་པ་ཕུག n.prop:1 
 1 གྲོན་པ་ n.v.past.n.v.pres:1 
 1 གྲོམ་པ་རྒྱང་ n.prop:1 
-1 གྲོལ་བྱ n.v.invar:1 
+1 གྲོལ་བྱ v.past.v.pres:1 
 1 གྲོལ་ལམ་ n.count:1 
 1 གྲོལ་ལྡེ n.prop:1 
 1 གྲོས་མགོ n.count:1 
@@ -8402,7 +8383,7 @@
 1 གྲྭ་པ n.count:1 
 1 གྲྭ་བ་ n.count:1 
 1 གླ n.count:1 
-1 གླ་ཟ་བ dunno:1 
+1 གླ་ཟ་བ n.prop:1 
 1 གླག་བྱང་ཆུབ་རྒྱལ་མཚན་ n.prop:1 
 1 གླག་མདའ་ n.prop:1 
 1 གླགས་པ་ n.v.fut.n.v.past:1 
@@ -8418,7 +8399,7 @@
 1 གླང་ཚོ་སྟོད་སྨད་ n.prop:1 
 1 གླང་ར་སྐོར་ n.prop:1 
 1 གླང་རྒན་ n.count:1 
-1 གླངས་པ dunno:1 
+1 གླངས་པ n.count:1 
 1 གླན་ཚུལ་བྱང་ n.prop:1 
 1 གླན་ཡེ་ཤེས་ཤེས་རབ་ n.prop:1 
 1 གླན་སྐོར་ n.prop:1 
@@ -8441,7 +8422,7 @@
 1 གློག་དམར་ n.count:1 
 1 གློག་འགྱུ་ n.count:1 
 1 གློགས་པ་ n.v.past:1 
-1 གློང་ dunno:1 
+1 གློང་ n.count:1 
 1 གློང་འདའ་ n.prop:1 
 1 གློས་མི་འབེབས་ n.prop:1 
 1 གྷ skt:1 
@@ -8461,7 +8442,7 @@
 1 ངང་ཚུལ n.count:1 
 1 ངང་ཚུལ་ཅན n.count:1 
 1 ངང་ཚུལ་མ་ n.prop:1 
-1 ངད་ཅན་ adj:1 
+1 ངད་ཅན་ n.count:1 
 1 ངད་ལྡན་ adj:1 
 1 ངན v.pres:1 
 1 ངན་གཡོ n.prop:1 
@@ -8480,7 +8461,7 @@
 1 ངན་སེམས་ n.count:1 
 1 ངམ་ཤོད་ n.count:1 
 1 ངར་ཆིལ་ n.count:1 
-1 ངར་འདོན་ dunno:1 
+1 ངར་འདོན་ n.count:1 
 1 ངར་སྐད་ n.count:1 
 1 ངལ་ས་ n.prop:1 
 1 ངུ་དོན་ n.count:1 
@@ -8488,7 +8469,7 @@
 1 ངུད་མོ n.count:1 
 1 ངུད་འགྲོ n.count:1 
 1 ངུར་བ n.v.fut.n.v.pres:1 
-1 ངེ་ཀ་ dunno:1 
+1 ངེ་ཀ་ n.count:1 
 1 ངེས་གནས་ n.prop:1 
 1 ངེས་པ་ཅན་ adj:1 
 1 ངེས་པར་འབྱུང་ n.count:1 
@@ -8508,7 +8489,7 @@
 1 ངོ་མི་ཚ་ n.count:1 
 1 ངོ་ཚ་བྱེད་ n.count:1 
 1 ངོ་ཚ་མེད་ n.count:1 
-1 ངོ་འཕུར་ dunno:1 
+1 ངོ་འཕུར་ n.count:1 
 1 ངོ་འཛིན་ n.count:1 
 1 ངོ་འཛུམ་ n.count:1 
 1 ངོ་སྲུང་ n.count:1 
@@ -8524,7 +8505,7 @@
 1 ཅན་པ n.count:1 
 1 ཅན་པ་ n.count:1 
 1 ཅབ་ཙབ་ n.count:1 
-1 ཅར་ dunno:1 
+1 ཅར་ n.count:1 
 1 ཅི་བྱུང་ n.count:1 
 1 ཅི་ཡོད་ adj:1 
 1 ཅི་སྲིད་ p.interrog:1 
@@ -8550,7 +8531,7 @@
 1 ཆ་མེད་ adj:1 
 1 ཆ་ལག n.count:1 
 1 ཆ་ལང་ n.count:1 
-1 ཆ་ལུགས་ཅན་ adj:1 
+1 ཆ་ལུགས་ཅན་ n.count:1 
 1 ཆ་ཤས་ n.count:1 
 1 ཆ་སྨད་ n.count:1 
 1 ཆག་ཆོས་རྗེ་དཔལ་ n.prop:1 
@@ -8597,8 +8578,8 @@
 1 ཆར་སྤྲིན་རྒྱ་མཚོ n.count:1 
 1 ཆལ་པ n.v.past:1 
 1 ཆིབས་པ n.v.pres:1 
-1 ཆིལ་ v.imp:1 
-1 ཆིལ་བ་ n.v.imp:1 
+1 ཆིལ་ v.ipv:1 
+1 ཆིལ་བ་ n.v.ipv:1 
 1 ཆུ་ཁ n.count:1 
 1 ཆུ་ཁ་ n.count:1 
 1 ཆུ་གཏེར་གླིང་ n.count:1 
@@ -8613,7 +8594,7 @@
 1 ཆུ་ཕོ་ཁྱི་ལོ་ཡན་ཆད་ n.count:1 
 1 ཆུ་ཕོགས་ n.count:1 
 1 ཆུ་བོ་འོད་སྲུང་སྤུན་ n.prop:1 
-1 ཆུ་མི་ཟན་དུག་ dunno:1 
+1 ཆུ་མི་ཟན་དུག་ n.count:1 
 1 ཆུ་མིག་ཆོས་འཁོར་ n.count:1 
 1 ཆུ་མིག་དངུལ་འབུམ་ n.prop:1 
 1 ཆུ་མེ་ཤིང་ n.mass:1 
@@ -8624,7 +8605,7 @@
 1 ཆུ་འཕྲང་ n.count:1 
 1 ཆུ་འཛིན་ n.count:1 
 1 ཆུ་རིས་ n.count:1 
-1 ཆུ་ལྕགས་ dunno:1 
+1 ཆུ་ལྕགས་ n.count:1 
 1 ཆུ་ཤུལ་གྱི་ན་བོ་ n.prop:1 
 1 ཆུག་པ n.v.fut.n.v.pres:1 
 1 ཆུང་གཟུགས་བྱད་ n.count:1 
@@ -8638,7 +8619,7 @@
 1 ཆུམ་པ་ n.v.invar:1 
 1 ཆེ་ཁ n.count:1 
 1 ཆེ་ཆེ་ adj:1 
-1 ཆེ་བཅན་ adj:1 
+1 ཆེ་བཅན་ n.count:1 
 1 ཆེ་བརྗོད་ n.count:1 
 1 ཆེ་མཁས་ n.count:1 
 1 ཆེ་འདོན n.count:1 
@@ -8648,19 +8629,18 @@
 1 ཆེས་པོ་ adj:1 
 1 ཆེས་བ n.v.invar:1 
 1 ཆེས་མང་ adj:1 
-1 ཆོ dunno:1 
-1 ཆོ་ dunno:1 
+1 ཆོ n.count:1 
+1 ཆོ་ n.count:1 
 1 ཆོ་ག n.count:1 
 1 ཆོ་ངེ n.count:1 
 1 ཆོ་བ n.v.invar:1 
 1 ཆོ་འཔྲུལ་ n.count:1 
-1 ཆོ་རེ་ dunno:1 
 1 ཆོག་བ་ n.v.invar:1 
 1 ཆོག་ཤེས་དཔོན n.count:1 
 1 ཆོག་ཤེས་སྙིང་རྗེ་ཚུལ་ཁྲིམས་ n.count:1 
 1 ཆོགས་ n.count:1 
 1 ཆོང་པ་ n.count:1 
-1 ཆོངས v.imp:1 
+1 ཆོངས v.ipv:1 
 1 ཆོན་པོ adj:1 
 1 ཆོམ་རྐུན་ n.count:1 
 1 ཆོས་གོས་ཟླུམ་པོ n.count:1 
@@ -8702,7 +8682,7 @@
 1 ཆོས་འཕེལ་ n.prop:1 
 1 ཆོས་འབྱུང་བྱིན་ n.prop:1 
 1 ཆོས་འབྲེལ་ n.count:1 
-1 ཆོས་འབྲེལ་ཅན་ adj:1 
+1 ཆོས་འབྲེལ་ཅན་ n.count:1 
 1 ཆོས་འཚམས n.count:1 
 1 ཆོས་རྒྱགས་ n.count:1 
 1 ཆོས་རྒྱལ་ n.count:1 
@@ -8728,12 +8708,13 @@
 1 ཆོས་སྲུང་སྡེ n.prop:1 
 1 ཆོས་སྲེད་ n.prop:1 
 1 ཇ་ཆང་ n.mass:1 
-1 ཇ་ན་ dunno:1 
-1 ཇ་ནེ་ dunno:1 
+1 ཇ་ན་ n.count:1 
+1 ཇ་ནེ་ n.count:1 
 1 ཇ་སིགས་ n.count:1 
 1 ཇག་ཉེན་ n.count:1 
 1 ཇག་པ n.count:1 
 1 ཇེ་དམའ་ adj:1 
+1 ཇེ་མཐོ་ཇེ་ adv:1 
 1 ཇོ་བོ་ཐུགས་རྗེ་ n.count:1 
 1 ཇོ་བོ་ར་བཟངས་ n.prop:1 
 1 ཇོ་སམ་ n.count:1 
@@ -8767,7 +8748,7 @@
 1 ཉམ་ཆུང་ adj:1 
 1 ཉམ་ཐག་པ adj:1 
 1 ཉམ་བཟང་ n.prop:1 
-1 ཉམས་ངར་འདོན་ dunno:1 
+1 ཉམས་ངར་འདོན་ n.count:1 
 1 ཉམས་དག adj:1 
 1 ཉམས་མཐུན་མཐུན་ n.count:1 
 1 ཉམས་མྱོང་ཐེག་ཆེན་ཆོས་འཁོར་ n.count:1 
@@ -8787,7 +8768,7 @@
 1 ཉི་མ་མགོན་ n.prop:1 
 1 ཉི་མ་རྒྱལ་མཚན་དཔལ་བཟང་པོ n.prop:1 
 1 ཉི་མ་སྔ་ཕྱེད་ n.count:1 
-1 ཉི་ཚེ་ཁོར་ dunno:1 
+1 ཉི་ཚེ་ adv.temp:1 
 1 ཉི་ཟླ་པདྨ n.count:1 
 1 ཉི་ཟླ་སྐར་ཚོགས་ས་ n.count:1 
 1 ཉི་འོག་ n.prop:1 
@@ -8799,6 +8780,7 @@
 1 ཉིན n.count:1 
 1 ཉིན་གུང་ n.count:1 
 1 ཉིན་བྱེད་ n.count:1 
+1 ཉིན་མཚན་ཐོག་ཐག་ adv.temp:1 
 1 ཉིན་མོ་ཉི་མ n.count:1 
 1 ཉིན་ཞག་ཕྲུགས་ adv.temp:1 
 1 ཉིལ v.invar:1 
@@ -8806,7 +8788,7 @@
 1 ཉུང་བ་ n.v.past.n.v.pres:1 
 1 ཉུང་བསྡུས་ adj:1 
 1 ཉུང་ཟད་ adj:1 
-1 ཉུང་ཤས་ d.plural:1 
+1 ཉུང་ཤས་ d.quant:1 
 1 ཉུངས་བ n.v.past.n.v.pres:1 
 1 ཉུལ་བ་ n.v.fut.n.v.pres:1 
 1 ཉེ་ངུ་གཉེན་ཚོགས་ n.count:1 
@@ -8831,7 +8813,7 @@
 1 ཉེས་ཚོགས་ n.count:1 
 1 ཉེས་ལས་རྣམ་ n.count:1 
 1 ཉོ་བ n.v.fut.n.v.pres:1 
-1 ཉོད་མོངས་པ་ dunno:1 
+1 ཉོད་མོངས་པ་ n.count:1 
 1 ཉོན་མོང་པ n.count:1 
 1 ཉོན་མོངས་དགྲ་ n.count:1 
 1 ཉོན་མོངས་ནད་ n.count:1 
@@ -8844,7 +8826,7 @@
 1 ཉོན་མོངས་རྣམ་ n.count:1 
 1 ཉོན་མོངས་ལྡན adj:1 
 1 ཉོམ་ n.count:1 
-1 ཉོལ v.imp:1 
+1 ཉོལ v.ipv:1 
 1 ཊ་བེ་ས n.prop:1 
 1 ཊ་མ་རུ n.count:1 
 1 ཊ་མ་རུ་ n.count:1 
@@ -8855,7 +8837,7 @@
 1 ཌཱ་ཀིས་ n.count:1 
 1 ཌཱ་མ་རུ n.count:1 
 1 ཌཱ་མ་རུ་ n.count:1 
-1 ཏ་ dunno:1 
+1 ཏ་ n.count:1 
 1 ཏ་ར་ཎ་ n.count:1 
 1 ཏ་སོ་ n.prop:1 
 1 ཏདྱ་ཐཱ།ཤ་ skt:1 
@@ -8893,10 +8875,10 @@
 1 ཏོལ་ adv.temp:1 
 1 ཏོཾ་བྷི་ཧེ་རུ་ཀ་ n.prop:1 
 1 ཏྭ་ཤང་ n.count:1 
+1 ཏྲི་ n.count:1 
 1 ཏྲི་ཀ་ཏུ་ཀ་ n.prop:1 
 1 ཏྲི་གོང་ n.prop:1 
 1 ཏྲི་པི་ཏ་ཀ་མ་ལ n.count:1 
-1 ཏྲི་ཡ་ dunno:1 
 1 ཐ་དད་རྣམ་པ་ adj:1 
 1 ཐ་མ་ཐེག་པ་ n.count:1 
 1 ཐ་མ་ནོར་ n.count:1 
@@ -8915,7 +8897,7 @@
 1 ཐང་མེད་རིན་ཆེན་ཆོས n.count:1 
 1 ཐང་སྐོར་ n.prop:1 
 1 ཐངས་པ n.v.invar:1 
-1 ཐད་པ་ dunno:1 
+1 ཐད་པ་ n.v.invar:1 
 1 ཐད་སོ adj:1 
 1 ཐན་མོ་རྡོ་རིངས་ n.prop:1 
 1 ཐབ་ཀ་བཟང་ n.count:1 
@@ -8927,7 +8909,7 @@
 1 ཐབས་མཆོག་ n.count:1 
 1 ཐབས་ཚུལ་མན་ངག་ n.count:1 
 1 ཐབས་སྙིང་རྗེ n.count:1 
-1 ཐམས་ཅད d.plural:1 
+1 ཐམས་ཅད d.quant:1 
 1 ཐམས་ཅད་པ n.count:1 
 1 ཐམས་ཅད་འདོད་ཅན་ n.prop:1 
 1 ཐམས་ཅད་ཡོད་སྨྲ་ n.count:1 
@@ -8948,8 +8930,8 @@
 1 ཐིང་བ་ n.v.fut.n.v.pres:1 
 1 ཐིབས་ v.past:1 
 1 ཐིབས་པོ་ n.count:1 
-1 ཐིམས་པ n.v.invar:1 
-1 ཐུ v.fut.v.pres:1 
+1 ཐིམས་པ n.v.ipv:1 
+1 ཐུ v.invar:1 
 1 ཐུ་བ n.v.invar:1 
 1 ཐུ་བོ n.count:1 
 1 ཐུག་མོང་བ adj:1 
@@ -8965,9 +8947,9 @@
 1 ཐུགས་བཅུད་ n.count:1 
 1 ཐུགས་བཞེད n.count:1 
 1 ཐུགས་བརྩེ n.count:1 
-1 ཐུགས་བསྐྱེད་དགེ་ཚོགས་བདུད་རྩི n.count:1 
+1 ཐུགས་བསྐྱེད་ n.count:1 
 1 ཐུགས་བྲེལ་ n.count:1 
-1 ཐུགས་ཚ་ dunno:1 
+1 ཐུགས་ཚ་ n.count:1 
 1 ཐུགས་ཞེན་ལོག་ n.count:1 
 1 ཐུགས་འཁྲེང་བ n.count:1 
 1 ཐུགས་འཕྲིག་ n.count:1 
@@ -9027,7 +9009,7 @@
 1 ཐེག་བསྡུས་འགྲེལ་པ n.prop:1 
 1 ཐེང་མ་ adj:1 
 1 ཐེངས v.past:1 
-1 ཐེབ་ཐེབ་ dunno:1 
+1 ཐེབ་ཐེབ་ adj:1 
 1 ཐེམས་ v.fut.v.pres:1 
 1 ཐེའུ་ n.count:1 
 1 ཐེར་མ་ n.count:1 
@@ -9045,7 +9027,7 @@
 1 ཐོ་ལུམ་ n.count:1 
 1 ཐོ་ལེ་བ་ adj:1 
 1 ཐོ་ཤོ་ལེགས་ n.prop:1 
-1 ཐོག v.imp:1 
+1 ཐོག v.ipv:1 
 1 ཐོག་དྲངས་ adj:1 
 1 ཐོག་པ་ n.v.fut:1 
 1 ཐོག་མ་བར་ n.count:1 
@@ -9054,16 +9036,15 @@
 1 ཐོག་སོ་ n.count:1 
 1 ཐོགས་པོ་ adj:1 
 1 ཐོགས་བརྡུག་ n.count:1 
-1 ཐོགས་རྒྱུ་ n.v.invar:1 
 1 ཐོང་ལ n.prop:1 
-1 ཐོངས v.imp:1 
+1 ཐོངས v.ipv:1 
 1 ཐོད་ཕོར་ n.count:1 
 1 ཐོན་བ n.v.past:1 
 1 ཐོན་བ་ n.v.fut:1 
 1 ཐོན་མི་སཾ་བྷོ་ཊ་ n.prop:1 
 1 ཐོན་མི་ཨ་ནུ n.prop:1 
-1 ཐོན་ཚུལ n.v.past:1 
-1 ཐོན་ཚུལ་ n.v.past:1 
+1 ཐོན་ཚུལ n.v.fut.n.v.past:1 
+1 ཐོན་ཚུལ་ n.v.fut.n.v.past:1 
 1 ཐོན་སྟོན་ n.count:1 
 1 ཐོབ་བྱེད་ n.count:1 
 1 ཐོབས་པ n.v.past:1 
@@ -9122,8 +9103,7 @@
 1 དག་དང་མ་དག་གཟུགས་སྐུ་ n.count:1 
 1 དག་བ n.v.fut.n.v.past:1 
 1 དག་བ་ n.v.fut.n.v.past:1 
-1 དག་ཚུལ་ n.v.invar:1 
-1 དགག་ v.fut:1 
+1 དག་ཚུལ་ n.v.fut.n.v.past:1 
 1 དགག་པ་ n.v.fut:1 
 1 དགང་བླུགས n.count:1 
 1 དགངས་པ་ n.v.invar:1 
@@ -9142,12 +9122,12 @@
 1 དགུ་ཅོག་ d.plural:1 
 1 དགུ་ཐོག་ adj:1 
 1 དགུ་པོ་ num.card:1 
-1 དགུག་ v.fut:1 
+1 དགུག་ v.invar:1 
 1 དགུང་ནུབ་ n.count:1 
 1 དགུང་ཟླ་ཡར་ n.count:1 
 1 དགུང་སྔོན་དབྱིངས་ n.count:1 
 1 དགུམ་པ n.v.fut:1 
-1 དགེ v.past.v.pres:1 
+1 དགེ v.invar:1 
 1 དགེ་ཆོས་ n.count:1 
 1 དགེ་པ n.v.past.n.v.pres:1 
 1 དགེ་བ་དཔལ་ n.prop:1 
@@ -9194,6 +9174,7 @@
 1 དགོས་དོན་བསྡུས་དོན་ཚིག་དོན་ n.count:1 
 1 དགོས་བ n.v.fut.n.v.pres:1 
 1 དགོས་འདོད་ཆར་འབབས་ n.count:1 
+1 དགྱེས་པ་རྡོ་རྗེ་ཅན་ n.prop:1 
 1 དགྱེས་བ n.v.invar:1 
 1 དགྱེས་རྡིར་ n.prop:1 
 1 དགྱེས་རྡོར n.prop:1 
@@ -9219,7 +9200,7 @@
 1 དངངས་བ་ n.v.past:1 
 1 དངངས་སྐྲག་ n.count:1 
 1 དངར v.invar:1 
-1 དངས་ dunno:1 
+1 དངས་ n.count:1 
 1 དངུལ་སྐྱོགས་ n.count:1 
 1 དངོས v.pres:1 
 1 དངོས་གཞི n.count:1 
@@ -9239,7 +9220,7 @@
 1 དད་ཟས་ n.count:1 
 1 དད་འདུན་ n.count:1 
 1 དདོང་ v.invar:1 
-1 དན་ dunno:1 
+1 དན་ n.count:1 
 1 དཔག་ཆེན་ n.count:1 
 1 དཔག་པ་ n.v.fut:1 
 1 དཔག་བསམ་འཁྲི་ཤིང་ n.prop:1 
@@ -9349,7 +9330,6 @@
 1 དབང་མེད་ adj:1 
 1 དབང་རིས་ n.count:1 
 1 དབང་རྒྱས་འབྲིང་བསྡུས་ n.count:1 
-1 དབང་རྒྱུ་ n.v.invar:1 
 1 དབང་རྡུལ་ཚོན་ n.count:1 
 1 དབང་རྫས་ n.count:1 
 1 དབང་རྫོགས་ n.count:1 
@@ -9357,7 +9337,7 @@
 1 དབང་སིན་དྷུ་ར n.count:1 
 1 དབང་སྒྱུར་དབང་ཕྱུག་རྒྱལ་པོ n.prop:1 
 1 དབང་སྡེ n.prop:1 
-1 དབན་ dunno:1 
+1 དབན་ n.count:1 
 1 དབའ་ n.count:1 
 1 དབའ་ཀློང་ n.count:1 
 1 དབའ་མཉྫུ་ཤྲི n.prop:1 
@@ -9389,9 +9369,9 @@
 1 དབུ་སྙིང་ n.count:1 
 1 དབུགས་བཟང་ n.count:1 
 1 དབུགས་སྟོད་ n.count:1 
-1 དབུང་ n.rel:1 
+1 དབུང་ n.count:1 
 1 དབུལ་བོ་ adj:1 
-1 དབུས n.rel:1 
+1 དབུས n.count:1 
 1 དབུས་པ n.count:1 
 1 དབུས་པ་ n.count:1 
 1 དབུས་ཕྲུག་ n.mass:1 
@@ -9440,7 +9420,6 @@
 1 དམ་པ་རྒྱགས་ཕུ་བ་ n.prop:1 
 1 དམ་བ n.v.invar:1 
 1 དམ་ཚིག་གནད་ n.count:1 
-1 དམ་ཚིག་ཅན n.count:1 
 1 དམ་ཚིག་པ n.count:1 
 1 དམ་ཚིག་རྫས n.count:1 
 1 དམ་རྫས་ n.count:1 
@@ -9459,7 +9438,7 @@
 1 དམར་མོ་ adj:1 
 1 དམར་ཙར་རེ་ adj:1 
 1 དམས་ v.invar:1 
-1 དམིགས v.imp:1 
+1 དམིགས v.ipv:1 
 1 དམིགས་གཏད་ n.count:1 
 1 དམིགས་པ་བརྟག་པ་ n.prop:1 
 1 དམིགས་བཅས་ n.count:1 
@@ -9550,19 +9529,19 @@
 1 དེ་བཞིན་ཉིད n.count:1 
 1 དེ་ཝ་ skt:1 
 1 དེ་ཤོ་ལེགས n.prop:1 
-1 དེང་ངེ་ dunno:1 
+1 དེང་ངེ་ n.count:1 
 1 དེད་འདྲེན n.count:1 
 1 དེད་འདྲེན་ n.count:1 
-1 དེབས་པ dunno:1 
-1 དེམ་ dunno:1 
+1 དེབས་པ n.count:1 
+1 དེམ་ n.prop:1 
 1 དེས་ v.invar:1 
 1 དོ་ཀེར་ཅན་ n.count:1 
 1 དོ་གལ་ n.count:1 
-1 དོ་ཆད་ dunno:1 
+1 དོ་ཆད་ n.count:1 
 1 དོ་ནུབ adv.temp:1 
 1 དོ་ཕྲུག་ n.count:1 
 1 དོ་བ n.v.invar:1 
-1 དོ་བདོས་ dunno:1 
+1 དོ་བདོས་ n.count:1 
 1 དོ་ཚོ n.prop:1 
 1 དོ་ཚོ་ n.prop:1 
 1 དོ་ཟླ n.count:1 
@@ -9650,7 +9629,6 @@
 1 དྲི་ཞིམ་སྤོས་ n.count:1 
 1 དྲི་ཟ་རབ་དགའ་འདུལ་བ་ n.prop:1 
 1 དྲི་རོ་ n.count:1 
-1 དྲི་རྒྱུ་ n.v.fut:1 
 1 དྲིན་ཅན་ཕ་མ་ n.count:1 
 1 དྲིན་ཅན་མར་པ n.prop:1 
 1 དྲིན་ཆོས་ n.count:1 
@@ -9722,18 +9700,17 @@
 1 ནང་ཏིང་ངེ་འཛིན་ n.count:1 
 1 ནང་དགེ་སྦྱོང་ n.count:1 
 1 ནང་པ་ n.count:1 
-1 ནང་བ adv.temp:1 
+1 ནང་བ n.temp:1 
 1 ནང་བློན་ n.count:1 
 1 ནང་མཐུན་ n.count:1 
 1 ནང་མི n.count:1 
 1 ནང་རིམ་ n.count:1 
-1 ནངས་བ adv.temp:1 
+1 ནངས་བ n.temp:1 
 1 ནད n.count:1 
 1 ནད་པ་སྙིང་བརྩེ་འཁོར་ n.count:1 
 1 ནད་མེད་གཟི་བརྗིད་ n.count:1 
 1 ནད་མེད་ཟ་ n.count:1 
 1 ནད་ཡམས་ n.count:1 
-1 ནན་ཆེ dunno:1 
 1 ནན་ཏན n.count:1 
 1 ནན་ཏན་ཞུས་ n.count:1 
 1 ནན་ཏན་སྙིང་པོད་ n.count:1 
@@ -9748,7 +9725,7 @@
 1 ནམ་མཁར་ n.count:1 
 1 ནམ་སྨད་ adv.temp:1 
 1 ནམ་སྲོད་ n.count:1 
-1 ནར་ dunno:1 
+1 ནར་ adv.mim:1 
 1 ནལ་ v.invar:1 
 1 ནཱ་ག་ skt:1 
 1 ནཱ་ག་ཇུ་ན་ n.prop:1 
@@ -9761,11 +9738,11 @@
 1 ནཱ་རོ་འགྲེལ་ཆེན་ n.prop:1 
 1 ནཱ་ལེན་དྲ་པ n.count:1 
 1 ནཱ་ལེན་དྲ་པ་ n.count:1 
-1 ནཱབ་ dunno:1 
+1 ནཱབ་ n.count:1 
 1 ནཱརོ་པ་ n.prop:1 
 1 ནི་རྒྲ་ཧི་ཏ skt:1 
 1 ནི་སྐ་ལངྐ་ n.prop:1 
-1 ནིང་ dunno:1 
+1 ནིང་ v.fut.v.pres:1 
 1 ནིར་མཱ་ཎ་ཀ་ཡ་ n.count:1 
 1 ནིསྐ་ལང་ཀ་དེ་ཝ་ n.prop:1 
 1 ནུ་མོ་ n.count:1 
@@ -9803,12 +9780,12 @@
 1 ནོར་ལུག་ n.count:1 
 1 ནོར་སྐལ་ n.count:1 
 1 ནོར་སྦས་ n.prop:1 
-1 ནོས་ v.imp:1 
+1 ནོས་ v.ipv:1 
 1 ནྱ་གྲོ་ངྷ n.count:1 
 1 ནྱ་གྲོ་ཏ n.prop:1 
 1 ནྱ་གྲོ་ཏ་ n.prop:1 
 1 ནྱ་གྲོ་ཧ་ n.count:1 
-1 པ dunno:1 
+1 པ n.count:1 
 1 པ་གོར་བཻ་རོ་ཅ་ན་རཀྵི་ཏ n.prop:1 
 1 པ་གོར་བཻ་རོ་ཙ་ན་ n.prop:1 
 1 པ་ཎྜི་ n.count:1 
@@ -9846,7 +9823,6 @@
 1 པདྨ་སཾ་བྷ་ཝ་ n.prop:1 
 1 པདྨོ་ n.count:1 
 1 པན་སྐན་ n.prop:1 
-1 པའ་ dunno:1 
 1 པར་སིག་ n.prop:1 
 1 པས case.comp:1 
 1 པས་མོ་ n.count:1 
@@ -9906,6 +9882,7 @@
 1 ཕན་བྱེད་མགོན་ n.count:1 
 1 ཕན་ཚུལ་ n.count:1 
 1 ཕན་འདོད་ n.count:1 
+1 ཕན་ཡོན་ཅན n.count:1 
 1 ཕམ་ཐིང་པ་ n.prop:1 
 1 ཕམ་ཕབས་ n.count:1 
 1 ཕལ་ཆེན་པ་ n.prop:1 
@@ -9915,10 +9892,11 @@
 1 ཕས་ n.count:1 
 1 ཕས་རྒོལ་གཞུང་ལུགས་ n.count:1 
 1 ཕུ་དུང་ n.count:1 
-1 ཕུ་ནུ་བོ་ dunno:1 
+1 ཕུ་ནུ་བོ་ n.count:1 
 1 ཕུ་ནུ་མོ n.count:1 
 1 ཕུ་པོ་ n.count:1 
-1 ཕུ་འདའ་ dunno:1 
+1 ཕུ་འདའ་ n.count:1 
+1 ཕུག་ཐག་ n.count:1 
 1 ཕུག་པདྨ་རྫོང་ n.prop:1 
 1 ཕུག་ཕྲན་ n.count:1 
 1 ཕུག་རོན་ཕུག་ n.prop:1 
@@ -9934,7 +9912,7 @@
 1 ཕུང་མེད་ n.count:1 
 1 ཕུང་འདྲེ n.count:1 
 1 ཕུང་འདྲེ་ n.count:1 
-1 ཕུང་ཤི་སྐྱ་ཐེར་ dunno:1 
+1 ཕུང་ཤི་སྐྱ་ཐེར་ n.prop:1 
 1 ཕུད་པ་ n.v.past:1 
 1 ཕུད་བུ་ n.count:1 
 1 ཕུན་ད་རཱི་ཀ n.count:1 
@@ -9965,10 +9943,10 @@
 1 ཕོག v.invar:1 
 1 ཕོངས་མེད་ adj:1 
 1 ཕོངས་སེམས་ n.count:1 
-1 ཕོད v.past:1 
-1 ཕོབས་ v.imp:1 
+1 ཕོད v.past.phod:1 
+1 ཕོབས་ v.ipv:1 
 1 ཕོར་བ་ n.count:1 
-1 ཕྱ་མ་ཕྱོ dunno:1 
+1 ཕྱ་མ་ཕྱོ n.count:1 
 1 ཕྱག་གཡས་ཆོས་འཆད་ n.count:1 
 1 ཕྱག་ཆེན་གཅེར་མཐོང་ངོ་སྤྲོད་ n.count:1 
 1 ཕྱག་ཐལ་ n.count:1 
@@ -9996,23 +9974,21 @@
 1 ཕྱགས་སྡིགས་འཛུབ་ n.count:1 
 1 ཕྱར་བ n.v.fut:1 
 1 ཕྱལ་བ adj:1 
-1 ཕྱི་ཐག་ཅན་ adj:1 
+1 ཕྱི་ཐག་ཅན་ n.count:1 
 1 ཕྱི་ཐག་རིང་ n.count:1 
 1 ཕྱི་ཐན་ n.count:1 
 1 ཕྱི་ནང་གྲུབ་མཐའ་ n.count:1 
 1 ཕྱི་ནང་སྒྱུ་མ n.count:1 
 1 ཕྱི་ནང་སྒྲུབ་ཐབས་ n.count:1 
 1 ཕྱི་པ n.count:1 
-1 ཕྱི་ཕྱི adv.temp:1 
+1 ཕྱི་ཕྱི n.temp:1 
 1 ཕྱི་བ n.count:1 
-1 ཕྱི་བ་ dunno:1 
+1 ཕྱི་བ་ n.count:1 
 1 ཕྱི་མནོ་ n.count:1 
 1 ཕྱི་མོ adj:1 
-1 ཕྱི་འགྲོགས་ dunno:1 
 1 ཕྱི་འགྲོས་ n.count:1 
 1 ཕྱི་འཆར་ n.count:1 
 1 ཕྱི་འདོད་ཡོན་ n.count:1 
-1 ཕྱི་འབབ་ dunno:1 
 1 ཕྱི་རིམ་ n.count:1 
 1 ཕྱི་རོ་ལ་པ་ n.count:1 
 1 ཕྱི་རོལ་རྣམ་གཡེང་ནང་བསྡུས་ n.count:1 
@@ -10028,7 +10004,7 @@
 1 ཕྱིས adv.temp:1 
 1 ཕྱིས་པ་ n.v.invar:1 
 1 ཕྱིས་བ n.v.invar:1 
-1 ཕྱིི་ dunno:1 
+1 ཕྱིི་ adj:1 
 1 ཕྱུག v.invar:1 
 1 ཕྱུག་ཁྱད་ n.count:1 
 1 ཕྱུག་པ་ནོར་དབྱིག་ n.count:1 
@@ -10058,8 +10034,8 @@
 1 ཕྱོགས་ལྷུང་ n.count:1 
 1 ཕྱོགས་སྔ n.count:1 
 1 ཕྱོང་ངེ་བ་ adj:1 
-1 ཕྱོད་ dunno:1 
-1 ཕྱོར་ v.imp:1 
+1 ཕྱོད་ v.fut.v.past:1 
+1 ཕྱོར་ v.ipv:1 
 1 ཕྲ v.invar:1 
 1 ཕྲ་ཐོ་ n.count:1 
 1 ཕྲ་བ n.v.invar:1 
@@ -10196,7 +10172,7 @@
 1 བཅའ་ v.fut.v.pres:1 
 1 བཅའ་བ n.v.fut.n.v.pres:1 
 1 བཅའ་འཕྲང་ n.count:1 
-1 བཅའ་འབང་ dunno:1 
+1 བཅའ་འབང་ n.count:1 
 1 བཅལ་བ n.v.past:1 
 1 བཅལ་བ་ n.v.past:1 
 1 བཅས་བ་ n.v.invar:1 
@@ -10270,7 +10246,7 @@
 1 བདག་བློ n.count:1 
 1 བདག་མོ n.count:1 
 1 བདག་ལྟ n.count:1 
-1 བདབ་ dunno:1 
+1 བདབ་ n.count:1 
 1 བདར་བ n.v.fut.n.v.pres:1 
 1 བདར་བ་ n.v.fut.n.v.pres:1 
 1 བདལ་བ n.v.fut:1 
@@ -10325,9 +10301,9 @@
 1 བདེན་ཚིག་ n.count:1 
 1 བདེན་རྫུན་ n.count:1 
 1 བདོ་བ་ n.v.invar:1 
-1 བདོས་ dunno:1 
+1 བདོས་ v.invar:1 
 1 བདོས་པ་ n.v.past:1 
-1 བན་ dunno:1 
+1 བན་ n.count:1 
 1 བན་གླང་ n.count:1 
 1 བན་དུ་ n.prop:1 
 1 བནྡེ་ཀླུ n.prop:1 
@@ -10346,8 +10322,8 @@
 1 བཙམ་པ n.v.fut:1 
 1 བཙའ་བ n.v.invar:1 
 1 བཙའ་བ་ n.v.invar:1 
-1 བཙལ་པ n.v.past:1 
-1 བཙལ་པ་ n.v.past:1 
+1 བཙལ་པ n.v.fut.n.v.past.tshal1:1 
+1 བཙལ་པ་ n.v.fut.n.v.past.tshal1:1 
 1 བཙས་གྱུར་ n.count:1 
 1 བཙིར་ v.fut.v.past:1 
 1 བཙིར་བ་ n.v.fut:1 
@@ -10372,8 +10348,7 @@
 1 བཙོས་ v.past:1 
 1 བཛངས་པ་ n.v.past:1 
 1 བཞ num.card:1 
-1 བཞག་གོས་ dunno:1 
-1 བཞག་ས་ n.v.past.n.v.pres:1 
+1 བཞག་ས་ n.v.past.bzhag:1 
 1 བཞགས་ v.past:1 
 1 བཞད་ v.past.v.pres:1 
 1 བཞད་པ n.v.invar:1 
@@ -10385,8 +10360,8 @@
 1 བཞི་མདོ n.count:1 
 1 བཞི་ལྡན་ adj:1 
 1 བཞིག་ v.past:1 
-1 བཞིང་ dunno:1 
-1 བཞིན་པ་ dunno:1 
+1 བཞིང་ n.count:1 
+1 བཞིན་པ་ n.count:1 
 1 བཞིན་བཟངས་ n.count:1 
 1 བཞིབ་བཞིབ་ adj:1 
 1 བཞིབས་ v.past:1 
@@ -10410,20 +10385,18 @@
 1 བཟའ་ཕྲུགས་རྐང་པ n.count:1 
 1 བཟའ་བཅའ་སོར་མོ་ n.count:1 
 1 བཟའ་བཏུང་ཕལ་ n.count:1 
-1 བཟའ་རིན་ dunno:1 
-1 བཟའ་རྒྱུ་ n.v.fut:1 
 1 བཟས་ v.past:1 
 1 བཟི v.past:1 
 1 བཟི་ v.past.v.pres:1 
 1 བཟི་བ n.v.invar:1 
 1 བཟུགས་ n.count:1 
 1 བཟུང༌ v.past:1 
-1 བཟེར dunno:1 
+1 བཟེར v.invar:1 
 1 བཟོ་པོ་ n.count:1 
 1 བཟོ་བ་ n.v.fut.n.v.pres:1 
 1 བཟོ་རིག་པ n.count:1 
 1 བཟོ་རིག་པ་ n.count:1 
-1 བཟོ་ལུང་ dunno:1 
+1 བཟོ་ལུང་ n.count:1 
 1 བཟོད་གསོལ་ n.count:1 
 1 བཟོད་ཐབས་ n.v.invar:1 
 1 བཟོད་བགླགས་ n.count:1 
@@ -10526,7 +10499,7 @@
 1 བརྡུང་ཐབས་ n.v.fut:1 
 1 བརྡུང་པ n.v.fut:1 
 1 བརྡེག་གྲབས་ n.v.fut:1 
-1 བརྡེག་མི་ n.v.fut:1 
+1 བརྡེག་མི་ n.v.invar:1 
 1 བརྡེབས་པ་ n.v.past:1 
 1 བརྡོག་པོ་ n.count:1 
 1 བརྡོལ v.fut.v.past:1 
@@ -10566,7 +10539,7 @@
 1 བརླབ་པ་ n.v.fut:1 
 1 བརླབས་བ n.v.past:1 
 1 བརླིང་བ n.v.fut:1 
-1 བརློབས v.imp:1 
+1 བརློབས v.ipv:1 
 1 བལ་གླང་མོ་ n.count:1 
 1 བལ་པོ་ཀ་ཡ་ཤྲཱི་ n.prop:1 
 1 བལ་པོ་གྲགས་པ་དཔལ་ n.prop:1 
@@ -10575,6 +10548,7 @@
 1 བལ་པོ་བཛྲ་ཀཱིརྟི་ n.prop:1 
 1 བལ་པོ་མཧཱ་པ་ན་ n.prop:1 
 1 བལ་པོ་རྫོང་ n.prop:1 
+1 བལ་པོ་ལིང་ n.prop:1 
 1 བལ་བོ་ n.prop:1 
 1 བལ་རྒྱ་ n.prop:1 
 1 བལ་སྤུ་ n.mass:1 
@@ -10591,12 +10565,11 @@
 1 བཤད་བྱ་ཆོས་ n.count:1 
 1 བཤད་བྱ་བཀ n.count:1 
 1 བཤད་ཚོགས་ n.count:1 
-1 བཤད་རྒྱུ་ n.v.fut.n.v.past:1 
 1 བཤད་རྒྱུད་ཚིག་ n.count:1 
 1 བཤད་སྦྱང་ n.count:1 
 1 བཤད་སྦྱར་ n.count:1 
 1 བཤན v.past:1 
-1 བཤམ་རྒྱུ་ n.v.fut:1 
+1 བཤམ་ v.fut:1 
 1 བཤའ v.fut.v.pres:1 
 1 བཤའ་གྲབས་ n.v.fut.n.v.pres:1 
 1 བཤའ་བ n.v.fut.n.v.pres:1 
@@ -10620,7 +10593,7 @@
 1 བཤོལ་འདེབས་ n.count:1 
 1 བཤོས་བུ་ n.count:1 
 1 བས་མཐ n.count:1 
-1 བསག་བྱ n.v.fut:1 
+1 བསག་ v.fut:1 
 1 བསགས་ཚུལ་ n.v.past:1 
 1 བསང་པ n.v.fut.n.v.pres:1 
 1 བསངས་ v.past:1 
@@ -10692,7 +10665,7 @@
 1 བསྐུལ་འདེད་ n.count:1 
 1 བསྐུལ་ལྕག་ n.count:1 
 1 བསྐེམ་ v.fut:1 
-1 བསྐོར་བཞིག་ dunno:1 
+1 བསྐོར་བཞིག་ n.count:1 
 1 བསྐོས v.past:1 
 1 བསྐྱ་བ་ n.v.fut:1 
 1 བསྐྱང་ v.fut:1 
@@ -10719,20 +10692,17 @@
 1 བསྐྲད་པ n.v.fut.n.v.past:1 
 1 བསྐྲུན་ v.fut.v.past:1 
 1 བསྐྲུན་པ n.v.past:1 
-1 བསྒུགས་ v.imp:1 
+1 བསྒུགས་ v.ipv:1 
 1 བསྒོམ་དབྱངས་ n.count:1 
-1 བསྒོམ་བྱ་ n.v.fut:1 
-1 བསྒོམ་རྒྱུ་ n.v.fut:1 
 1 བསྒོམ་ལུང་ n.count:1 
 1 བསྒོམ་སྒྲུབ་ n.count:1 
 1 བསྒོས v.past:1 
 1 བསྒྱུར་པ n.v.past:1 
-1 བསྒྱུར་པ་ n.v.past:1 
+1 བསྒྱུར་པ་ n.v.fut.n.v.pres.gyur:1 
 1 བསྒྱུར་ཚུལ n.v.fut.n.v.past:1 
 1 བསྒྱུར་འཕྲོ་ n.count:1 
 1 བསྒྱེལ་ v.fut:1 
 1 བསྒྲག་ v.fut:1 
-1 བསྒྲལ་རྒྱུ་ n.v.fut.n.v.past:1 
 1 བསྒྲིགས v.past:1 
 1 བསྒྲིགས་པ་ n.v.past:1 
 1 བསྒྲིབ་ v.fut:1 
@@ -10761,7 +10731,7 @@
 1 བསྙལ་བ་ n.v.fut:1 
 1 བསྙིལ v.fut.v.past:1 
 1 བསྙུང་ v.invar:1 
-1 བསྙུང་ཚུལ་ n.v.fut:1 
+1 བསྙུང་ཚུལ་ n.v.fut.n.v.past:1 
 1 བསྙུངས་ v.past:1 
 1 བསྙུངས་པ n.v.past:1 
 1 བསྙུན་ v.fut.v.past:1 
@@ -10802,7 +10772,6 @@
 1 བསྟོད་སྨད་ n.count:1 
 1 བསྡད་བ n.v.fut.n.v.past:1 
 1 བསྡད་རིན་ n.count:1 
-1 བསྡད་རྒྱུ་ n.v.fut.n.v.past:1 
 1 བསྡིགས v.past:1 
 1 བསྡུ་དངོས་ n.count:1 
 1 བསྡུམ་མཁན་ n.v.fut:1 
@@ -10820,7 +10789,7 @@
 1 བསྡོས v.past:1 
 1 བསྡོས་པ་ n.v.past:1 
 1 བསྣད་ v.fut.v.past:1 
-1 བསྣན་པ་ n.v.past:1 
+1 བསྣན་པ་ n.v.fut.n.v.past:1 
 1 བསྣམ་ v.fut:1 
 1 བསྣུན་ v.fut.v.past:1 
 1 བསྩལ་བ n.v.fut:1 
@@ -10852,7 +10821,7 @@
 1 བསླབ་བཏུས n.prop:1 
 1 བསླབ་བྱ་ཚུལ་བཞིན་ n.count:1 
 1 བསླབ་བྱ་ལམ་ཡིག་ n.count:1 
-1 བསླབ་ཚུལ་ n.v.fut:1 
+1 བསླབ་ཚུལ་ n.v.pres:1 
 1 བསླབས་ཚུལ་ n.v.past:1 
 1 བསླུ་ v.fut:1 
 1 བསླུ་ཁྲིད་ n.count:1 
@@ -11007,7 +10976,7 @@
 1 བྱང་སེམས་ཚོགས་ n.count:1 
 1 བྱང་སྒོ n.count:1 
 1 བྱང་སྦྲ་ཁྱིམ་པ་ n.count:1 
-1 བྱམས་པ་ཅན་ adj:1 
+1 བྱམས་པ་ཅན་ n.count:1 
 1 བྱམས་པ་སེང་གེ་སྒྲ n.prop:1 
 1 བྱམས་པོ་ adj:1 
 1 བྱམས་སྙིང་རྗེ་ n.count:1 
@@ -11018,8 +10987,8 @@
 1 བྱི་པོ n.count:1 
 1 བྱི་བྲུན་ n.count:1 
 1 བྱིང་རྨུགས་ n.count:1 
-1 བྱིང་ལིང་གར་ལི n.count:1 
-1 བྱིང་ལིང་གར་ལི་ n.count:1 
+1 བྱིང་ལིང་གར་ལི n.prop:1 
+1 བྱིང་ལིང་གར་ལི་ n.prop:1 
 1 བྱིངས་ཉེ་བསྒྱུར་ n.count:1 
 1 བྱིངས་པོ་ n.count:1 
 1 བྱིན་བརླབས་ཅན་ adj:1 
@@ -11031,7 +11000,7 @@
 1 བྱིན་རླབས་སམ་རྣམ་ n.count:1 
 1 བྱིན་རླུབས་ n.count:1 
 1 བྱིའུ་ n.count:1 
-1 བྱིས dunno:1 
+1 བྱིས n.count:1 
 1 བྱིས་པ་གདོན་ལུས་ n.count:1 
 1 བྱིས་པ་གསོད་ n.prop:1 
 1 བྱིས་པ་དབང་པོ་ n.count:1 
@@ -11040,7 +11009,7 @@
 1 བྱུག་པ་ n.v.fut.n.v.pres:1 
 1 བྱུགས v.past:1 
 1 བྱུགས་པ n.v.past:1 
-1 བྱུང་ཚུལ n.v.past:1 
+1 བྱུང་ཚུལ n.v.past.byung:1 
 1 བྱེ་བྲག་བཤད་མཚོ་ n.prop:1 
 1 བྱེ་བྲག་བཤད་མཛོད་ n.prop:1 
 1 བྱེ་བྲག་སྨྲ་པ་ n.count:1 
@@ -11050,8 +11019,8 @@
 1 བྱེད་པོ་ n.v.pres:1 
 1 བྱེད་བ n.v.pres:1 
 1 བྱེད་བ་ n.v.pres:1 
-1 བྱེད་མི་ n.v.pres:1 
-1 བྱེད་ཚུལ་ n.v.pres:1 
+1 བྱེད་མི་ n.v.pres.byed:1 
+1 བྱེད་ཚུལ་ n.v.pres.byed:1 
 1 བྱེད་ལས་ n.count:1 
 1 བྱེད་ལས་ཁམས་ n.count:1 
 1 བྱེད་སྤྱོད་ n.count:1 
@@ -11061,7 +11030,7 @@
 1 བྱེར་བ་ n.v.fut.n.v.pres:1 
 1 བྱེས་ v.pres:1 
 1 བྱོན་བ n.v.fut:1 
-1 བྱོན་ཚུལ n.v.fut.n.v.past:1 
+1 བྱོན་ཚུལ n.v.past:1 
 1 བྱོལ་སོང་ n.count:1 
 1 བྲ་མ n.count:1 
 1 བྲག n.count:1 
@@ -11123,7 +11092,7 @@
 1 བྲོན་པ་ n.v.past:1 
 1 བྲོལ v.invar:1 
 1 བླ་གབ་ n.count:1 
-1 བླ་གཡེ dunno:1 
+1 བླ་གཡེ n.count:1 
 1 བླ་གོས་ n.count:1 
 1 བླ་ཆེན་ n.prop:1 
 1 བླ་དགོངས་པ་གསལ n.prop:1 
@@ -11167,11 +11136,11 @@
 1 བློ་ངན་ n.count:1 
 1 བློ་ཅན་ n.count:1 
 1 བློ་ཆུང་ n.count:1 
-1 བློ་ཐུབ་ dunno:1 
+1 བློ་ཐུབ་ adj:1 
 1 བློ་དབང་པོ་ n.count:1 
 1 བློ་དམན་ n.count:1 
 1 བློ་བཟང་སྐྱོ་བ་མེད་ལྡན་བརྩེ་བ་ཅན n.count:1 
-1 བློ་བུ adv.temp:1 
+1 བློ་བུ n.temp:1 
 1 བློ་མཐའ་ཡས་ n.prop:1 
 1 བློ་མུན་ n.count:1 
 1 བློ་ལྡན་བསྟན་པ་ n.count:1 
@@ -11204,7 +11173,7 @@
 1 མ་ཇོ n.count:1 
 1 མ་ཏི་ n.prop:1 
 1 མ་ཏི་ཙི་ཏྲ་ n.prop:1 
-1 མ་ཐོག་ dunno:1 
+1 མ་ཐོག་ n.count:1 
 1 མ་དག་གདུལ་བྱ n.count:1 
 1 མ་དགོན་ n.count:1 
 1 མ་དད་ n.count:1 
@@ -11219,7 +11188,7 @@
 1 མ་བྱིན་ལེན་ n.count:1 
 1 མ་མོ་ཇག་ཆིངས་ n.count:1 
 1 མ་མོ་ད་ཀཱ་སིཉྩ skt:1 
-1 མ་ཙ་ལ dunno:1 
+1 མ་ཙ་ལ n.count:1 
 1 མ་ཞང་ n.prop:1 
 1 མ་ཞང་གྲོམ་པ་སྐྱེས་ n.prop:1 
 1 མ་ཟད་མ་མ་ n.prop:1 
@@ -11296,13 +11265,13 @@
 1 མཁས་མཆོག་ n.count:1 
 1 མཁོན་ཀླུ n.count:1 
 1 མཁྱེན་ཐུགས་རྗེ n.count:1 
-1 མཁྱེན་བརྩེ་ཅན་ adj:1 
+1 མཁྱེན་བརྩེ་ཅན་ n.count:1 
 1 མགར་བ n.count:1 
 1 མགར་བ་ n.count:1 
 1 མགུ་བ་ n.v.invar:1 
 1 མགུར་དུང་ n.count:1 
 1 མགུར་འབུམ་ n.prop:1 
-1 མགོ་ཅན་ adj:1 
+1 མགོ་ཅན་ n.count:1 
 1 མགོ་པོ་ n.count:1 
 1 མགོ་བ་ཡེ་ཤེས་གཡུང་དྲུང་ n.prop:1 
 1 མགོ་མཁྲེགས adj:1 
@@ -11320,7 +11289,7 @@
 1 མགྱོགས་པོ་ adj:1 
 1 མགྲིན་པ n.count:1 
 1 མགྲིན་པ་ n.count:1 
-1 མགྲོང་ཁ་ dunno:1 
+1 མགྲོང་ཁ་ n.count:1 
 1 མགྲོན་ཆང་ n.count:1 
 1 མང་ཉུང་ n.count:1 
 1 མང་ཐོས་ཚུལ་ n.count:1 
@@ -11423,7 +11392,7 @@
 1 མཇེད་པ n.v.fut.n.v.pres:1 
 1 མཇོ་ཡུ་ n.count:1 
 1 མཇོད་ n.count:1 
-1 མཉན་ཚུལ་ n.v.fut.n.v.past:1 
+1 མཉན་ཚུལ་ n.v.invar:1 
 1 མཉམ v.invar:1 
 1 མཉམ་ཉིད n.count:1 
 1 མཉམ་ཉིད་ཡེ་ཤེས་ n.count:1 
@@ -11432,7 +11401,7 @@
 1 མཉམ་བཞག་འཕྲོ་རྒོད་ n.count:1 
 1 མཉམ་མེད་དྭགས་པོ་ལྷ་རྗེ་ n.prop:1 
 1 མཉམ་མེད་བླ་མ་རྗེ་ n.count:1 
-1 མཉས་པ་ dunno:1 
+1 མཉས་པ་ n.count:1 
 1 མཉེ་བ་ n.v.fut:1 
 1 མཉྫུ་གྷོ་ཥ་ n.prop:1 
 1 མཉྫུ་ཤྲཱི་ཝརྨྨ་ n.prop:1 
@@ -11459,7 +11428,7 @@
 1 མཐུ་ཆེན་ཐོབ་ n.prop:1 
 1 མཐུ་བ་ n.v.invar:1 
 1 མཐུག་པ n.v.past.n.v.pres:1 
-1 མཐུང་ dunno:1 
+1 མཐུང་ n.count:1 
 1 མཐུད་ v.invar:1 
 1 མཐུད་པ n.v.invar:1 
 1 མཐུད་མ་ n.count:1 
@@ -11473,13 +11442,11 @@
 1 མཐེབ་ n.count:1 
 1 མཐེའུ་ཆུང་ n.count:1 
 1 མཐོ་གང་ n.count:1 
-1 མཐོ་ཇེ་ dunno:1 
 1 མཐོ་བཙན་ལེགས་ adj:1 
 1 མཐོ་བཙུན་གྲུབ་རྗེ་ n.prop:1 
 1 མཐོ་རིས་ཟེ་འབྲུ n.count:1 
 1 མཐོ་ས n.count:1 
-1 མཐོང་ཆ་འཇོགས་ dunno:1 
-1 མཐོང་ཆེ་ dunno:1 
+1 མཐོང་ཆ་འཇོགས་ n.count:1 
 1 མཐོང་ཐོས་ n.count:1 
 1 མཐོང་ཐོས་མྱོང་བ n.count:1 
 1 མཐོང་དཀ n.count:1 
@@ -11495,7 +11462,7 @@
 1 མཐོན་པོ adj:1 
 1 མཐོལ་ v.fut.v.pres:1 
 1 མཐོལ་ཚངས་ n.count:1 
-1 མཐོས་ dunno:1 
+1 མཐོས་ n.count:1 
 1 མདང་སང་ adv.temp:1 
 1 མདང་སུམ་ adv.temp:1 
 1 མདངས་འཕྲོག་ n.count:1 
@@ -11503,7 +11470,7 @@
 1 མདའ་གྲོང་ n.prop:1 
 1 མདའ་མཚོན་ n.count:1 
 1 མདའ་རྒྱང་ n.count:1 
-1 མདའ་རྩེ་ dunno:1 
+1 མདའ་རྩེ་ n.count:1 
 1 མདའ་ལྟོང་ n.count:1 
 1 མདའི་ཁྲོན་པ་ n.prop:1 
 1 མདུང་ཁྱིམ་ n.count:1 
@@ -11614,9 +11581,9 @@
 1 མཚོན་བྱ་དོན་ n.count:1 
 1 མཚོན་བྱེད་དཔེ n.count:1 
 1 མཛངས་བླུན་ n.count:1 
-1 མཛད་ཉི་མ་ dunno:1 
-1 མཛད་ཚུལ n.v.invar:1 
-1 མཛད་ཚུལ་ n.v.invar:1 
+1 མཛད་ཉི་མ་ n.prop:1 
+1 མཛད་ཚུལ n.v.invar.mdzad:1 
+1 མཛད་ཚུལ་ n.v.invar.mdzad:1 
 1 མཛད་འཕྲིན་ n.count:1 
 1 མཛད་འོད་གསལ་ཆོས་སྐུ་ n.count:1 
 1 མཛད་ལུགས་ n.v.invar:1 
@@ -11657,7 +11624,7 @@
 1 མལ་གྱོ་བློ་གྲོས་གྲགས་པ n.prop:1 
 1 མལ་ཆ་ཆོས་གོས་ n.count:1 
 1 མལ་དྲོའི་ཕུར་ n.prop:1 
-1 མས་ dunno:1 
+1 མས་ n.count:1 
 1 མཧཱ་ཡ་ན n.prop:1 
 1 མཱ་ར་ཛི་ཏི skt:1 
 1 མི་ཁ་ n.count:1 
@@ -11760,8 +11727,6 @@
 1 མུ་རུན་ད n.prop:1 
 1 མུ་ལྟོ་བ n.count:1 
 1 མུ་ཤངས་ n.prop:1 
-1 མུ་ས་ dunno:1 
-1 མུ་ས་ར་གལ་བ་ n.count:1 
 1 མུ་སྟེ་ n.count:1 
 1 མུ་སྟེགས་ཅན་གཏམ་ n.count:1 
 1 མུ་སྟེགས་ཅན་བློ་གྲོས་ n.count:1 
@@ -11803,7 +11768,7 @@
 1 མེ་ཤེལ་ n.count:1 
 1 མེ་སྒོམ་རས་པ་ n.prop:1 
 1 མེ་སྟོན་ཚོན་པོ་ n.prop:1 
-1 མེད་ས་ n.v.neg:1 
+1 མེད་ས་ n.v.invar.med:1 
 1 མེར་མེར་ n.count:1 
 1 མེས་པ་ n.count:1 
 1 མེས་པོ n.count:1 
@@ -11819,10 +11784,10 @@
 1 མོ་གལ་བ n.prop:1 
 1 མོ་བོན་རྩིས་ n.count:1 
 1 མོ་འདྲེ་ n.count:1 
+1 མོག་ n.count:1 
 1 མོག་མོག་པོ n.count:1 
-1 མོག་རྒྱུ་ dunno:1 
 1 མོད་གལ་ཡ་ན n.prop:1 
-1 མོད་པ n.v.invar:1 
+1 མོད་པ n.v.invar.mod:1 
 1 མོན་གྲ་ n.prop:1 
 1 མོན་བོད་ n.prop:1 
 1 མོན་ཡུལ་བུམ་ཐང་སྤ་གྲོ་སྐྱེར་ཆུ་ n.prop:1 
@@ -11835,24 +11800,24 @@
 1 མོས་སྤྱོད་ n.count:1 
 1 མོས་སྤྱོད་པ n.count:1 
 1 མཽད་ག་ལ་ཡན་ n.prop:1 
-1 མཾ་ cv.ques:1 
+1 མཾ་ case.ques:1 
 1 མཾ་ག་ལ་ཤྲཱི་ n.prop:1 
 1 མྱ་ངན་མུན་ n.count:1 
 1 མྱ་ངན་མེད་བྲལ་ n.prop:1 
 1 མྱ་འདས་ n.count:1 
 1 མྱགས་པ་ n.v.invar:1 
-1 མྱང་བ n.v.fut:1 
-1 མྱངས་ v.past:1 
+1 མྱང་བ n.v.fut.myong1:1 
+1 མྱངས་ v.past.myong1:1 
 1 མྱུར་པོ adj:1 
 1 མྱུར་ལམ་ n.count:1 
 1 མྱོང་ཐབས་ n.v.invar:1 
 1 མྱོང་འགྱུར་ n.count:1 
 1 མྲད་ v.invar:1 
-1 ཙ n.rel:1 
+1 ཙ n.count:1 
 1 ཙ་ན་ཀ་ n.prop:1 
 1 ཙ་བ་ལི n.prop:1 
 1 ཙང་ལེགས་གྲུབ་ n.prop:1 
-1 ཙན dunno:1 
+1 ཙན d.tsam:1 
 1 ཙན་དན་ལ n.prop:1 
 1 ཙན་དན་སྐྱོང་ n.prop:1 
 1 ཙན་དན་སྤྲུལ་གྱི་སྙིང་པོ n.prop:1 
@@ -11873,7 +11838,7 @@
 1 ཙེན་མུན་ n.count:1 
 1 ཙོ་ལ་ n.prop:1 
 1 ཙོག་བུ n.count:1 
-1 ཙོང་ dunno:1 
+1 ཙོང་ n.count:1 
 1 ཙོང་ཁ་མི་ཉག་རྩ་མི་སངས་རྒྱས་གྲགས་ n.prop:1 
 1 ཚ་གྲང་ n.count:1 
 1 ཚ་ངོ n.count:1 
@@ -11886,7 +11851,6 @@
 1 ཚ་ཟེར་ n.count:1 
 1 ཚ་འོ་ n.count:1 
 1 ཚ་ཡ་ n.count:1 
-1 ཚ་རྒྱུ་ n.v.fut:1 
 1 ཚགས་སྡང་ n.count:1 
 1 ཚང་གདན་ n.count:1 
 1 ཚང་གནས་ n.count:1 
@@ -12040,13 +12004,12 @@
 1 ཞན v.invar:1 
 1 ཞན་པ n.v.pres:1 
 1 ཞན་པོ་ adj:1 
-1 ཞན་རྒྱུ་ n.v.invar:1 
 1 ཞབས n.count:1 
-1 ཞབས་ཏོག་ཅན་ adj:1 
+1 ཞབས་ཏོག་ཅན་ n.count:1 
 1 ཞབས་ཕྱག་ n.count:1 
 1 ཞབས་མཐེ་ n.count:1 
 1 ཞབས་རྡོ n.count:1 
-1 ཞམ་ dunno:1 
+1 ཞམ་ n.count:1 
 1 ཞར་བ་ n.v.fut.n.v.pres:1 
 1 ཞར་མ་ adj:1 
 1 ཞལ་ངོ་ n.count:1 
@@ -12063,7 +12026,7 @@
 1 ཞལ་མངོན་སུམ་ n.count:1 
 1 ཞལ་འཛུམ་ནག་རོག་གེ་བ་ adj:1 
 1 ཞལ་འཛུམ་བག་ n.count:1 
-1 ཞལ་ལྐོ་ dunno:1 
+1 ཞལ་ལྐོ་ n.prop:1 
 1 ཞལ་ལྕེ n.count:1 
 1 ཞལ་ལྟ་ n.count:1 
 1 ཞལ་ལྟག་པ n.count:1 
@@ -12074,7 +12037,7 @@
 1 ཞི་དུལ་ adj:1 
 1 ཞི་དུལ་ཅན adj:1 
 1 ཞི་དུལ་ཅན་ adj:1 
-1 ཞི་བ་བཟང་པོ་ n.prop:1 
+1 ཞི་བ་བཟང་པོ་ཅན་ n.prop:1 
 1 ཞི་བ་འཚོ་ n.prop:1 
 1 ཞི་བ་འཚོའི་ཚད་མ་ n.prop:1 
 1 ཞི་བ་འོད n.prop:1 
@@ -12102,13 +12065,15 @@
 1 ཞུ་བ་པོ་ n.count:1 
 1 ཞུ་ཚོ་ n.prop:1 
 1 ཞུ་འབུལ་ n.count:1 
+1 ཞུ་རྒྱུ་ v.fut.v.pres:1 
+1 ཞུགས་པའ་ n.v.past:1 
 1 ཞུགས་འབྲས་ཆོས་ n.count:1 
 1 ཞུམ་ v.past:1 
 1 ཞུམ་པ n.v.past:1 
 1 ཞུལ་ཞུལ་ n.count:1 
 1 ཞུས་དག n.count:1 
 1 ཞེ་གཅོད་པ n.count:1 
-1 ཞེ་གདེངས་ dunno:1 
+1 ཞེ་གདེངས་ n.count:1 
 1 ཞེ་འགྲས་པ་ n.count:1 
 1 ཞེ་ལྡང་ n.count:1 
 1 ཞེ་ས་ n.count:1 
@@ -12122,8 +12087,8 @@
 1 ཞོ་གདོང་ n.prop:1 
 1 ཞོ་བྲེ་ n.count:1 
 1 ཞོ་ཤ་ n.count:1 
-1 ཞོགས v.imp:1 
-1 ཞོལ་ལེ་ dunno:1 
+1 ཞོགས v.ipv:1 
+1 ཞོལ་ལེ་ n.count:1 
 1 ཞྭ་ n.count:1 
 1 ཞྭ་འོབ་ n.count:1 
 1 ཟ་ཅིག་པ n.count:1 
@@ -12134,7 +12099,7 @@
 1 ཟ་འདོད་ n.count:1 
 1 ཟ་འོག་ n.mass:1 
 1 ཟ་འོག་ཕུག n.prop:1 
-1 ཟ་རྒྱུ་ n.v.fut:1 
+1 ཟ་རྒྱུ་ v.invar:1 
 1 ཟག་བཅས་ཀུན་རྫོབ་ n.count:1 
 1 ཟག་བཅས་ཟག་མེད་ adj:1 
 1 ཟག་བཅས་ཡིད་ n.count:1 
@@ -12154,7 +12119,7 @@
 1 ཟངས་ཕུག་ n.prop:1 
 1 ཟད་བ n.v.past:1 
 1 ཟད་མེད་ adj:1 
-1 ཟབ་ཁྱད་ཅན་ adj:1 
+1 ཟབ་ཁྱད་ཅན་ n.count:1 
 1 ཟབ་ཁྱད་ཐོན་པ་ adj:1 
 1 ཟབ་དགུ་ n.v.pres:1 
 1 ཟབ་དོན་ n.count:1 
@@ -12183,7 +12148,7 @@
 1 ཟུགས་ v.past:1 
 1 ཟུང་འཇུག་མཉམ་ཉིད་རོལ་པ n.count:1 
 1 ཟུང་འཇུག་རིག་པ་ n.count:1 
-1 ཟུངས v.imp:1 
+1 ཟུངས v.ipv:1 
 1 ཟུར་པ་ adj:1 
 1 ཟེ་འབྲུ་ n.count:1 
 1 ཟེའུ་འབྲུ་ n.count:1 
@@ -12192,13 +12157,12 @@
 1 ཟེར་ཟེར་ n.count:1 
 1 ཟེར་ལུགས་ n.v.invar:1 
 1 ཟེར་ས་ n.v.invar:1 
-1 ཟོ v.imp:1 
+1 ཟོ v.ipv:1 
 1 ཟོ་བ་ n.count:1 
 1 ཟོག་པོ་ n.count:1 
 1 ཟོད་པ་ n.v.invar:1 
 1 ཟོལ་མེད་གུས་པ n.count:1 
 1 ཟོས v.past:1 
-1 ཟོས་རྒྱུ་ n.v.fut:1 
 1 ཟླ་གམ་ adj:1 
 1 ཟླ་གྲོགས་ n.count:1 
 1 ཟླ་ཕྱེད་ n.count:1 
@@ -12238,7 +12202,6 @@
 1 འཁངས་པ n.v.past:1 
 1 འཁར་ v.invar:1 
 1 འཁར་སྟབས་ n.count:1 
-1 འཁརོ་ལོ n.count:1 
 1 འཁུ་ v.invar:1 
 1 འཁུགས་ v.pres:1 
 1 འཁུར་ v.fut.v.pres:1 
@@ -12258,7 +12221,7 @@
 1 འཁོར་བཅས་ལྷ n.count:1 
 1 འཁོར་མཁན་ n.v.invar:1 
 1 འཁོར་མང་ n.count:1 
-1 འཁོར་འཕྲལ་ dunno:1 
+1 འཁོར་འཕྲལ་ n.count:1 
 1 འཁོར་རེ n.prop:1 
 1 འཁོར་རེ་བ་འཁོར་ n.prop:1 
 1 འཁོར་རེ་སྐྱི་སྒང་ n.prop:1 
@@ -12272,7 +12235,7 @@
 1 འཁོར་ལོ་ལན་ n.count:1 
 1 འཁོར་ལོ་ལྡན་ n.count:1 
 1 འཁོར་ལོ་སྡོམ་པ n.prop:1 
-1 འཁོར་ལོས་སྒྱུར་དང་ n.count:1 
+1 འཁོར་ལོས་སྒྱུར་ n.count:1 
 1 འཁོར་ལོས་སྒྱུར་རྒྱལ་རིན་ཆེན་ n.count:1 
 1 འཁོར་སྐྱོང་གི་བར་ n.prop:1 
 1 འཁོས་ཀ་ n.count:1 
@@ -12307,7 +12270,7 @@
 1 འཁྲུང་ v.fut.v.pres:1 
 1 འཁྲུང་པ n.v.fut.n.v.pres:1 
 1 འཁྲུངས་བ n.v.past.n.v.pres:1 
-1 འཁྲུངས་ཚུལ n.v.past:1 
+1 འཁྲུངས་ཚུལ n.v.past.n.v.pres:1 
 1 འཁྲུངས་ཚུལ་ n.v.past:1 
 1 འཁྲུད་པ་ n.v.pres:1 
 1 འཁྲུལ་བ་ཟློག་པའི་གཏན་ཚིགས་གྲུབ་པ n.prop:1 
@@ -12322,7 +12285,6 @@
 1 འགམ་ v.fut.v.pres:1 
 1 འགའ་ཇི་ར་ n.count:1 
 1 འགའ་རྗི་ར་ n.count:1 
-1 འགའ་རྫི་ར་ dunno:1 
 1 འགར་ཆོས་བཟངས་ n.prop:1 
 1 འགལ་པ n.v.past.n.v.pres:1 
 1 འགལ་ཟློས་ n.count:1 
@@ -12342,7 +12304,7 @@
 1 འགེངས v.pres:1 
 1 འགེབས་པ་ n.v.pres:1 
 1 འགེབས་བ་ n.v.pres:1 
-1 འགེམས v.imp:1 
+1 འགེམས v.ipv:1 
 1 འགེམས་ n.count:1 
 1 འགེལ v.pres:1 
 1 འགེལ་བ n.v.pres:1 
@@ -12362,7 +12324,7 @@
 1 འགྱིང་བ n.v.invar:1 
 1 འགྱུ་བ n.v.fut.n.v.pres:1 
 1 འགྱུར་ཁྱད་ n.count:1 
-1 འགྱུར་པ་ n.v.pres:1 
+1 འགྱུར་པ་ n.v.fut.n.v.pres.gyur:1 
 1 འགྱུར་མཇུག་ n.count:1 
 1 འགྱུར་མེད་ཆོས་སྐུ་ n.count:1 
 1 འགྱུར་མེད་རིག་པ་ n.count:1 
@@ -12370,12 +12332,11 @@
 1 འགྱེད་པ n.v.invar:1 
 1 འགྱེད་ལུགས་ n.v.invar:1 
 1 འགྱེལ v.invar:1 
-1 འགྱེལ་བ n.v.fut.n.v.pres:1 
+1 འགྱེལ་བ n.v.invar:1 
 1 འགྱེས་ v.invar:1 
 1 འགྱེས་པ n.v.invar:1 
 1 འགྱོགས་པ n.count:1 
 1 འགྱོད་མེད་ adj:1 
-1 འགྱོད་རྒྱུ་ n.v.fut:1 
 1 འགྲགས་པ n.v.pres:1 
 1 འགྲན་འདོད་ཕྲག་དོག་སྡང་སེམས་ n.count:1 
 1 འགྲབ v.invar:1 
@@ -12531,7 +12492,7 @@
 1 འཐབ་ཟླ་ n.count:1 
 1 འཐིགས v.past.v.pres:1 
 1 འཐིམ་སྦྱོར་ n.count:1 
-1 འཐིལ་ n.rel:1 
+1 འཐིལ་ n.count:1 
 1 འཐུ་ v.fut.v.pres:1 
 1 འཐུག་པོ adj:1 
 1 འཐུང་ས n.v.pres:1 
@@ -12560,7 +12521,7 @@
 1 འདན་ཀློང་ཐང་ n.prop:1 
 1 འདན་གློང་ཐང་སྒྲོལ་མ n.prop:1 
 1 འདན་མ n.prop:1 
-1 འདབ་ dunno:1 
+1 འདབ་ n.count:1 
 1 འདབ་མ n.count:1 
 1 འདབ་སྟོང་ adj:1 
 1 འདར་བྱེད་ཀྱི་གླིང་ན་ཀྱེ་རྡོ་རྗེ་ n.prop:1 
@@ -12574,8 +12535,8 @@
 1 འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་ n.count:1 
 1 འདུ་ཤེས་མེད་འདུ་ཤེས་མེད་མིན་སྐྱེ་མཆེད་ n.count:1 
 1 འདུག་བ n.v.invar:1 
-1 འདུག་ཚུལ་ n.v.invar:1 
-1 འདུག་ས n.v.invar:1 
+1 འདུག་ཚུལ་ n.v.invar.dug:1 
+1 འདུག་ས n.v.invar.dug:1 
 1 འདུད་པ n.v.fut.n.v.pres:1 
 1 འདུན་ཐག་ n.count:1 
 1 འདུན་བ n.v.fut.n.v.pres:1 
@@ -12602,7 +12563,7 @@
 1 འདེགས་པ n.v.pres:1 
 1 འདེད v.fut.v.pres:1 
 1 འདེད་པ n.v.fut.n.v.pres:1 
-1 འདེབས་མཁན་ n.v.pres:1 
+1 འདེབས་མཁན་ n.v.fut.n.v.pres:1 
 1 འདོ v.pres:1 
 1 འདོ་ v.pres:1 
 1 འདོ་ལེ་ n.count:1 
@@ -12619,7 +12580,7 @@
 1 འདོད་འགྱུར་འཇིག་རྟེན་ n.count:1 
 1 འདོན v.pres:1 
 1 འདོམ་སྲེ་ n.count:1 
-1 འདོམས v.imp:1 
+1 འདོམས v.ipv:1 
 1 འདོམས་པ་ n.v.past.n.v.pres:1 
 1 འདོར་བ n.v.fut.n.v.pres:1 
 1 འདྲན v.invar:1 
@@ -12661,8 +12622,6 @@
 1 འཕུར་གྲབས་ n.v.invar:1 
 1 འཕེལ་པོ་ adj:1 
 1 འཕེལ་འགྱུར་བ་ལྟ་ལན་ n.count:1 
-1 འཕོ་བྱ་ n.v.fut:1 
-1 འཕོ་བྱེད་ n.v.pres:1 
 1 འཕོ་མེད་ adj:1 
 1 འཕོ་འགྱུར་ n.count:1 
 1 འཕོག་པ་ n.v.fut.n.v.pres:1 
@@ -12680,18 +12639,17 @@
 1 འཕྲང་རིངས་ n.count:1 
 1 འཕྲང་ས་ n.count:1 
 1 འཕྲད་པ n.v.invar:1 
-1 འཕྲལ་ཆས་ adv.temp:1 
+1 འཕྲལ་ཆས་ n.temp:1 
 1 འཕྲལ་ཡུན་ adv.temp:1 
 1 འཕྲལ་སྐད་བརྡ་འཕྲོད་ n.count:1 
 1 འཕྲས་ v.past:1 
 1 འཕྲིགས་ v.past.v.pres:1 
 1 འཕྲིན་པ n.count:1 
-1 འཕྲིན་བསྣན་ dunno:1 
 1 འཕྲུལ་འཁོར་གནད་ n.count:1 
 1 འཕྲོ་པ་ n.v.fut.n.v.pres:1 
 1 འཕྲོག་པ་ n.v.fut.n.v.pres:1 
 1 འཕྲོག་མ n.prop:1 
-1 འཕྲོགས་པ n.v.imp:1 
+1 འཕྲོགས་པ n.v.ipv:1 
 1 འཕྲོད v.invar:1 
 1 འཕྲོད་པ n.v.invar:1 
 1 འབག v.fut.v.pres:1 
@@ -12706,7 +12664,7 @@
 1 འབབ་གཞོལ་ n.count:1 
 1 འབབ་གཞོལ་བ་ n.count:1 
 1 འབབ་ཆུ་ n.count:1 
-1 འབབ་ས་ n.v.fut:1 
+1 འབབ་ས་ n.v.invar:1 
 1 འབབས v.past:1 
 1 འབའ་ཁྲི་བཞེར n.prop:1 
 1 འབར་བའི་ཕུག་ n.prop:1 
@@ -12721,7 +12679,6 @@
 1 འབུར་ཚད་ n.v.invar:1 
 1 འབུལ་ཆེན་ n.count:1 
 1 འབུལ་བ་ཅན་ adj:1 
-1 འབུལ་རྒྱུ་ n.v.pres:1 
 1 འབུལ་ལུགས n.v.pres:1 
 1 འབུས་ v.invar:1 
 1 འབུཾ་ཕྲག་གསུམ་པ་ n.prop:1 
@@ -12731,7 +12688,7 @@
 1 འབེལ་བ་ n.v.fut.n.v.pres:1 
 1 འབོག་པ n.v.invar:1 
 1 འབོགས་ v.past.v.pres:1 
-1 འབོལ་ v.imp:1 
+1 འབོལ་ v.ipv:1 
 1 འབོལ་གཉིས་རྩེག་གྲུམ་སེ་ n.count:1 
 1 འབོལ་ལེ་བ་ adj:1 
 1 འབྱང་བ་ n.v.fut.n.v.pres:1 
@@ -12740,12 +12697,11 @@
 1 འབྱིང་རྡུལ n.count:1 
 1 འབྱིང་རྡུལ་ n.count:1 
 1 འབྱུག་བ n.v.fut.n.v.pres:1 
-1 འབྱུང་གནས་གསུང་རབ་ n.count:1 
 1 འབྱུང་པ n.v.fut.n.v.pres:1 
 1 འབྱུང་པོ་ n.count:1 
 1 འབྱུང་བ་རོ་སྙོམས་ n.count:1 
 1 འབྱུང་འགྱུར་ངེས་ n.count:1 
-1 འབྱུང་ས་ n.v.fut.n.v.pres:1 
+1 འབྱུང་ས་ n.v.fut.n.v.pres.byung:1 
 1 འབྱོན v.fut.v.pres:1 
 1 འབྱོན་ཚུལ n.v.fut.n.v.pres:1 
 1 འབྱོན་ལུགས་ n.v.fut.n.v.pres:1 
@@ -12793,7 +12749,7 @@
 1 འབྲུ་མར་འཚག་པ n.count:1 
 1 འབྲུ་ཚུགས་ adj:1 
 1 འབྲུ་སྣ་ n.count:1 
-1 འབྲུག་པ་ dunno:1 
+1 འབྲུག་པ་ n.count:1 
 1 འབྲུག་ལོ་པ n.count:1 
 1 འབྲུག་སྒྲ་ n.count:1 
 1 འབྲུང་ཀུན་དགའ་ར་བ་ n.prop:1 
@@ -12823,9 +12779,9 @@
 1 འཚངས་ v.past.v.pres:1 
 1 འཚངས་པ n.v.past.n.v.pres:1 
 1 འཚམས་པ n.v.past:1 
-1 འཚལ་མཁན་ n.v.invar:1 
+1 འཚལ་མཁན་ n.v.invar.tshal2:1 
 1 འཚིག་པ་ n.v.fut.n.v.pres:1 
-1 འཚིངས་ dunno:1 
+1 འཚིངས་ v.invar:1 
 1 འཚོ་ཆས་ n.count:1 
 1 འཚོ་བ་པ n.count:1 
 1 འཚོ་བ་རྟ་ n.count:1 
@@ -12867,9 +12823,9 @@
 1 འཛེག v.fut.v.pres:1 
 1 འཛེགས v.past:1 
 1 འཛེགས་པ n.v.past:1 
-1 འཛེམ v.fut.v.pres:1 
+1 འཛེམ v.invar:1 
 1 འཛེམ་པ n.v.fut.n.v.pres:1 
-1 འཛེམ་མཁན་ n.v.fut.n.v.pres:1 
+1 འཛེམ་མཁན་ n.v.invar:1 
 1 འཛེར་པ་ n.v.past.n.v.pres:1 
 1 འཛོམ་པོ adj:1 
 1 འཛོམས v.past:1 
@@ -12890,14 +12846,13 @@
 1 འོ་བརྒྱལ་ n.count:1 
 1 འོ་མ་འཇོ་ n.count:1 
 1 འོ་ཡུག་མདའི་ར་ཤ་ n.prop:1 
-1 འོག n.rel:1 
-1 འོག་བ n.rel:1 
+1 འོག n.count:1 
+1 འོག་བ n.count:1 
 1 འོག་མ adj:1 
 1 འོག་མིན་གཙང་མ n.prop:1 
 1 འོག་རོལ་ n.rel:1 
 1 འོག་རྟ་ n.count:1 
 1 འོང་ཅོ་ n.prop:1 
-1 འོང་རྒྱུ་ n.v.fut.n.v.pres:1 
 1 འོད་གསལ་དབྱིངས་ n.count:1 
 1 འོད་གསལ་ཕུག n.prop:1 
 1 འོད་གསལ་མཁྱེན་བརྩེ་ n.count:1 
@@ -12913,7 +12868,6 @@
 1 འོད་ཟེར་ཁ་དོག་ n.count:1 
 1 འོད་ཟེར་གོ་ཆ n.prop:1 
 1 འོད་ཟེར་གོ་ཆ་ n.prop:1 
-1 འོད་ཟེར་ཅན adj:1 
 1 འོད་ཟེར་བྱེ་བ་བརྒྱ་ཕྲག་སྟོང་ལྡན་ adj:1 
 1 འོད་ཟེར་རྣམ་པ n.count:1 
 1 འོད་རྒྱུན་ n.count:1 
@@ -12930,9 +12884,8 @@
 1 འོམ་ཆུང་ n.prop:1 
 1 འོམ་ཕུག་ n.prop:1 
 1 འོར་ n.prop:1 
-1 འོལ་ལུ་ dunno:1 
+1 འོལ་ལུ་ n.count:1 
 1 འོས་པ་ n.v.invar:1 
-1 ཡ་གི་ d.dem:1 
 1 ཡ་གོང་ཡེ་ཤེས་གཡུང་དྲུང་ n.prop:1 
 1 ཡ་གྱལ་ adj:1 
 1 ཡ་ང་ n.count:1 
@@ -12946,7 +12899,7 @@
 1 ཡ་ཟི་བོན་སྟོན་ n.prop:1 
 1 ཡ་འཁལ་ n.count:1 
 1 ཡ་འབྲོག་སྟག་ལུང་པ་ n.prop:1 
-1 ཡ་རེ་ d.det:1 
+1 ཡ་རེ་ d.quant:1 
 1 ཡང cl.focus:1 
 1 ཡང་ཆེ་རབ་ adj:1 
 1 ཡང་དག་ཏིང་འཛིན་ n.count:1 
@@ -12993,7 +12946,7 @@
 1 ཡི་གེའི་མདོ་ n.prop:1 
 1 ཡི་དམ་ཆོས་སྐྱོང་སྲུང་མ་ n.count:1 
 1 ཡི་བུ་ n.count:1 
-1 ཡི་མུག་ཁོང་གཟེར་ dunno:1 
+1 ཡི་མུག་ཁོང་གཟེར་ n.count:1 
 1 ཡི་སྣོད་ n.count:1 
 1 ཡིག་ནག་ n.count:1 
 1 ཡིག་ཡི་གེ་ n.count:1 
@@ -13007,11 +12960,11 @@
 1 ཡིད་བཞིན་ནོར་བུ་ཉི་མ་ཀླུ n.count:1 
 1 ཡིད་བརྟན་ n.count:1 
 1 ཡིད་འཕྲོག་ adj:1 
-1 ཡིན་བ n.v.cop:1 
-1 ཡིབ་ v.imp:1 
+1 ཡིན་བ n.v.fut.n.v.pres.yin:1 
+1 ཡིབ་ v.ipv:1 
 1 ཡུག་པ n.v.invar:1 
-1 ཡུགས་ dunno:1 
-1 ཡུང་ dunno:1 
+1 ཡུགས་ v.ipv:1 
+1 ཡུང་ n.count:1 
 1 ཡུངས་འགུར་ n.prop:1 
 1 ཡུམ་ཆེན་ n.count:1 
 1 ཡུམ་བརྟན་ n.prop:1 
@@ -13035,7 +12988,7 @@
 1 ཡུལ་འཁོར་སྲུངས་ n.prop:1 
 1 ཡུལ་འབྲོག་ n.count:1 
 1 ཡུལ་རྐྱེན་ n.count:1 
-1 ཡུལ་རྨུགས་ dunno:1 
+1 ཡུལ་རྨུགས་ n.count:1 
 1 ཡུལ་ལྷ་ n.count:1 
 1 ཡུལ་ལྷོ་ཕྱོགས་ n.count:1 
 1 ཡུལ་སྤྲུལ་སྐུ་ n.count:1 
@@ -13078,10 +13031,11 @@
 1 ཡོ་བྱས་ n.count:1 
 1 ཡོ་ལང་ n.count:1 
 1 ཡོག་ v.fut.v.pres:1 
-1 ཡོག་ཚད་ dunno:1 
+1 ཡོག་ཚད་ n.count:1 
 1 ཡོགས་པ་ n.v.past:1 
 1 ཡོང་གྲབས་ n.v.fut.n.v.pres:1 
 1 ཡོང་ཐབས་ n.v.fut.n.v.pres:1 
+1 ཡོང་རྒྱུ་ v.invar.yong:1 
 1 ཡོང་ལུགས་ n.v.fut.n.v.pres:1 
 1 ཡོང་སྒོ་ n.count:1 
 1 ཡོངས་གྲུབ་ n.count:1 
@@ -13095,7 +13049,7 @@
 1 ཡོན་ཏན་ཁུར་ n.count:1 
 1 ཡོན་ཏན་གྱི་མངའ་བ n.prop:1 
 1 ཡོན་ཏན་ཅན་ adj:1 
-1 ཡོན་ཏན་དཔལ་ dunno:1 
+1 ཡོན་ཏན་དཔལ་ n.prop:1 
 1 ཡོན་ཏན་ཕུན་སུམ་ཚོགས་པ n.count:1 
 1 ཡོན་ཏན་བཞི་ཅན་ཚངས་སྤྱོད་ n.count:1 
 1 ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པ n.prop:1 
@@ -13108,7 +13062,7 @@
 1 ཡོན་ཏན་སངས་རྒྱས་ཕྲིན་ལས་ n.count:1 
 1 ཡོན་བདག n.count:1 
 1 ཡོན་བདག་མོ་ n.count:1 
-1 ཡོན་ཡེ་ dunno:1 
+1 ཡོན་ཡེ་ n.count:1 
 1 ཡོབ་ n.count:1 
 1 ཡོབ་ཆེན་ n.count:1 
 1 ཡོབ་བྱ་ n.count:1 
@@ -13120,7 +13074,6 @@
 1 ཡོལ་ལྕགས་རྡོ་རྗེ་དབང་ཕྱུག་ n.prop:1 
 1 ཡོས་དཀྲུགས་ n.count:1 
 1 ར་ཁྲི་བཟང་འབར n.prop:1 
-1 ར་གལ་བ་ dunno:1 
 1 ར་གྷ་པ་ n.prop:1 
 1 ར་ཏི་ n.count:1 
 1 ར་དྷར་ n.prop:1 
@@ -13143,7 +13096,7 @@
 1 རག་མ n.prop:1 
 1 རག་མ་བྱང་ཆུང་རྫོང་ n.prop:1 
 1 རག་ཚོ་ n.prop:1 
-1 རག་ལས་ dunno:1 
+1 རག་ལས་ n.count:1 
 1 རག་ཤི་ n.prop:1 
 1 རག་ཤི་ཚུལ་ཁྲིམས་འབྱུང་གནས n.prop:1 
 1 རག་ཤི་འཕྲང་འོག་ n.prop:1 
@@ -13153,7 +13106,7 @@
 1 རང་གྲོལ་ཡེ་ཤེས་ཉི་མ་ n.count:1 
 1 རང་ངོ་ n.count:1 
 1 རང་ཅག་ p.pers:1 
-1 རང་དབང་བ dunno:1 
+1 རང་དབང་བ n.count:1 
 1 རང་ནོར་ n.count:1 
 1 རང་པ་ n.count:1 
 1 རང་བ་ n.v.invar:1 
@@ -13245,6 +13198,8 @@
 1 རི་བྲགས་ n.count:1 
 1 རི་མགུལ་ n.count:1 
 1 རི་མུན་པ་ཅན་ n.prop:1 
+1 རི་རི་པ་ n.prop:1 
+1 རི་རི་པ་ཅན་ n.prop:1 
 1 རི་རི་བ་ n.prop:1 
 1 རི་རྒྱུད་ n.count:1 
 1 རི་རྩེ n.count:1 
@@ -13265,10 +13220,10 @@
 1 རིག་རིག་ adv.mim:1 
 1 རིག་སྟོན་ཚོགས་ n.count:1 
 1 རིགས་གཉིས་པ n.prop:1 
-1 རིགས་གཟུགས་དབང་ཕྱུག་ཤེས་རབ་ dunno:1 
+1 རིགས་གཟུགས་དབང་ཕྱུག་ཤེས་རབ་ n.prop:1 
 1 རིགས་ཅན་སེམས་ n.count:1 
 1 རིགས་ཆེ་ n.count:1 
-1 རིགས་ཐིགས་ dunno:1 
+1 རིགས་ཐིགས་ n.count:1 
 1 རིགས་པའི་རྒྱན་ n.prop:1 
 1 རིགས་བྲམ་ཟེ་ n.count:1 
 1 རིགས་བྲེ་བོ་ n.prop:1 
@@ -13345,7 +13300,7 @@
 1 རེག་བྱ་ n.count:1 
 1 རེག་མ་རེག་ n.count:1 
 1 རེམ་པོ་ adj:1 
-1 རེས་ཆོག་ dunno:1 
+1 རེས་ཆོག་ n.count:1 
 1 རོ་ཁ་བ་ n.count:1 
 1 རོ་གསོ་རས་ n.count:1 
 1 རོ་བ n.count:1 
@@ -13359,7 +13314,7 @@
 1 རོ་སྙོམས་ n.count:1 
 1 རོག v.invar:1 
 1 རོག་ n.prop:1 
-1 རོགས་ v.imp:1 
+1 རོགས་ v.ipv:1 
 1 རོང་གི་བ་དོ་ n.prop:1 
 1 རོང་ཆུང་རས་པ་ n.prop:1 
 1 རོང་པ n.prop:1 
@@ -13391,8 +13346,8 @@
 1 རྐོ་མོ n.count:1 
 1 རྐོམ་ཚུགས་ n.count:1 
 1 རྐོལ་བ་ n.v.pres:1 
-1 རྐོས v.imp:1 
-1 རྐོས་པ n.v.imp:1 
+1 རྐོས v.ipv:1 
+1 རྐོས་པ n.v.ipv:1 
 1 རྐྱ་ n.count:1 
 1 རྐྱ་པ་ n.count:1 
 1 རྐྱང་བ n.v.pres:1 
@@ -13413,7 +13368,7 @@
 1 རྒས་བ n.v.past:1 
 1 རྒས་བ་ n.v.past:1 
 1 རྒས་འཁོགས་ n.count:1 
-1 རྒུ་ v.imp:1 
+1 རྒུ་ v.ipv:1 
 1 རྒུད་པ n.v.invar:1 
 1 རྒུད་པ་ n.v.invar:1 
 1 རྒུད་པ་གསོ་བ་ n.prop:1 
@@ -13464,7 +13419,7 @@
 1 རྒྱང་ཚད་ n.count:1 
 1 རྒྱང་རིང་ adj:1 
 1 རྒྱང་རྒྱང་ adj:1 
-1 རྒྱངས v.imp:1 
+1 རྒྱངས v.ipv:1 
 1 རྒྱངས་ n.count:1 
 1 རྒྱད་བླ n.prop:1 
 1 རྒྱན་གོང་ n.prop:1 
@@ -13556,7 +13511,7 @@
 1 རྒྱུད་སྡེ་བཞི n.count:1 
 1 རྒྱུན་ཆགས་ n.count:1 
 1 རྒྱུན་དུ་ཞུགས་པའི་ལེའུ་ n.prop:1 
-1 རྒྱུས v.imp:1 
+1 རྒྱུས v.ipv:1 
 1 རྒྱུས་མེད་རིགས་ངན་གྲོང་ n.count:1 
 1 རྒྱུས་མེད་ལམ་ n.count:1 
 1 རྒྱུས་རྒྱལ་ n.prop:1 
@@ -13567,7 +13522,6 @@
 1 རྔ་གདང་རྒྱུག་དུད་པ་ལང་རྒྱུག་ n.count:1 
 1 རྔ་བོ་ཆེའི་མདོ་ n.prop:1 
 1 རྔ་བོང་ n.prop:1 
-1 རྔ་རྒྱུ་ n.v.pres:1 
 1 རྔ་རྔོག་ n.count:1 
 1 རྔ་སྐད་ n.count:1 
 1 རྔན་པ་ n.v.pres:1 
@@ -13601,7 +13555,7 @@
 1 རྗེས་བཅས་ n.count:1 
 1 རྗེས་མཐུན་པ n.count:1 
 1 རྗེས་ཟློས་ n.count:1 
-1 རྗེས་འགྲོ dunno:1 
+1 རྗེས་འགྲོ n.count:1 
 1 རྗེས་འབྲང་ n.count:1 
 1 རྗེས་འབྲངས་ n.count:1 
 1 རྗེས་འཛིན་ n.count:1 
@@ -13647,7 +13601,7 @@
 1 རྟས་པ་ n.v.pres:1 
 1 རྟུལ་ v.pres:1 
 1 རྟུལ་འབྲིང་རྣོ་ adj:1 
-1 རྟེང་ n.rel:1 
+1 རྟེང་ n.count:1 
 1 རྟེན་ཁྱིམ་པ n.count:1 
 1 རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ་ n.count:1 
 1 རྟེན་ཆོས་སྐུ n.count:1 
@@ -13681,12 +13635,12 @@
 1 རྡིག་ n.count:1 
 1 རྡིབ་ v.past.v.pres:1 
 1 རྡུགས་ v.invar:1 
-1 རྡུངས་ v.imp:1 
+1 རྡུངས་ v.ipv:1 
 1 རྡུལ་ཕྲན་ n.count:1 
 1 རྡུལ་བྲལ་ adj:1 
 1 རྡུལ་བྲལ་འོད་གསལ་ n.count:1 
 1 རྡུལ་མེད་ n.prop:1 
-1 རྡེབས་ v.imp:1 
+1 རྡེབས་ v.ipv:1 
 1 རྡོ་ཐལ་ནམ་མཁའ་ n.count:1 
 1 རྡོ་བ n.count:1 
 1 རྡོ་མཁར་ n.count:1 
@@ -13699,6 +13653,7 @@
 1 རྡོ་རྗེ་དབང་ཕྱུག n.prop:1 
 1 རྡོ་རྗེ་ཕྲེང་བ་ n.prop:1 
 1 རྡོ་རྗེ་ཕྲེང་བའི་དབང་བསྐུར་ n.prop:1 
+1 རྡོ་རྗེ་བ་ n.count:1 
 1 རྡོ་རྗེ་བདུད་རྩི n.prop:1 
 1 རྡོ་རྗེ་མོའི་བུ n.prop:1 
 1 རྡོ་རྗེ་འཛིན་ n.count:1 
@@ -13731,6 +13686,7 @@
 1 རྣམ་དག་ཁྲིམས་ n.prop:1 
 1 རྣམ་དཔྱོད་ n.count:1 
 1 རྣམ་པ་ཀུན་སྤྱོད་ n.count:1 
+1 རྣམ་པ་ཅན n.count:1 
 1 རྣམ་པ་མཐོ་རིས་ n.count:1 
 1 རྣམ་པར་གྲོལ་སྡེ་ n.prop:1 
 1 རྣམ་པར་དག་པ་ཅན་ n.prop:1 
@@ -13817,13 +13773,13 @@
 1 རྨེག་ n.count:1 
 1 རྨོག་ n.count:1 
 1 རྨོངས v.invar:1 
-1 རྨོད་མོ་ dunno:1 
+1 རྨོད་མོ་ n.count:1 
 1 རྩ་ངས་དེ་ལྤེན་ཏྲ n.prop:1 
 1 རྩ་ཐིག་ n.count:1 
 1 རྩ་ཐིག་རླུང་ n.count:1 
 1 རྩ་ཕུ་རས་པ་ n.prop:1 
 1 རྩ་ཕྲན་ n.count:1 
-1 རྩ་བ་ཅན་ adj:1 
+1 རྩ་བ་ཅན་ n.count:1 
 1 རྩ་བ་ཕལ་ཆེན་ n.count:1 
 1 རྩ་བ་ཤེས་རབ་ n.prop:1 
 1 རྩ་རི་ n.prop:1 
@@ -13860,7 +13816,7 @@
 1 རྩེད་མོ n.count:1 
 1 རྩེན་བ n.v.fut.n.v.pres:1 
 1 རྩེལ་པོ་ n.count:1 
-1 རྩེས་ v.imp:1 
+1 རྩེས་ v.ipv:1 
 1 རྩེས་པ n.v.past:1 
 1 རྩེས་པ་ n.v.past:1 
 1 རྩོགས་པ n.v.past:1 
@@ -13877,7 +13833,7 @@
 1 རྩོལ་མེད་ adj:1 
 1 རྩྭ་ཀུ་ཤ་ n.count:1 
 1 རྩྭ་མཆོག་ n.count:1 
-1 རྩྭ་འཁོར་ dunno:1 
+1 རྩྭ་འཁོར་ n.count:1 
 1 རྩྭ་འཚོང་བཀྲ་ཤིས་རྩྭ་ n.count:1 
 1 རྩྭ་རྩེ་མོ་ n.count:1 
 1 རྫ་གཏུགས་ n.count:1 
@@ -13888,6 +13844,7 @@
 1 རྫི་ཆར་ n.count:1 
 1 རྫི་བོ་ n.count:1 
 1 རྫི་བོ་རྒན་བྱིས་ n.count:1 
+1 རྫི་ར་ n.count:1 
 1 རྫིའུ n.count:1 
 1 རྫུ་བ་ n.v.pres:1 
 1 རྫུ་འཕྲུལ n.count:1 
@@ -13971,7 +13928,6 @@
 1 ལན་ཚ་ n.count:1 
 1 ལན་འཇིག་རྟེན་དབང་ཕྱུག་ n.count:1 
 1 ལབ་པ་ n.v.fut.n.v.pres:1 
-1 ལབ་རྒྱུ་ n.v.invar:1 
 1 ལབ་སོ་ n.prop:1 
 1 ལབས་པ་ n.v.past:1 
 1 ལམ་ག་ n.count:1 
@@ -14006,7 +13962,7 @@
 1 ལས་མཐའ n.count:1 
 1 ལས་ཚོགས་ n.count:1 
 1 ལས་ཞིང་ n.prop:1 
-1 ལས་འདའ་ས་མེད་པ་ dunno:1 
+1 ལས་འདའ་ས་མེད་པ་ n.count:1 
 1 ལས་འཕྲོ་ཅན adj:1 
 1 ལས་རྒྱ་ n.count:1 
 1 ལས་རྒྱུ་འབྲས n.count:1 
@@ -14022,6 +13978,7 @@
 1 ལི་ཚོ་ n.prop:1 
 1 ལི་ཤི་བ་ n.prop:1 
 1 ལི་སྐོར་ཕྱ་རུ་བ་ n.prop:1 
+1 ལིང་ adv.mim:1 
 1 ལིང་ཁྲི n.count:1 
 1 ལིང་ངེ་ adv.mim:1 
 1 ལིང་ཏོག་ n.count:1 
@@ -14127,7 +14084,7 @@
 1 ལོ་སྟོན་རྡོ་རྗེ་དབང་ཕྱུག་ n.prop:1 
 1 ལོ་ཧི་ཏ་ n.prop:1 
 1 ལོག v.invar:1 
-1 ལོག་གེ dunno:1 
+1 ལོག་གེ n.count:1 
 1 ལོག་དག་ n.count:1 
 1 ལོག་འདྲེན་ n.count:1 
 1 ལོག་རྟོག་ཅན་ adj:1 
@@ -14136,7 +14093,7 @@
 1 ལོག་སྒྲུབ་ n.count:1 
 1 ལོག་སྒྲུབ་དོན་ n.count:1 
 1 ལོགས་པ་ n.v.invar:1 
-1 ལོང v.imp:1 
+1 ལོང v.ipv:1 
 1 ལོང་མེད་ adj:1 
 1 ལོངས་སྐུ་རྒྱུན་ n.count:1 
 1 ལོངས་སྤྱོད་ཁྱིམ་ n.count:1 
@@ -14162,7 +14119,7 @@
 1 ལྔ་མ adj:1 
 1 ལྔ་ལེན་ n.prop:1 
 1 ལྔ་སྡ་ n.count:1 
-1 ལྕག་པ་ dunno:1 
+1 ལྕག་པ་ n.count:1 
 1 ལྕག་འདེབས་ n.count:1 
 1 ལྕག་ལྕིག་ n.count:1 
 1 ལྕགས་ཁབ་ n.count:1 
@@ -14209,10 +14166,8 @@
 1 ལྟག་ཆད་ n.count:1 
 1 ལྟག་པ n.v.invar:1 
 1 ལྟག་མ adj:1 
-1 ལྟང་ n.count:1 
 1 ལྟང་དཀར་ adj:1 
-1 ལྟང་དགའ་ dunno:1 
-1 ལྟང་མ dunno:1 
+1 ལྟང་མ n.count:1 
 1 ལྟས n.count:1 
 1 ལྟས་མི་ n.count:1 
 1 ལྟས་མེ་ n.count:1 
@@ -14227,8 +14182,8 @@
 1 ལྟོག་པ་ n.v.fut.n.v.pres:1 
 1 ལྟོགས་ཕྱུག་ལན་ n.count:1 
 1 ལྟོང་ n.count:1 
-1 ལྡ dunno:1 
-1 ལྡ་ dunno:1 
+1 ལྡ n.count:1 
+1 ལྡ་ n.count:1 
 1 ལྡ་ལྡི n.count:1 
 1 ལྡག་ v.pres:1 
 1 ལྡན་དཀར་ n.prop:1 
@@ -14271,7 +14226,7 @@
 1 ལྷ་བ་ n.v.pres:1 
 1 ལྷ་བདེ་གཤེགས་ n.count:1 
 1 ལྷ་བཟོ་བ་ n.count:1 
-1 ལྷ་བུ n.rel:1 
+1 ལྷ་བུ n.count:1 
 1 ལྷ་བྱེ་ n.count:1 
 1 ལྷ་བྲོ n.prop:1 
 1 ལྷ་བླ་མ n.prop:1 
@@ -14330,7 +14285,7 @@
 1 ལྷས་ལག་པ་བརྡབས་པ n.prop:1 
 1 ལྷུ n.count:1 
 1 ལྷུ་ n.count:1 
-1 ལྷུ་ཐང་ dunno:1 
+1 ལྷུ་ཐང་ n.count:1 
 1 ལྷུག་གེ་ adj:1 
 1 ལྷུང་བཟེད་དྲི་ n.count:1 
 1 ལྷུད་པ་ n.v.pres:1 
@@ -14350,7 +14305,7 @@
 1 ལྷོ་བྲག་སྟག་ཉ n.prop:1 
 1 ལྷོ་རི་བྱ་རྐང་ n.prop:1 
 1 ལྷོ་སྒོ n.count:1 
-1 ལྷོད་ v.imp:1 
+1 ལྷོད་ v.ipv:1 
 1 ལྷོད་ཆ་ n.count:1 
 1 ཤ་ཆེན་ n.count:1 
 1 ཤ་བ་རི n.prop:1 
@@ -14388,8 +14343,7 @@
 1 ཤར་ཕྱོགས་རྒྱལ་པོ་ n.count:1 
 1 ཤར་ཕྱོགས་ལོགས་ n.count:1 
 1 ཤར་ཚུལ་ n.v.past:1 
-1 ཤར་སྤྲུགས་ dunno:1 
-1 ཤས་དག་ d.det:1 
+1 ཤས་དག་ d.quant:1 
 1 ཤཱ་མ་བཱི n.prop:1 
 1 ཤཱ་རི་འི་བུ་ n.prop:1 
 1 ཤཱ་ས་ན་ n.count:1 
@@ -14401,7 +14355,6 @@
 1 ཤཱཀྱ་ཤྲཱི n.prop:1 
 1 ཤཱཀྱ་ཤྲཱི་ལ་ n.prop:1 
 1 ཤཱཀྱ་ཤྲཱིས n.prop:1 
-1 ཤཱཀྱ་སེང་གེ་ n.prop:1 
 1 ཤཱཀྱའི་ཏོག་ n.prop:1 
 1 ཤཱནྟ་རཀྵི་ཏ་ n.prop:1 
 1 ཤཱནྟི་གརྦྷ་ n.prop:1 
@@ -14423,11 +14376,11 @@
 1 ཤི་ལེན་དྲ་བོ་དྷི་ n.prop:1 
 1 ཤི་སོས་ adj:1 
 1 ཤི་སྐྱིད་ adj:1 
-1 ཤི་སྦ dunno:1 
+1 ཤི་སྦ n.count:1 
 1 ཤི་སྲོག་ n.count:1 
 1 ཤིག་གེ་བ་ adj:1 
-1 ཤིག་པ cv.imp:1 
-1 ཤིག་པ་ cv.imp:1 
+1 ཤིག་པ cv.ipv:1 
+1 ཤིག་པ་ cv.ipv:1 
 1 ཤིག་ཤིག་ n.count:1 
 1 ཤིང་ཀུན་སྐྱེ་བ་ n.prop:1 
 1 ཤིང་ཁ་ n.count:1 
@@ -14454,7 +14407,7 @@
 1 ཤིར་ཤ་ཀ་ n.prop:1 
 1 ཤིས་ v.invar:1 
 1 ཤུགས་རིང་ n.count:1 
-1 ཤུགས་རིངས་ dunno:1 
+1 ཤུགས་རིངས་ n.count:1 
 1 ཤུད་ v.invar:1 
 1 ཤུད་དེ་བ་ adj:1 
 1 ཤུད་དོ་ལག་གར་ནི n.count:1 
@@ -14505,7 +14458,7 @@
 1 ཤོང་སྣ་ར་ n.prop:1 
 1 ཤོད་པ n.v.pres:1 
 1 ཤོམ་ v.pres:1 
-1 ཤོས་ v.imp:1 
+1 ཤོས་ v.ipv:1 
 1 ཤཾབྷ་ལ་ n.prop:1 
 1 ཤྲཀྱ་སྲིད་སྒྲུབ་ n.prop:1 
 1 ཤྲཱདྡྷ་ཀ་ར་ཝ་རྨྨ་ n.prop:1 
@@ -14566,11 +14519,11 @@
 1 ས་སྣ་ n.count:1 
 1 ས་སྲུང་སྡེ་ n.prop:1 
 1 ས་ཧ་པྲ་ཀརྞ་ n.prop:1 
-1 སགོངས་ dunno:1 
+1 སགོངས་ v.past:1 
 1 སང་ཀ་ཤ n.prop:1 
 1 སང་ཉིན་ adv.temp:1 
 1 སང་དགོང་ adv.temp:1 
-1 སང་ནང་པ adv.temp:1 
+1 སང་ནང་པ n.temp:1 
 1 སང་ཤི n.prop:1 
 1 སང་ཤི་ཏ n.prop:1 
 1 སངས་བ་ n.v.fut.n.v.past:1 
@@ -14679,7 +14632,7 @@
 1 སེང་ལྡེང་ནགས་ n.count:1 
 1 སེན་ངྷ་བ་ n.prop:1 
 1 སེམས་ཀྱི་སྒྲིབ་སྦྱོང་ n.prop:1 
-1 སེམས་ཁོ་ཐོག་ dunno:1 
+1 སེམས་ཁོ་ཐོག་ n.count:1 
 1 སེམས་གསོ་ n.count:1 
 1 སེམས་ཅད་ n.count:1 
 1 སེམས་ཅན n.count:1 
@@ -14736,7 +14689,7 @@
 1 སོར་གདུབ་སྲང་ n.count:1 
 1 སོར་མོ n.count:1 
 1 སོར་མོ་དྲ་བ n.count:1 
-1 སོལ་ v.imp:1 
+1 སོལ་ v.ipv:1 
 1 སོལ་བ་ n.v.pres:1 
 1 སོས v.past:1 
 1 སོས་ཀ n.count:1 
@@ -14768,6 +14721,7 @@
 1 སྐམ་པ་ n.count:1 
 1 སྐམས་པ n.v.past:1 
 1 སྐམས་པ་ n.v.past:1 
+1 སྐར་ཁུང་ཅན n.count:1 
 1 སྐར་ཆུང་རྒྱལ་སྡེ་ n.prop:1 
 1 སྐར་ཆེན་འོད་འཕྲོ་ n.prop:1 
 1 སྐར་ནྱ་གྲོ་དྷ n.count:1 
@@ -14777,7 +14731,7 @@
 1 སྐར་མ་སྐྱོང་ n.prop:1 
 1 སྐར་མའི་རྒྱལ་པོ་ n.prop:1 
 1 སྐལ་པ་ n.count:1 
-1 སྐལ་བ་ཅན་ adj:1 
+1 སྐལ་བ་ཅན་ n.count:1 
 1 སྐལ་བ་བཟང་མོ n.prop:1 
 1 སྐལ་བ་མེད་པ n.count:1 
 1 སྐལ་ལྡན་གྲོགས་ n.count:1 
@@ -14818,13 +14772,13 @@
 1 སྐུངས་ v.past:1 
 1 སྐུངས་པ་ n.v.past:1 
 1 སྐུད་ v.pres:1 
-1 སྐུར v.imp:1 
+1 སྐུར v.ipv:1 
 1 སྐུར་ཀླད་ n.count:1 
 1 སྐུལ་བྱེད n.prop:1 
-1 སྐུས་ v.imp:1 
+1 སྐུས་ v.ipv:1 
 1 སྐེ n.count:1 
-1 སྐེ་ n.rel:1 
-1 སྐེད་ n.rel:1 
+1 སྐེ་ n.count:1 
+1 སྐེད་ n.count:1 
 1 སྐེམ་བྱེད་ n.count:1 
 1 སྐེམས་པ་ n.v.pres:1 
 1 སྐོན་ v.pres:1 
@@ -14858,7 +14812,7 @@
 1 སྐྱིན་པ་ n.v.pres:1 
 1 སྐྱིལ་མོ་ཀྲུང་ n.count:1 
 1 སྐྱུག་པ་ n.v.fut.n.v.pres:1 
-1 སྐྱུངས་ v.imp:1 
+1 སྐྱུངས་ v.ipv:1 
 1 སྐྱུར་དད་ n.count:1 
 1 སྐྱུར་བ་ n.v.pres:1 
 1 སྐྱེ་པ་ n.count:1 
@@ -14906,13 +14860,13 @@
 1 སྐྱོ་སྟོན་ཤཱཀྱ་གུ་ན་ n.prop:1 
 1 སྐྱོངས་བ n.v.past:1 
 1 སྐྱོན v.fut.v.pres:1 
-1 སྐྱོབས v.imp:1 
-1 སྐྱོབས་ v.imp:1 
+1 སྐྱོབས v.ipv:1 
+1 སྐྱོབས་ v.ipv:1 
 1 སྐྱོབས་པ་ n.count:1 
 1 སྐྱོར་ v.pres:1 
 1 སྐྱོར་བ n.v.pres:1 
-1 སྐྱོལ་བ n.v.imp:1 
-1 སྐྱོས་ v.imp:1 
+1 སྐྱོལ་བ n.v.ipv:1 
+1 སྐྱོས་ v.ipv:1 
 1 སྐྲ་ཅན་ n.prop:1 
 1 སྐྲ་བཤིག་མགོ་ n.count:1 
 1 སྐྲའི་ལྭ་བ་ཅན་མི་ཕམ་པ་ n.prop:1 
@@ -14924,8 +14878,8 @@
 1 སྒམ་པོ་པ་ n.prop:1 
 1 སྒལ་པ n.count:1 
 1 སྒུགས v.pres:1 
-1 སྒུགས་ v.imp:1 
-1 སྒུམ་ dunno:1 
+1 སྒུགས་ v.ipv:1 
+1 སྒུམ་ n.count:1 
 1 སྒུར་པོ་ n.prop:1 
 1 སྒུལ་ v.pres:1 
 1 སྒེག་ v.pres:1 
@@ -14945,10 +14899,10 @@
 1 སྒོམ་ཐག་ n.count:1 
 1 སྒོམ་ཐབས་ n.count:1 
 1 སྒོམ་པ་འོད་གསལ་མཁྱེན་བརྩེ་ n.count:1 
-1 སྒོམ་བྱེད n.v.pres:1 
 1 སྒོམ་མཁན་ n.v.pres:1 
 1 སྒོམ་རིམ་ n.prop:1 
 1 སྒོམ་ལྡན་ n.count:1 
+1 སྒོས་ v.ipv:1 
 1 སྒྱིད་ n.count:1 
 1 སྒྱིད་པ་ n.count:1 
 1 སྒྱུ་ཅན་ n.count:1 
@@ -14960,7 +14914,7 @@
 1 སྒྱུ་འཕྲུལ་དྲ་བ་ n.prop:1 
 1 སྒྱུ་རྒོད་ n.count:1 
 1 སྒྱུ་ལུས་འོད་གསལ་ n.count:1 
-1 སྒྱུར v.imp:1 
+1 སྒྱུར v.ipv:1 
 1 སྒྱེར་ཕུ n.prop:1 
 1 སྒྲ་གཅན་ n.prop:1 
 1 སྒྲ་གཅན་ཟིན n.prop:1 
@@ -14972,14 +14926,14 @@
 1 སྒྲ་ཚད་ n.count:1 
 1 སྒྲ་རིག་པ n.count:1 
 1 སྒྲ་རིག་པ་ n.count:1 
-1 སྒྲ་སྐད་ལོཙྪ་ dunno:1 
+1 སྒྲ་སྐད་ལོཙྪ་ n.prop:1 
 1 སྒྲ་སྒྲོག་ n.prop:1 
 1 སྒྲ་སྒྲོགས་པ n.prop:1 
 1 སྒྲ་སྙན་ཆུ་བོ་སྤྲིན་ n.count:1 
-1 སྒྲག་ v.imp:1 
-1 སྒྲགས་ v.imp:1 
+1 སྒྲག་ v.ipv:1 
+1 སྒྲགས་ v.ipv:1 
 1 སྒྲདོན་ n.count:1 
-1 སྒྲན་ dunno:1 
+1 སྒྲན་ n.count:1 
 1 སྒྲར་བཅས་ n.prop:1 
 1 སྒྲར་སྒྱུར་ n.count:1 
 1 སྒྲིག་ v.pres:1 
@@ -14989,7 +14943,7 @@
 1 སྒྲིབ་གཡོགས་ n.count:1 
 1 སྒྲིབ་གཡོགས་མེད་ adj:1 
 1 སྒྲིབ་བྲལ་ n.count:1 
-1 སྒྲིབས་ v.imp:1 
+1 སྒྲིབས་ v.ipv:1 
 1 སྒྲིལ v.pres:1 
 1 སྒྲིལ་ v.pres:1 
 1 སྒྲུབ་ཐབས་ཀུན་ཏུ་བཟང་པོ་ n.prop:1 
@@ -15003,8 +14957,8 @@
 1 སྒྲུབ་རྟགས་ n.count:1 
 1 སྒྲུབ་སྐོ n.count:1 
 1 སྒྲུབ་སྐོར་ n.prop:1 
-1 སྒྲུབས་ v.imp:1 
-1 སྒྲུབས་པ་ n.v.imp:1 
+1 སྒྲུབས་ v.ipv:1 
+1 སྒྲུབས་པ་ n.v.ipv:1 
 1 སྒྲེགས་པ་ n.v.past:1 
 1 སྒྲེའི་ལྕེ་མཚམས་ n.prop:1 
 1 སྒྲོ་མཉྫུ་ཤྲཱི n.prop:1 
@@ -15020,7 +14974,7 @@
 1 སྒྲོན་མེ་མགོན་པོ་ n.count:1 
 1 སྒྲོན་ཤིང་ n.count:1 
 1 སྒྲོམ་བུ n.count:1 
-1 སྒྲོལ v.imp:1 
+1 སྒྲོལ v.ipv:1 
 1 སྒྲོལ་མ་ཉི་མ་སྦས་པའི་ལུགས་ n.prop:1 
 1 སྒྲོལ་མ་མངོན་པར་འབྱུང་བའི་རྒྱུད་ n.prop:1 
 1 སྒྲོས་ n.count:1 
@@ -15031,10 +14985,10 @@
 1 སྔ་ཕྱི་འབྲེལ་བ n.count:1 
 1 སྔ་བ་ n.v.invar:1 
 1 སྔ་བསམ་ n.count:1 
-1 སྔ་མོ adv.temp:1 
+1 སྔ་མོ n.temp:1 
 1 སྔ་རོལ་ n.count:1 
-1 སྔ་སོ adv.temp:1 
-1 སྔ་སོ་ adv.temp:1 
+1 སྔ་སོ n.temp:1 
+1 སྔ་སོ་ n.temp:1 
 1 སྔགས v.pres:1 
 1 སྔགས་གཏན་ n.count:1 
 1 སྔགས་དོན་བདག་ཉིད་ཅན n.count:1 
@@ -15047,7 +15001,7 @@
 1 སྔགས་ལོག་སུན་འབྱིན་ n.prop:1 
 1 སྔགས་སངས་རྒྱས་ n.count:1 
 1 སྔངས་སྐྲག་སྙིང་གས་ n.count:1 
-1 སྔན་ adv.temp:1 
+1 སྔན་ n.temp:1 
 1 སྔར་མ་ adj:1 
 1 སྔོ་གླིང་ n.prop:1 
 1 སྔོ་བ n.v.pres:1 
@@ -15072,7 +15026,7 @@
 1 སྙན་བ་ n.v.fut.n.v.pres:1 
 1 སྙན་བསྐུལ་ n.count:1 
 1 སྙན་བསྒྱུད་ n.count:1 
-1 སྙན་ཚུད་ dunno:1 
+1 སྙན་ཚུད་ n.count:1 
 1 སྙན་རྒྱུད་ n.count:1 
 1 སྙིང་ཁ n.rel:1 
 1 སྙིང་ཁུ་ n.count:1 
@@ -15092,19 +15046,19 @@
 1 སྙིང་རུས་ལུས་ n.count:1 
 1 སྙིང་རྗེ་ཆེན་པོ་པད་དཀར་པད་དཀར་ n.prop:1 
 1 སྙིང་རྗེ་པདྨ་དཀར་པོ་ n.prop:1 
-1 སྙིང་རྗེ་རྗེ dunno:1 
+1 སྙིང་རྗེ་རྗེ adj:1 
 1 སྙིང་རྗེ་ལྷག་མཐོང་ n.count:1 
 1 སྙིང་རྗེས n.count:1 
-1 སྙིང་སྟོབས་ཅན་ adj:1 
+1 སྙིང་སྟོབས་ཅན་ n.count:1 
 1 སྙིམ་པ n.count:1 
 1 སྙུག་དོང་ n.count:1 
 1 སྙེ་ཐང་བྲག་སྣ་ n.prop:1 
 1 སྙེ་ཕུང་ n.count:1 
-1 སྙེགས v.imp:1 
+1 སྙེགས v.ipv:1 
 1 སྙེགས་མ n.count:1 
 1 སྙེང་ v.fut.v.pres:1 
 1 སྙེད d.tsam:1 
-1 སྙེད་པོ་ dunno:1 
+1 སྙེད་པོ་ n.count:1 
 1 སྙེལ་ v.pres:1 
 1 སྙོག v.pres:1 
 1 སྙོགས་ v.pres:1 
@@ -15112,8 +15066,8 @@
 1 སྙོམ་ v.pres:1 
 1 སྙོམ་ལས་ adj:1 
 1 སྙོམས་འཇུག་པ་ n.count:1 
-1 སྟ dunno:1 
-1 སྟ་བུ n.rel:1 
+1 སྟ n.count:1 
+1 སྟ་བུ n.count:1 
 1 སྟ་ཟུར་ n.count:1 
 1 སྟ་རེ་ n.count:1 
 1 སྟག་གཟིག་ n.prop:1 
@@ -15130,7 +15084,7 @@
 1 སྟག་ལོ་ n.prop:1 
 1 སྟག་ལོ་གཞོན་བརྩོན་ n.prop:1 
 1 སྟག་ལྤགས་ n.count:1 
-1 སྟང་ n.rel:1 
+1 སྟང་ n.count:1 
 1 སྟར་ n.count:1 
 1 སྟིང་པ་ n.v.pres:1 
 1 སྟུག་པོ adj:1 
@@ -15138,7 +15092,7 @@
 1 སྟེང་ཁང་ n.count:1 
 1 སྟེང་གཡོགས་ n.count:1 
 1 སྟེང་མ་ n.count:1 
-1 སྟེང་འོག་ n.rel:1 
+1 སྟེང་འོག་ n.count:1 
 1 སྟེང་རྒྱས་ n.count:1 
 1 སྟེའུ n.count:1 
 1 སྟེར་དགོས་ n.v.invar:1 
@@ -15235,17 +15189,17 @@
 1 སྡུད་པ་སྡོམ་རྣམ་གཉིས་ n.prop:1 
 1 སྡུད་བྱེད་ n.count:1 
 1 སྡུད་འགྲེལ་རྟོགས་པར་སླ་བ་ n.prop:1 
-1 སྡུར་ v.imp:1 
+1 སྡུར་ v.ipv:1 
 1 སྡུར་བ n.v.pres:1 
-1 སྡུས་ v.imp:1 
+1 སྡུས་ v.ipv:1 
 1 སྡེ་པ་བྱེ་བྲག་ n.count:1 
 1 སྡེ་བདུན་ n.prop:1 
 1 སྡེ་བུད་མེད་ n.count:1 
 1 སྡེ་སྣོད་པ་ n.count:1 
 1 སྡེགས་མཛུབ་ n.count:1 
 1 སྡེབ་པ n.v.pres:1 
-1 སྡེབས་པ dunno:1 
-1 སྡེས་ dunno:1 
+1 སྡེབས་པ n.v.ipv:1 
+1 སྡེས་ n.count:1 
 1 སྡོ་བ n.v.pres:1 
 1 སྡོག་ v.pres:1 
 1 སྡོག་པ n.v.pres:1 
@@ -15262,7 +15216,7 @@
 1 སྡོམ་བརྩོན་སྔགས་ n.count:1 
 1 སྡོམ་མངོན་པ་ n.count:1 
 1 སྡོམ་འབྱུང་ n.prop:1 
-1 སྡོམས v.imp:1 
+1 སྡོམས v.ipv:1 
 1 སྣ་ནམ་ཁྲི་ཐོག་རྗེ་ཐང་ལ་འདར་ n.prop:1 
 1 སྣ་ནམ་ཟ n.prop:1 
 1 སྣ་ནམ་འདྲེ་ n.prop:1 
@@ -15289,7 +15243,7 @@
 1 སྣང་ཚུལ་ n.v.invar:1 
 1 སྣང་སེམས་ n.count:1 
 1 སྣང་སྟོང་སྒྱུ་མ n.count:1 
-1 སྣང་སྲོད་སེམས་ dunno:1 
+1 སྣང་སྲོད་སེམས་ n.count:1 
 1 སྣམ་དཀར་ n.mass:1 
 1 སྣམ་ཕྲུག་ n.count:1 
 1 སྣར་ n.prop:1 
@@ -15305,19 +15259,18 @@
 1 སྣོད་ཆེན་ n.count:1 
 1 སྣོད་བཅུད་ n.count:1 
 1 སྣོད་བཟེད་ n.count:1 
-1 སྣོམས་ v.imp:1 
-1 སྤ་ dunno:1 
+1 སྣོམས་ v.ipv:1 
+1 སྤ་ n.count:1 
 1 སྤ་གསལ་སྣང་ n.prop:1 
 1 སྤང་ཁ n.count:1 
 1 སྤང་གནང་ n.count:1 
 1 སྤང་དཀར་ལྷ་ལུང་ n.prop:1 
-1 སྤང་བྱ n.v.fut:1 
 1 སྤང་བྱ་ n.count:1 
 1 སྤང་འདུལ་འཛིན་ n.prop:1 
 1 སྤངས་བ n.v.past:1 
 1 སྤངས་རྟོགས་འཕྲིན་ལས་ n.count:1 
 1 སྤར་གཞི་ n.count:1 
-1 སྤར་བྱང་སྨོན་ཆོག་ dunno:1 
+1 སྤར་བྱང་སྨོན་ཆོག་ n.prop:1 
 1 སྤར་མོ n.count:1 
 1 སྤུ་གྲི n.count:1 
 1 སྤུ་མདོག་ n.count:1 
@@ -15333,7 +15286,7 @@
 1 སྤོ་ཟེ་ལ n.prop:1 
 1 སྤོང་བྱེད་ n.prop:1 
 1 སྤོང་ཞོ་གསལ་བ་གྲགས་ n.prop:1 
-1 སྤོངས་པ་ n.v.imp:1 
+1 སྤོངས་པ་ n.v.ipv:1 
 1 སྤོད་ n.count:1 
 1 སྤོབས v.past:1 
 1 སྤོབས་པ་ཅན adj:1 
@@ -15385,11 +15338,10 @@
 1 སྤྲིས་མ་ n.count:1 
 1 སྤྲུག་ v.fut.v.pres:1 
 1 སྤྲུགས v.past:1 
-1 སྤྲུགས་ v.past:1 
 1 སྤྲུལ་པ་པོ་ n.count:1 
 1 སྤྲུལ་སྐུ་རྒྱན་ n.count:1 
 1 སྤྲོ་མོ་ adj:1 
-1 སྤྲོད v.imp:1 
+1 སྤྲོད v.ipv:1 
 1 སྤྲོས་པ n.v.past.n.v.pres:1 
 1 སྤྲོས་བཅས་ n.count:1 
 1 སྤྲོས་བྲལ་ཆོས་ n.count:1 
@@ -15417,10 +15369,10 @@
 1 སྦུན་པ་ n.count:1 
 1 སྦེད་བྱེད n.prop:1 
 1 སྦོང་བ་ n.v.pres:1 
-1 སྦོད་ dunno:1 
+1 སྦོད་ n.count:1 
 1 སྦོས་ v.invar:1 
 1 སྦྱང་ཐབས་གཅེན་ n.count:1 
-1 སྦྱངས་པ་ཅན་ adj:1 
+1 སྦྱངས་པ་ཅན་ n.count:1 
 1 སྦྱད་ v.fut.v.past:1 
 1 སྦྱད་པ n.v.fut.n.v.past:1 
 1 སྦྱར་པ་ n.v.past:1 
@@ -15432,7 +15384,7 @@
 1 སྦྱིན་བུམ་པ་ n.count:1 
 1 སྦྱིན་མཚུངས་ n.count:1 
 1 སྦྱིན་ལོང་ n.count:1 
-1 སྦྱིར་ dunno:1 
+1 སྦྱིར་ n.count:1 
 1 སྦྱོང་ཐབས་ n.v.pres:1 
 1 སྦྱོང་པོ་ n.count:1 
 1 སྦྱོང་རྒྱུད་ n.count:1 
@@ -15489,7 +15441,6 @@
 1 སྨོན་གྲོ་ n.prop:1 
 1 སྨོན་གྲོ་སྐོར་ n.prop:1 
 1 སྨོན་འཇུག་ n.count:1 
-1 སྨོན་རྒྱུ་ n.v.fut:1 
 1 སྨོན་ལམ་ཐུགས་ཁུར་རྟེན་འབྲེལ་ n.count:1 
 1 སྨོན་ལམ་དངོས་པོ n.count:1 
 1 སྨོན་སྣ་ n.count:1 
@@ -15502,7 +15453,6 @@
 1 སྨྲ་བ་པོ n.count:1 
 1 སྨྲ་བསམ་ n.count:1 
 1 སྨྲ་འདོད་ n.count:1 
-1 སྨྲ་རྒྱུ་ n.v.fut.n.v.pres:1 
 1 སྨྲ་ལྕེ་བདེ་ n.count:1 
 1 སྨྲ་སྒོ་མཚོན་ཆ་ n.prop:1 
 1 སྨྲས་བ n.v.past:1 
@@ -15518,7 +15468,7 @@
 1 སྲན་མ་ n.count:1 
 1 སྲབ་པ n.v.pres:1 
 1 སྲབ་མདའ་ n.count:1 
-1 སྲབས་པ་ n.v.imp:1 
+1 སྲབས་པ་ n.v.ipv:1 
 1 སྲས་པོ་རྒྱལ་སྲིད་ n.count:1 
 1 སྲས་བལ་མོ་ n.count:1 
 1 སྲས་མཚན་ n.count:1 
@@ -15533,7 +15483,7 @@
 1 སྲིན་པོ་རི n.prop:1 
 1 སྲིན་བུ n.count:1 
 1 སྲིན་བུ་པད་མ་ n.count:1 
-1 སྲིས་ v.imp:1 
+1 སྲིས་ v.ipv:1 
 1 སྲིས་སེ་ adj:1 
 1 སྲུ་ n.count:1 
 1 སྲུང་བ་པ n.prop:1 
@@ -15544,7 +15494,7 @@
 1 སྲེག་པ n.count:1 
 1 སྲེག་པ་ n.v.pres:1 
 1 སྲེད་ n.count:1 
-1 སྲེད་པ་ཅན་ adj:1 
+1 སྲེད་པ་ཅན་ n.count:1 
 1 སྲེད་པོ་ adj:1 
 1 སྲེས་པ n.v.pres:1 
 1 སྲོ་ n.count:1 
@@ -15593,7 +15543,7 @@
 1 སློབ་ལམ་ n.count:1 
 1 སློབ་ས n.v.pres:1 
 1 སློབ་སྤྲིང་ n.prop:1 
-1 སློབས v.imp:1 
+1 སློབས v.ipv:1 
 1 ཧ་ཀ་ལི་ཀ་ན་ཡ་ན་ཤ་ n.prop:1 
 1 ཧ་ཏི་ n.prop:1 
 1 ཧ་ཡི་ n.prop:1 
@@ -15615,7 +15565,7 @@
 1 ཧྭ་ཤང་མཧཱ་དེ་བ་ཚེ་ n.prop:1 
 1 ཧྲད་ཧྲད་པ་ adj:1 
 1 ཧྲིག་ཧྲིག་ adv.mim:1 
-1 ཧྲིལ་ dunno:1 
+1 ཧྲིལ་ n.count:1 
 1 ཧྲིལ་པོ adj:1 
 1 ཧྲུལ་པོ adj:1 
 1 ཧྲུལ་བ་ n.v.fut.n.v.pres:1 
@@ -15648,7 +15598,7 @@
 1 ཨ་མི་དེ་བ་ n.prop:1 
 1 ཨ་མེ་ཞུ་གཅིག་མ n.prop:1 
 1 ཨ་མེས་སྤྱུགས་མཚམས་ n.prop:1 
-1 ཨ་ཙེན་ཏ་ dunno:1 
+1 ཨ་ཙེན་ཏ་ n.prop:1 
 1 ཨ་ཛཱ་ར་ཡོ་གི་ནི་ n.prop:1 
 1 ཨ་ཝ་དྷཱུ་ཏི་ n.prop:1 
 1 ཨ་ཝ་བྷྲཾ་ཤ n.prop:1 
@@ -15691,8 +15641,8 @@
 1 ཨུད་པ་ལའི་མདོག་ n.prop:1 
 1 ཨེ་ཤེས་སྙིང་པོ་ n.prop:1 
 1 ཨེ་ཨེ་ interj:1 
-1 ཨོ་ dunno:1 
 1 ཨོ་ག་རེ skt:1 
+1 ཨོ་ཆོ་ n.count:1 
 1 ཨོ་ཏྱནྟ་པཱུ་པུ་རི n.prop:1 
 1 ཨོ་ཏྱནྟ་པུ་རི n.prop:1 
 1 ཨོ་ཏྱནྟ་པུ་རི་ n.prop:1 
@@ -15707,4 +15657,3 @@
 1 ཪང་ p.refl:1 
 1 ཪང་བཞིན་ n.count:1 
 1 ⑨ numeral:1 
-1 ﻿p128048001 page.num:1 
