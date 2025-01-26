@@ -30,7 +30,7 @@ This repo currently presents tools to preprocess, segment and POS tag Old and Cl
 As of December 2024 the Memory-Based Tagger can be easily installed on unix-based systems with:
 
 ```
-brew install timble
+brew install timbl
 brew install mbtagger
 ```
 
