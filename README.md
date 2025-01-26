@@ -63,6 +63,7 @@ Phase II of our pipeline contains segmentation (of both words and sentences) as 
 To run the script:
 
 `python pos-directory.py <my_directory>` (for the new version of MBT)
+
 `python pos-directory-oldmbt.py <my_directory>` (for the old version of MBT)
 
 ## Parsing & SentenceIDs
